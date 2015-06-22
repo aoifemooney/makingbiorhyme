@@ -18,7 +18,8 @@ E,
 Hn,
 DHadno,
 ODHo,
-nso
+nso,
+s
 );
 classes = (
 {
@@ -7184,7 +7185,7 @@ unicode = 0072;
 {
 color = 9;
 glyphname = s;
-lastChange = "2015-06-22 20:37:52 +0000";
+lastChange = "2015-06-22 20:38:02 +0000";
 layers = (
 {
 background = {
@@ -7353,6 +7354,28 @@ nodes = (
 "293 345 OFFCURVE",
 "351 336 OFFCURVE",
 "431 310 CURVE SMOOTH"
+);
+},
+{
+closed = 0;
+nodes = (
+"592 301 LINE SMOOTH",
+"592 0 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"516 85 LINE",
+"516 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"624 71 LINE",
+"624 129 LINE",
+"553 73 LINE"
 );
 }
 );
