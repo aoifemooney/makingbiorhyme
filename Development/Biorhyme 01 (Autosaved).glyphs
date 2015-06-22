@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 adnos,
-DHOads/a.001/d.001/s.001
+no
 );
 classes = (
 {
@@ -64,7 +64,6 @@ position = "{626, 738}";
 }
 );
 id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-visible = 1;
 weight = Light;
 width = Extended;
 xHeight = 510;
@@ -82,6 +81,7 @@ ascender = 800;
 capHeight = 700;
 descender = "-200";
 id = "6CDB447B-5A98-4C49-A531-656EB6F85556";
+visible = 1;
 xHeight = 510;
 },
 {
@@ -4501,7 +4501,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-06-13 17:05:28 +0000";
+lastChange = "2015-06-22 16:59:12 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -4647,18 +4647,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"60 45 LINE",
+"60 65 LINE",
 "60 0 LINE",
 "385 0 LINE",
-"385 45 LINE"
+"385 65 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "60 510 LINE",
-"60 465 LINE",
-"256 465 LINE",
+"60 445 LINE",
+"256 445 LINE",
 "256 510 LINE"
 );
 },
@@ -4686,10 +4686,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"506 45 LINE",
+"506 65 LINE",
 "506 0 LINE",
 "831 0 LINE",
-"831 45 LINE"
+"831 65 LINE"
 );
 }
 );
