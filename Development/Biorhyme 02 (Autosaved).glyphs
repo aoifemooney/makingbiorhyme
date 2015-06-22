@@ -1232,7 +1232,7 @@ unicode = 0047;
 {
 color = 9;
 glyphname = H;
-lastChange = "2015-06-22 19:40:07 +0000";
+lastChange = "2015-06-22 19:40:17 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1320,8 +1320,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"90 605 LINE",
-"495 605 LINE",
+"90 615 LINE",
+"495 615 LINE",
 "495 700 LINE",
 "90 700 LINE"
 );
@@ -1329,24 +1329,24 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"226 574 LINE",
-"226 622 LINE",
-"165 620 LINE"
+"226 584 LINE",
+"226 632 LINE",
+"165 630 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"359 622 LINE",
-"359 574 LINE",
-"420 620 LINE"
+"359 632 LINE",
+"359 584 LINE",
+"420 630 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"371 622 LINE",
-"216 622 LINE",
+"371 632 LINE",
+"216 632 LINE",
 "216 65 LINE",
 "371 65 LINE"
 );
@@ -1406,15 +1406,15 @@ closed = 1;
 nodes = (
 "831 68 LINE",
 "986 68 LINE",
-"986 625 LINE",
-"831 625 LINE"
+"986 635 LINE",
+"831 635 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"707 605 LINE",
-"1112 605 LINE",
+"707 615 LINE",
+"1112 615 LINE",
 "1112 700 LINE",
 "707 700 LINE"
 );
@@ -1422,17 +1422,114 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"843 574 LINE",
-"843 622 LINE",
-"782 620 LINE"
+"843 584 LINE",
+"843 632 LINE",
+"782 630 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"976 622 LINE",
-"976 574 LINE",
-"1037 620 LINE"
+"976 632 LINE",
+"976 584 LINE",
+"1037 630 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"160 0 LINE",
+"315 0 LINE",
+"315 510 LINE",
+"160 510 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"60 85 LINE",
+"60 0 LINE",
+"395 0 LINE",
+"395 85 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"60 510 LINE",
+"60 425 LINE",
+"306 425 LINE",
+"306 510 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"444 544 OFFCURVE",
+"350 447 OFFCURVE",
+"257 321 CURVE",
+"257 229 LINE",
+"335 332 OFFCURVE",
+"429 419 OFFCURVE",
+"503 419 CURVE SMOOTH",
+"563 419 OFFCURVE",
+"592 376 OFFCURVE",
+"592 301 CURVE SMOOTH",
+"592 0 LINE",
+"747 0 LINE",
+"747 302 LINE SMOOTH",
+"747 462 OFFCURVE",
+"686 544 OFFCURVE",
+"554 544 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"516 85 LINE",
+"516 0 LINE",
+"841 0 LINE",
+"841 85 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"723 129 LINE",
+"723 71 LINE",
+"794 73 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"624 71 LINE",
+"624 129 LINE",
+"553 73 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"178 71 LINE",
+"178 129 LINE",
+"107 73 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"178 382 LINE",
+"178 440 LINE",
+"107 438 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"299 129 LINE",
+"299 71 LINE",
+"370 73 LINE"
 );
 }
 );
