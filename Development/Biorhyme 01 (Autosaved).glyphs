@@ -1,16 +1,13 @@
 {
 DisplayStrings = (
-VX,
-XHAVIER,
-q,
-gbreendj,
 j,
 nn,
 m,
 h,
 on,
 nononono,
-biorhyme
+biorhyme,
+adnos
 );
 classes = (
 {
@@ -5277,7 +5274,7 @@ unicode = 0072;
 {
 color = 9;
 glyphname = s;
-lastChange = "2015-06-22 16:31:03 +0000";
+lastChange = "2015-06-22 16:34:26 +0000";
 layers = (
 {
 background = {
@@ -5402,6 +5399,16 @@ width = 975;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "6CDB447B-5A98-4C49-A531-656EB6F85556";
+name = Regular;
 width = 600;
 }
 );
