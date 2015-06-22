@@ -16,7 +16,8 @@ HnD,
 k,
 E,
 Hn,
-DHadno
+DHadno,
+O
 );
 classes = (
 {
@@ -2386,7 +2387,7 @@ unicode = 004E;
 {
 color = 9;
 glyphname = O;
-lastChange = "2015-06-22 16:31:03 +0000";
+lastChange = "2015-06-22 19:50:56 +0000";
 layers = (
 {
 background = {
@@ -2475,7 +2476,43 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"333 -38 OFFCURVE",
+"95 103 OFFCURVE",
+"95 350 CURVE",
+"95 597 OFFCURVE",
+"333 738 OFFCURVE",
+"622 738 CURVE",
+"910 738 OFFCURVE",
+"1149 597 OFFCURVE",
+"1149 350 CURVE",
+"1149 103 OFFCURVE",
+"910 -38 OFFCURVE",
+"622 -38 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"348 704 OFFCURVE",
+"130 571 OFFCURVE",
+"130 350 CURVE",
+"130 129 OFFCURVE",
+"348 -4 OFFCURVE",
+"622 -4 CURVE",
+"895 -4 OFFCURVE",
+"1114 129 OFFCURVE",
+"1114 350 CURVE",
+"1114 571 OFFCURVE",
+"895 704 OFFCURVE",
+"622 704 CURVE"
+);
+}
+);
+width = 1244;
 },
 {
 layerId = "6CDB447B-5A98-4C49-A531-656EB6F85556";
