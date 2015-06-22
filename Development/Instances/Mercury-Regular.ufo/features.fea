@@ -4,7 +4,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z R.alt ];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z A.alt G.alt Q.alt R.alt ];
 
 feature ss01 {
 sub R by R.alt;
