@@ -4642,7 +4642,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-06-22 17:16:17 +0000";
+lastChange = "2015-06-22 17:16:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -4916,9 +4916,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"193 404 LINE",
-"193 452 LINE",
-"132 450 LINE"
+"188 404 LINE",
+"188 452 LINE",
+"127 450 LINE"
 );
 },
 {
@@ -4951,6 +4951,31 @@ nodes = (
 "188 56 LINE",
 "188 104 LINE",
 "127 58 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"127 510 LINE",
+"127 0 LINE",
+"212 0 LINE",
+"212 510 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 452 LINE",
+"200 404 LINE",
+"261 450 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 104 LINE",
+"200 56 LINE",
+"261 58 LINE"
 );
 }
 );
