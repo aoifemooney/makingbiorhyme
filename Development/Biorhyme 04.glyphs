@@ -32,7 +32,8 @@ HM,
 M,
 HHH,
 i,
-HMO
+HMO,
+/a.001
 );
 classes = (
 {
@@ -95,6 +96,7 @@ position = "{626, 738}";
 }
 );
 id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+visible = 1;
 weight = Light;
 width = Extended;
 xHeight = 510;
@@ -2212,7 +2214,7 @@ unicode = 004E;
 {
 color = 9;
 glyphname = O;
-lastChange = "2015-06-23 16:53:50 +0000";
+lastChange = "2015-06-23 16:58:05 +0000";
 layers = (
 {
 background = {
@@ -2378,7 +2380,40 @@ width = 964;
 {
 layerId = "3A891162-57FD-42BF-98C8-C33F5FB6C7CE";
 name = "Light Trace";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"790 576 OFFCURVE",
+"844 480 OFFCURVE",
+"844 350 CURVE",
+"844 123 OFFCURVE",
+"680 2 OFFCURVE",
+"482 2 CURVE",
+"283 2 OFFCURVE",
+"120 123 OFFCURVE",
+"120 350 CURVE",
+"120 577 OFFCURVE",
+"283 698 OFFCURVE",
+"482 698 CURVE",
+"482 664 LINE",
+"298 664 OFFCURVE",
+"155 551 OFFCURVE",
+"155 350 CURVE",
+"155 149 OFFCURVE",
+"298 36 OFFCURVE",
+"482 36 CURVE",
+"665 36 OFFCURVE",
+"809 149 OFFCURVE",
+"809 350 CURVE",
+"809 467 OFFCURVE",
+"760 554 OFFCURVE",
+"684 606 CURVE",
+"706 634 LINE"
+);
+}
+);
+width = 964;
 }
 );
 unicode = 004F;
