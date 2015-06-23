@@ -22,7 +22,7 @@ nso,
 son,
 s,
 ads,
-DOdnH,
+adsnoHODM,
 adsnoHOD,
 abio/a.001,
 a/a.001,
@@ -109,8 +109,10 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 35
 );
+visible = 1;
 weight = Light;
 width = Extended;
+widthValue = 200;
 xHeight = 510;
 },
 {
@@ -209,7 +211,6 @@ id = "3A891162-57FD-42BF-98C8-C33F5FB6C7CE";
 verticalStems = (
 35
 );
-visible = 1;
 weight = Light;
 xHeight = 500;
 }
@@ -9682,7 +9683,18 @@ name = Medium;
 weightClass = Medium;
 },
 {
+interpolationWeight = 400;
 name = Regular;
+},
+{
+interpolationWeight = 300;
+name = Light;
+weightClass = Light;
+},
+{
+interpolationWeight = 250;
+name = UltraLight;
+weightClass = UltraLight;
 }
 );
 manufacturer = AMT;
