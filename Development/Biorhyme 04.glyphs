@@ -70,6 +70,13 @@ name = ss03;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{800, 36}",
+"{700, 39}",
+"{510, 29}",
+"{0, -15}",
+"{-235, -15}"
+);
 ascender = 800;
 capHeight = 700;
 descender = "-235";
@@ -95,7 +102,13 @@ position = "{434, 254}";
 position = "{626, 738}";
 }
 );
+horizontalStems = (
+34
+);
 id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+verticalStems = (
+35
+);
 weight = Light;
 width = Extended;
 xHeight = 510;
@@ -140,6 +153,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Light;
+weightValue = 250;
 xHeight = 475;
 },
 {
@@ -173,14 +187,29 @@ verticalStems = (
 );
 visible = 1;
 weight = Bold;
+weightValue = 600;
 xHeight = 510;
 },
 {
+alignmentZones = (
+"{800, 16}",
+"{700, 16}",
+"{500, 16}",
+"{0, -15}",
+"{-200, -16}"
+);
 ascender = 800;
 capHeight = 700;
 custom = Trace;
 descender = "-200";
+horizontalStems = (
+34
+);
 id = "3A891162-57FD-42BF-98C8-C33F5FB6C7CE";
+verticalStems = (
+35
+);
+visible = 1;
 weight = Light;
 xHeight = 500;
 }
@@ -9619,6 +9648,11 @@ width = 600;
 instances = (
 {
 name = Regular;
+weightClass = Thin;
+},
+{
+name = Regular;
+weightClass = SemiBold;
 }
 );
 manufacturer = AMT;
