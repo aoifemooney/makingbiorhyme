@@ -22,7 +22,7 @@ nso,
 son,
 s,
 ads,
-DOH,
+DOdnH,
 adsnoHOD,
 abio/a.001,
 a/a.001,
@@ -124,12 +124,26 @@ position = "{861, 666}";
 position = "{761, 34}";
 }
 );
+horizontalStems = (
+32
+);
 id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+verticalStems = (
+35
+);
 visible = 1;
 weight = Light;
-xHeight = 500;
+xHeight = 475;
 },
 {
+alignmentZones = (
+"{800, 16}",
+"{700, 39}",
+"{510, 30}",
+"{0, 20}",
+"{0, -15}",
+"{-200, -16}"
+);
 ascender = 800;
 capHeight = 700;
 descender = "-200";
@@ -152,7 +166,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Bold;
-xHeight = 500;
+xHeight = 510;
 },
 {
 ascender = 800;
