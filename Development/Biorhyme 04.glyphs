@@ -28,7 +28,8 @@ abio/a.001,
 a/a.001,
 adng,
 a,
-HM
+HM,
+M
 );
 classes = (
 {
@@ -1930,7 +1931,7 @@ unicode = 004C;
 {
 color = 9;
 glyphname = M;
-lastChange = "2015-06-23 16:23:04 +0000";
+lastChange = "2015-06-23 16:27:17 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -2011,27 +2012,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"85 595 LINE",
+"90 595 LINE",
 "366 595 LINE",
 "366 700 LINE",
-"85 700 LINE"
+"90 700 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "366 700 LINE",
-"211 700 LINE",
-"653 -73 LINE",
-"724 66 LINE"
+"216 700 LINE",
+"653 -85 LINE",
+"724 51 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "490 105 LINE",
-"85 105 LINE",
-"85 0 LINE",
+"90 105 LINE",
+"90 0 LINE",
 "490 0 LINE"
 );
 },
@@ -2066,18 +2067,18 @@ nodes = (
 closed = 1;
 nodes = (
 "366 632 LINE",
-"211 632 LINE",
-"211 65 LINE",
+"216 632 LINE",
+"216 65 LINE",
 "366 65 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"653 -73 LINE",
-"1090 700 LINE",
+"653 -85 LINE",
+"1080 700 LINE",
 "940 700 LINE",
-"581 65 LINE"
+"591 50 LINE"
 );
 }
 );
