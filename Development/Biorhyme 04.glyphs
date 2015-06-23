@@ -23,7 +23,8 @@ son,
 s,
 ads,
 D,
-H
+H,
+a/a.001
 );
 classes = (
 {
@@ -107,7 +108,6 @@ position = "{251, 138}";
 }
 );
 id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-visible = 1;
 weight = Light;
 xHeight = 500;
 },
@@ -116,7 +116,6 @@ ascender = 800;
 capHeight = 700;
 descender = "-200";
 id = "6CDB447B-5A98-4C49-A531-656EB6F85556";
-visible = 1;
 xHeight = 510;
 },
 {
@@ -124,7 +123,6 @@ ascender = 800;
 capHeight = 700;
 descender = "-200";
 id = "FA480B27-EBBD-4830-9868-98507D39050C";
-visible = 1;
 weight = Bold;
 xHeight = 500;
 }
@@ -4099,7 +4097,7 @@ width = 600;
 {
 color = 9;
 glyphname = a;
-lastChange = "2015-06-23 03:13:08 +0000";
+lastChange = "2015-06-23 03:16:05 +0000";
 layers = (
 {
 background = {
@@ -4327,9 +4325,9 @@ nodes = (
 "122 480 CURVE",
 "149 364 LINE",
 "244 401 OFFCURVE",
-"324 423 OFFCURVE",
-"389 423 CURVE",
-"456 423 OFFCURVE",
+"332 418 OFFCURVE",
+"387 418 CURVE",
+"454 418 OFFCURVE",
 "511 395 OFFCURVE",
 "511 316 CURVE"
 );
