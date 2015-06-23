@@ -146,6 +146,7 @@ xHeight = 500;
 {
 ascender = 800;
 capHeight = 700;
+custom = Trace;
 descender = "-200";
 id = "3A891162-57FD-42BF-98C8-C33F5FB6C7CE";
 weight = Light;
@@ -1116,7 +1117,7 @@ unicode = 0047;
 {
 color = 9;
 glyphname = H;
-lastChange = "2015-06-23 16:49:14 +0000";
+lastChange = "2015-06-23 16:50:11 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1424,8 +1425,37 @@ width = 1180;
 },
 {
 layerId = "3A891162-57FD-42BF-98C8-C33F5FB6C7CE";
-name = Light;
-width = 600;
+name = "Light Trace";
+paths = (
+{
+closed = 1;
+nodes = (
+"814 363 LINE",
+"368 363 LINE",
+"368 329 LINE",
+"814 329 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"280 53 LINE",
+"315 53 LINE",
+"315 650 LINE",
+"280 650 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"865 650 LINE",
+"865 53 LINE",
+"900 53 LINE",
+"900 650 LINE"
+);
+}
+);
+width = 1180;
 }
 );
 unicode = 0048;
@@ -4186,7 +4216,7 @@ width = 796;
 },
 {
 layerId = "3A891162-57FD-42BF-98C8-C33F5FB6C7CE";
-name = Light;
+name = "Light Trace";
 width = 600;
 }
 );
