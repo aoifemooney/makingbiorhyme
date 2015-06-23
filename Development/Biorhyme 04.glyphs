@@ -9647,13 +9647,12 @@ width = 600;
 );
 instances = (
 {
-name = Regular;
-weightClass = Thin;
-},
-{
 interpolationWeight = 500;
 name = Medium;
-weightClass = SemiBold;
+weightClass = Medium;
+},
+{
+name = Regular;
 }
 );
 manufacturer = AMT;
