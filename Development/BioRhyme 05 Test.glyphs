@@ -4,7 +4,9 @@ a,
 "a/a.alt/a.alt2 d/d.alt",
 DHMO,
 /a.alt2,
-"DHMOa/a.alt/a.alt2 d/d.alt nos"
+"DHMOa/a.alt/a.alt2 d/d.alt nos",
+D,
+H
 );
 classes = (
 {
@@ -717,7 +719,7 @@ unicode = 0043;
 {
 color = 9;
 glyphname = D;
-lastChange = "2015-06-24 18:42:27 +0000";
+lastChange = "2015-06-24 18:45:51 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -841,8 +843,8 @@ nodes = (
 "836 558 OFFCURVE",
 "672 660 OFFCURVE",
 "460 660 CURVE",
-"85 660 LINE",
-"85 625 LINE",
+"236 660 LINE",
+"236 625 LINE",
 "460 625 LINE",
 "657 625 OFFCURVE",
 "800 532 OFFCURVE",
@@ -850,17 +852,17 @@ nodes = (
 "800 168 OFFCURVE",
 "657 75 OFFCURVE",
 "460 75 CURVE",
-"85 75 LINE",
-"85 40 LINE"
+"236 75 LINE",
+"236 40 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"271 58 LINE",
-"271 642 LINE",
-"236 642 LINE",
-"236 58 LINE"
+"271 40 LINE",
+"271 660 LINE",
+"236 660 LINE",
+"236 40 LINE"
 );
 }
 );
@@ -1351,7 +1353,7 @@ width = 600;
 {
 color = 9;
 glyphname = H;
-lastChange = "2015-06-24 18:42:37 +0000";
+lastChange = "2015-06-24 18:46:08 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
