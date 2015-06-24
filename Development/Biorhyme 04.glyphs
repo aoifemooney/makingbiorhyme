@@ -5,7 +5,8 @@ a,
 DHMO,
 /a.alt2,
 "DHMOa/a.alt/a.alt2 d/d.alt nos",
-d
+d,
+M
 );
 classes = (
 {
@@ -9595,41 +9596,9 @@ interpolationWeight = 400;
 name = Regular;
 },
 {
-interpolationWeight = 300;
-name = Light;
-weightClass = Light;
-},
-{
 interpolationWeight = 250;
 name = UltraLight;
 weightClass = UltraLight;
-},
-{
-interpolationWeight = 250;
-interpolationWidth = 200;
-name = "UltraLight Extended";
-weightClass = UltraLight;
-widthClass = "Ultra Expanded";
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 150;
-name = "Regular SemiExpanded";
-widthClass = "Semi Expanded";
-},
-{
-interpolationWeight = 700;
-interpolationWidth = 150;
-name = "Bold SemiExpanded";
-weightClass = Bold;
-widthClass = "Semi Expanded";
-},
-{
-interpolationWeight = 800;
-interpolationWidth = 200;
-name = "UltraBold Expanded";
-weightClass = UltraBold;
-widthClass = Expanded;
 }
 );
 manufacturer = AMT;
