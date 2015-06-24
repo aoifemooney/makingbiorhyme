@@ -98,7 +98,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Light;
-weightValue = 250;
+weightValue = 200;
 width = Extended;
 widthValue = 200;
 xHeight = 510;
@@ -137,7 +137,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Light;
-weightValue = 250;
+weightValue = 200;
 xHeight = 510;
 },
 {
@@ -9601,9 +9601,20 @@ interpolationWeight = 400;
 name = Regular;
 },
 {
-interpolationWeight = 250;
-name = UltraLight;
-weightClass = UltraLight;
+interpolationWeight = 200;
+name = Light;
+},
+{
+interpolationWeight = 200;
+interpolationWidth = 200;
+name = "Light Extended";
+widthClass = Expanded;
+},
+{
+interpolationWeight = 400;
+interpolationWidth = 200;
+name = Regular;
+widthClass = Expanded;
 }
 );
 manufacturer = AMT;
