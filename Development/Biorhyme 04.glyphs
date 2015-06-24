@@ -27,23 +27,19 @@ adsnoHOD,
 abio,
 a,
 adng,
-a,
 HM,
 M,
 HHH,
 i,
 HMO,
-"",
 DdOoanHM,
 d,
 p,
-"",
 /a.alt2,
 /a.alt,
 /d.alt,
 /a.alt2/d.alt,
 x,
-"",
 /s.alt,
 d/d.alt
 );
@@ -9700,6 +9696,11 @@ weightClass = Light;
 interpolationWeight = 250;
 name = UltraLight;
 weightClass = UltraLight;
+},
+{
+interpolationWidth = 200;
+name = "Light Extended";
+widthClass = "Ultra Expanded";
 }
 );
 manufacturer = AMT;
