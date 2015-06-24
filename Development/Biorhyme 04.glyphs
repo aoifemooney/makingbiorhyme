@@ -9613,8 +9613,35 @@ widthClass = Expanded;
 {
 interpolationWeight = 400;
 interpolationWidth = 200;
-name = Regular;
+name = "Regular Expanded";
 widthClass = Expanded;
+},
+{
+interpolationWeight = 500;
+interpolationWidth = 200;
+name = "Medium Expanded";
+weightClass = Medium;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 600;
+interpolationWidth = 200;
+name = "SemiBold Expanded";
+weightClass = SemiBold;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 700;
+interpolationWidth = 200;
+name = "Bold Expanded";
+weightClass = Bold;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 800;
+interpolationWidth = 200;
+name = "UltraBold Expanded";
+weightClass = UltraBold;
 }
 );
 manufacturer = AMT;
