@@ -9690,9 +9690,12 @@ widthClass = "Ultra Expanded";
 },
 {
 interpolationWeight = 400;
-interpolationWidth = 150;
+interpolationWidth = 200;
 name = "Regular Extended";
-widthClass = Expanded;
+widthClass = "Ultra Expanded";
+},
+{
+name = Regular;
 }
 );
 manufacturer = AMT;
