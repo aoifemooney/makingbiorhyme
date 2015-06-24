@@ -9690,9 +9690,16 @@ widthClass = "Ultra Expanded";
 },
 {
 interpolationWeight = 400;
+interpolationWidth = 150;
+name = "Regular SemiExpanded";
+widthClass = "Semi Expanded";
+},
+{
+interpolationWeight = 700;
 interpolationWidth = 200;
-name = "Regular Extended";
-widthClass = "Ultra Expanded";
+name = "Bold SemiExpanded";
+weightClass = UltraBold;
+widthClass = Expanded;
 },
 {
 name = Regular;
