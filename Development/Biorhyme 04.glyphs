@@ -3926,7 +3926,7 @@ unicode = 005A;
 {
 color = 9;
 glyphname = a;
-lastChange = "2015-06-24 16:42:20 +0000";
+lastChange = "2015-06-24 18:11:29 +0000";
 layers = (
 {
 background = {
@@ -4079,10 +4079,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"492 109 LINE SMOOTH",
-"492 30 OFFCURVE",
-"549 -23 OFFCURVE",
-"638 -23 CURVE SMOOTH",
 "724 -23 OFFCURVE",
 "773 24 OFFCURVE",
 "773 109 CURVE SMOOTH",
@@ -4108,15 +4104,16 @@ nodes = (
 "357 414 CURVE SMOOTH",
 "424 414 OFFCURVE",
 "492 390 OFFCURVE",
-"492 316 CURVE"
+"492 316 CURVE",
+"492 109 LINE SMOOTH",
+"492 30 OFFCURVE",
+"549 -23 OFFCURVE",
+"638 -23 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"71 27 OFFCURVE",
-"158 -29 OFFCURVE",
-"276 -29 CURVE",
 "370 -29 OFFCURVE",
 "474 9 OFFCURVE",
 "561 100 CURVE",
@@ -4139,7 +4136,10 @@ nodes = (
 "303 312 CURVE",
 "167 312 OFFCURVE",
 "71 244 OFFCURVE",
-"70 137 CURVE"
+"70 137 CURVE",
+"71 27 OFFCURVE",
+"158 -29 OFFCURVE",
+"276 -29 CURVE"
 );
 }
 );
