@@ -9696,13 +9696,17 @@ widthClass = "Semi Expanded";
 },
 {
 interpolationWeight = 700;
-interpolationWidth = 200;
+interpolationWidth = 150;
 name = "Bold SemiExpanded";
-weightClass = UltraBold;
-widthClass = Expanded;
+weightClass = Bold;
+widthClass = "Semi Expanded";
 },
 {
-name = Regular;
+interpolationWeight = 800;
+interpolationWidth = 200;
+name = "UltraBold Expanded";
+weightClass = UltraBold;
+widthClass = Expanded;
 }
 );
 manufacturer = AMT;
