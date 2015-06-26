@@ -1361,7 +1361,7 @@ width = 600;
 {
 color = 9;
 glyphname = H;
-lastChange = "2015-06-24 22:08:11 +0000";
+lastChange = "2015-06-26 16:28:56 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1631,6 +1631,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"1025 0 LINE",
+"1025 35 LINE",
+"681 35 LINE",
+"681 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "839 329 LINE",
 "839 363 LINE",
 "273 363 LINE",
@@ -1644,15 +1653,6 @@ nodes = (
 "429 700 LINE",
 "85 700 LINE",
 "85 665 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1025 0 LINE",
-"1025 35 LINE",
-"681 35 LINE",
-"681 0 LINE"
 );
 },
 {
