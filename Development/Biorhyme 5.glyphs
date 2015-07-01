@@ -28,7 +28,8 @@ i,
 12,
 /z.alt,
 1,
-5
+5,
+/two.alt
 );
 classes = (
 {
@@ -94,7 +95,7 @@ angle = 90;
 position = "{919, 337}";
 },
 {
-angle = 90;
+angle = 86.2201;
 position = "{434, 254}";
 },
 {
@@ -9277,7 +9278,7 @@ unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2015-07-01 23:13:20 +0000";
+lastChange = "2015-07-01 23:15:11 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -9324,44 +9325,6 @@ nodes = (
 "172 34 LINE",
 "172 0 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"1312 126 LINE",
-"1458 75 OFFCURVE",
-"1670 0 OFFCURVE",
-"1809 0 CURVE SMOOTH",
-"1922 0 OFFCURVE",
-"2013 52 OFFCURVE",
-"2026 154 CURVE",
-"2061 154 LINE",
-"2050 48 OFFCURVE",
-"1971 -34 OFFCURVE",
-"1807 -34 CURVE SMOOTH",
-"1668 -34 OFFCURVE",
-"1439 46 OFFCURVE",
-"1295 95 CURVE"
-);
-},
-{
-closed = 0;
-nodes = (
-"2028 527 LINE",
-"1977 370 OFFCURVE",
-"1811 311 OFFCURVE",
-"1636 251 CURVE SMOOTH",
-"1462 190 OFFCURVE",
-"1280 127 OFFCURVE",
-"1193 -37 CURVE",
-"1165 -21 LINE",
-"1249 157 OFFCURVE",
-"1441 221 OFFCURVE",
-"1622 283 CURVE SMOOTH",
-"1786 339 OFFCURVE",
-"1940 395 OFFCURVE",
-"1994 534 CURVE"
-);
 }
 );
 width = 1229;
@@ -9378,6 +9341,79 @@ width = 600;
 }
 );
 unicode = 0032;
+},
+{
+glyphname = two.alt;
+lastChange = "2015-07-01 23:17:11 +0000";
+layers = (
+{
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"484 46 OFFCURVE",
+"653 -34 OFFCURVE",
+"792 -34 CURVE SMOOTH",
+"956 -34 OFFCURVE",
+"1035 68 OFFCURVE",
+"1046 174 CURVE",
+"1011 174 LINE",
+"998 72 OFFCURVE",
+"907 0 OFFCURVE",
+"794 0 CURVE SMOOTH",
+"655 0 OFFCURVE",
+"503 75 OFFCURVE",
+"347 156 CURVE",
+"330 125 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"876 362 OFFCURVE",
+"721 309 OFFCURVE",
+"567 263 CURVE SMOOTH",
+"386 209 OFFCURVE",
+"234 157 OFFCURVE",
+"150 -21 CURVE",
+"178 -37 LINE",
+"265 127 OFFCURVE",
+"405 178 OFFCURVE",
+"581 231 CURVE SMOOTH",
+"746 281 OFFCURVE",
+"911 343 OFFCURVE",
+"911 510 CURVE SMOOTH",
+"911 652 OFFCURVE",
+"763 709 OFFCURVE",
+"598 709 CURVE SMOOTH",
+"439 709 OFFCURVE",
+"303 657 OFFCURVE",
+"194 549 CURVE",
+"194 505 LINE",
+"308 624 OFFCURVE",
+"475 675 OFFCURVE",
+"598 675 CURVE SMOOTH",
+"757 675 OFFCURVE",
+"876 622 OFFCURVE",
+"876 511 CURVE SMOOTH"
+);
+}
+);
+width = 896;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
+width = 600;
+}
+);
 },
 {
 glyphname = zero;
