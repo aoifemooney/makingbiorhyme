@@ -27,7 +27,8 @@ E,
 i,
 12,
 /z.alt,
-1
+1,
+5
 );
 classes = (
 {
@@ -9138,11 +9139,65 @@ width = 600;
 },
 {
 glyphname = five;
-lastChange = "2015-07-01 12:51:18 +0000";
+lastChange = "2015-07-01 19:01:14 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"174 690 LINE",
+"201 522 OFFCURVE",
+"295 432 OFFCURVE",
+"610 376 CURVE SMOOTH",
+"850 333 OFFCURVE",
+"974 292 OFFCURVE",
+"971 188 CURVE SMOOTH",
+"968 77 OFFCURVE",
+"832 34 OFFCURVE",
+"678 34 CURVE SMOOTH",
+"520 34 OFFCURVE",
+"343 75 OFFCURVE",
+"189 154 CURVE",
+"189 110 LINE",
+"338 42 OFFCURVE",
+"484 0 OFFCURVE",
+"678 0 CURVE SMOOTH",
+"838 0 OFFCURVE",
+"1006 47 OFFCURVE",
+"1006 189 CURVE SMOOTH",
+"1006 322 OFFCURVE",
+"869 365 OFFCURVE",
+"625 408 CURVE SMOOTH",
+"330 460 OFFCURVE",
+"233 546 OFFCURVE",
+"214 685 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 675 LINE",
+"989 675 LINE",
+"989 464 LINE",
+"1024 464 LINE",
+"1024 709 LINE",
+"172 709 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
