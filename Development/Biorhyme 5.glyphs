@@ -23,7 +23,9 @@ HXH,
 Q,
 2,
 C,
-E
+E,
+i,
+12
 );
 classes = (
 {
@@ -9146,11 +9148,50 @@ unicode = 0035;
 },
 {
 glyphname = one;
-lastChange = "2015-07-01 12:50:53 +0000";
+lastChange = "2015-07-01 18:56:13 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"326 0 LINE",
+"361 0 LINE",
+"361 700 LINE",
+"326 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"65 35 LINE",
+"65 0 LINE",
+"590 0 LINE",
+"590 35 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"65 700 LINE",
+"65 665 LINE",
+"361 665 LINE",
+"361 700 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
