@@ -25,7 +25,9 @@ Q,
 C,
 E,
 i,
-12
+12,
+/z.alt,
+1
 );
 classes = (
 {
@@ -9148,7 +9150,7 @@ unicode = 0035;
 },
 {
 glyphname = one;
-lastChange = "2015-07-01 18:56:13 +0000";
+lastChange = "2015-07-01 18:57:19 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -9179,6 +9181,54 @@ nodes = (
 "65 665 LINE",
 "361 665 LINE",
 "361 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-365 291 LINE",
+"-219 240 OFFCURVE",
+"-7 165 OFFCURVE",
+"132 165 CURVE SMOOTH",
+"245 165 OFFCURVE",
+"336 217 OFFCURVE",
+"349 319 CURVE",
+"384 319 LINE",
+"373 213 OFFCURVE",
+"294 131 OFFCURVE",
+"130 131 CURVE SMOOTH",
+"-9 131 OFFCURVE",
+"-238 211 OFFCURVE",
+"-382 260 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-352 484 OFFCURVE",
+"204 406 OFFCURVE",
+"317 699 CURVE",
+"351 692 LINE",
+"249 379 OFFCURVE",
+"-310 457 OFFCURVE",
+"-484 128 CURVE",
+"-512 144 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"214 539 LINE",
+"50 596 OFFCURVE",
+"-146 672 OFFCURVE",
+"-455 672 CURVE",
+"-455 486 LINE",
+"-490 486 LINE",
+"-490 705 LINE",
+"-455 705 LINE SMOOTH",
+"-124 705 OFFCURVE",
+"61 626 OFFCURVE",
+"225 567 CURVE"
 );
 }
 );
