@@ -41,7 +41,8 @@ i,
 x,
 /tilde,
 I,
-"\U00C3"
+"\U00C3",
+X
 );
 classes = (
 {
@@ -95,9 +96,6 @@ descender = -235;
 guideLines = (
 {
 position = "{421, -28}";
-},
-{
-position = "{159, 320}";
 },
 {
 angle = 90;
@@ -1896,7 +1894,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-07-02 00:00:34 +0000";
+lastChange = "2015-07-02 00:03:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1927,6 +1925,42 @@ nodes = (
 "90 665 LINE SMOOTH",
 "674 665 LINE SMOOTH",
 "674 700 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1334 0 LINE",
+"1334 34 LINE",
+"853 34 LINE",
+"853 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1118 17 LINE",
+"484 346 LINE",
+"415 343 LINE",
+"1052 17 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1135 692 LINE",
+"1069 692 LINE",
+"412 343 LINE",
+"481 346 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"851 666 LINE",
+"1332 666 LINE",
+"1332 700 LINE",
+"851 700 LINE SMOOTH"
 );
 }
 );
