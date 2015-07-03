@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+K,
+"\U00C3"
+);
 classes = (
 {
 automatic = 1;
@@ -179,6 +183,7 @@ width = 1423;
 },
 {
 glyphname = Atilde;
+lastChange = "2015-07-03 20:04:19 +0000";
 layers = (
 {
 components = (
@@ -187,7 +192,7 @@ name = A.alt;
 },
 {
 name = tilde;
-transform = "{1, 0, 0, 1, 410, 163}";
+transform = "{1, 0, 0, 1, 410, 187}";
 }
 );
 layerId = "70BD9FBF-4BFF-49BB-8583-30BB10D9BA0C";
@@ -760,75 +765,11 @@ unicode = 004A;
 },
 {
 glyphname = K;
+lastChange = "2015-07-03 20:04:08 +0000";
 layers = (
 {
 layerId = "70BD9FBF-4BFF-49BB-8583-30BB10D9BA0C";
 name = "Light Extended";
-paths = (
-{
-closed = 1;
-nodes = (
-"674 0 LINE SMOOTH",
-"674 35 LINE SMOOTH",
-"90 35 LINE SMOOTH",
-"90 0 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"364 682 LINE SMOOTH",
-"364 18 LINE SMOOTH",
-"399 18 LINE SMOOTH",
-"399 682 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"90 700 LINE SMOOTH",
-"90 665 LINE SMOOTH",
-"674 665 LINE SMOOTH",
-"674 700 LINE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"1334 0 LINE",
-"1334 34 LINE",
-"853 34 LINE",
-"853 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1118 17 LINE",
-"484 346 LINE",
-"415 343 LINE",
-"1052 17 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1135 692 LINE",
-"1069 692 LINE",
-"412 343 LINE",
-"481 346 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"851 666 LINE",
-"1332 666 LINE",
-"1332 700 LINE",
-"851 700 LINE SMOOTH"
-);
-}
-);
 width = 1546;
 }
 );
