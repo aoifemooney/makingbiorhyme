@@ -58,11 +58,13 @@ s.on,
 "",
 /quotedblleft,
 /quoteleft,
-/quotedblbase,
+"/quotedblbase ,",
 "but:;, she cried.",
 ":",
-"Heyl!O",
-/t.alt
+"Heyl!.;,:O",
+/t.alt,
+/quotesinglbase,
+"\U00A1"
 );
 classes = (
 {
@@ -10262,7 +10264,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2015-07-08 17:54:21 +0000";
+lastChange = "2015-07-08 19:28:55 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10271,22 +10273,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"244 37 OFFCURVE",
-"214 64 OFFCURVE",
-"172 64 CURVE",
-"137 64 OFFCURVE",
-"112 43 OFFCURVE",
-"112 14 CURVE SMOOTH",
-"112 -19 OFFCURVE",
-"150 -38 OFFCURVE",
-"206 -32 CURVE",
-"199 -86 OFFCURVE",
-"160 -147 OFFCURVE",
-"90 -212 CURVE",
-"107 -229 LINE",
-"194 -160 OFFCURVE",
-"244 -70 OFFCURVE",
-"244 -8 CURVE"
+"244 47 OFFCURVE",
+"214 74 OFFCURVE",
+"172 74 CURVE",
+"137 74 OFFCURVE",
+"112 53 OFFCURVE",
+"112 24 CURVE SMOOTH",
+"112 -9 OFFCURVE",
+"150 -28 OFFCURVE",
+"206 -22 CURVE",
+"199 -76 OFFCURVE",
+"160 -137 OFFCURVE",
+"90 -202 CURVE",
+"107 -219 LINE",
+"194 -150 OFFCURVE",
+"244 -60 OFFCURVE",
+"244 2 CURVE"
 );
 }
 );
@@ -10307,7 +10309,7 @@ unicode = 002C;
 },
 {
 glyphname = exclam;
-lastChange = "2015-07-08 19:27:22 +0000";
+lastChange = "2015-07-08 19:28:08 +0000";
 layers = (
 {
 components = (
@@ -10332,15 +10334,15 @@ nodes = (
 "188 212 LINE",
 "194 388 LINE SMOOTH",
 "201 604 OFFCURVE",
-"220 730 OFFCURVE",
-"220 755 CURVE",
-"220 779 OFFCURVE",
-"207 799 OFFCURVE",
-"177 800 CURVE",
-"146 799 OFFCURVE",
-"133 779 OFFCURVE",
-"133 755 CURVE",
-"133 730 OFFCURVE",
+"220 749 OFFCURVE",
+"220 774 CURVE",
+"220 798 OFFCURVE",
+"207 818 OFFCURVE",
+"177 819 CURVE",
+"146 818 OFFCURVE",
+"133 798 OFFCURVE",
+"133 774 CURVE",
+"133 749 OFFCURVE",
 "152 605 OFFCURVE"
 );
 }
@@ -10362,11 +10364,27 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2015-07-08 17:17:02 +0000";
+lastChange = "2015-07-08 19:29:39 +0000";
 layers = (
 {
+components = (
+{
+name = exclam;
+transform = "{-1, 0, 0, -1, 351, 802}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+width = 351;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
@@ -10386,7 +10404,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2015-07-08 17:53:40 +0000";
+lastChange = "2015-07-08 19:28:04 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10395,18 +10413,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"131 64 OFFCURVE",
-"105 45 OFFCURVE",
-"105 18 CURVE",
-"105 -8 OFFCURVE",
-"131 -27 OFFCURVE",
-"176 -27 CURVE",
-"222 -27 OFFCURVE",
-"246 -8 OFFCURVE",
-"246 18 CURVE",
-"246 45 OFFCURVE",
-"222 64 OFFCURVE",
-"176 64 CURVE"
+"131 74 OFFCURVE",
+"105 55 OFFCURVE",
+"105 28 CURVE",
+"105 2 OFFCURVE",
+"131 -17 OFFCURVE",
+"176 -17 CURVE",
+"222 -17 OFFCURVE",
+"246 2 OFFCURVE",
+"246 28 CURVE",
+"246 55 OFFCURVE",
+"222 74 OFFCURVE",
+"176 74 CURVE"
 );
 }
 );
@@ -10558,7 +10576,7 @@ unicode = 0027;
 },
 {
 glyphname = semicolon;
-lastChange = "2015-07-08 17:54:10 +0000";
+lastChange = "2015-07-08 19:28:38 +0000";
 layers = (
 {
 components = (
@@ -10573,22 +10591,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"244 37 OFFCURVE",
-"214 64 OFFCURVE",
-"172 64 CURVE",
-"137 64 OFFCURVE",
-"112 43 OFFCURVE",
-"112 14 CURVE SMOOTH",
-"112 -19 OFFCURVE",
-"150 -38 OFFCURVE",
-"206 -32 CURVE",
-"199 -86 OFFCURVE",
-"160 -147 OFFCURVE",
-"90 -212 CURVE",
-"107 -229 LINE",
-"194 -160 OFFCURVE",
-"244 -70 OFFCURVE",
-"244 -8 CURVE"
+"244 47 OFFCURVE",
+"214 74 OFFCURVE",
+"172 74 CURVE",
+"137 74 OFFCURVE",
+"112 53 OFFCURVE",
+"112 24 CURVE SMOOTH",
+"112 -9 OFFCURVE",
+"150 -28 OFFCURVE",
+"206 -22 CURVE",
+"199 -76 OFFCURVE",
+"160 -137 OFFCURVE",
+"90 -202 CURVE",
+"107 -219 LINE",
+"194 -150 OFFCURVE",
+"244 -60 OFFCURVE",
+"244 2 CURVE"
 );
 }
 );
@@ -10769,7 +10787,7 @@ unicode = 00BB;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2015-07-08 17:48:58 +0000";
+lastChange = "2015-07-08 19:29:24 +0000";
 layers = (
 {
 components = (
