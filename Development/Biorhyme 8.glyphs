@@ -60,7 +60,9 @@ s.on,
 /quoteleft,
 /quotedblbase,
 "but:;, she cried.",
-":"
+":",
+"!",
+/t.alt
 );
 classes = (
 {
@@ -10305,11 +10307,54 @@ unicode = 002C;
 },
 {
 glyphname = exclam;
-lastChange = "2015-07-08 17:17:02 +0000";
+lastChange = "2015-07-08 17:59:56 +0000";
 layers = (
 {
+components = (
+{
+name = period;
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{194, 329}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"159 142 LINE",
+"194 142 LINE",
+"194 213 LINE",
+"201 279 OFFCURVE",
+"217 422 OFFCURVE",
+"217 540 CURVE",
+"217 685 OFFCURVE",
+"202 713 OFFCURVE",
+"179 714 CURVE",
+"156 713 OFFCURVE",
+"136 685 OFFCURVE",
+"136 540 CURVE",
+"136 422 OFFCURVE",
+"152 279 OFFCURVE",
+"159 213 CURVE"
+);
+}
+);
+width = 351;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
