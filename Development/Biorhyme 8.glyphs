@@ -67,7 +67,8 @@ s.on,
 "\U00A1",
 "!",
 "\U00B70",
-"H?SH!H"
+"H?SH!H",
+"H/backslash H"
 );
 classes = (
 {
@@ -10227,11 +10228,32 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2015-07-08 17:17:02 +0000";
+lastChange = "2015-07-08 23:19:24 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"566 -3 LINE",
+"141 702 LINE",
+"94 702 LINE",
+"519 -3 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
