@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-/g.alt
+"/g.alt o"
 );
 classes = (
 {
@@ -6363,11 +6363,47 @@ unicode = 0067;
 },
 {
 glyphname = g.alt;
-lastChange = "2015-07-09 17:32:38 +0000";
+lastChange = "2015-07-09 17:33:04 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"786 -39 OFFCURVE",
+"988 60 OFFCURVE",
+"988 250 CURVE",
+"988 446 OFFCURVE",
+"786 538 OFFCURVE",
+"531 538 CURVE",
+"277 537 OFFCURVE",
+"75 446 OFFCURVE",
+"75 250 CURVE",
+"75 60 OFFCURVE",
+"277 -40 OFFCURVE",
+"531 -39 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 -6 OFFCURVE",
+"110 86 OFFCURVE",
+"110 250 CURVE",
+"110 421 OFFCURVE",
+"292 503 OFFCURVE",
+"531 504 CURVE",
+"771 504 OFFCURVE",
+"953 421 OFFCURVE",
+"953 250 CURVE",
+"953 86 OFFCURVE",
+"771 -5 OFFCURVE",
+"531 -5 CURVE"
+);
+}
+);
 width = 600;
 },
 {
