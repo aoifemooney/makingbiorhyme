@@ -4026,7 +4026,7 @@ unicode = 0058;
 {
 color = 6;
 glyphname = Y;
-lastChange = "2015-07-09 19:25:29 +0000";
+lastChange = "2015-07-09 19:27:34 +0000";
 layers = (
 {
 background = {
@@ -4084,17 +4084,13 @@ nodes = (
 "996 700 LINE",
 "609 266 LINE",
 "637 242 LINE",
-"1011 665 LINE",
-"1271 665 LINE",
-"1271 700 LINE"
+"1011 665 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "252 700 LINE",
-"-25 700 LINE",
-"-25 665 LINE",
 "235 665 LINE",
 "611 242 LINE",
 "639 266 LINE"
@@ -4116,6 +4112,24 @@ nodes = (
 "916 35 LINE",
 "346 35 LINE",
 "346 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"763 700 LINE",
+"763 666 LINE",
+"1244 666 LINE",
+"1244 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"4 700 LINE",
+"4 666 LINE",
+"485 666 LINE",
+"485 700 LINE"
 );
 }
 );
