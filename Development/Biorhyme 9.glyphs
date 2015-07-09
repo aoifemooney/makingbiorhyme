@@ -7,7 +7,9 @@ k,
 /tilde,
 /e.alt,
 z,
-w
+w,
+"\U00A1",
+"\U00A1\U00BF"
 );
 classes = (
 {
@@ -10552,13 +10554,13 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2015-07-08 19:29:39 +0000";
+lastChange = "2015-07-09 19:04:55 +0000";
 layers = (
 {
 components = (
 {
 name = exclam;
-transform = "{-1, 0, 0, -1, 351, 802}";
+transform = "{-1, 0, 0, -1, 351, 722}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
