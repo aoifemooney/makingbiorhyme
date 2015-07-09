@@ -5,7 +5,7 @@ DisplayStrings = (
 "?",
 k,
 /tilde,
-/e.alt,
+e,
 z,
 w,
 "\U00A1",
@@ -68,19 +68,19 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub R by R.alt;\012sub Q by Q.alt;\012sub G by G.alt;\012sub A by A.alt;\012sub f by f.alt3;";
+code = "sub R by R.alt;\012sub Q by Q.alt;\012sub A by A.alt;\012sub f by f.alt3;";
 name = ss01;
 },
 {
-code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u by u.alt;\012\012sub ampersand by ampersand.alt;";
+code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u by u.alt;\012sub g by g.alt;\012\012sub ampersand by ampersand.alt;";
 name = ss02;
 },
 {
-code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub e by e.alt;\012sub a by a.alt2;\012sub x by x.alt;\012sub z by z.alt;\012sub s by s.alt;\012\012\012\012";
+code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub x by x.alt;\012sub s by s.alt;\012\012\012\012";
 name = ss03;
 },
 {
-code = "sub ampersand by ampersand.alt;\012sub x by x.alt2;\012sub f by f.alt2;\012";
+code = "sub ampersand by ampersand.alt;\012sub f by f.alt2;\012";
 name = ss04;
 }
 );
@@ -5591,8 +5591,8 @@ width = 600;
 unicode = 00F0;
 },
 {
-glyphname = e.alt;
-lastChange = "2015-07-09 19:01:37 +0000";
+glyphname = e;
+lastChange = "2015-07-09 19:50:26 +0000";
 layers = (
 {
 background = {
@@ -5702,6 +5702,7 @@ name = Light;
 width = 600;
 }
 );
+unicode = 0065;
 },
 {
 glyphname = f;
