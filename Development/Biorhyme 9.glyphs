@@ -16,7 +16,9 @@ w,
 //,
 /backslash,
 /endash,
-"/emdash m"
+"/emdash m",
+"[H](H)",
+"#"
 );
 classes = (
 {
@@ -10350,7 +10352,7 @@ unicode = 00A1;
 },
 {
 glyphname = numbersign;
-lastChange = "2015-07-09 00:08:41 +0000";
+lastChange = "2015-07-09 19:14:41 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10359,19 +10361,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"904 700 LINE",
-"867 700 LINE",
-"612 0 LINE",
-"649 0 LINE"
+"888 700 LINE",
+"853 700 LINE",
+"598 0 LINE",
+"633 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"454 700 LINE",
-"417 700 LINE",
-"162 0 LINE",
-"199 0 LINE"
+"468 700 LINE",
+"433 700 LINE",
+"178 0 LINE",
+"213 0 LINE"
 );
 },
 {
@@ -10799,7 +10801,7 @@ unicode = 007D;
 },
 {
 glyphname = bracketleft;
-lastChange = "2015-07-09 00:04:38 +0000";
+lastChange = "2015-07-09 19:13:44 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10833,7 +10835,7 @@ nodes = (
 );
 }
 );
-width = 380;
+width = 410;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -10850,18 +10852,18 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2015-07-09 00:05:04 +0000";
+lastChange = "2015-07-09 19:13:41 +0000";
 layers = (
 {
 components = (
 {
 name = bracketleft;
-transform = "{-1, 0, 0, -1, 380, 697}";
+transform = "{-1, 0, 0, -1, 410, 697}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 380;
+width = 410;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -10878,7 +10880,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2015-07-08 23:32:35 +0000";
+lastChange = "2015-07-09 19:13:33 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10904,7 +10906,7 @@ nodes = (
 );
 }
 );
-width = 376;
+width = 406;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -10921,18 +10923,18 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2015-07-08 23:32:55 +0000";
+lastChange = "2015-07-09 19:13:37 +0000";
 layers = (
 {
 components = (
 {
 name = parenleft;
-transform = "{-1, 0, 0, -1, 376, 700}";
+transform = "{-1, 0, 0, -1, 406, 700}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 376;
+width = 406;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
