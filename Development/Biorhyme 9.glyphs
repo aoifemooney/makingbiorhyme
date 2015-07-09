@@ -37,7 +37,9 @@ HOH,
 COQ/Q.alt,
 OQ/Q.alt,
 /R.alt,
-NM
+NM,
+L,
+K
 );
 classes = (
 {
@@ -94,7 +96,7 @@ position = "{421, -28}";
 },
 {
 angle = 90;
-position = "{919, 337}";
+position = "{1071, 387}";
 },
 {
 position = "{573, -37}";
@@ -1953,7 +1955,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-07-09 00:13:07 +0000";
+lastChange = "2015-07-09 19:40:21 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1989,23 +1991,37 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"996 700 LINE",
+"1126 700 LINE",
 "364 211 LINE",
-"392 187 LINE",
-"1011 665 LINE",
-"1271 665 LINE",
-"1271 700 LINE"
+"392 189 LINE",
+"1139 665 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"1271 27 LINE",
-"1011 27 LINE",
-"656 429 LINE",
-"628 405 LINE",
-"996 -8 LINE",
-"1271 -8 LINE"
+"1131 35 LINE",
+"676 399 LINE",
+"648 375 LINE",
+"1116 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1379 665 LINE SMOOTH",
+"1379 700 LINE SMOOTH",
+"875 700 LINE SMOOTH",
+"875 665 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1379 0 LINE SMOOTH",
+"1379 35 LINE SMOOTH",
+"875 35 LINE SMOOTH",
+"875 0 LINE SMOOTH"
 );
 }
 );
