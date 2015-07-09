@@ -26,7 +26,9 @@ w,
 /five.alt,
 5,
 W,
-V
+V,
+F,
+Y
 );
 classes = (
 {
@@ -4024,7 +4026,7 @@ unicode = 0058;
 {
 color = 6;
 glyphname = Y;
-lastChange = "2015-06-23 17:22:51 +0000";
+lastChange = "2015-07-09 19:25:29 +0000";
 layers = (
 {
 background = {
@@ -4079,15 +4081,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1015 0 LINE",
-"1015 35 LINE",
-"237 35 LINE",
-"237 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "996 700 LINE",
 "609 266 LINE",
 "637 242 LINE",
@@ -4114,6 +4107,15 @@ nodes = (
 "606 279 LINE",
 "606 0 LINE",
 "641 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"916 0 LINE",
+"916 35 LINE",
+"346 35 LINE",
+"346 0 LINE"
 );
 }
 );
