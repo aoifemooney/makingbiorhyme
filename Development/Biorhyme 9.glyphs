@@ -9171,7 +9171,7 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2015-07-09 19:02:55 +0000";
+lastChange = "2015-07-09 19:03:19 +0000";
 layers = (
 {
 background = {
@@ -9253,6 +9253,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"954 516 LINE",
+"845 211 OFFCURVE",
+"294 285 OFFCURVE",
+"121 -41 CURVE",
+"93 -25 LINE",
+"253 315 OFFCURVE",
+"808 237 OFFCURVE",
+"922 529 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
 "987 135 LINE",
 "970 36 OFFCURVE",
 "891 -38 OFFCURVE",
@@ -9264,22 +9277,9 @@ nodes = (
 "386 71 OFFCURVE",
 "598 -4 OFFCURVE",
 "737 -4 CURVE SMOOTH",
-"848 -4 OFFCURVE",
-"937 46 OFFCURVE",
-"953 143 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"954 516 LINE",
-"845 211 OFFCURVE",
-"294 285 OFFCURVE",
-"121 -41 CURVE",
-"93 -25 LINE",
-"253 315 OFFCURVE",
-"808 237 OFFCURVE",
-"922 529 CURVE"
+"847 -4 OFFCURVE",
+"935 45 OFFCURVE",
+"953 140 CURVE"
 );
 }
 );
