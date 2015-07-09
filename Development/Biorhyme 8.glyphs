@@ -77,7 +77,7 @@ s.on,
 /asterisk.001,
 "_n ",
 _,
-"/emdash m"
+"/emdash/endash -nm"
 );
 classes = (
 {
@@ -11254,7 +11254,7 @@ unicode = 0029;
 },
 {
 glyphname = emdash;
-lastChange = "2015-07-09 00:00:39 +0000";
+lastChange = "2015-07-09 00:01:32 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -11263,14 +11263,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-340 271 LINE",
-"-340 237 LINE",
-"840 237 LINE",
-"840 271 LINE"
+"40 272 LINE",
+"40 238 LINE",
+"1220 238 LINE",
+"1220 272 LINE"
 );
 }
 );
-width = 600;
+width = 1260;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -11287,11 +11287,32 @@ unicode = 2014;
 },
 {
 glyphname = endash;
-lastChange = "2015-07-08 23:59:58 +0000";
+lastChange = "2015-07-09 00:02:03 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 272 LINE",
+"40 238 LINE",
+"810 238 LINE",
+"810 272 LINE"
+);
+}
+);
+width = 850;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
@@ -11299,11 +11320,32 @@ unicode = 2013;
 },
 {
 glyphname = hyphen;
-lastChange = "2015-07-08 17:17:02 +0000";
+lastChange = "2015-07-09 00:02:28 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 272 LINE",
+"40 238 LINE",
+"425 238 LINE",
+"425 272 LINE"
+);
+}
+);
+width = 465;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
