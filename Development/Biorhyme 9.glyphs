@@ -7,7 +7,9 @@ nmrhi,
 "HBHDHHEHFHHHIHJHHKHLHHMHNHHPHRHH/R.alt HXH",
 CDGOQ/Q.alt,
 "O/Q.alt ORO",
-/A.alt
+/A.alt,
+A,
+H
 );
 classes = (
 {
@@ -160,7 +162,7 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2015-07-09 19:49:31 +0000";
+lastChange = "2015-07-14 15:09:32 +0000";
 layers = (
 {
 background = {
@@ -257,6 +259,46 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"236 18 LINE",
+"708 684 LINE",
+"1179 18 LINE",
+"1223 18 LINE",
+"709 745 LINE",
+"195 18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1443 0 LINE",
+"1443 34 LINE",
+"962 34 LINE",
+"962 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"456 0 LINE",
+"456 34 LINE",
+"-25 34 LINE",
+"-25 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"993 295 LINE",
+"419 295 LINE",
+"395 260 LINE",
+"1018 260 LINE"
+);
+}
+);
 width = 600;
 }
 );
