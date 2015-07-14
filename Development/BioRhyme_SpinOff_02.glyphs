@@ -16,7 +16,8 @@ n,
 H,
 AM,
 "",
-"/A.alt H"
+"/A.alt H",
+A
 );
 classes = (
 {
@@ -96,6 +97,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 35
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -2187,7 +2189,7 @@ unicode = 004C;
 {
 color = 9;
 glyphname = M;
-lastChange = "2015-06-24 19:29:27 +0000";
+lastChange = "2015-07-14 16:40:36 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -2268,8 +2270,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1020 700 LINE",
-"880 700 LINE",
+"1030 700 LINE",
+"890 700 LINE",
 "618 180 LINE",
 "341 700 LINE",
 "191 700 LINE",
