@@ -6,7 +6,7 @@ DHMO,
 /a.alt2,
 "DHMOa/a.alt/a.alt2 d/d.alt nos",
 d,
-M,
+MA,
 "a/a.alt/a.alt2 d/d.alt s",
 D,
 "n n",
@@ -17,7 +17,8 @@ H,
 AM,
 "",
 "/A.alt H",
-A
+A,
+/A.alt
 );
 classes = (
 {
@@ -371,7 +372,7 @@ unicode = 0041;
 {
 color = 6;
 glyphname = A.alt;
-lastChange = "2015-07-14 16:23:56 +0000";
+lastChange = "2015-07-14 16:42:02 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -479,8 +480,8 @@ paths = (
 closed = 1;
 nodes = (
 "992 0 LINE",
-"992 104 LINE",
-"609 104 LINE",
+"992 105 LINE",
+"609 105 LINE",
 "609 0 LINE"
 );
 },
@@ -488,8 +489,8 @@ nodes = (
 closed = 1;
 nodes = (
 "358 0 LINE",
-"358 104 LINE",
-"-25 104 LINE",
+"358 105 LINE",
+"-25 105 LINE",
 "-25 0 LINE"
 );
 },
