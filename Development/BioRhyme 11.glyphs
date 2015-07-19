@@ -63,7 +63,7 @@ t,
 u,
 /u.alt,
 v,
-w,
+Ww,
 x,
 /x.alt,
 y,
@@ -166,7 +166,7 @@ angle = 90;
 position = "{1071, 387}";
 },
 {
-position = "{573, -37}";
+position = "{573, -45}";
 }
 );
 horizontalStems = (
@@ -9086,21 +9086,12 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-07-19 17:54:19 +0000";
+lastChange = "2015-07-19 18:31:33 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
-{
-closed = 1;
-nodes = (
-"213 497 LINE",
-"171 497 LINE",
-"490 -28 LINE",
-"534 -28 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -9122,19 +9113,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"533 -28 LINE",
-"917 497 LINE",
-"878 497 LINE",
-"492 -28 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "618 497 LINE",
 "576 497 LINE",
-"950 -28 LINE",
-"994 -28 LINE"
+"972 -45 LINE",
+"984 -7 LINE"
 );
 },
 {
@@ -9149,10 +9131,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"993 -28 LINE",
+"972 -45 LINE",
 "1312 497 LINE",
 "1273 497 LINE",
-"952 -28 LINE"
+"961 -6 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"917 497 LINE",
+"878 497 LINE",
+"515.185 11.0015 LINE",
+"213 497 LINE",
+"171 497 LINE",
+"510 -45 LINE",
+"510.63 -43.6296 LINE",
+"511 -45 LINE"
 );
 }
 );
