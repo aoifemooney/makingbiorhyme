@@ -80,7 +80,8 @@ z,
 "\U00BF",
 /ampersand.alt,
 HXHYHZH,
-"/f.alt f"
+"/f.alt f",
+",i"
 );
 classes = (
 {
@@ -9022,7 +9023,7 @@ unicode = 0077;
 {
 color = 4;
 glyphname = x;
-lastChange = "2015-07-19 18:43:48 +0000";
+lastChange = "2015-07-19 18:44:13 +0000";
 layers = (
 {
 background = {
@@ -9130,7 +9131,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"670 90 OFFCURVE",
+"665 85 OFFCURVE",
 "749 -39 OFFCURVE",
 "881 -39 CURVE SMOOTH",
 "1015 -39 OFFCURVE",
@@ -9141,9 +9142,9 @@ nodes = (
 "980 -6 OFFCURVE",
 "883 -6 CURVE SMOOTH",
 "780 -6 OFFCURVE",
-"710 93 OFFCURVE",
+"705 88 OFFCURVE",
 "570 269 CURVE SMOOTH",
-"452 418 OFFCURVE",
+"457 421 OFFCURVE",
 "378 520 OFFCURVE",
 "244 520 CURVE SMOOTH",
 "105 520 OFFCURVE",
@@ -9154,7 +9155,7 @@ nodes = (
 "140 487 OFFCURVE",
 "242 487 CURVE SMOOTH",
 "351 487 OFFCURVE",
-"425 399 OFFCURVE",
+"430 403 OFFCURVE",
 "543 250 CURVE SMOOTH"
 );
 }
@@ -10597,7 +10598,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2015-07-09 20:09:20 +0000";
+lastChange = "2015-07-19 18:47:00 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10606,22 +10607,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"249 47 OFFCURVE",
-"219 74 OFFCURVE",
-"177 74 CURVE",
-"142 74 OFFCURVE",
+"269 47 OFFCURVE",
+"241 74 OFFCURVE",
+"189 74 CURVE SMOOTH",
+"144 74 OFFCURVE",
 "117 53 OFFCURVE",
-"117 24 CURVE SMOOTH",
-"117 -9 OFFCURVE",
-"155 -28 OFFCURVE",
-"211 -22 CURVE",
-"204 -76 OFFCURVE",
-"165 -137 OFFCURVE",
+"117 25 CURVE SMOOTH",
+"117 1 OFFCURVE",
+"143 -18 OFFCURVE",
+"181 -18 CURVE SMOOTH",
+"202 -18 OFFCURVE",
+"220 -16 OFFCURVE",
+"236 -12 CURVE",
+"224 -74 OFFCURVE",
+"167 -137 OFFCURVE",
 "95 -202 CURVE",
 "112 -219 LINE",
 "199 -150 OFFCURVE",
-"249 -60 OFFCURVE",
-"249 2 CURVE"
+"269 -60 OFFCURVE",
+"269 2 CURVE SMOOTH"
 );
 }
 );
