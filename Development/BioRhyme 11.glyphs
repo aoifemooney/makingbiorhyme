@@ -3,7 +3,6 @@ DisplayStrings = (
 "Hhp\012Hhh",
 "\U00C3",
 R,
-"",
 "CG/S.alt S",
 /A.alt,
 A,
@@ -32,17 +31,11 @@ W,
 X,
 Y,
 Z,
-"",
-"",
 /a.alt2,
 b,
 hcop,
-"",
 e,
-"",
 "/f.alt f",
-"",
-"",
 g,
 /g.alt,
 h,
@@ -80,7 +73,6 @@ z,
 "\U00BF",
 /ampersand.alt,
 HXHYHZH,
-"/f.alt f",
 ",i",
 ",/quoteright",
 ";",
@@ -124,7 +116,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub R by R.alt;\012sub Q by Q.alt;\012sub A by A.alt;\012";
+code = "sub R by R.alt;\012sub Q by Q.alt;\012sub A by A.alt;\012sub S by S.alt;\012\012";
 name = ss01;
 },
 {
