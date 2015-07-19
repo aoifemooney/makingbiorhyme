@@ -50,6 +50,32 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 700;
+customParameters = (
+{
+name = hheaAscender;
+value = "New Value";
+},
+{
+name = hheaDescender;
+value = "New Value";
+},
+{
+name = hheaLineGap;
+value = "New Value";
+},
+{
+name = typoAscender;
+value = "New Value";
+},
+{
+name = typoDescender;
+value = "New Value";
+},
+{
+name = typoLineGap;
+value = "New Value";
+}
+);
 descender = "-235";
 guideLines = (
 {
