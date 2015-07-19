@@ -94,7 +94,7 @@ HXHYHZH,
 "*",
 "#",
 hijklmnpqru/u.alt,
-HHHHUHHOHOOUOOJOHJUH
+"HHHHUHHOHOOUOOJOHJ()[]UH"
 );
 classes = (
 {
@@ -11211,7 +11211,7 @@ unicode = 007D;
 },
 {
 glyphname = bracketleft;
-lastChange = "2015-07-09 19:13:44 +0000";
+lastChange = "2015-07-19 19:07:47 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -11229,9 +11229,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"123 800 LINE",
-"410 800 LINE",
-"410 834 LINE",
+"123 801 LINE",
+"440 801 LINE",
+"440 834 LINE",
 "123 834 LINE"
 );
 },
@@ -11239,13 +11239,13 @@ nodes = (
 closed = 1;
 nodes = (
 "123 -137 LINE",
-"410 -137 LINE",
-"410 -103 LINE",
-"123 -103 LINE"
+"440 -137 LINE",
+"440 -104 LINE",
+"123 -104 LINE"
 );
 }
 );
-width = 410;
+width = 480;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -11262,18 +11262,18 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2015-07-09 19:13:41 +0000";
+lastChange = "2015-07-19 19:06:59 +0000";
 layers = (
 {
 components = (
 {
 name = bracketleft;
-transform = "{-1, 0, 0, -1, 410, 697}";
+transform = "{-1, 0, 0, -1, 450, 697}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 410;
+width = 450;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -11290,7 +11290,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2015-07-09 19:13:33 +0000";
+lastChange = "2015-07-19 19:07:58 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -11299,24 +11299,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"120 90 OFFCURVE",
-"274 -92 OFFCURVE",
-"395 -155 CURVE",
-"406 -128 LINE",
-"302 -65 OFFCURVE",
-"155 101 OFFCURVE",
+"120 70 OFFCURVE",
+"305 -92 OFFCURVE",
+"426 -155 CURVE",
+"437 -128 LINE",
+"333 -65 OFFCURVE",
+"155 81 OFFCURVE",
 "155 350 CURVE",
-"155 599 OFFCURVE",
-"302 765 OFFCURVE",
-"406 828 CURVE",
-"395 855 LINE",
-"274 792 OFFCURVE",
-"120 610 OFFCURVE",
+"155 619 OFFCURVE",
+"333 765 OFFCURVE",
+"437 828 CURVE",
+"426 855 LINE",
+"305 792 OFFCURVE",
+"120 630 OFFCURVE",
 "120 350 CURVE"
 );
 }
 );
-width = 406;
+width = 477;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -11333,18 +11333,18 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2015-07-09 19:13:37 +0000";
+lastChange = "2015-07-19 19:06:51 +0000";
 layers = (
 {
 components = (
 {
 name = parenleft;
-transform = "{-1, 0, 0, -1, 406, 700}";
+transform = "{-1, 0, 0, -1, 446, 700}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 406;
+width = 446;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
