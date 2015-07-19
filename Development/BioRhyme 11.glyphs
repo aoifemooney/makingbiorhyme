@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "Hhp\012Hhh",
-"\U00C3"
+"\U00C3",
+R
 );
 classes = (
 {
@@ -3111,7 +3112,7 @@ width = 600;
 {
 color = 4;
 glyphname = R;
-lastChange = "2015-07-09 20:56:40 +0000";
+lastChange = "2015-07-19 17:14:01 +0000";
 layers = (
 {
 background = {
@@ -3186,6 +3187,11 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+position = "{679, -375}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
