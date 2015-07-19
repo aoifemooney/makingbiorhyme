@@ -2,7 +2,8 @@
 DisplayStrings = (
 "Hhp\012Hhh",
 "\U00C3",
-R
+R,
+d
 );
 classes = (
 {
@@ -44,14 +45,15 @@ name = ss04;
 fontMaster = (
 {
 alignmentZones = (
+"{900, 16}",
 "{800, 36}",
 "{700, 39}",
 "{510, 29}",
 "{0, -15}",
 "{-235, -15}"
 );
-ascender = 800;
-capHeight = 700;
+ascender = 900;
+capHeight = 800;
 customParameters = (
 {
 name = hheaAscender;
@@ -78,7 +80,7 @@ name = typoLineGap;
 value = "New Value";
 }
 );
-descender = "-235";
+descender = "-135";
 guideLines = (
 {
 position = "{421, -28}";
@@ -102,7 +104,7 @@ weight = Light;
 weightValue = 200;
 width = Extended;
 widthValue = 200;
-xHeight = 510;
+xHeight = 610;
 },
 {
 alignmentZones = (
@@ -112,9 +114,9 @@ alignmentZones = (
 "{0, -15}",
 "{-200, -16}"
 );
-ascender = 700;
-capHeight = 700;
-descender = "-200";
+ascender = 800;
+capHeight = 800;
+descender = "-100";
 guideLines = (
 {
 position = "{296, -29}";
@@ -138,7 +140,7 @@ verticalStems = (
 );
 weight = Light;
 weightValue = 200;
-xHeight = 510;
+xHeight = 610;
 },
 {
 alignmentZones = (
@@ -149,9 +151,9 @@ alignmentZones = (
 "{0, -15}",
 "{-200, -16}"
 );
-ascender = 700;
-capHeight = 700;
-descender = "-200";
+ascender = 800;
+capHeight = 800;
+descender = "-100";
 guideLines = (
 {
 position = "{403, 537}";
@@ -171,7 +173,7 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 600;
-xHeight = 510;
+xHeight = 610;
 }
 );
 glyphs = (
