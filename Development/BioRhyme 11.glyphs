@@ -115,7 +115,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub R by R.alt;\012sub Q by Q.alt;\012sub A by A.alt;\012sub S by S.alt;\012\012";
+code = "sub R by R.alt;\012sub Q by Q.alt;\012sub A by A.alt;\012sub S by S.alt;\012sub ampersand by ampersand.alt;\012\012\012";
 name = ss01;
 },
 {
@@ -123,11 +123,11 @@ code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u b
 name = ss02;
 },
 {
-code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub x by x.alt;\012sub s by s.alt;\012sub g by g.alt;\012sub s by s.alt2;\012sub c by c.alt;\012\012sub ampersand by ampersand.alt;\012\012\012";
+code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub x by x.alt;\012sub s by s.alt;\012sub g by g.alt;\012sub c by c.alt;\012\012\012";
 name = ss03;
 },
 {
-code = "sub ampersand by ampersand.alt;\012";
+code = "sub ampersand by ampersand.alt;\012sub s by s.alt2;\012\012";
 name = ss04;
 }
 );
