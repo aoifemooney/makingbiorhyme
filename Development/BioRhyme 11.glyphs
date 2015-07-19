@@ -9086,7 +9086,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-07-19 18:31:33 +0000";
+lastChange = "2015-07-19 18:31:51 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -9113,28 +9113,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"618 497 LINE",
-"576 497 LINE",
-"972 -45 LINE",
-"984 -7 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "1119 510 LINE",
 "1119 477 LINE",
 "1480 477 LINE",
 "1480 510 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"972 -45 LINE",
-"1312 497 LINE",
-"1273 497 LINE",
-"961 -6 LINE"
 );
 },
 {
@@ -9145,9 +9127,18 @@ nodes = (
 "515.185 11.0015 LINE",
 "213 497 LINE",
 "171 497 LINE",
-"510 -45 LINE",
-"510.63 -43.6296 LINE",
 "511 -45 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1273 497 LINE",
+"971.261 10.5424 LINE",
+"618 497 LINE",
+"576 497 LINE",
+"972 -45 LINE",
+"1312 497 LINE"
 );
 }
 );
