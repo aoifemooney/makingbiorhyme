@@ -69,11 +69,11 @@ value = 355;
 },
 {
 name = typoAscender;
-value = 900;
+value = 725;
 },
 {
 name = typoDescender;
-value = "-135";
+value = 100;
 },
 {
 name = typoLineGap;
@@ -116,6 +116,32 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 800;
+customParameters = (
+{
+name = hheaAscender;
+value = 725;
+},
+{
+name = hheaDescender;
+value = 100;
+},
+{
+name = hheaLineGap;
+value = 355;
+},
+{
+name = typoAscender;
+value = 725;
+},
+{
+name = typoDescender;
+value = 100;
+},
+{
+name = typoLineGap;
+value = 355;
+}
+);
 descender = "-100";
 guideLines = (
 {
@@ -153,6 +179,32 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 800;
+customParameters = (
+{
+name = hheaAscender;
+value = 725;
+},
+{
+name = hheaDescender;
+value = 100;
+},
+{
+name = hheaLineGap;
+value = 355;
+},
+{
+name = typoAscender;
+value = 725;
+},
+{
+name = typoDescender;
+value = 100;
+},
+{
+name = typoLineGap;
+value = 355;
+}
+);
 descender = "-100";
 guideLines = (
 {
