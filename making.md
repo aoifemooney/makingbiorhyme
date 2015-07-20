@@ -1,7 +1,10 @@
 ---
-making
-BIORHYME
-————————
+layout: default
+title: making BioRhyme
+---
+
+making BIORHYME
+---
 
 July 20th, 2015
 
