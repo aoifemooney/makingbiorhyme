@@ -1,3 +1,7 @@
+---
+title: Introduction
+---
+
 **LOGOTYPE as PROTOTYPE**
 
 *Proposal for Google ‘Making BioRhyme’ (working title)Font Family Names: Biorhyme, Biorhyme ExtendedSet: Latin **[github.com/google/fonts/...latin_unique-glyphs.na*m](https://github.com/google/fonts/blob/master/tools/encodings/latin_unique-glyphs.nam)*Full list of fonts: (3 masters, 2 instances)Biorhyme Extra Light Extended: 200 Master (width 200), 200 InstanceBiorhyme Extra Light: 200 Master (width 100)Biorhyme Black: 600 Master (width 100), 400 instance (BioRhyme Regular width/weight)Hinting: ttfautohint*
