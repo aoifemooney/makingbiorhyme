@@ -90,7 +90,7 @@ c,
 d,
 /d.alt,
 e,
-ndp,
+nHdp,
 s,
 /s.alt2,
 u,
@@ -156,8 +156,8 @@ alignmentZones = (
 "{0, -11}",
 "{-165, -11}"
 );
-ascender = 630;
-capHeight = 560;
+ascender = 560;
+capHeight = 490;
 customParameters = (
 {
 name = hheaAscender;
@@ -184,7 +184,7 @@ name = typoLineGap;
 value = 248;
 }
 );
-descender = -95;
+descender = -165;
 guideLines = (
 {
 position = "{287, -20}";
@@ -209,7 +209,7 @@ weight = Light;
 weightValue = 200;
 width = Extended;
 widthValue = 200;
-xHeight = 427;
+xHeight = 357;
 },
 {
 alignmentZones = (
