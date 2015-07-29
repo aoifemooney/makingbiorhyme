@@ -9352,7 +9352,7 @@ unicode = 0077;
 {
 color = 4;
 glyphname = x;
-lastChange = "2015-07-29 20:00:54 +0000";
+lastChange = "2015-07-29 20:02:29 +0000";
 layers = (
 {
 background = {
@@ -9486,6 +9486,42 @@ nodes = (
 "246 354 OFFCURVE",
 "301 292 OFFCURVE",
 "380 185 CURVE SMOOTH"
+);
+},
+{
+closed = 0;
+nodes = (
+"380 188 LINE",
+"105 9 LINE",
+"142 9 LINE",
+"395 173 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"18 0 LINE",
+"326 0 LINE",
+"326 23 LINE",
+"18 23 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"380 195 LINE",
+"633 359 LINE",
+"670 359 LINE",
+"395 180 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"757 368 LINE",
+"449 368 LINE",
+"449 345 LINE",
+"757 345 LINE"
 );
 }
 );
