@@ -13,7 +13,7 @@ HE,
 I,
 JK,
 K,
-L,
+LFE,
 M,
 N,
 O,
@@ -210,6 +210,9 @@ position = "{750, 271}";
 {
 alignment = center;
 position = "{440, -20}";
+},
+{
+position = "{446, 186}";
 }
 );
 horizontalStems = (
@@ -1407,7 +1410,7 @@ unicode = 00D0;
 },
 {
 glyphname = E;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-01 13:02:55 +0000";
 layers = (
 {
 background = {
@@ -1463,6 +1466,11 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+position = "{417, 307}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -2075,8 +2083,9 @@ width = 420;
 unicode = 0049;
 },
 {
+color = 6;
 glyphname = J;
-lastChange = "2015-08-01 12:59:15 +0000";
+lastChange = "2015-08-01 13:02:05 +0000";
 layers = (
 {
 background = {
@@ -2163,8 +2172,9 @@ width = 420;
 unicode = 004A;
 },
 {
+color = 6;
 glyphname = K;
-lastChange = "2015-08-01 13:01:24 +0000";
+lastChange = "2015-08-01 13:02:05 +0000";
 layers = (
 {
 background = {
@@ -2317,8 +2327,9 @@ width = 420;
 unicode = 004B;
 },
 {
+color = 6;
 glyphname = L;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-01 13:03:02 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -2346,8 +2357,8 @@ nodes = (
 closed = 1;
 nodes = (
 "789 0 LINE",
-"789 225 LINE",
-"764 225 LINE",
+"789 186 LINE",
+"764 186 LINE",
 "764 23 LINE",
 "56 23 LINE",
 "56 0 LINE"
