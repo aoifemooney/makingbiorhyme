@@ -9731,53 +9731,10 @@ unicode = 0078;
 },
 {
 glyphname = x.alt;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-01 22:01:41 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 0;
-nodes = (
-"670 169 LINE",
-"799 214 OFFCURVE",
-"939 250 OFFCURVE",
-"977 366 CURVE",
-"953 371 LINE",
-"923 271 OFFCURVE",
-"800 231 OFFCURVE",
-"664 191 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"518 187 OFFCURVE",
-"637 239 OFFCURVE",
-"637 330 CURVE",
-"637 354 LINE",
-"484 354 LINE",
-"484 330 LINE",
-"614 330 LINE",
-"614 250 OFFCURVE",
-"504 207 OFFCURVE",
-"359 179 CURVE SMOOTH",
-"202 148 OFFCURVE",
-"87 81 OFFCURVE",
-"87 4 CURVE",
-"87 -20 LINE",
-"240 -20 LINE",
-"240 5 LINE",
-"110 5 LINE",
-"110 69 OFFCURVE",
-"216 126 OFFCURVE",
-"365 156 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-name = "Light Extended";
 paths = (
 {
 closed = 1;
@@ -9839,6 +9796,131 @@ nodes = (
 "355 179 LINE",
 "124 0 LINE",
 "161 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"124 350 LINE",
+"573 0 LINE",
+"610 0 LINE",
+"161 350 LINE"
+);
+}
+);
+};
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"270 334 LINE",
+"270 357 LINE",
+"18 357 LINE",
+"18 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"124 350 LINE",
+"358 168 LINE",
+"363 168 LINE",
+"573 0 LINE",
+"610 0 LINE",
+"386 180 LINE",
+"381 180 LINE",
+"161 350 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"456 23 LINE",
+"456 0 LINE",
+"709 0 LINE",
+"709 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"709 357 LINE",
+"456 357 LINE",
+"456 334 LINE",
+"709 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"18 0 LINE",
+"270 0 LINE",
+"270 23 LINE",
+"18 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 334 LINE",
+"270 357 LINE",
+"18 357 LINE",
+"18 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"124 350 LINE",
+"358 168 LINE",
+"363 168 LINE",
+"573 0 LINE",
+"610 0 LINE",
+"386 180 LINE",
+"381 180 LINE",
+"161 350 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"456 23 LINE",
+"456 0 LINE",
+"709 0 LINE",
+"709 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"709 357 LINE",
+"456 357 LINE",
+"456 334 LINE",
+"709 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"18 0 LINE",
+"270 0 LINE",
+"270 23 LINE",
+"18 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"353 180 LINE",
+"348 180 LINE",
+"124 0 LINE",
+"161 0 LINE",
+"371 168 LINE",
+"376 168 LINE",
+"610 350 LINE",
+"573 350 LINE"
 );
 }
 );
