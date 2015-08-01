@@ -15,7 +15,7 @@ JK,
 K,
 LFE,
 M,
-N,
+MNH,
 O,
 P,
 Q,
@@ -2382,7 +2382,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2015-08-01 14:53:19 +0000";
+lastChange = "2015-08-01 14:55:08 +0000";
 layers = (
 {
 background = {
@@ -2460,11 +2460,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"997 490 LINE",
-"968 490 LINE",
-"614 12 LINE",
-"259 490 LINE",
-"228 490 LINE",
+"998 490 LINE",
+"969 490 LINE",
+"614 11 LINE",
+"258 490 LINE",
+"227 490 LINE",
 "614 -27 LINE"
 );
 },
@@ -2674,7 +2674,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-01 14:56:39 +0000";
 layers = (
 {
 background = {
@@ -2712,12 +2712,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"216 490 LINE",
+"215 490 LINE",
 "906 -26 LINE",
 "906 477 LINE",
 "881 477 LINE",
 "881 24 LINE",
-"260 490 LINE"
+"259 490 LINE"
 );
 },
 {
@@ -2736,6 +2736,24 @@ nodes = (
 "56 490 LINE",
 "56 467 LINE",
 "259 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"906 13 LINE",
+"906 479 LINE",
+"881 479 LINE",
+"881 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1087 467 LINE",
+"1087 490 LINE",
+"701 490 LINE",
+"701 467 LINE"
 );
 }
 );
