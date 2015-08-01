@@ -4261,73 +4261,10 @@ unicode = 0057;
 },
 {
 glyphname = X;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-01 15:38:33 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"793 477 LINE",
-"463 170 LINE",
-"134 477 LINE",
-"103 477 LINE",
-"463 137 LINE",
-"823 477 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-51 490 LINE",
-"-51 466 LINE",
-"286 466 LINE",
-"286 490 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"640 490 LINE",
-"640 466 LINE",
-"976 466 LINE",
-"976 490 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"133 -152 LINE",
-"463 155 LINE",
-"792 -152 LINE",
-"823 -152 LINE",
-"463 189 LINE",
-"104 -152 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"977 -165 LINE",
-"977 -141 LINE",
-"641 -141 LINE",
-"641 -165 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"286 -165 LINE",
-"286 -141 LINE",
-"-50 -141 LINE",
-"-50 -165 LINE"
-);
-}
-);
-};
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-name = "Light Extended";
 paths = (
 {
 closed = 1;
@@ -4381,6 +4318,91 @@ nodes = (
 "25 23 LINE",
 "25 0 LINE",
 "361 0 LINE"
+);
+}
+);
+};
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"26 490 LINE",
+"26 467 LINE",
+"363 467 LINE",
+"363 490 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"886 0 LINE",
+"886 23 LINE",
+"550 23 LINE",
+"550 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"739 12 LINE",
+"467 246 LINE",
+"464 246 LINE",
+"194 477 LINE",
+"158 477 LINE",
+"445 230 LINE",
+"448 230 LINE",
+"703 12 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"548 467 LINE",
+"885 467 LINE",
+"885 490 LINE",
+"548 490 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"361 23 LINE",
+"25 23 LINE",
+"25 0 LINE",
+"361 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"363 23 LINE",
+"26 23 LINE",
+"26 0 LINE",
+"363 0 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"550 467 LINE",
+"886 467 LINE",
+"886 490 LINE",
+"550 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"448 260 LINE",
+"445 260 LINE",
+"158 13 LINE",
+"194 13 LINE",
+"464 244 LINE",
+"467 244 LINE",
+"739 478 LINE",
+"703 478 LINE"
 );
 }
 );
