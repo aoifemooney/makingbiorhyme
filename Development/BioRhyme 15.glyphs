@@ -4,7 +4,6 @@ DisplayStrings = (
 "\U00C3",
 CG,
 B,
-CG,
 D,
 E,
 F,
@@ -119,11 +118,10 @@ y,
 A/A.alt,
 "/Q.alt u/R.alt u",
 R/R.alt,
-SCG,
-",i",
 /quotesinglbase,
 nhjkl,
-"nnann/a.alt2 nnbnndHnn/d.alt nnnnfnn/f.alt nnhnninnknnlnnmnnnHpnnqnnrnnunn/u.alt nn"
+"nnann/a.alt2 nnbnndHnn/d.alt nnnnfnn/f.alt nnhnninnknnlnnmnnnHpnnqnnrnnunn/u.alt nn",
+/two.001
 );
 classes = (
 {
@@ -10865,6 +10863,67 @@ nodes = (
 }
 );
 width = 687;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 420;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
+width = 420;
+}
+);
+},
+{
+glyphname = two.001;
+lastChange = "2015-08-07 14:36:01 +0000";
+layers = (
+{
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"436 166 LINE SMOOTH",
+"574 228 OFFCURVE",
+"640 276 OFFCURVE",
+"640 358 CURVE SMOOTH",
+"640 447 OFFCURVE",
+"525 490 OFFCURVE",
+"398 490 CURVE SMOOTH",
+"257 490 OFFCURVE",
+"151 438 OFFCURVE",
+"77 372 CURVE",
+"91 356 LINE",
+"167 420 OFFCURVE",
+"268 467 OFFCURVE",
+"398 467 CURVE SMOOTH",
+"521 467 OFFCURVE",
+"615 427 OFFCURVE",
+"615 359 CURVE SMOOTH",
+"615 293 OFFCURVE",
+"559 242 OFFCURVE",
+"428 185 CURVE SMOOTH",
+"58 23 LINE",
+"83 6 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"652 0 LINE",
+"652 172 LINE",
+"628 172 LINE",
+"628 23 LINE",
+"59 23 LINE",
+"59 0 LINE"
+);
+}
+);
+width = 736;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
