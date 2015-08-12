@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Progress Reports"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg

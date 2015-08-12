@@ -27,11 +27,9 @@ $accent: #24536B;
 /* Typography
    ========================================================================== */
 
-$sans: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-$serif: "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
+$sans: "Cantarell", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+$serif: "Cantarell", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 
-   
-   
 /* Type Scale
    ========================================================================== */
 
@@ -52,7 +50,7 @@ $fs6:12px;
 $lh: 33px;
 $lhsmall: 24px;
 
-// Sizing 
+// Sizing
 $footerHeight: 320px;
 
 // Griddit
@@ -61,7 +59,7 @@ $footerHeight: 320px;
 
 /* Break Points
    ========================================================================== */
-   
+
 /* Mobile */
 $breakpoint-1-max-width:480px;
 
@@ -73,4 +71,3 @@ $breakpoint-3-max-width:1200px;
    ========================================================================== */
 
 $borderR: 4px;
-
