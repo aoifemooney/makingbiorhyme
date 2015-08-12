@@ -1,20 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Tufte</title>
+    <description>A Jekyll theme for content-rich sites</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 11 Aug 2015 21:18:32 -0400</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2015 21:18:32 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Tufte-style Jekyll blog</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;The Tufte Jekyll theme&lt;/span&gt;  is an attempt to create a website design with the look and feel of Edward Tufte’s books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.&lt;!--more--&gt; The idea for this project is essentially cribbed wholesale from Tufte and R Markdown’s Tufte Handout format&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; See &lt;a href=&quot;https://code.google.com/p/tufte-latex&quot;&gt;code.google.com/p/tufte-latex&lt;/a&gt;&lt;/span&gt; This page is an adaptation of the &lt;a href=&quot;http://rmarkdown.rstudio.com/examples/tufte-handout.pdf&quot;&gt;Tufte Handout PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll-customizations&quot;&gt;Jekyll customizations&lt;/h2&gt;
+
+&lt;p&gt;This Jekyll blog theme is based on a github repository by Dave Liepmann &lt;a href=&quot;https://github.com/daveliepmann/tufte-css&quot;&gt;here&lt;/a&gt;, which in turn was based on the &lt;a href=&quot;http://rmarkdown.rstudio.com/examples/tufte-handout.pdf&quot;&gt;R Markdown Tufte Handout&lt;/a&gt;. I borrowed freely from Dave’s repo and have transformed many of the typographic and page-structural features into a set of custom Liquid tags that make creating content using this style much easier than writing straight HTML. Essentially, if you know markdown, and mix in a few custom Liquid tags, you can be creating a website with this document style in short order. &lt;/p&gt;
+
+&lt;h2 id=&quot;basics&quot;&gt;Basics&lt;/h2&gt;
+
+&lt;h3 id=&quot;color&quot;&gt;Color&lt;/h3&gt;
+
+&lt;p&gt;Although paper handouts obviously have a pure white background, the web is better served by the use of slightly off-white and off-black colors. I picked &lt;code&gt;#fffff8&lt;/code&gt; and &lt;code&gt;#111111&lt;/code&gt; because they are nearly indistinguishable from their ‘pure’ cousins, but dial down the harsh contrast. Tufte’s books are a study in spare, minimalist design. In his book &lt;a href=&quot;http://www.edwardtufte.com/tufte/books_vdqi&quot;&gt;The Visual Display of Quantitative Information&lt;/a&gt;, he uses a red ink to add some visual punctuation to the buff colored paper and dark ink. In that spirit, links are styled using a similar red color. &lt;/p&gt;
+
+&lt;h3 id=&quot;headings&quot;&gt;Headings&lt;/h3&gt;
+
+&lt;p&gt;Tufte CSS styles headings &lt;code&gt;h1&lt;/code&gt;, &lt;code&gt;h2&lt;/code&gt;, and &lt;code&gt;h3&lt;/code&gt;, making them nearly identical except for font size. The &lt;code&gt;h1&lt;/code&gt; should be used as a title, the &lt;code&gt;h2&lt;/code&gt;for section headings, and &lt;code&gt;h3&lt;/code&gt; for subsection headings.&lt;/p&gt;
+
+&lt;p&gt;While this Jekyll theme supports more specific headings, if you feel the urge to reach for a heading of level 4 or higher, consider redesigning your document.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;In his later books&lt;/span&gt; &lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; &lt;a href=&quot;http://www.edwardtufte.com/tufte/books_be&quot;&gt;http://www.edwardtufte.com/tufte/books_be&lt;/a&gt;&lt;/span&gt;, Tufte starts each section with a bit of vertical space, a non-indented paragraph, and sets the first few words of the sentence in small caps. To accomplish this using this style, enclose the sentence fragment you want styled with small caps in a custom Liquid tag called ‘newthought’ like so:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{% newthought &#39;In his later books&#39; %}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;font&quot;&gt;Font&lt;/h3&gt;
+
+&lt;p&gt;In print, Tufte uses the proprietary Monotype Bembo&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; &lt;a href=&quot;http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Vt&quot;&gt;http://www.edwardtufte.com/bboard&lt;/a&gt;&lt;/span&gt; font. Electronically he uses ETBembo, available under the MIT license through Edward Tufte, Adam Schwartz, and Marc Neuwirth’s &lt;a href=&quot;https://github.com/edwardtufte/presenter&quot;&gt;&lt;em&gt;Presenter&lt;/em&gt;&lt;/a&gt; project. The Tufte Jekyll Theme CSS uses ETBembo through the use of &lt;code&gt;@font-face&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Code snippets ape GitHub’s font selection using Microsoft’s &lt;a href=&quot;http://www.microsoft.com/typography/ClearTypeFonts.mspx&quot;&gt;&lt;em&gt;Consolas&lt;/em&gt;&lt;/a&gt; and the sans-serif font uses Tufte’s choice of Gill Sans. Since this is not a free font, and some systems will not have it installed, the free google font &lt;a href=&quot;https://www.google.com/fonts/specimen/Lato&quot;&gt;&lt;em&gt;Lato&lt;/em&gt;&lt;/a&gt; is designated as a fallback.&lt;/p&gt;
+
+&lt;h2 id=&quot;figures&quot;&gt;Figures&lt;/h2&gt;
+
+&lt;h3 id=&quot;margin-figures&quot;&gt;Margin Figures&lt;/h3&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/figure1.png&quot; /&gt;Figure 1: Sepal length vs. petal length, colored by species&lt;/span&gt;Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the &lt;code&gt;_plugins&lt;/code&gt; directory like so: &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{% marginfigure /assets/img/figure1.png &#39;Figure 1: Sepal length vs. petal length, colored by species&#39;  %}&lt;/code&gt;. &lt;/p&gt;
+
+&lt;p&gt;Note that the caption &lt;em&gt;must&lt;/em&gt; be enclosed in quotes for the simple liquid tag to work!&lt;/p&gt;
+
+&lt;h3 id=&quot;equations&quot;&gt;Equations&lt;/h3&gt;
+
+&lt;p&gt;The Markdown parser being used by this Jekyll theme is Kramdown, which contains some built-in &lt;a href=&quot;//www.mathjax.org&quot;&gt;Mathjax&lt;/a&gt; support. Both inline and block-level mathematical figures can be added to the content.&lt;/p&gt;
+
+&lt;p&gt;For instance, the following inline sequence: &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;When &lt;script type=&quot;math/tex&quot;&gt;a \ne 0&lt;/script&gt;, there are two solutions to &lt;script type=&quot;math/tex&quot;&gt;ax^2 + bx + c = 0&lt;/script&gt;&lt;/em&gt; &lt;/p&gt;
+
+&lt;p&gt;is written by enclosing a Mathjax expression with a &lt;em&gt;Liquid inline tag pair&lt;/em&gt; (‘m’ and ‘em’) like so: &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;When {% m %} a \ne 0{% em %}, there are two solutions to {% m %}ax^2 + bx + c = 0{% em %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Similarly, this block-level Mathjax expression: &lt;script type=&quot;math/tex; mode=display&quot;&gt;x = {-b \pm \sqrt{b^2-4ac} \over 2a}.&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;is written by enclosing the expression with a &lt;em&gt;Liquid block tag pair&lt;/em&gt; (‘math’ and ‘endmath’) like so:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath  %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;You can get pretty fancy, for instance, the wave equation’s nabla is no big thing&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{\partial^2 y}{\partial t^2}= c^2\nabla^2u&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;All of the standard Latex equation markup is available to use inside these block tags. &lt;/p&gt;
+
+&lt;h3 id=&quot;full-width-figures&quot;&gt;Full Width Figures&lt;/h3&gt;
+
+&lt;p&gt;If you need a full-width image or figure, another custom liquid tag is available to use. Oddly enough, it is named ‘fullwidth’, and this markup:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{% fullwidth /assets/img/figure2.png &#39;Full width figure&#39;  %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Yields this:&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/figure2.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Full width figure&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;qplot(wt, mpg, data = mtcars, colour = factor(cyl) )&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;main-column-figures&quot;&gt;Main Column Figures&lt;/h3&gt;
+
+&lt;p&gt;Besides margin and full width figures, you can of course also include figures constrained to the main column. Yes, you guessed it, a custom liquid tag rides to the rescue once again:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{% maincolumn /assets/img/figure3.png &#39;This is a caption for the image to the left&#39;  %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;yields this:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;This is a caption for the image to the left&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/figure3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sidenotes-and-margin-notes&quot;&gt;Sidenotes and Margin notes&lt;/h2&gt;
+
+&lt;p&gt;One of the most prominent and distinctive features of Tufte’s style is the extensive use of sidenotes and margin notes. Perhaps you have noticed their use in this document already. You are very astute.&lt;/p&gt;
+
+&lt;p&gt;There is a wide margin to provide ample room for sidenotes and small figures. I have preserved a slight semantic distinction between &lt;em&gt;sidenotes&lt;/em&gt; and &lt;em&gt;marginnotes&lt;/em&gt;. &lt;/p&gt;
+
+&lt;h3 id=&quot;sidenotes&quot;&gt;Sidenotes&lt;/h3&gt;
+
+&lt;p&gt;Sidenotes&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; This is a sidenote and &lt;em&gt;contains a superscript&lt;/em&gt;&lt;/span&gt; contain a superscript. Right now, it is up to you to maintain the numbering system with these Liquid tags. Perhaps some clever person who takes a shine to this Jekyll theme will fork the repository and use some Ruby-fu and modify the &lt;code&gt;sidenote.rb&lt;/code&gt; plugin to keep track of the numbering for you. But right now, a sidenote like the one here is created with the following markup in Markdown (what?):&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{% sidenote 3 &#39;This is a sidenote and *contains a superscript*&#39;%}&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;margin-notes&quot;&gt;Margin notes&lt;/h3&gt;
+
+&lt;p&gt;Margin notes&lt;span class=&quot;marginnote&quot;&gt;This is a margin note &lt;em&gt;without&lt;/em&gt; a superscript&lt;/span&gt;  are similar to sidenotes, but do not contain a superscript. You can place anything you want in a margin note. Well, anything that is an inline element. Block level elements can make the Kramdown parser do strange things. Same sort of markup as a sidenote, but without a number involved:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{% marginnote &#39;This is a margin note *without* a superscript&#39; %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;Tabular data is presented with right-aligned text and minimal grid lines. Table captions are placed inside a &lt;em&gt;marginnote&lt;/em&gt; Liquid Tag above the table. Be careful to leave a blank line between the marginnote and the beginning of the table to avoid goofy shit happening during the parsing step. &lt;/p&gt;
+
+&lt;p&gt;Of course, a table can be created using the usual html markup (&lt;code&gt;&amp;lt;table&amp;gt;&amp;lt;thead&amp;gt;&amp;lt;tbody&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt; etc..&lt;/code&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Table 1: first row of metcars&lt;/span&gt; &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;mpg&lt;/th&gt;&lt;th&gt;cyl&lt;/th&gt;&lt;th&gt;disp&lt;/th&gt;&lt;th&gt;hp&lt;/th&gt;&lt;th&gt;drat&lt;/th&gt;&lt;th&gt;wt&lt;/th&gt;&lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;Mazda RX4&lt;/td&gt;&lt;td&gt;21.00&lt;/td&gt;&lt;td&gt;6.00&lt;/td&gt;&lt;td&gt;160.00&lt;/td&gt;&lt;td&gt;110.00&lt;/td&gt;&lt;td&gt;3.90&lt;/td&gt;&lt;td&gt;2.62&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Mazda RX4 Wag&lt;/td&gt;&lt;td&gt;21.00&lt;/td&gt;&lt;td&gt;6.00&lt;/td&gt;&lt;td&gt;160.00&lt;/td&gt;&lt;td&gt;110.00&lt;/td&gt;&lt;td&gt;3.90&lt;/td&gt;&lt;td&gt;2.88&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Datsun 710&lt;/td&gt;&lt;td&gt;22.80&lt;/td&gt;&lt;td&gt;4.00&lt;/td&gt;&lt;td&gt;108.00&lt;/td&gt;&lt;td&gt;93.00&lt;/td&gt;&lt;td&gt;3.85&lt;/td&gt;&lt;td&gt;2.32&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Hornet 4 Drive&lt;/td&gt;&lt;td&gt;21.40&lt;/td&gt;&lt;td&gt;6.00&lt;/td&gt;&lt;td&gt;258.00&lt;/td&gt;&lt;td&gt;110.00&lt;/td&gt;&lt;td&gt;3.08&lt;/td&gt;&lt;td&gt;3.21&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Hornet Sportabout&lt;/td&gt;&lt;td&gt;18.70&lt;/td&gt;&lt;td&gt;8.00&lt;/td&gt;&lt;td&gt;360.00&lt;/td&gt;&lt;td&gt;175.00&lt;/td&gt;&lt;td&gt;3.15&lt;/td&gt;&lt;td&gt;3.44&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Valiant&lt;/td&gt;&lt;td&gt;18.10&lt;/td&gt;&lt;td&gt;6.00&lt;/td&gt;&lt;td&gt;225.00&lt;/td&gt;&lt;td&gt;105.00&lt;/td&gt;&lt;td&gt;2.76&lt;/td&gt;&lt;td&gt;3.46&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Or&lt;/span&gt;  you can avail yourself of the Markdown Extra features built into Kramdown, and use the Markdown Extra table syntax to make the very same thing:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Table 2: same table with Markdown Extra markup and sane numerical precision&lt;/span&gt; &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;mpg&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;cyl&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;disp&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;hp&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;drat&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;wt&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Mazda RX4&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;160&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;110&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.90&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.62&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Mazda RX4 Wag&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;160&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;110&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.90&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.88&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Datsun 710&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;22.8&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;108&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;93&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.85&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.32&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Hornet 4 Drive&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21.4&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;258&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;110&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.08&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Hornet Sportabout&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;18.7&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;360&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;175&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.15&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.44&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Valiant&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;18.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;160&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;105&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.76&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.46&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Using the following markup(down):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;|                 |mpg  | cyl  |  disp  |   hp   |  drat  | wt  |
+|----------------:|----:|-----:|-------:|-------:|-------:|----:|
+|Mazda RX4        |21   |6     |160     |110     |3.90    |2.62 |
+etc..
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;Code samples use a monospace font using the ‘code’ class. The Kramdown parser has the ‘GFM’ option enabled, which stands for ‘Github Flavored Markdown’, and this means that both inline code such as &lt;code&gt;#include &amp;lt;stdio.h&amp;gt;&lt;/code&gt; and blocks of code can be delimited by surrounding them with 3 backticks:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(map tufte-style all-the-things)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;is created by the following markup:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```(map tufte-style all-the-things)```&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In theory, one should be able to append the language name right after the first three backticks and get some sexy code syntax highlighting, but for some reason, the only way I can make this work with the Kramdown and Rouge highlighting turned on is to enclose a block of code in the some Liquid tags. For instance, here is the Ruby code for one of the plugins included with this theme:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;RenderFullWidthTag&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Liquid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Tag&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;shellwords&amp;quot;&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tokens&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;
+      &lt;span class=&quot;vi&quot;&gt;@text&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shellsplit&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;div&amp;gt;&amp;lt;img class=&amp;#39;fullwidth&amp;#39; src=&amp;#39;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;#39;/&amp;gt;&amp;lt;/div&amp;gt; &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;
+      &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;p&amp;gt;&amp;lt;span class=&amp;#39;marginnote&amp;#39;&amp;gt;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;no&quot;&gt;Liquid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Template&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;register_tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;fullwidth&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;RenderFullWidthTag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Which is created by surrounding the code with the &lt;em&gt;highlight&lt;/em&gt; tag block pair:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{% highlight ruby %}
+module Jekyll 
+  blah, blah...
+Liquid::Template.register_tag(&#39;fullwidth&#39;, Jekyll::RenderFullWidthTag)
+{% endhighlight %}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For some reason, the &lt;em&gt;linenos&lt;/em&gt; tag modifier in the highlight tag totally screws up the code alignment, and I don’t feel like sorting it out at the moment. So either don’t use it, or figure it out and tell me what is going on so I can fix it.&lt;/p&gt;
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Aug 2015 18:04:21 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Aug 2015 18:04:21 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+        <pubDate>Thu, 19 Feb 2015 16:46:04 -0500</pubDate>
+        <link>/articles/15/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">/articles/15/tufte-style-jekyll-blog</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!&lt;br /&gt;
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.=]&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
@@ -24,12 +280,12 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 06 Aug 2015 14:00:59 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/08/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/08/06/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 08 Feb 2015 08:06:04 -0500</pubDate>
+        <link>/articles/15/welcome-to-jekyll</link>
+        <guid isPermaLink="true">/articles/15/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
