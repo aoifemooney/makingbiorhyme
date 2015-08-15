@@ -132,7 +132,8 @@ S,
 4,
 8,
 7,
-3
+3,
+"{("
 );
 classes = (
 {
@@ -232,6 +233,9 @@ position = "{446, 186}";
 },
 {
 position = "{587, -280}";
+},
+{
+position = "{173, 245}";
 }
 );
 horizontalStems = (
@@ -10230,7 +10234,7 @@ unicode = 00BA;
 },
 {
 glyphname = two.001;
-lastChange = "2015-08-07 16:08:10 +0000";
+lastChange = "2015-08-15 15:43:52 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -10239,28 +10243,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"426 160 LINE SMOOTH",
-"552 215 OFFCURVE",
+"418 156 LINE SMOOTH",
+"544 210 OFFCURVE",
 "630 261 OFFCURVE",
 "630 343 CURVE SMOOTH",
 "630 437 OFFCURVE",
-"510 490 OFFCURVE",
-"373 490 CURVE SMOOTH",
-"232 490 OFFCURVE",
-"101 441 OFFCURVE",
-"74 328 CURVE",
-"96 322 LINE",
-"128 429 OFFCURVE",
-"248 467 OFFCURVE",
-"373 467 CURVE SMOOTH",
-"506 467 OFFCURVE",
+"525 490 OFFCURVE",
+"388 490 CURVE SMOOTH",
+"262 490 OFFCURVE",
+"141 446 OFFCURVE",
+"74 353 CURVE",
+"91 338 LINE",
+"158 426 OFFCURVE",
+"273 467 OFFCURVE",
+"388 467 CURVE SMOOTH",
+"521 467 OFFCURVE",
 "605 417 OFFCURVE",
 "605 344 CURVE SMOOTH",
 "605 276 OFFCURVE",
 "537 232 OFFCURVE",
 "416 179 CURVE SMOOTH",
 "58 23 LINE",
-"83 11 LINE"
+"80 11 LINE"
 );
 },
 {
@@ -12189,11 +12193,44 @@ unicode = 005F;
 },
 {
 glyphname = braceleft;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 15:48:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"119 347 OFFCURVE",
+"119 426 CURVE SMOOTH",
+"119 492 OFFCURVE",
+"168 564 OFFCURVE",
+"266 564 CURVE SMOOTH",
+"317 564 OFFCURVE",
+"355 557 OFFCURVE",
+"391 548 CURVE",
+"396 569 LINE",
+"361 577 OFFCURVE",
+"318 587 OFFCURVE",
+"266 587 CURVE SMOOTH",
+"150 587 OFFCURVE",
+"96 512 OFFCURVE",
+"96 428 CURVE SMOOTH",
+"96 361 OFFCURVE",
+"114 253 OFFCURVE",
+"28 253 CURVE SMOOTH",
+"-1 253 OFFCURVE",
+"-34 259 OFFCURVE",
+"-64 265 CURVE",
+"-68 241 LINE",
+"-40 235 OFFCURVE",
+"-15 231 OFFCURVE",
+"27 231 CURVE SMOOTH",
+"135 231 OFFCURVE"
+);
+}
+);
 width = 420;
 },
 {
@@ -12312,7 +12349,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 15:46:16 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
