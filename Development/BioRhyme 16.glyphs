@@ -148,7 +148,9 @@ S,
 "\U00B5up",
 "+=",
 "",
-"\U00A53="
+"\U00A53=",
+"\U00A5",
+"\U00B4"
 );
 classes = (
 {
@@ -13137,7 +13139,7 @@ unicode = 00A3;
 },
 {
 glyphname = yen;
-lastChange = "2015-08-15 17:16:43 +0000";
+lastChange = "2015-08-15 17:17:05 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -13146,17 +13148,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"729 488 LINE",
+"709 488 LINE",
 "453 170 LINE",
 "467 156 LINE",
-"742 470 LINE"
+"722 470 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"188 490 LINE",
-"175 470 LINE",
+"208 490 LINE",
+"195 470 LINE",
 "451 156 LINE",
 "468 170 LINE"
 );
@@ -13182,19 +13184,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"568 490 LINE",
-"568 467 LINE",
-"904 467 LINE",
-"904 490 LINE"
+"548 490 LINE",
+"548 467 LINE",
+"884 467 LINE",
+"884 490 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"14 490 LINE",
-"14 467 LINE",
-"351 467 LINE",
-"351 490 LINE"
+"34 490 LINE",
+"34 467 LINE",
+"371 467 LINE",
+"371 490 LINE"
 );
 },
 {
@@ -14295,11 +14297,33 @@ unicode = 02B9;
 },
 {
 glyphname = acute;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:21:35 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"197 398 LINE SMOOTH",
+"192 443 OFFCURVE",
+"185 466 OFFCURVE",
+"185 484 CURVE SMOOTH",
+"185 501 OFFCURVE",
+"194 515 OFFCURVE",
+"211 515 CURVE SMOOTH",
+"228 515 OFFCURVE",
+"237 501 OFFCURVE",
+"237 484 CURVE SMOOTH",
+"237 466 OFFCURVE",
+"230 443 OFFCURVE",
+"225 398 CURVE SMOOTH",
+"217 331 LINE",
+"205 332 LINE"
+);
+}
+);
 width = 420;
 },
 {
