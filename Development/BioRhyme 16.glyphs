@@ -151,7 +151,14 @@ S,
 "\U00A53=",
 "\U00A5",
 "\U00B4",
-"\U00B4/tilde"
+"\U00B4/tilde",
+"`",
+.,
+./dotaccent,
+"\U00B4/dotaccent `/tilde",
+"\U00A8H..",
+/dotaccent,
+/hungarumlaut
 );
 classes = (
 {
@@ -14298,7 +14305,7 @@ unicode = 02B9;
 },
 {
 glyphname = acute;
-lastChange = "2015-08-15 17:25:33 +0000";
+lastChange = "2015-08-15 17:29:19 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -14307,21 +14314,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"217 555 LINE SMOOTH",
-"245 568 OFFCURVE",
-"318 609 OFFCURVE",
-"334 617 CURVE SMOOTH",
-"347 624 OFFCURVE",
-"363 616 OFFCURVE",
-"367 604 CURVE SMOOTH",
-"371 591 OFFCURVE",
-"365 578 OFFCURVE",
-"351 572 CURVE SMOOTH",
-"334 565 OFFCURVE",
-"257 543 OFFCURVE",
-"226 530 CURVE SMOOTH",
-"36 452 LINE",
-"30 468 LINE"
+"183 549 LINE SMOOTH",
+"234 574 OFFCURVE",
+"299 609 OFFCURVE",
+"315 617 CURVE SMOOTH",
+"328 624 OFFCURVE",
+"344 616 OFFCURVE",
+"348 604 CURVE SMOOTH",
+"352 591 OFFCURVE",
+"346 578 OFFCURVE",
+"332 572 CURVE SMOOTH",
+"315 565 OFFCURVE",
+"261 546 OFFCURVE",
+"196 520 CURVE SMOOTH",
+"16 447 LINE",
+"10 463 LINE"
 );
 }
 );
@@ -14430,12 +14437,22 @@ unicode = 02C6;
 },
 {
 glyphname = dieresis;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:30:26 +0000";
 layers = (
 {
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 244, 558}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 558}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+width = 490;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14452,12 +14469,18 @@ unicode = 00A8;
 },
 {
 glyphname = dotaccent;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:30:38 +0000";
 layers = (
 {
+components = (
+{
+name = period;
+transform = "{1.161, 0, 0, 1.161, -12, 555}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+width = 262;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14474,9 +14497,15 @@ unicode = 02D9;
 },
 {
 glyphname = grave;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:27:10 +0000";
 layers = (
 {
+components = (
+{
+name = acute;
+transform = "{-1, 0, 0, 1, 389, 0}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 width = 420;
@@ -14496,11 +14525,91 @@ unicode = 0060;
 },
 {
 glyphname = hungarumlaut;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:32:24 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"336 602 OFFCURVE",
+"318 589 OFFCURVE",
+"318 570 CURVE",
+"318 552 OFFCURVE",
+"336 538 OFFCURVE",
+"367 538 CURVE",
+"399 538 OFFCURVE",
+"416 552 OFFCURVE",
+"416 570 CURVE",
+"416 589 OFFCURVE",
+"399 602 OFFCURVE",
+"367 602 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"92 602 OFFCURVE",
+"74 589 OFFCURVE",
+"74 570 CURVE",
+"74 552 OFFCURVE",
+"92 538 OFFCURVE",
+"123 538 CURVE",
+"155 538 OFFCURVE",
+"172 552 OFFCURVE",
+"172 570 CURVE",
+"172 589 OFFCURVE",
+"155 602 OFFCURVE",
+"123 602 CURVE"
+);
+}
+);
+};
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"110 525 LINE SMOOTH",
+"138 550 OFFCURVE",
+"170 584 OFFCURVE",
+"185 595 CURVE SMOOTH",
+"196 604 OFFCURVE",
+"214 599 OFFCURVE",
+"220 588 CURVE SMOOTH",
+"226 575 OFFCURVE",
+"222 562 OFFCURVE",
+"209 553 CURVE SMOOTH",
+"194 543 OFFCURVE",
+"169 527 OFFCURVE",
+"128 499 CURVE SMOOTH",
+"31 431 LINE",
+"22 445 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"306 525 LINE SMOOTH",
+"334 550 OFFCURVE",
+"366 584 OFFCURVE",
+"381 595 CURVE SMOOTH",
+"392 604 OFFCURVE",
+"410 599 OFFCURVE",
+"416 588 CURVE SMOOTH",
+"422 575 OFFCURVE",
+"418 562 OFFCURVE",
+"405 553 CURVE SMOOTH",
+"390 543 OFFCURVE",
+"365 527 OFFCURVE",
+"324 499 CURVE SMOOTH",
+"227 431 LINE",
+"218 445 LINE"
+);
+}
+);
 width = 420;
 },
 {
@@ -14584,7 +14693,7 @@ unicode = 02DA;
 },
 {
 glyphname = tilde;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:28:30 +0000";
 layers = (
 {
 guideLines = (
