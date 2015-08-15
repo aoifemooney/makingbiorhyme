@@ -144,7 +144,8 @@ S,
 "[",
 "H|H//H",
 "\U00B6Pg",
-"P\U00B6Sp"
+"P\U00B6Sp",
+"\U00B5up"
 );
 classes = (
 {
@@ -13243,12 +13244,78 @@ unicode = 003C;
 },
 {
 glyphname = micro;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-15 17:11:12 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"482 -20 OFFCURVE",
+"577 30 OFFCURVE",
+"677 78 CURVE",
+"677 102 LINE",
+"577 52 OFFCURVE",
+"467 3 OFFCURVE",
+"378 3 CURVE",
+"278 4 OFFCURVE",
+"217 50 OFFCURVE",
+"217 155 CURVE",
+"217 357 LINE",
+"200 357 LINE",
+"200 155 LINE",
+"200 29 OFFCURVE",
+"268 -20 OFFCURVE",
+"378 -20 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"666 18 OFFCURVE",
+"704 -20 OFFCURVE",
+"754 -20 CURVE SMOOTH",
+"786 -20 OFFCURVE",
+"812 -8 OFFCURVE",
+"837 9 CURVE",
+"827 29 LINE",
+"804 12 OFFCURVE",
+"782 3 OFFCURVE",
+"755 3 CURVE SMOOTH",
+"723 3 OFFCURVE",
+"691 28 OFFCURVE",
+"691 84 CURVE",
+"691 357 LINE",
+"666 357 LINE",
+"666 84 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 357 LINE",
+"10 334 LINE",
+"217 334 LINE",
+"217 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"193 -165 LINE",
+"217 -165 LINE",
+"217 0 LINE",
+"217 32 OFFCURVE",
+"211 65 OFFCURVE",
+"208 97 CURVE",
+"208 357 LINE",
+"193 357 LINE"
+);
+}
+);
+width = 832;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -13261,6 +13328,8 @@ name = Bold;
 width = 420;
 }
 );
+leftMetricsKey = "=h";
+rightMetricsKey = "=n";
 unicode = 00B5;
 },
 {
