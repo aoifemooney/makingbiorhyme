@@ -13588,7 +13588,7 @@ unicode = 003D;
 },
 {
 glyphname = greater;
-lastChange = "2015-08-17 02:27:59 +0000";
+lastChange = "2015-08-17 02:29:14 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -13597,25 +13597,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"624 237 LINE",
-"593 244 LINE",
-"140 87 LINE",
-"140 62 LINE",
-"624 234 LINE"
+"534 237 LINE",
+"507 244 LINE",
+"70 77 LINE",
+"70 52 LINE",
+"534 234 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"624 237 LINE",
-"140 409 LINE",
-"140 384 LINE",
-"593 227 LINE",
-"624 234 LINE"
+"534 237 LINE",
+"70 419 LINE",
+"70 394 LINE",
+"507 227 LINE",
+"534 234 LINE"
 );
 }
 );
-width = 637;
+width = 564;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -13632,12 +13632,18 @@ unicode = 003E;
 },
 {
 glyphname = less;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-17 02:29:22 +0000";
 layers = (
 {
+components = (
+{
+name = greater;
+transform = "{-1, 0, 0, -1, 564, 471}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+width = 564;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14957,12 +14963,34 @@ unicode = 00B0;
 },
 {
 glyphname = asciicircum;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-17 02:30:56 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"301 537 LINE",
+"294 515 LINE",
+"499 203 LINE",
+"526 203 LINE",
+"304 537 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 537 LINE",
+"79 203 LINE",
+"106 203 LINE",
+"311 515 LINE",
+"304 537 LINE"
+);
+}
+);
+width = 564;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
