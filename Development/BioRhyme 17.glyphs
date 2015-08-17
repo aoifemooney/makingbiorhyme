@@ -174,7 +174,7 @@ S,
 "H/guilsinglleft nH(H)",
 /guilsinglright,
 "H/guilsinglleft H",
-"\U00AB\U00BB/guilsinglleft/guilsinglright"
+"H\U00ABH\U00BBH/guilsinglleft H/guilsinglright H\012o\U00ABo\U00BBo/guilsinglleft o/guilsinglright o"
 );
 classes = (
 {
@@ -12663,7 +12663,7 @@ unicode = 002D;
 },
 {
 glyphname = guillemetleft;
-lastChange = "2015-08-17 00:22:23 +0000";
+lastChange = "2015-08-17 00:22:46 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -12716,7 +12716,7 @@ nodes = (
 );
 }
 );
-width = 359;
+width = 630;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -12733,12 +12733,18 @@ unicode = 00AB;
 },
 {
 glyphname = guillemetright;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-17 00:22:58 +0000";
 layers = (
 {
+components = (
+{
+name = guillemetleft;
+transform = "{-1, 0, 0, -1, 630, 409}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+width = 630;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
