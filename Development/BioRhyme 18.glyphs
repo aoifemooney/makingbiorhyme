@@ -13959,12 +13959,41 @@ unicode = 002B;
 },
 {
 glyphname = plusminus;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-17 02:20:52 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"306 123 LINE",
+"331 123 LINE",
+"331 447 LINE",
+"306 447 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"70 297 LINE",
+"70 274 LINE",
+"567 274 LINE",
+"567 297 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"70 61 LINE",
+"70 38 LINE",
+"567 38 LINE",
+"567 61 LINE"
+);
+}
+);
+width = 637;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
