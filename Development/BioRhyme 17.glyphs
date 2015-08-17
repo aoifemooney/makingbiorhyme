@@ -147,13 +147,12 @@ S,
 "P\U00B6Sp",
 "\U00B5up",
 "+=",
-"",
 "\U00A53=",
 "\U00A5",
 "\U00B4",
 "\U00B4/tilde",
 "`",
-.,
+0,
 ./dotaccent,
 "\U00B4/dotaccent `/tilde",
 "\U00A8H..",
@@ -169,7 +168,8 @@ S,
 /caron,
 /breve,
 /breve/caron/ring/tilde,
-"\U00AF"
+"\U00AF",
+/schwa
 );
 classes = (
 {
@@ -9030,12 +9030,18 @@ unicode = 00DF;
 },
 {
 glyphname = schwa;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-17 00:07:14 +0000";
 layers = (
 {
+components = (
+{
+name = e;
+transform = "{-1, 0, 0, -1, 732, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+width = 732;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
