@@ -184,7 +184,9 @@ $12345S,
 "/two.001/seven.001 0123456789/two.alt/five.alt/two.alt2",
 "@",
 "C\U00A9@",
-"\U00AER"
+"\U00AER",
+"\U00B00",
+"\U00B0"
 );
 classes = (
 {
@@ -14583,11 +14585,47 @@ unicode = 00A7;
 },
 {
 glyphname = degree;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-17 01:05:05 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"124 664 OFFCURVE",
+"63 622 OFFCURVE",
+"63 539 CURVE",
+"63 459 OFFCURVE",
+"124 413 OFFCURVE",
+"209 413 CURVE",
+"298 413 OFFCURVE",
+"354 459 OFFCURVE",
+"354 539 CURVE",
+"354 622 OFFCURVE",
+"298 664 OFFCURVE",
+"209 664 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"286 642 OFFCURVE",
+"331 607 OFFCURVE",
+"331 539 CURVE",
+"331 473 OFFCURVE",
+"286 435 OFFCURVE",
+"209 435 CURVE",
+"135 435 OFFCURVE",
+"86 473 OFFCURVE",
+"86 539 CURVE",
+"86 607 OFFCURVE",
+"135 642 OFFCURVE",
+"209 642 CURVE"
+);
+}
+);
 width = 420;
 },
 {
