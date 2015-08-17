@@ -171,7 +171,9 @@ S,
 "\U00AF",
 /schwa,
 "\U00ABH",
-"H/guilsinglleft nH(H)"
+"H/guilsinglleft nH(H)",
+/guilsinglright,
+"H/guilsinglleft oH"
 );
 classes = (
 {
@@ -12704,7 +12706,7 @@ unicode = 00BB;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2015-08-17 00:16:09 +0000";
+lastChange = "2015-08-17 00:19:12 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -12713,24 +12715,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"204 202 OFFCURVE",
-"296 344 OFFCURVE",
-"320 412 CURVE",
-"299 422 LINE",
-"278 362 OFFCURVE",
-"187 216 OFFCURVE",
-"32 216 CURVE SMOOTH",
-"20 216 LINE",
-"20 193 LINE",
-"32 193 LINE SMOOTH",
-"187 193 OFFCURVE",
-"278 57 OFFCURVE",
-"299 -13 CURVE",
-"320 -3 LINE",
-"296 65 OFFCURVE",
-"204 207 OFFCURVE",
-"56 207 CURVE",
-"56 202 LINE"
+"174 201 OFFCURVE",
+"281 299 OFFCURVE",
+"319 393 CURVE",
+"299 402 LINE",
+"260 308 OFFCURVE",
+"162 216 OFFCURVE",
+"2 216 CURVE SMOOTH",
+"-10 216 LINE",
+"-10 193 LINE",
+"2 193 LINE SMOOTH",
+"162 193 OFFCURVE",
+"278 77 OFFCURVE",
+"299 7 CURVE",
+"320 17 LINE",
+"296 85 OFFCURVE",
+"174 208 OFFCURVE",
+"26 208 CURVE",
+"26 201 LINE"
 );
 }
 );
@@ -12751,11 +12753,21 @@ unicode = 2039;
 },
 {
 glyphname = guilsinglright;
-lastChange = "2015-08-17 00:12:08 +0000";
+lastChange = "2015-08-17 00:16:21 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 600;
 }
 );
