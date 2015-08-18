@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /about/index.html
-title: hello!
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: What is BioRhyme?
+description: BioRhyme is a typeface family of two styles (currently)
+tags: [about, BioRhyme, typeface, project]
 image:
-  feature: soft-trees.jpg
+  feature: Ideas_4-04.png
 ---
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it.
