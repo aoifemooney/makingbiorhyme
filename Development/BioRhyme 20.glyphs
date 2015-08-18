@@ -29,7 +29,9 @@ A,
 /commaaccentcomb,
 /commaturnedabovecomb,
 C,
-c
+c,
+e,
+u
 );
 classes = (
 {
@@ -7342,7 +7344,7 @@ unicode = 00F0;
 },
 {
 glyphname = e;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:30:21 +0000";
 layers = (
 {
 anchors = (
@@ -7352,7 +7354,7 @@ position = "{366, 0}";
 },
 {
 name = ogonek;
-position = "{659, 10}";
+position = "{520, 12}";
 },
 {
 name = top;
@@ -10888,7 +10890,7 @@ unicode = 0167;
 },
 {
 glyphname = u;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:30:58 +0000";
 layers = (
 {
 anchors = (
@@ -10898,7 +10900,7 @@ position = "{422, 0}";
 },
 {
 name = ogonek;
-position = "{759, 10}";
+position = "{773, -8}";
 },
 {
 name = top;
@@ -18076,12 +18078,12 @@ unicode = 0304;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2015-08-18 19:17:04 +0000";
+lastChange = "2015-08-18 19:29:47 +0000";
 layers = (
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 position = "{160, 1}";
 }
 );
