@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 /Hbar,
-/Tbar
+/Tbar,
+/hbar
 );
 classes = (
 {
@@ -7279,12 +7280,28 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 13:56:28 +0000";
 layers = (
 {
+components = (
+{
+name = h;
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"6 436 LINE",
+"6 414 LINE",
+"888 414 LINE",
+"888 436 LINE"
+);
+}
+);
+width = 886;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
