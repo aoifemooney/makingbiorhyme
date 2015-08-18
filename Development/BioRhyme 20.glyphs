@@ -47,7 +47,20 @@ I,
 J,
 K,
 L,
-M
+M,
+N,
+/Eng,
+O,
+/OE,
+P,
+"\U00DE",
+Q,
+/Q.alt,
+/R.alt,
+S,
+/S.alt2,
+/Germandbls,
+T
 );
 classes = (
 {
@@ -2602,13 +2615,13 @@ unicode = 004C;
 {
 color = 6;
 glyphname = M;
-lastChange = "2015-08-18 19:36:51 +0000";
+lastChange = "2015-08-18 19:36:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{634, 0}";
+position = "{614, 0}";
 },
 {
 name = top;
@@ -3091,13 +3104,13 @@ unicode = 014A;
 },
 {
 glyphname = O;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:37:44 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{453, 0}";
+position = "{453, -20}";
 },
 {
 name = center;
@@ -3105,11 +3118,11 @@ position = "{453, 245}";
 },
 {
 name = ogonek;
-position = "{815, 10}";
+position = "{455, -8}";
 },
 {
 name = top;
-position = "{453, 490}";
+position = "{453, 520}";
 },
 {
 name = topright;
@@ -3541,17 +3554,17 @@ unicode = 00DE;
 {
 color = 6;
 glyphname = Q;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:38:19 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{466, 0}";
+position = "{451, -20}";
 },
 {
 name = top;
-position = "{466, 490}";
+position = "{451, 520}";
 }
 );
 background = {
@@ -3674,17 +3687,17 @@ unicode = 0051;
 {
 color = 6;
 glyphname = Q.alt;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:38:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{453, 0}";
+position = "{453, -20}";
 },
 {
 name = top;
-position = "{453, 490}";
+position = "{453, 520}";
 }
 );
 background = {
@@ -4195,17 +4208,17 @@ width = 420;
 {
 color = 6;
 glyphname = S;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:39:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{424, 0}";
+position = "{434, -10}";
 },
 {
 name = top;
-position = "{424, 490}";
+position = "{424, 520}";
 }
 );
 background = {
@@ -4331,17 +4344,17 @@ unicode = 0053;
 },
 {
 glyphname = S.alt2;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:39:19 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{424, 0}";
+position = "{424, -20}";
 },
 {
 name = top;
-position = "{424, 490}";
+position = "{424, 520}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -4407,7 +4420,7 @@ width = 420;
 },
 {
 glyphname = Germandbls;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:39:25 +0000";
 layers = (
 {
 anchors = (
@@ -4417,7 +4430,7 @@ position = "{481, 0}";
 },
 {
 name = top;
-position = "{481, 490}";
+position = "{481, 520}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
