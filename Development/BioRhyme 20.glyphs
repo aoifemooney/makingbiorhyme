@@ -110,7 +110,9 @@ x,
 y,
 z,
 /slashshortcomb,
-"\U00E7/cedillacomb"
+"\U00E7/cedillacomb",
+/tcedilla,
+"\U00D1"
 );
 classes = (
 {
@@ -1827,7 +1829,7 @@ unicode = 010C;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2015-08-18 19:48:16 +0000";
+lastChange = "2015-08-18 19:50:51 +0000";
 layers = (
 {
 components = (
@@ -1836,7 +1838,7 @@ name = C;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 269, -11}";
+transform = "{1, 0, 0, 1, 269, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
