@@ -8,7 +8,7 @@ R,
 /germandbls.001,
 "HCH/Germandbls HHz",
 "\U00DF",
-"\U00C3",
+"",
 /acutecomb,
 A,
 /brevecomb,
@@ -23,7 +23,6 @@ A,
 /tildecomb,
 /ringcomb,
 /ogonekcomb,
-"",
 /strokeshortcomb,
 /slashlongcomb,
 /commaturnedmod,
@@ -755,74 +754,6 @@ nodes = (
 width = 678;
 }
 );
-},
-{
-glyphname = Atilde;
-lastChange = "2015-08-01 12:21:47 +0000";
-layers = (
-{
-components = (
-{
-name = A;
-}
-);
-guideLines = (
-{
-position = "{786, 980}";
-},
-{
-position = "{596, 734}";
-}
-);
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-name = "Light Extended";
-paths = (
-{
-closed = 1;
-nodes = (
-"679 668 OFFCURVE",
-"642 641 OFFCURVE",
-"604 641 CURVE SMOOTH",
-"572 641 OFFCURVE",
-"542 662 OFFCURVE",
-"510 685 CURVE SMOOTH",
-"475 709 OFFCURVE",
-"441 735 OFFCURVE",
-"398 735 CURVE SMOOTH",
-"333 735 OFFCURVE",
-"298 685 OFFCURVE",
-"287 617 CURVE",
-"309 617 LINE",
-"320 685 OFFCURVE",
-"357 713 OFFCURVE",
-"396 713 CURVE SMOOTH",
-"429 713 OFFCURVE",
-"458 692 OFFCURVE",
-"490 669 CURVE SMOOTH",
-"525 645 OFFCURVE",
-"560 619 OFFCURVE",
-"602 619 CURVE SMOOTH",
-"666 619 OFFCURVE",
-"701 668 OFFCURVE",
-"712 735 CURVE",
-"690 735 LINE"
-);
-}
-);
-width = 999;
-},
-{
-layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-name = Light;
-width = 420;
-},
-{
-layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
-name = Bold;
-width = 420;
-}
-);
-unicode = 00C3;
 },
 {
 glyphname = AE;
