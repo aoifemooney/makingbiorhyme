@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"\U00DEP"
-);
 classes = (
 {
 automatic = 1;
@@ -3230,7 +3227,7 @@ unicode = 0050;
 },
 {
 glyphname = Thorn;
-lastChange = "2015-08-18 14:09:37 +0000";
+lastChange = "2015-08-18 14:12:07 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -3241,8 +3238,8 @@ closed = 1;
 nodes = (
 "455 0 LINE",
 "455 23 LINE",
-"46 23 LINE",
-"46 0 LINE"
+"56 23 LINE",
+"56 0 LINE"
 );
 },
 {
@@ -3250,8 +3247,8 @@ closed = 1;
 nodes = (
 "455 0 LINE SMOOTH",
 "455 23 LINE SMOOTH",
-"46 23 LINE SMOOTH",
-"46 0 LINE SMOOTH"
+"56 23 LINE SMOOTH",
+"56 0 LINE SMOOTH"
 );
 },
 {
@@ -3266,8 +3263,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"46 490 LINE SMOOTH",
-"46 467 LINE SMOOTH",
+"56 490 LINE SMOOTH",
+"56 467 LINE SMOOTH",
 "455 467 LINE SMOOTH",
 "455 490 LINE SMOOTH"
 );
@@ -3296,7 +3293,7 @@ nodes = (
 );
 }
 );
-width = 923;
+width = 852;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -3309,6 +3306,7 @@ name = Bold;
 width = 420;
 }
 );
+leftMetricsKey = "=P";
 unicode = 00DE;
 },
 {
