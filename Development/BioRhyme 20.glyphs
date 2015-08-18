@@ -31,7 +31,8 @@ A,
 C,
 c,
 e,
-u
+u,
+/u.alt
 );
 classes = (
 {
@@ -290,7 +291,7 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:31:45 +0000";
 layers = (
 {
 anchors = (
@@ -304,7 +305,7 @@ position = "{899, 10}";
 },
 {
 name = top;
-position = "{500, 490}";
+position = "{501, 490}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -11061,7 +11062,7 @@ unicode = 0075;
 },
 {
 glyphname = u.alt;
-lastChange = "2015-08-18 19:01:28 +0000";
+lastChange = "2015-08-18 19:31:33 +0000";
 layers = (
 {
 anchors = (
@@ -11071,7 +11072,7 @@ position = "{435, 0}";
 },
 {
 name = ogonek;
-position = "{783, 10}";
+position = "{783, -4}";
 },
 {
 name = top;
