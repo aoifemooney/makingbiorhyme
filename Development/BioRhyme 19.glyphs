@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"\U00D0",
-"\U00A5"
+/Hbar,
+/Tbar
 );
 classes = (
 {
@@ -110,9 +110,6 @@ position = "{411, 470}";
 },
 {
 position = "{434, 331}";
-},
-{
-position = "{379, 303}";
 },
 {
 position = "{345, 26}";
@@ -1365,7 +1362,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2015-08-18 13:53:45 +0000";
+lastChange = "2015-08-18 13:54:07 +0000";
 layers = (
 {
 components = (
@@ -1381,8 +1378,8 @@ closed = 1;
 nodes = (
 "80 256 LINE",
 "80 234 LINE",
-"661 234 LINE",
-"661 256 LINE"
+"641 234 LINE",
+"641 256 LINE"
 );
 }
 );
@@ -1399,6 +1396,8 @@ name = Bold;
 width = 420;
 }
 );
+leftMetricsKey = "=D";
+rightMetricsKey = "=D";
 unicode = 00D0;
 },
 {
@@ -2004,12 +2003,86 @@ unicode = 0048;
 },
 {
 glyphname = Hbar;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 13:55:03 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"56 356 LINE",
+"56 334 LINE",
+"1075 334 LINE",
+"1075 356 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"875 207 LINE",
+"875 230 LINE",
+"258 230 LINE",
+"258 207 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"442 0 LINE",
+"442 23 LINE",
+"56 23 LINE",
+"56 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 11 LINE",
+"263 477 LINE",
+"238 477 LINE",
+"238 11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"442 467 LINE",
+"442 490 LINE",
+"56 490 LINE",
+"56 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1075 0 LINE",
+"1075 23 LINE",
+"689 23 LINE",
+"689 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"894 13 LINE",
+"894 479 LINE",
+"869 479 LINE",
+"869 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1075 467 LINE",
+"1075 490 LINE",
+"689 490 LINE",
+"689 467 LINE"
+);
+}
+);
+width = 1131;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -3992,12 +4065,28 @@ unicode = 0054;
 },
 {
 glyphname = Tbar;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 13:55:55 +0000";
 layers = (
 {
+components = (
+{
+name = T;
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"115 226 LINE",
+"115 204 LINE",
+"704 204 LINE",
+"704 226 LINE"
+);
+}
+);
+width = 819;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
