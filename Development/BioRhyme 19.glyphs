@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-/oe
+"\U00FE"
 );
 classes = (
 {
@@ -8182,12 +8182,72 @@ unicode = 0070;
 },
 {
 glyphname = thorn;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 13:31:23 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"193 -165 LINE",
+"217 -165 LINE",
+"217 560 LINE",
+"193 560 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 560 LINE",
+"10 537 LINE",
+"217 537 LINE",
+"217 560 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"273 22 OFFCURVE",
+"378 -20 OFFCURVE",
+"507 -20 CURVE",
+"660 -20 OFFCURVE",
+"809 55 OFFCURVE",
+"809 192 CURVE",
+"809 307 OFFCURVE",
+"714 376 OFFCURVE",
+"571 376 CURVE",
+"442 376 OFFCURVE",
+"319 312 OFFCURVE",
+"204 228 CURVE",
+"204 205 LINE",
+"329 293 OFFCURVE",
+"457 353 OFFCURVE",
+"571 353 CURVE",
+"703 353 OFFCURVE",
+"784 287 OFFCURVE",
+"784 192 CURVE",
+"784 72 OFFCURVE",
+"648 2 OFFCURVE",
+"507 3 CURVE",
+"388 2 OFFCURVE",
+"275 45 OFFCURVE",
+"201 85 CURVE",
+"201 63 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"32 -165 LINE",
+"400 -165 LINE",
+"400 -142 LINE",
+"32 -142 LINE"
+);
+}
+);
+width = 879;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -8200,6 +8260,8 @@ name = Bold;
 width = 420;
 }
 );
+leftMetricsKey = "=l";
+rightMetricsKey = "=p";
 unicode = 00FE;
 },
 {
