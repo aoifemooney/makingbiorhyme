@@ -11,7 +11,18 @@ R,
 "\U00C3",
 "\U00B4",
 A,
-/breve
+/breve,
+/caron,
+"\U00B8",
+/circumflex,
+"\U00A8",
+/dotaccent,
+"`",
+/hungarumlaut,
+"\U00AF",
+/tilde,
+/ring,
+/ogonek
 );
 classes = (
 {
@@ -17534,9 +17545,15 @@ unicode = 02B9;
 },
 {
 glyphname = acute;
-lastChange = "2015-08-18 19:01:58 +0000";
+lastChange = "2015-08-18 19:04:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{243, 391}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -17578,9 +17595,15 @@ unicode = 00B4;
 },
 {
 glyphname = breve;
-lastChange = "2015-08-17 01:31:59 +0000";
+lastChange = "2015-08-18 19:04:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{243, 391}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -17621,9 +17644,15 @@ unicode = 02D8;
 },
 {
 glyphname = caron;
-lastChange = "2015-08-17 01:32:04 +0000";
+lastChange = "2015-08-18 19:04:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{232, 391}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -17735,13 +17764,19 @@ unicode = 00B8;
 },
 {
 glyphname = circumflex;
-lastChange = "2015-08-17 01:31:23 +0000";
+lastChange = "2015-08-18 19:04:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{232, 391}";
+}
+);
 components = (
 {
 name = caron;
-transform = "{-1, 0, 0, -1, 446, 1078}";
+transform = "{-1, 0, 0, -1, 464, 1078}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -17763,9 +17798,15 @@ unicode = 02C6;
 },
 {
 glyphname = dieresis;
-lastChange = "2015-08-15 17:34:31 +0000";
+lastChange = "2015-08-18 19:05:03 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{232, 391}";
+}
+);
 components = (
 {
 name = period;
@@ -17795,17 +17836,36 @@ unicode = 00A8;
 },
 {
 glyphname = dotaccent;
-lastChange = "2015-08-15 17:34:37 +0000";
+lastChange = "2015-08-18 19:05:37 +0000";
 layers = (
 {
-components = (
+anchors = (
 {
-name = period;
-transform = "{1.161, 0, 0, 1.161, -16, 555}";
+name = _top;
+position = "{127, 391}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"91 606 OFFCURVE",
+"70 591 OFFCURVE",
+"70 569 CURVE",
+"70 548 OFFCURVE",
+"91 532 OFFCURVE",
+"127 532 CURVE",
+"164 532 OFFCURVE",
+"184 548 OFFCURVE",
+"184 569 CURVE",
+"184 591 OFFCURVE",
+"164 606 OFFCURVE",
+"127 606 CURVE"
+);
+}
+);
 width = 254;
 },
 {
@@ -17823,9 +17883,15 @@ unicode = 02D9;
 },
 {
 glyphname = grave;
-lastChange = "2015-08-15 17:35:23 +0000";
+lastChange = "2015-08-18 19:05:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{232, 391}";
+}
+);
 components = (
 {
 name = acute;
@@ -17851,9 +17917,15 @@ unicode = 0060;
 },
 {
 glyphname = hungarumlaut;
-lastChange = "2015-08-15 17:35:13 +0000";
+lastChange = "2015-08-18 19:06:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{187, 391}";
+}
+);
 background = {
 paths = (
 {
@@ -17953,9 +18025,15 @@ unicode = 02DD;
 },
 {
 glyphname = macron;
-lastChange = "2015-08-15 17:50:01 +0000";
+lastChange = "2015-08-18 19:06:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{313, 391}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -17986,9 +18064,15 @@ unicode = 00AF;
 },
 {
 glyphname = ogonek;
-lastChange = "2015-08-17 14:54:32 +0000";
+lastChange = "2015-08-18 19:06:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{160, 1}";
+}
+);
 background = {
 paths = (
 {
@@ -18064,9 +18148,15 @@ unicode = 02DB;
 },
 {
 glyphname = ring;
-lastChange = "2015-08-17 01:31:37 +0000";
+lastChange = "2015-08-18 19:06:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{206, 391}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -18122,9 +18212,15 @@ unicode = 02DA;
 },
 {
 glyphname = tilde;
-lastChange = "2015-08-17 01:31:43 +0000";
+lastChange = "2015-08-18 19:06:24 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{291, 391}";
+}
+);
 guideLines = (
 {
 position = "{303, 458}";
