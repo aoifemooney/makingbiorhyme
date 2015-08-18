@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-3
+"\U00F0"
 );
 classes = (
 {
@@ -6726,12 +6726,75 @@ width = 554;
 },
 {
 glyphname = eth;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 14:15:53 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"678 537 LINE",
+"678 560 LINE",
+"479 560 LINE",
+"479 537 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"606 334 OFFCURVE",
+"502 376 OFFCURVE",
+"372 375 CURVE",
+"220 376 OFFCURVE",
+"70 300 OFFCURVE",
+"70 164 CURVE",
+"70 48 OFFCURVE",
+"165 -20 OFFCURVE",
+"308 -20 CURVE",
+"438 -20 OFFCURVE",
+"560 44 OFFCURVE",
+"676 127 CURVE",
+"676 151 LINE",
+"551 62 OFFCURVE",
+"422 3 OFFCURVE",
+"308 3 CURVE",
+"175 3 OFFCURVE",
+"95 69 OFFCURVE",
+"95 164 CURVE",
+"95 283 OFFCURVE",
+"230 353 OFFCURVE",
+"372 352 CURVE",
+"491 353 OFFCURVE",
+"605 310 OFFCURVE",
+"678 270 CURVE",
+"678 293 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"662 18 OFFCURVE",
+"699 -20 OFFCURVE",
+"750 -20 CURVE SMOOTH",
+"781 -20 OFFCURVE",
+"808 -8 OFFCURVE",
+"832 9 CURVE",
+"822 29 LINE",
+"799 12 OFFCURVE",
+"778 3 OFFCURVE",
+"751 3 CURVE SMOOTH",
+"718 3 OFFCURVE",
+"687 28 OFFCURVE",
+"687 84 CURVE SMOOTH",
+"687 560 LINE",
+"662 560 LINE",
+"662 84 LINE SMOOTH"
+);
+}
+);
+width = 827;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
