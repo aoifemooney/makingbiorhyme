@@ -5,7 +5,8 @@ DisplayStrings = (
 /hbar,
 "\U00F0",
 R,
-/germandbls.001
+/germandbls.001,
+/Germandbls
 );
 classes = (
 {
@@ -4126,12 +4127,110 @@ width = 420;
 },
 {
 glyphname = Germandbls;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 17:41:12 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"227 494 OFFCURVE",
+"136 455 OFFCURVE",
+"136 375 CURVE SMOOTH",
+"136 305 OFFCURVE",
+"211 275 OFFCURVE",
+"434 257 CURVE SMOOTH",
+"673 238 OFFCURVE",
+"771 207 OFFCURVE",
+"771 113 CURVE SMOOTH",
+"771 24 OFFCURVE",
+"667 -20 OFFCURVE",
+"526 -20 CURVE SMOOTH",
+"354 -20 OFFCURVE",
+"190 55 OFFCURVE",
+"117 130 CURVE",
+"132 130 LINE",
+"132 -20 LINE",
+"109 -20 LINE",
+"109 168 LINE",
+"205 64 OFFCURVE",
+"378 3 OFFCURVE",
+"527 3 CURVE SMOOTH",
+"651 3 OFFCURVE",
+"747 37 OFFCURVE",
+"747 113 CURVE SMOOTH",
+"747 190 OFFCURVE",
+"659 217 OFFCURVE",
+"433 233 CURVE SMOOTH",
+"188 250 OFFCURVE",
+"111 294 OFFCURVE",
+"111 375 CURVE SMOOTH",
+"111 466 OFFCURVE",
+"206 517 OFFCURVE",
+"368 517 CURVE SMOOTH",
+"552 517 OFFCURVE",
+"655 440 OFFCURVE",
+"727 365 CURVE",
+"713 365 LINE",
+"713 517 LINE",
+"736 517 LINE",
+"736 328 LINE",
+"639 431 OFFCURVE",
+"533 494 OFFCURVE",
+"366 494 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-563 225 LINE",
+"-563 248 LINE",
+"-906 248 LINE",
+"-906 225 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-551 112 LINE",
+"-551 353 LINE",
+"-575 353 LINE",
+"-575 112 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-903 13 LINE",
+"-903 477 LINE",
+"-928 477 LINE",
+"-928 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-711 0 LINE",
+"-711 23 LINE",
+"-1110 23 LINE",
+"-1110 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-328 467 LINE",
+"-328 307 LINE",
+"-304 307 LINE",
+"-304 490 LINE",
+"-1110 490 LINE",
+"-1110 467 LINE"
+);
+}
+);
+width = 848;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
