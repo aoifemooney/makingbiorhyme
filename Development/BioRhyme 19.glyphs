@@ -7,7 +7,11 @@ DisplayStrings = (
 R,
 /germandbls.001,
 "HCH/Germandbls HHz",
-"\U00DF"
+"\U00DF",
+"\U00C3",
+"\U00B4",
+A,
+/breve
 );
 classes = (
 {
@@ -263,9 +267,23 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2015-08-18 13:52:40 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{500, 0}";
+},
+{
+name = ogonek;
+position = "{899, 10}";
+},
+{
+name = top;
+position = "{500, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -523,9 +541,23 @@ unicode = 0041;
 {
 color = 6;
 glyphname = A.alt;
-lastChange = "2015-08-18 13:52:30 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{497, 0}";
+},
+{
+name = ogonek;
+position = "{894, 10}";
+},
+{
+name = top;
+position = "{497, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -774,9 +806,19 @@ unicode = 00C3;
 },
 {
 glyphname = AE;
-lastChange = "2015-08-18 13:51:51 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{657, 0}";
+},
+{
+name = top;
+position = "{657, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -871,9 +913,19 @@ unicode = 00C6;
 {
 color = 6;
 glyphname = B;
-lastChange = "2015-08-01 12:47:17 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{462, 0}";
+},
+{
+name = top;
+position = "{462, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -996,9 +1048,19 @@ unicode = 0042;
 {
 color = 6;
 glyphname = C;
-lastChange = "2015-08-18 17:58:03 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{429, 0}";
+},
+{
+name = top;
+position = "{429, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -1214,9 +1276,23 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{480, 0}";
+},
+{
+name = center;
+position = "{480, 245}";
+},
+{
+name = top;
+position = "{480, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -1408,9 +1484,23 @@ unicode = 00D0;
 },
 {
 glyphname = E;
-lastChange = "2015-08-01 13:02:55 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{456, 0}";
+},
+{
+name = ogonek;
+position = "{820, 10}";
+},
+{
+name = top;
+position = "{456, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -1539,9 +1629,19 @@ unicode = 0045;
 },
 {
 glyphname = F;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{449, 0}";
+},
+{
+name = top;
+position = "{449, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -1610,9 +1710,19 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2015-08-01 12:53:36 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{429, 0}";
+},
+{
+name = top;
+position = "{429, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -1698,9 +1808,23 @@ unicode = 0047;
 {
 color = 6;
 glyphname = H;
-lastChange = "2015-08-01 12:55:22 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{566, 0}";
+},
+{
+name = center;
+position = "{566, 245}";
+},
+{
+name = top;
+position = "{566, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -2105,9 +2229,23 @@ unicode = 0126;
 },
 {
 glyphname = I;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{261, 0}";
+},
+{
+name = ogonek;
+position = "{469, 10}";
+},
+{
+name = top;
+position = "{261, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -2157,9 +2295,19 @@ unicode = 0049;
 {
 color = 6;
 glyphname = J;
-lastChange = "2015-08-01 13:02:05 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{322, 0}";
+},
+{
+name = top;
+position = "{322, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -2246,9 +2394,19 @@ unicode = 004A;
 {
 color = 6;
 glyphname = K;
-lastChange = "2015-08-01 13:02:05 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{495, 0}";
+},
+{
+name = top;
+position = "{495, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -2401,9 +2559,27 @@ unicode = 004B;
 {
 color = 6;
 glyphname = L;
-lastChange = "2015-08-01 13:03:02 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{412, 0}";
+},
+{
+name = center;
+position = "{412, 245}";
+},
+{
+name = top;
+position = "{412, 490}";
+},
+{
+name = topright;
+position = "{804, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -2455,9 +2631,19 @@ unicode = 004C;
 {
 color = 6;
 glyphname = M;
-lastChange = "2015-08-01 14:58:24 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{614, 0}";
+},
+{
+name = top;
+position = "{614, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -2748,9 +2934,19 @@ unicode = 004D;
 {
 color = 6;
 glyphname = N;
-lastChange = "2015-08-01 14:58:24 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{550, 0}";
+},
+{
+name = top;
+position = "{550, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -2924,9 +3120,31 @@ unicode = 014A;
 },
 {
 glyphname = O;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{453, 0}";
+},
+{
+name = center;
+position = "{453, 245}";
+},
+{
+name = ogonek;
+position = "{815, 10}";
+},
+{
+name = top;
+position = "{453, 490}";
+},
+{
+name = topright;
+position = "{886, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -3092,9 +3310,19 @@ unicode = 004F;
 },
 {
 glyphname = OE;
-lastChange = "2015-08-18 13:32:52 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{685, 0}";
+},
+{
+name = top;
+position = "{685, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -3172,9 +3400,19 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{462, 0}";
+},
+{
+name = top;
+position = "{462, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -3237,9 +3475,19 @@ unicode = 0050;
 },
 {
 glyphname = Thorn;
-lastChange = "2015-08-18 14:12:07 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{426, 0}";
+},
+{
+name = top;
+position = "{426, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -3322,9 +3570,19 @@ unicode = 00DE;
 {
 color = 6;
 glyphname = Q;
-lastChange = "2015-08-01 14:59:19 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{466, 0}";
+},
+{
+name = top;
+position = "{466, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -3445,9 +3703,19 @@ unicode = 0051;
 {
 color = 6;
 glyphname = Q.alt;
-lastChange = "2015-08-01 15:16:23 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{453, 0}";
+},
+{
+name = top;
+position = "{453, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -3600,9 +3868,19 @@ width = 420;
 {
 color = 4;
 glyphname = R;
-lastChange = "2015-08-01 15:21:29 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{524, 0}";
+},
+{
+name = top;
+position = "{524, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -3767,9 +4045,19 @@ unicode = 0052;
 {
 color = 6;
 glyphname = R.alt;
-lastChange = "2015-08-01 15:23:00 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{447, 0}";
+},
+{
+name = top;
+position = "{447, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -3936,9 +4224,19 @@ width = 420;
 {
 color = 6;
 glyphname = S;
-lastChange = "2015-08-01 21:54:10 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{424, 0}";
+},
+{
+name = top;
+position = "{424, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -4062,9 +4360,19 @@ unicode = 0053;
 },
 {
 glyphname = S.alt2;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{424, 0}";
+},
+{
+name = top;
+position = "{424, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -4128,9 +4436,19 @@ width = 420;
 },
 {
 glyphname = Germandbls;
-lastChange = "2015-08-18 18:09:18 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{481, 0}";
+},
+{
+name = top;
+position = "{481, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -4212,9 +4530,23 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{410, 0}";
+},
+{
+name = center;
+position = "{410, 245}";
+},
+{
+name = top;
+position = "{410, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -4305,9 +4637,27 @@ unicode = 0166;
 },
 {
 glyphname = U;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{512, 0}";
+},
+{
+name = ogonek;
+position = "{921, 10}";
+},
+{
+name = top;
+position = "{512, 490}";
+},
+{
+name = topright;
+position = "{1003, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -4439,9 +4789,19 @@ unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{476, 0}";
+},
+{
+name = top;
+position = "{476, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -4492,9 +4852,19 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{619, 0}";
+},
+{
+name = top;
+position = "{619, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -4599,9 +4969,19 @@ unicode = 0057;
 {
 color = 6;
 glyphname = X;
-lastChange = "2015-08-01 15:44:14 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{455, 0}";
+},
+{
+name = top;
+position = "{455, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -4743,9 +5123,19 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{459, 0}";
+},
+{
+name = top;
+position = "{459, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -4867,9 +5257,19 @@ unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{382, 0}";
+},
+{
+name = top;
+position = "{382, 490}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -4917,9 +5317,23 @@ unicode = 005A;
 {
 color = 6;
 glyphname = a;
-lastChange = "2015-08-15 16:26:23 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{384, 0}";
+},
+{
+name = ogonek;
+position = "{690, 10}";
+},
+{
+name = top;
+position = "{384, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -5211,9 +5625,23 @@ unicode = 0061;
 },
 {
 glyphname = a.alt;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{429, 0}";
+},
+{
+name = ogonek;
+position = "{772, 10}";
+},
+{
+name = top;
+position = "{429, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -5510,9 +5938,23 @@ width = 534;
 {
 color = 6;
 glyphname = a.alt2;
-lastChange = "2015-08-01 22:35:08 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{414, 0}";
+},
+{
+name = ogonek;
+position = "{744, 10}";
+},
+{
+name = top;
+position = "{414, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -5835,9 +6277,19 @@ unicode = 00E3;
 },
 {
 glyphname = ae;
-lastChange = "2015-08-18 13:28:44 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{592, 0}";
+},
+{
+name = top;
+position = "{592, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -5958,9 +6410,19 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{417, 0}";
+},
+{
+name = top;
+position = "{417, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -6041,9 +6503,19 @@ unicode = 0062;
 {
 color = 6;
 glyphname = c;
-lastChange = "2015-08-01 21:58:02 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{371, 0}";
+},
+{
+name = top;
+position = "{371, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -6137,9 +6609,19 @@ unicode = 0063;
 },
 {
 glyphname = c.alt;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{371, 0}";
+},
+{
+name = top;
+position = "{371, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -6194,9 +6676,27 @@ width = 420;
 {
 color = 6;
 glyphname = d;
-lastChange = "2015-08-01 22:35:21 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{414, 0}";
+},
+{
+name = center;
+position = "{414, 179}";
+},
+{
+name = top;
+position = "{414, 357}";
+},
+{
+name = topright;
+position = "{807, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -6489,9 +6989,27 @@ unicode = 0064;
 },
 {
 glyphname = d.alt;
-lastChange = "2015-08-01 22:29:41 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{431, 0}";
+},
+{
+name = center;
+position = "{431, 179}";
+},
+{
+name = top;
+position = "{431, 357}";
+},
+{
+name = topright;
+position = "{841, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -6902,9 +7420,23 @@ unicode = 00F0;
 },
 {
 glyphname = e;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{366, 0}";
+},
+{
+name = ogonek;
+position = "{659, 10}";
+},
+{
+name = top;
+position = "{366, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -7016,9 +7548,19 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2015-08-01 22:33:46 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{266, 0}";
+},
+{
+name = top;
+position = "{266, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -7125,9 +7667,19 @@ unicode = 0066;
 },
 {
 glyphname = f.alt;
-lastChange = "2015-08-01 22:34:25 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{246, 0}";
+},
+{
+name = top;
+position = "{246, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -7245,9 +7797,19 @@ leftMetricsKey = "=f";
 },
 {
 glyphname = g;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{356, 0}";
+},
+{
+name = top;
+position = "{356, 357}";
+}
+);
 guideLines = (
 {
 position = "{69, 219}";
@@ -7370,9 +7932,19 @@ unicode = 0067;
 },
 {
 glyphname = g.alt;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{398, 0}";
+},
+{
+name = top;
+position = "{398, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -7483,9 +8055,23 @@ width = 420;
 },
 {
 glyphname = h;
-lastChange = "2015-08-01 22:30:42 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{443, 0}";
+},
+{
+name = center;
+position = "{443, 179}";
+},
+{
+name = top;
+position = "{443, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -7744,9 +8330,19 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2015-08-01 22:31:25 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{421, 0}";
+},
+{
+name = top;
+position = "{421, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -7942,9 +8538,27 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2015-08-01 22:31:21 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{190, 0}";
+},
+{
+name = center;
+position = "{190, 179}";
+},
+{
+name = top;
+position = "{190, 357}";
+},
+{
+name = topright;
+position = "{359, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -7994,9 +8608,19 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2015-08-01 22:25:03 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{605, 0}";
+},
+{
+name = top;
+position = "{605, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -8107,9 +8731,19 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-08-01 22:24:39 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{459, 0}";
+},
+{
+name = top;
+position = "{459, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -8392,9 +9026,31 @@ unicode = 014B;
 },
 {
 glyphname = o;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{390, 0}";
+},
+{
+name = center;
+position = "{390, 179}";
+},
+{
+name = ogonek;
+position = "{701, 10}";
+},
+{
+name = top;
+position = "{390, 357}";
+},
+{
+name = topright;
+position = "{759, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -8527,9 +9183,19 @@ unicode = 006F;
 },
 {
 glyphname = oe;
-lastChange = "2015-08-18 13:34:28 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{635, 0}";
+},
+{
+name = top;
+position = "{635, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -8631,9 +9297,19 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2015-08-01 22:31:30 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{440, 0}";
+},
+{
+name = top;
+position = "{440, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -8788,9 +9464,19 @@ unicode = 0070;
 },
 {
 glyphname = thorn;
-lastChange = "2015-08-18 13:31:23 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{440, 0}";
+},
+{
+name = top;
+position = "{440, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -8872,9 +9558,19 @@ unicode = 00FE;
 },
 {
 glyphname = q;
-lastChange = "2015-08-01 22:34:48 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{435, 0}";
+},
+{
+name = top;
+position = "{435, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -9075,9 +9771,19 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2015-08-01 22:35:37 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{345, 0}";
+},
+{
+name = top;
+position = "{345, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -9144,9 +9850,19 @@ unicode = 0072;
 {
 color = 6;
 glyphname = s;
-lastChange = "2015-08-01 21:58:02 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{342, 0}";
+},
+{
+name = top;
+position = "{342, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -9360,9 +10076,19 @@ unicode = 0073;
 },
 {
 glyphname = s.alt;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{342, 0}";
+},
+{
+name = top;
+position = "{342, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -9477,9 +10203,19 @@ width = 420;
 },
 {
 glyphname = s.alt2;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{342, 0}";
+},
+{
+name = top;
+position = "{342, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -9701,9 +10437,19 @@ width = 433;
 },
 {
 glyphname = germandbls;
-lastChange = "2015-08-18 17:37:39 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{419, 0}";
+},
+{
+name = top;
+position = "{419, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -9804,9 +10550,19 @@ unicode = 00DF;
 },
 {
 glyphname = germandbls.001;
-lastChange = "2015-08-18 17:40:14 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{420, 0}";
+},
+{
+name = top;
+position = "{420, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -9924,9 +10680,27 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{238, 0}";
+},
+{
+name = center;
+position = "{238, 179}";
+},
+{
+name = top;
+position = "{238, 357}";
+},
+{
+name = topright;
+position = "{455, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -9982,9 +10756,27 @@ unicode = 0074;
 },
 {
 glyphname = t.alt;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{247, 0}";
+},
+{
+name = center;
+position = "{247, 179}";
+},
+{
+name = top;
+position = "{247, 357}";
+},
+{
+name = topright;
+position = "{473, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -10081,9 +10873,27 @@ unicode = 0167;
 },
 {
 glyphname = u;
-lastChange = "2015-08-01 22:35:43 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{422, 0}";
+},
+{
+name = ogonek;
+position = "{759, 10}";
+},
+{
+name = top;
+position = "{422, 357}";
+},
+{
+name = topright;
+position = "{823, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -10234,9 +11044,27 @@ unicode = 0075;
 },
 {
 glyphname = u.alt;
-lastChange = "2015-08-01 22:35:49 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{435, 0}";
+},
+{
+name = ogonek;
+position = "{783, 10}";
+},
+{
+name = top;
+position = "{435, 357}";
+},
+{
+name = topright;
+position = "{850, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -10394,9 +11222,19 @@ rightMetricsKey = "=d.alt";
 },
 {
 glyphname = v;
-lastChange = "2015-08-01 22:20:26 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{392, 0}";
+},
+{
+name = top;
+position = "{392, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -10447,9 +11285,19 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{522, 0}";
+},
+{
+name = top;
+position = "{522, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -10521,9 +11369,19 @@ unicode = 0077;
 {
 color = 6;
 glyphname = x;
-lastChange = "2015-08-01 22:04:45 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{385, 0}";
+},
+{
+name = top;
+position = "{385, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -10676,9 +11534,19 @@ unicode = 0078;
 {
 color = 6;
 glyphname = x.alt;
-lastChange = "2015-08-01 22:04:45 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{364, 0}";
+},
+{
+name = top;
+position = "{364, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -10872,9 +11740,19 @@ width = 420;
 },
 {
 glyphname = y;
-lastChange = "2015-08-01 12:21:47 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{371, 0}";
+},
+{
+name = top;
+position = "{371, 357}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -10945,9 +11823,19 @@ unicode = 0079;
 {
 color = 6;
 glyphname = z;
-lastChange = "2015-08-01 22:10:48 +0000";
+lastChange = "2015-08-18 19:01:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{344, 0}";
+},
+{
+name = top;
+position = "{344, 357}";
+}
+);
 background = {
 paths = (
 {
@@ -16646,7 +17534,7 @@ unicode = 02B9;
 },
 {
 glyphname = acute;
-lastChange = "2015-08-17 01:31:53 +0000";
+lastChange = "2015-08-18 19:01:58 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
