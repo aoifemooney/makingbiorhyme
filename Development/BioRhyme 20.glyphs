@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "\U00FA\U00FB\U00FC/gravecomb \U00F9/hungarumlautcomb/uhungarumlaut/umacron/uogonek/uring",
-"/Scedilla/Tcedilla/gcommaaccent/iogonek/ncommaaccent \U00F1/cedillacomb/scedilla/tcedilla"
+"/Scedilla/Tcedilla/commaturnedabovecomb/gcommaaccent/iogonek ,/commaaccentcomb/ncommaaccent \U00F1/cedillacomb/scedilla/tcedilla"
 );
 classes = (
 {
@@ -24342,7 +24342,7 @@ unicode = 030C;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2015-08-19 22:29:48 +0000";
+lastChange = "2015-08-19 22:33:15 +0000";
 layers = (
 {
 anchors = (
@@ -24360,31 +24360,31 @@ nodes = (
 "110 -12 OFFCURVE",
 "93 -24 OFFCURVE",
 "93 -40 CURVE SMOOTH",
-"93 -54 OFFCURVE",
-"113 -70 OFFCURVE",
+"93 -59 OFFCURVE",
+"116 -71 OFFCURVE",
 "175 -74 CURVE SMOOTH",
-"251 -79 OFFCURVE",
-"297 -82 OFFCURVE",
+"251 -78 OFFCURVE",
+"297 -87 OFFCURVE",
 "297 -124 CURVE SMOOTH",
 "297 -155 OFFCURVE",
 "253 -175 OFFCURVE",
-"182 -175 CURVE SMOOTH",
-"119 -175 OFFCURVE",
-"70 -153 OFFCURVE",
+"187 -175 CURVE SMOOTH",
+"129 -175 OFFCURVE",
+"75 -153 OFFCURVE",
 "50 -133 CURVE",
 "63 -115 LINE",
-"82 -134 OFFCURVE",
-"128 -153 OFFCURVE",
-"182 -153 CURVE SMOOTH",
-"235 -153 OFFCURVE",
+"87 -134 OFFCURVE",
+"138 -153 OFFCURVE",
+"187 -153 CURVE SMOOTH",
+"230 -153 OFFCURVE",
 "274 -143 OFFCURVE",
 "274 -124 CURVE SMOOTH",
 "274 -102 OFFCURVE",
-"236 -100 OFFCURVE",
+"236 -99 OFFCURVE",
 "175 -96 CURVE SMOOTH",
-"97 -91 OFFCURVE",
+"97 -92 OFFCURVE",
 "70 -70 OFFCURVE",
-"70 -41 CURVE SMOOTH",
+"70 -44 CURVE SMOOTH",
 "70 -18 OFFCURVE",
 "95 -1 OFFCURVE",
 "120 1 CURVE",
@@ -24443,7 +24443,7 @@ unicode = 0302;
 },
 {
 glyphname = commaaccentcomb;
-lastChange = "2015-08-18 19:21:59 +0000";
+lastChange = "2015-08-19 22:31:02 +0000";
 layers = (
 {
 anchors = (
@@ -24452,14 +24452,34 @@ name = _bottom;
 position = "{127, 0}";
 }
 );
-components = (
-{
-name = comma;
-transform = "{1, 0, 0, 1, 0, -117}";
-}
-);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"176 -103 OFFCURVE",
+"156 -85 OFFCURVE",
+"127 -85 CURVE SMOOTH",
+"99 -85 OFFCURVE",
+"82 -99 OFFCURVE",
+"82 -116 CURVE SMOOTH",
+"82 -133 OFFCURVE",
+"98 -144 OFFCURVE",
+"121 -144 CURVE SMOOTH",
+"134 -144 OFFCURVE",
+"145 -142 OFFCURVE",
+"156 -140 CURVE",
+"149 -184 OFFCURVE",
+"117 -220 OFFCURVE",
+"67 -265 CURVE",
+"78 -277 LINE",
+"139 -229 OFFCURVE",
+"176 -175 OFFCURVE",
+"176 -132 CURVE SMOOTH"
+);
+}
+);
 width = 262;
 },
 {
@@ -24477,7 +24497,7 @@ unicode = 0326;
 },
 {
 glyphname = commaturnedabovecomb;
-lastChange = "2015-08-18 19:21:22 +0000";
+lastChange = "2015-08-19 22:31:37 +0000";
 layers = (
 {
 anchors = (
@@ -24486,14 +24506,34 @@ name = _top;
 position = "{127, 393}";
 }
 );
-components = (
-{
-name = comma;
-transform = "{-1, 0, 0, -1, 253, 480}";
-}
-);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"77 458 OFFCURVE",
+"97 440 OFFCURVE",
+"126 440 CURVE SMOOTH",
+"154 440 OFFCURVE",
+"171 454 OFFCURVE",
+"171 471 CURVE SMOOTH",
+"171 488 OFFCURVE",
+"155 499 OFFCURVE",
+"132 499 CURVE SMOOTH",
+"119 499 OFFCURVE",
+"108 497 OFFCURVE",
+"97 495 CURVE",
+"104 539 OFFCURVE",
+"136 575 OFFCURVE",
+"186 620 CURVE",
+"175 632 LINE",
+"114 584 OFFCURVE",
+"77 530 OFFCURVE",
+"77 487 CURVE SMOOTH"
+);
+}
+);
 width = 262;
 },
 {
