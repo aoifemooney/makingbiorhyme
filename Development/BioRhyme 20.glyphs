@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"\U00E9/ecaron \U00EA./dieresiscomb \U00EB/dotaccentcomb/edotaccent/gravecomb \U00E8/emacron/ogonekcomb/eogonek"
+"\U00E9/ecaron/caroncomb/circumflexcomb \U00EA./dieresiscomb ./dieresiscomb \U00EB/dotaccentcomb/edotaccent/gravecomb \U00E8/emacron/ogonekcomb/eogonek"
 );
 classes = (
 {
@@ -24310,7 +24310,7 @@ unicode = 0306;
 },
 {
 glyphname = caroncomb;
-lastChange = "2015-08-18 19:16:57 +0000";
+lastChange = "2015-08-19 22:22:07 +0000";
 layers = (
 {
 anchors = (
@@ -24325,30 +24325,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"293 546 LINE SMOOTH",
-"265 520 OFFCURVE",
-"245 501 OFFCURVE",
-"232 492 CURVE",
-"219 501 OFFCURVE",
-"199 520 OFFCURVE",
-"171 546 CURVE SMOOTH",
-"82 628 LINE",
-"70 615 LINE",
-"153 525 LINE SMOOTH",
-"175 501 OFFCURVE",
-"198 472 OFFCURVE",
-"213 458 CURVE SMOOTH",
-"216 455 OFFCURVE",
-"223 450 OFFCURVE",
-"232 450 CURVE SMOOTH",
-"239 450 OFFCURVE",
-"246 453 OFFCURVE",
-"251 458 CURVE SMOOTH",
-"266 472 OFFCURVE",
-"289 501 OFFCURVE",
-"311 525 CURVE SMOOTH",
-"394 615 LINE",
-"382 628 LINE"
+"232 492 LINE",
+"66 619 LINE",
+"55 606 LINE",
+"224 464 LINE",
+"240 464 LINE",
+"409 606 LINE",
+"398 619 LINE"
 );
 }
 );
@@ -24538,7 +24521,7 @@ unicode = 0312;
 },
 {
 glyphname = dieresiscomb;
-lastChange = "2015-08-18 19:27:32 +0000";
+lastChange = "2015-08-19 22:19:27 +0000";
 layers = (
 {
 anchors = (
@@ -24547,18 +24530,44 @@ name = _top;
 position = "{232, 461}";
 }
 );
-components = (
-{
-name = period;
-transform = "{1, 0, 0, 1, 240, 558}";
-},
-{
-name = period;
-transform = "{1, 0, 0, 1, -4, 558}";
-}
-);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"324 599 OFFCURVE",
+"307 587 OFFCURVE",
+"307 570 CURVE",
+"307 554 OFFCURVE",
+"324 541 OFFCURVE",
+"352 541 CURVE",
+"381 541 OFFCURVE",
+"396 554 OFFCURVE",
+"396 570 CURVE",
+"396 587 OFFCURVE",
+"381 599 OFFCURVE",
+"352 599 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 599 OFFCURVE",
+"86 587 OFFCURVE",
+"86 570 CURVE",
+"86 554 OFFCURVE",
+"102 541 OFFCURVE",
+"130 541 CURVE",
+"159 541 OFFCURVE",
+"175 554 OFFCURVE",
+"175 570 CURVE",
+"175 587 OFFCURVE",
+"159 599 OFFCURVE",
+"130 599 CURVE"
+);
+}
+);
 width = 482;
 },
 {
@@ -24623,7 +24632,7 @@ unicode = 0307;
 },
 {
 glyphname = gravecomb;
-lastChange = "2015-08-19 22:18:45 +0000";
+lastChange = "2015-08-19 22:21:48 +0000";
 layers = (
 {
 anchors = (
@@ -24638,10 +24647,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"372 477 LINE",
+"371 476 LINE",
 "67 609 LINE",
 "81 637 LINE",
-"380 493 LINE"
+"380 494 LINE"
 );
 }
 );
