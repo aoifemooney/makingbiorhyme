@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"\U00FA\U00FB\U00FC/gravecomb \U00F9/hungarumlautcomb/uhungarumlaut/umacron/uogonek/uring"
+"\U00FA\U00FB\U00FC/gravecomb \U00F9/hungarumlautcomb/uhungarumlaut/umacron/uogonek/uring",
+"/Scedilla/Tcedilla/gcommaaccent/iogonek/ncommaaccent \U00F1/cedillacomb/scedilla/tcedilla"
 );
 classes = (
 {
@@ -5151,7 +5152,7 @@ unicode = 00D2;
 },
 {
 glyphname = Ohungarumlaut;
-lastChange = "2015-08-19 18:48:10 +0000";
+lastChange = "2015-08-19 22:28:30 +0000";
 layers = (
 {
 components = (
@@ -5160,7 +5161,7 @@ name = O;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 266, 129}";
+transform = "{1, 0, 0, 1, 186, 129}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -7382,7 +7383,7 @@ unicode = 00D9;
 },
 {
 glyphname = Uhungarumlaut;
-lastChange = "2015-08-19 18:48:10 +0000";
+lastChange = "2015-08-19 22:28:26 +0000";
 layers = (
 {
 components = (
@@ -7391,7 +7392,7 @@ name = U;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 325, 99}";
+transform = "{1, 0, 0, 1, 245, 99}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -14469,7 +14470,7 @@ unicode = 00F2;
 },
 {
 glyphname = ohungarumlaut;
-lastChange = "2015-08-19 18:48:14 +0000";
+lastChange = "2015-08-19 22:28:14 +0000";
 layers = (
 {
 components = (
@@ -14478,7 +14479,7 @@ name = o;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 203, -4}";
+transform = "{1, 0, 0, 1, 123, -4}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -17260,7 +17261,7 @@ unicode = 00F9;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2015-08-19 18:48:14 +0000";
+lastChange = "2015-08-19 22:28:01 +0000";
 layers = (
 {
 components = (
@@ -17269,7 +17270,7 @@ name = u;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 235, -34}";
+transform = "{1, 0, 0, 1, 155, -34}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -24341,7 +24342,7 @@ unicode = 030C;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2015-08-18 19:51:50 +0000";
+lastChange = "2015-08-19 22:29:48 +0000";
 layers = (
 {
 anchors = (
@@ -24356,38 +24357,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"120 1 LINE",
-"95 -1 OFFCURVE",
-"70 -18 OFFCURVE",
-"70 -41 CURVE SMOOTH",
-"70 -70 OFFCURVE",
-"97 -91 OFFCURVE",
-"175 -96 CURVE SMOOTH",
-"237 -100 OFFCURVE",
-"275 -102 OFFCURVE",
-"275 -124 CURVE SMOOTH",
-"275 -145 OFFCURVE",
-"236 -155 OFFCURVE",
-"182 -155 CURVE SMOOTH",
-"128 -155 OFFCURVE",
-"82 -136 OFFCURVE",
-"63 -117 CURVE",
-"50 -133 LINE",
-"70 -153 OFFCURVE",
-"119 -175 OFFCURVE",
-"182 -175 CURVE SMOOTH",
-"253 -175 OFFCURVE",
-"297 -155 OFFCURVE",
+"110 -12 OFFCURVE",
+"93 -24 OFFCURVE",
+"93 -40 CURVE SMOOTH",
+"93 -54 OFFCURVE",
+"113 -70 OFFCURVE",
+"175 -74 CURVE SMOOTH",
+"251 -79 OFFCURVE",
+"297 -82 OFFCURVE",
 "297 -124 CURVE SMOOTH",
-"297 -85 OFFCURVE",
-"251 -82 OFFCURVE",
-"175 -77 CURVE SMOOTH",
-"110 -73 OFFCURVE",
-"90 -57 OFFCURVE",
-"90 -40 CURVE SMOOTH",
-"90 -24 OFFCURVE",
-"107 -12 OFFCURVE",
-"128 -10 CURVE"
+"297 -155 OFFCURVE",
+"253 -175 OFFCURVE",
+"182 -175 CURVE SMOOTH",
+"119 -175 OFFCURVE",
+"70 -153 OFFCURVE",
+"50 -133 CURVE",
+"63 -115 LINE",
+"82 -134 OFFCURVE",
+"128 -153 OFFCURVE",
+"182 -153 CURVE SMOOTH",
+"235 -153 OFFCURVE",
+"274 -143 OFFCURVE",
+"274 -124 CURVE SMOOTH",
+"274 -102 OFFCURVE",
+"236 -100 OFFCURVE",
+"175 -96 CURVE SMOOTH",
+"97 -91 OFFCURVE",
+"70 -70 OFFCURVE",
+"70 -41 CURVE SMOOTH",
+"70 -18 OFFCURVE",
+"95 -1 OFFCURVE",
+"120 1 CURVE",
+"128 -10 LINE"
 );
 }
 );
@@ -24660,13 +24661,13 @@ unicode = 0300;
 },
 {
 glyphname = hungarumlautcomb;
-lastChange = "2015-08-19 22:26:51 +0000";
+lastChange = "2015-08-19 22:28:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{187, 391}";
+position = "{267, 391}";
 }
 );
 background = {
@@ -24719,19 +24720,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"449 632 LINE",
-"465 614 LINE",
-"310 487 LINE",
-"301 497 LINE"
+"428 634 LINE",
+"445 614 LINE",
+"270 457 LINE",
+"261 467 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"253 632 LINE",
-"269 614 LINE",
-"114 487 LINE",
-"105 497 LINE"
+"232 634 LINE",
+"249 614 LINE",
+"74 457 LINE",
+"65 467 LINE"
 );
 }
 );
