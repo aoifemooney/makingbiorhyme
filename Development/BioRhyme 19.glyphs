@@ -5,7 +5,7 @@ DisplayStrings = (
 /hbar,
 "\U00F0",
 R,
-/germandbls.001,
+"\U00DFutten\012/germandbls.001 utten\012Butten\012Falutin",
 "HCH/Germandbls HHz",
 "\U00DF",
 "\U00C3",
@@ -23,12 +23,14 @@ A,
 /tildecomb,
 /ringcomb,
 /ogonekcomb,
-"",
 /strokeshortcomb,
 /slashlongcomb,
 /commaturnedmod,
 /commaaccentcomb,
-/commaturnedabovecomb
+/commaturnedabovecomb,
+/Germandbls,
+/seven.001,
+/trademark
 );
 classes = (
 {
@@ -12189,7 +12191,7 @@ width = 420;
 },
 {
 glyphname = seven.001;
-lastChange = "2015-08-17 00:38:18 +0000";
+lastChange = "2015-08-19 20:32:51 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -12198,18 +12200,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"617 382 OFFCURVE",
-"537 324 OFFCURVE",
+"617 342 OFFCURVE",
+"507 307 OFFCURVE",
 "362 247 CURVE SMOOTH",
-"200 176 OFFCURVE",
+"196 178 OFFCURVE",
 "141 101 OFFCURVE",
 "141 0 CURVE",
 "166 0 LINE",
 "166 85 OFFCURVE",
-"213 154 OFFCURVE",
+"208 156 OFFCURVE",
 "372 225 CURVE SMOOTH",
-"545 302 OFFCURVE",
-"642 367 OFFCURVE",
+"515 285 OFFCURVE",
+"642 327 OFFCURVE",
 "642 453 CURVE",
 "617 453 LINE"
 );
