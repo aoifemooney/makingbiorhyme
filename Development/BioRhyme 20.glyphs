@@ -1,123 +1,6 @@
 {
 DisplayStrings = (
-"HdH\U00F0HeH",
-"\U00A9",
-/hbar,
-"\U00F0",
-R,
-/germandbls.001,
-"HCH/Germandbls HHz",
-"\U00DF",
-/acutecomb,
-A,
-/brevecomb,
-/caroncomb,
-/cedillacomb,
-/circumflexcomb,
-/dieresiscomb,
-/dotaccentcomb,
-/gravecomb,
-/hungarumlautcomb,
-/macroncomb,
-/tildecomb,
-/ringcomb,
-/ogonekcomb,
-/strokeshortcomb,
-/slashlongcomb,
-/commaturnedmod,
-/commaaccentcomb,
-/commaturnedabovecomb,
-C,
-c,
-e,
-u,
-/u.alt,
-"/idotless i",
-"/jdotless j",
-"\U00C6",
-B,
-D,
-"\U00D0",
-E,
-F,
-G,
-H,
-I,
-J,
-K,
-L,
-M,
-N,
-/Eng,
-O,
-/OE,
-P,
-"\U00DE",
-Q,
-/Q.alt,
-/R.alt,
-S,
-/S.alt2,
-/Germandbls,
-T,
-/Tbar,
-U,
-V,
-W,
-X,
-Y,
-Z,
-aeg,
-/a.alt,
-/a.alt2,
-"\U00E6",
-b,
-/c.alt,
-d,
-/d.alt,
-f,
-/f.alt,
-g,
-/g.alt,
-h,
-i,
-/idotless,
-j,
-/jdotless,
-k,
-l,
-m,
-n,
-/eng,
-o,
-/oe,
-p,
-"\U00FE",
-q,
-r,
-s,
-/s.alt,
-/s.alt2,
-/schwa,
-t,
-/t.alt,
-/tbar,
-v,
-w,
-x,
-/x.alt,
-y,
-z,
-/slashshortcomb,
-"\U00E7/cedillacomb",
-/tcedilla,
-"\U00D1",
-"\U00D8",
-/Tcedilla,
-/uogonek,
-"\U00F8",
-/dcroat,
-"\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/ogonekcomb/eogonek"
+"\U00E9/ecaron \U00EA./dieresiscomb \U00EB/dotaccentcomb/edotaccent/gravecomb \U00E8/emacron/ogonekcomb/eogonek"
 );
 classes = (
 {
@@ -24693,7 +24576,7 @@ unicode = 0308;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2015-08-18 19:27:38 +0000";
+lastChange = "2015-08-19 22:19:09 +0000";
 layers = (
 {
 anchors = (
@@ -24708,18 +24591,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"91 606 OFFCURVE",
-"70 591 OFFCURVE",
-"70 569 CURVE",
-"70 548 OFFCURVE",
-"91 532 OFFCURVE",
-"127 532 CURVE",
-"164 532 OFFCURVE",
-"184 548 OFFCURVE",
-"184 569 CURVE",
-"184 591 OFFCURVE",
-"164 606 OFFCURVE",
-"127 606 CURVE"
+"94 603 OFFCURVE",
+"75 589 OFFCURVE",
+"75 569 CURVE",
+"75 550 OFFCURVE",
+"94 535 OFFCURVE",
+"127 535 CURVE",
+"161 535 OFFCURVE",
+"179 550 OFFCURVE",
+"179 569 CURVE",
+"179 589 OFFCURVE",
+"161 603 OFFCURVE",
+"127 603 CURVE"
 );
 }
 );
@@ -24740,7 +24623,7 @@ unicode = 0307;
 },
 {
 glyphname = gravecomb;
-lastChange = "2015-08-18 19:26:59 +0000";
+lastChange = "2015-08-19 22:18:45 +0000";
 layers = (
 {
 anchors = (
@@ -24749,14 +24632,19 @@ name = _top;
 position = "{262, 421}";
 }
 );
-components = (
-{
-name = acutecomb;
-transform = "{-1, 0, 0, 1, 420, 0}";
-}
-);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"372 477 LINE",
+"67 609 LINE",
+"81 637 LINE",
+"380 493 LINE"
+);
+}
+);
 width = 480;
 },
 {
@@ -24921,7 +24809,7 @@ unicode = 0304;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2015-08-19 22:15:31 +0000";
+lastChange = "2015-08-19 22:15:44 +0000";
 layers = (
 {
 anchors = (
@@ -24967,9 +24855,9 @@ closed = 1;
 nodes = (
 "170 3 LINE",
 "107 -13 OFFCURVE",
-"70 -48 OFFCURVE",
+"70 -49 OFFCURVE",
 "70 -92 CURVE SMOOTH",
-"70 -143 OFFCURVE",
+"70 -144 OFFCURVE",
 "125 -174 OFFCURVE",
 "190 -174 CURVE SMOOTH",
 "245 -174 OFFCURVE",
