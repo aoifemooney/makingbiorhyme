@@ -40,7 +40,7 @@ R,
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z R.alt";
+code = "A A.alt Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H Hbar I Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.alt R R.alt Racute Rcaron Rcommaaccent S S.alt2 Sacute Scaron Scedilla Germandbls T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent";
 name = Uppercase;
 }
 );
@@ -52,7 +52,7 @@ familyName = "BioRhyme";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012";
+code = "languagesystem DFLT dflt;\012";
 name = Languagesystems;
 }
 );
@@ -66,11 +66,11 @@ code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u b
 name = ss02;
 },
 {
-code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub x by x.alt;\012sub s by s.alt;\012sub g by g.alt;\012sub c by c.alt;\012\012\012";
+code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub x by x.alt;\012sub s by s.alt;\012sub g by g.alt;\012sub c by c.alt;\012sub section by section.001;\012\012\012";
 name = ss03;
 },
 {
-code = "sub two by two.001;\012sub seven by seven.001;";
+code = "#numeric alternates\012sub two by two.001;\012sub seven by seven.001;\012";
 name = ss04;
 }
 );
