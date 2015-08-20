@@ -5,7 +5,8 @@ DisplayStrings = (
 "\U00C7",
 /Scedilla,
 S,
-/hungarumlautcomb
+/hungarumlautcomb,
+/seven.001
 );
 classes = (
 {
@@ -16152,7 +16153,7 @@ unicode = 0161;
 },
 {
 glyphname = scedilla;
-lastChange = "2015-08-19 18:48:14 +0000";
+lastChange = "2015-08-20 01:34:32 +0000";
 layers = (
 {
 components = (
@@ -16161,7 +16162,7 @@ name = s;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 182, -10}";
+transform = "{1, 0, 0, 1, 202, -10}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -17266,7 +17267,7 @@ unicode = 00F9;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2015-08-19 22:28:01 +0000";
+lastChange = "2015-08-20 01:34:30 +0000";
 layers = (
 {
 components = (
@@ -17275,7 +17276,7 @@ name = u;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 155, -34}";
+transform = "{1, 0, 0, 1, 175, -34}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -18856,7 +18857,7 @@ width = 420;
 },
 {
 glyphname = seven.001;
-lastChange = "2015-08-17 00:38:18 +0000";
+lastChange = "2015-08-20 01:35:37 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -18865,19 +18866,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"617 382 OFFCURVE",
-"537 324 OFFCURVE",
+"617 436 LINE SMOOTH",
+"617 325 OFFCURVE",
+"526 304 OFFCURVE",
 "362 247 CURVE SMOOTH",
-"200 176 OFFCURVE",
+"201 191 OFFCURVE",
 "141 101 OFFCURVE",
 "141 0 CURVE",
 "166 0 LINE",
 "166 85 OFFCURVE",
-"213 154 OFFCURVE",
+"214 169 OFFCURVE",
 "372 225 CURVE SMOOTH",
-"545 302 OFFCURVE",
-"642 367 OFFCURVE",
-"642 453 CURVE",
+"537 283 OFFCURVE",
+"642 312 OFFCURVE",
+"642 436 CURVE SMOOTH",
+"642 453 LINE",
 "617 453 LINE"
 );
 },
