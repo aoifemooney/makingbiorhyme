@@ -30,7 +30,10 @@ A,
 /commaturnedabovecomb,
 /Germandbls,
 /seven.001,
-/trademark
+/trademark,
+O,
+a,
+n
 );
 classes = (
 {
@@ -18529,6 +18532,13 @@ widthClass = Expanded;
 },
 {
 name = Regular;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 800;
+interpolationWidth = 200;
+name = ExtraBold;
+weightClass = ExtraBold;
 widthClass = Expanded;
 }
 );
