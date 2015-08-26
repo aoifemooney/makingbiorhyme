@@ -8646,7 +8646,7 @@ unicode = 006C;
 },
 {
 glyphname = ldot;
-lastChange = "2015-08-18 19:16:11 +0000";
+lastChange = "2015-08-26 21:13:06 +0000";
 layers = (
 {
 components = (
@@ -8672,7 +8672,7 @@ name = periodcentered;
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+width = 420;
 },
 {
 components = (
@@ -8685,7 +8685,7 @@ name = periodcentered;
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+width = 420;
 }
 );
 unicode = 0140;
@@ -17238,7 +17238,7 @@ unicode = 00A7;
 {
 color = 0;
 glyphname = trademark;
-lastChange = "2015-08-17 00:51:59 +0000";
+lastChange = "2015-08-26 21:12:57 +0000";
 layers = (
 {
 components = (
@@ -17261,11 +17261,12 @@ name = T;
 },
 {
 name = M;
+transform = "{1, 0, 0, 1, 420, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+width = 1282;
 },
 {
 components = (
@@ -17274,11 +17275,12 @@ name = T;
 },
 {
 name = M;
+transform = "{1, 0, 0, 1, 420, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+width = 1282;
 }
 );
 unicode = 2122;
@@ -18521,64 +18523,9 @@ name = Regular;
 },
 {
 interpolationWeight = 200;
-name = Light;
-},
-{
-interpolationWeight = 200;
 interpolationWidth = 200;
 name = "Light Extended";
 widthClass = Expanded;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 200;
-name = "Regular Expanded";
-widthClass = Expanded;
-},
-{
-interpolationWeight = 500;
-interpolationWidth = 200;
-name = "Medium Expanded";
-weightClass = Medium;
-widthClass = Expanded;
-},
-{
-interpolationWeight = 600;
-interpolationWidth = 200;
-name = "SemiBold Expanded";
-weightClass = SemiBold;
-widthClass = Expanded;
-},
-{
-interpolationWeight = 700;
-interpolationWidth = 200;
-name = "Bold Expanded";
-weightClass = Bold;
-widthClass = Expanded;
-},
-{
-interpolationWeight = 800;
-interpolationWidth = 200;
-name = "UltraBold Expanded";
-weightClass = UltraBold;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 150;
-name = "Regular SemiExpanded";
-widthClass = "Semi Expanded";
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 70;
-name = "Regular SemiCondensed";
-widthClass = SemiCondensed;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 250;
-name = "Regular UltraExpanded";
-widthClass = "Ultra Expanded";
 },
 {
 name = Regular;
