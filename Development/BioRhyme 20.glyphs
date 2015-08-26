@@ -40,7 +40,8 @@ A,
 H,
 M,
 D,
-/A.alt
+/A.alt,
+/a.alt
 );
 classes = (
 {
@@ -7424,7 +7425,7 @@ unicode = 0061;
 },
 {
 glyphname = a.alt;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:55:58 +0000";
 layers = (
 {
 anchors = (
@@ -7582,6 +7583,20 @@ nodes = (
 width = 858;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{268, -20}";
+},
+{
+name = ogonek;
+position = "{473, -3}";
+},
+{
+name = top;
+position = "{268, 377}";
+}
+);
 guideLines = (
 {
 position = "{285, 377}";
