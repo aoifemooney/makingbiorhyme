@@ -3895,7 +3895,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-08-26 22:52:57 +0000";
+lastChange = "2015-08-26 22:53:35 +0000";
 layers = (
 {
 anchors = (
@@ -4007,6 +4007,10 @@ position = "{320, -27}";
 {
 name = center;
 position = "{320, 245}";
+},
+{
+name = ogonek;
+position = "{320, -15}";
 },
 {
 name = top;
@@ -7169,7 +7173,7 @@ unicode = 017B;
 {
 color = 6;
 glyphname = a;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:55:03 +0000";
 layers = (
 {
 anchors = (
@@ -7325,6 +7329,20 @@ nodes = (
 width = 767;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{268, -20}";
+},
+{
+name = ogonek;
+position = "{452, 9}";
+},
+{
+name = top;
+position = "{268, 377}";
+}
+);
 guideLines = (
 {
 position = "{285, 377}";
