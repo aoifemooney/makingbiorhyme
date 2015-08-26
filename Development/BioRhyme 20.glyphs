@@ -237,7 +237,7 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:48:20 +0000";
 layers = (
 {
 anchors = (
@@ -310,6 +310,20 @@ nodes = (
 width = 999;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{339, 0}";
+},
+{
+name = ogonek;
+position = "{639, 10}";
+},
+{
+name = top;
+position = "{340, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -389,19 +403,6 @@ nodes = (
 "490 490 LINE",
 "184 490 LINE",
 "184 417 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"32 13 LINE",
-"141 13 LINE",
-"365 440 LINE",
-"309 440 LINE",
-"533 13 LINE",
-"645 13 LINE",
-"396 449 LINE SMOOTH",
-"279 449 LINE"
 );
 }
 );
