@@ -167,6 +167,15 @@ weightValue = 250;
 width = Extended;
 widthValue = 200;
 xHeight = 357;
+},
+{
+ascender = 800;
+capHeight = 700;
+descender = -200;
+id = "94006B86-3178-4304-AFD3-257476F0129C";
+weight = Bold;
+weightValue = 700;
+xHeight = 500;
 }
 );
 glyphs = (
@@ -5468,7 +5477,7 @@ unicode = 017B;
 {
 color = 6;
 glyphname = a;
-lastChange = "2015-08-26 21:15:18 +0000";
+lastChange = "2015-08-26 21:15:53 +0000";
 layers = (
 {
 anchors = (
@@ -5622,6 +5631,11 @@ nodes = (
 }
 );
 width = 767;
+},
+{
+layerId = "94006B86-3178-4304-AFD3-257476F0129C";
+name = Bold;
+width = 600;
 }
 );
 rightMetricsKey = "=n";
