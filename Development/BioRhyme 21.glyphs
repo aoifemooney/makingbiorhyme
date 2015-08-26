@@ -34,8 +34,7 @@ z,
 u,
 n,
 /idotless,
-R,
-""
+R
 );
 classes = (
 {
@@ -162,7 +161,6 @@ verticalStems = (
 );
 visible = 1;
 weight = Light;
-weightValue = 200;
 width = Extended;
 widthValue = 200;
 xHeight = 357;
@@ -224,7 +222,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Bold;
-weightValue = 600;
+weightValue = 700;
 xHeight = 427;
 }
 );
@@ -21364,89 +21362,18 @@ unicode = 02B9;
 keepAlternatesTogether = 1;
 instances = (
 {
-interpolationWeight = 800;
-name = UltraBold;
-weightClass = UltraBold;
+interpolationWidth = 200;
+name = "Light Extended";
+weightClass = ExtraLight;
+widthClass = Expanded;
+},
+{
+name = Regular;
 },
 {
 interpolationWeight = 700;
 name = Bold;
 weightClass = Bold;
-},
-{
-interpolationWeight = 600;
-name = SemiBold;
-weightClass = SemiBold;
-},
-{
-interpolationWeight = 500;
-name = Medium;
-weightClass = Medium;
-},
-{
-interpolationWeight = 400;
-name = Regular;
-},
-{
-interpolationWeight = 200;
-name = Light;
-},
-{
-interpolationWeight = 200;
-interpolationWidth = 200;
-name = "Light Extended";
-widthClass = Expanded;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 200;
-name = "Regular Expanded";
-widthClass = Expanded;
-},
-{
-interpolationWeight = 500;
-interpolationWidth = 200;
-name = "Medium Expanded";
-weightClass = Medium;
-widthClass = Expanded;
-},
-{
-interpolationWeight = 600;
-interpolationWidth = 200;
-name = "SemiBold Expanded";
-weightClass = SemiBold;
-widthClass = Expanded;
-},
-{
-interpolationWeight = 700;
-interpolationWidth = 200;
-name = "Bold Expanded";
-weightClass = Bold;
-widthClass = Expanded;
-},
-{
-interpolationWeight = 800;
-interpolationWidth = 200;
-name = "UltraBold Expanded";
-weightClass = UltraBold;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 150;
-name = "Regular SemiExpanded";
-widthClass = "Semi Expanded";
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 70;
-name = "Regular SemiCondensed";
-widthClass = SemiCondensed;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 250;
-name = "Regular UltraExpanded";
-widthClass = "Ultra Expanded";
 }
 );
 manufacturer = AMT;
