@@ -174,7 +174,7 @@ visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
-widthValue = 8;
+widthValue = 200;
 xHeight = 357;
 },
 {
@@ -235,7 +235,6 @@ verticalStems = (
 visible = 1;
 weight = Bold;
 weightValue = 700;
-widthValue = 5;
 xHeight = 427;
 }
 );
@@ -21650,28 +21649,89 @@ unicode = 02B9;
 keepAlternatesTogether = 1;
 instances = (
 {
-interpolationWeight = 250;
-interpolationWidth = 8;
-name = "Light Extended";
-weightClass = ExtraLight;
-widthClass = "Extra Expanded";
+interpolationWeight = 800;
+name = UltraBold;
+weightClass = UltraBold;
 },
 {
 interpolationWeight = 700;
-interpolationWidth = 5;
 name = Bold;
 weightClass = Bold;
 },
 {
+interpolationWeight = 650;
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 550;
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 400;
+name = Regular;
+},
+{
 interpolationWeight = 250;
-interpolationWidth = 5;
 name = Light;
-weightClass = ExtraLight;
+},
+{
+interpolationWeight = 250;
+interpolationWidth = 200;
+name = "Light Extended";
+widthClass = Expanded;
+},
+{
+interpolationWeight = 400;
+interpolationWidth = 200;
+name = "Regular Expanded";
+widthClass = Expanded;
+},
+{
+interpolationWeight = 500;
+interpolationWidth = 200;
+name = "Medium Expanded";
+weightClass = Medium;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 650;
+interpolationWidth = 200;
+name = "SemiBold Expanded";
+weightClass = SemiBold;
+widthClass = Expanded;
 },
 {
 interpolationWeight = 700;
-interpolationWidth = 8;
-name = Regular;
+interpolationWidth = 200;
+name = "Bold Expanded";
+weightClass = Bold;
+widthClass = Expanded;
+},
+{
+interpolationWeight = 800;
+interpolationWidth = 200;
+name = "UltraBold Expanded";
+weightClass = UltraBold;
+},
+{
+interpolationWeight = 400;
+interpolationWidth = 150;
+name = "Regular SemiExpanded";
+widthClass = "Semi Expanded";
+},
+{
+interpolationWeight = 400;
+interpolationWidth = 70;
+name = "Regular SemiCondensed";
+widthClass = SemiCondensed;
+},
+{
+interpolationWeight = 400;
+interpolationWidth = 250;
+name = "Regular UltraExpanded";
+widthClass = "Ultra Expanded";
 }
 );
 manufacturer = AMT;
