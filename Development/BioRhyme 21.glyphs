@@ -161,6 +161,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Light;
+weightValue = 250;
 width = Extended;
 widthValue = 200;
 xHeight = 357;
@@ -21362,18 +21363,20 @@ unicode = 02B9;
 keepAlternatesTogether = 1;
 instances = (
 {
+interpolationWeight = 250;
 interpolationWidth = 200;
 name = "Light Extended";
 weightClass = ExtraLight;
 widthClass = Expanded;
 },
 {
-name = Regular;
-},
-{
 interpolationWeight = 700;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
+},
+{
+name = Regular;
 }
 );
 manufacturer = AMT;
