@@ -34,7 +34,8 @@ z,
 u,
 n,
 /idotless,
-R
+R,
+A
 );
 classes = (
 {
@@ -231,7 +232,7 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 20:58:16 +0000";
 layers = (
 {
 anchors = (
@@ -21375,15 +21376,6 @@ isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
-},
-{
-interpolationWeight = 400;
-name = Regular;
-},
-{
-interpolationWeight = 550;
-name = Medium;
-weightClass = Medium;
 }
 );
 manufacturer = AMT;
