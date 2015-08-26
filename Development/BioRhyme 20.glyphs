@@ -174,7 +174,7 @@ visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
-widthValue = 200;
+widthValue = 600;
 xHeight = 357;
 },
 {
@@ -21649,11 +21649,6 @@ unicode = 02B9;
 keepAlternatesTogether = 1;
 instances = (
 {
-interpolationWeight = 800;
-name = UltraBold;
-weightClass = UltraBold;
-},
-{
 interpolationWeight = 700;
 name = Bold;
 weightClass = Bold;
@@ -21678,60 +21673,36 @@ name = Light;
 },
 {
 interpolationWeight = 250;
-interpolationWidth = 200;
+interpolationWidth = 600;
 name = "Light Extended";
 widthClass = Expanded;
 },
 {
 interpolationWeight = 400;
-interpolationWidth = 200;
+interpolationWidth = 600;
 name = "Regular Expanded";
 widthClass = Expanded;
 },
 {
 interpolationWeight = 500;
-interpolationWidth = 200;
+interpolationWidth = 600;
 name = "Medium Expanded";
 weightClass = Medium;
 widthClass = Expanded;
 },
 {
 interpolationWeight = 650;
-interpolationWidth = 200;
+interpolationWidth = 600;
 name = "SemiBold Expanded";
 weightClass = SemiBold;
 widthClass = Expanded;
 },
 {
 interpolationWeight = 700;
-interpolationWidth = 200;
+interpolationWidth = 600;
 name = "Bold Expanded";
 weightClass = Bold;
 widthClass = Expanded;
-},
-{
-interpolationWeight = 800;
-interpolationWidth = 200;
-name = "UltraBold Expanded";
-weightClass = UltraBold;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 150;
-name = "Regular SemiExpanded";
-widthClass = "Semi Expanded";
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 70;
-name = "Regular SemiCondensed";
-widthClass = SemiCondensed;
-},
-{
-interpolationWeight = 400;
-interpolationWidth = 250;
-name = "Regular UltraExpanded";
-widthClass = "Ultra Expanded";
 }
 );
 manufacturer = AMT;
