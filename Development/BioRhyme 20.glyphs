@@ -35,7 +35,8 @@ u,
 n,
 /idotless,
 R,
-""
+A,
+/brevecomb/Abreve
 );
 classes = (
 {
@@ -11133,7 +11134,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:14:23 +0000";
 layers = (
 {
 anchors = (
@@ -11210,6 +11211,16 @@ nodes = (
 width = 918;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{489, 0}";
+},
+{
+name = top;
+position = "{479, 367}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
