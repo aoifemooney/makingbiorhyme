@@ -37,7 +37,10 @@ n,
 R,
 A,
 /brevecomb/Abreve,
-H
+H,
+M,
+D,
+/A.alt
 );
 classes = (
 {
@@ -410,7 +413,7 @@ unicode = 0041;
 {
 color = 6;
 glyphname = A.alt;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:46:45 +0000";
 layers = (
 {
 anchors = (
@@ -514,6 +517,20 @@ nodes = (
 width = 993;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{339, 0}";
+},
+{
+name = ogonek;
+position = "{646, 10}";
+},
+{
+name = top;
+position = "{339, 490}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
@@ -1391,7 +1408,7 @@ unicode = 00C7;
 },
 {
 glyphname = D;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:46:14 +0000";
 layers = (
 {
 anchors = (
@@ -1447,6 +1464,20 @@ nodes = (
 width = 959;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = center;
+position = "{305, 245}";
+},
+{
+name = top;
+position = "{305, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -3286,7 +3317,7 @@ unicode = 013B;
 {
 color = 6;
 glyphname = M;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:45:49 +0000";
 layers = (
 {
 anchors = (
@@ -3440,6 +3471,16 @@ nodes = (
 width = 1227;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{426, -42}";
+},
+{
+name = top;
+position = "{426, 490}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
