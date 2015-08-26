@@ -41,7 +41,8 @@ H,
 M,
 D,
 /A.alt,
-/a.alt
+/a.alt,
+/a.alt2
 );
 classes = (
 {
@@ -7679,7 +7680,7 @@ width = 534;
 {
 color = 6;
 glyphname = a.alt2;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 22:56:52 +0000";
 layers = (
 {
 anchors = (
@@ -7857,6 +7858,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"347 76 LINE SMOOTH",
+"347 21 OFFCURVE",
+"391 -16 OFFCURVE",
+"443 -16 CURVE SMOOTH",
 "477 -16 OFFCURVE",
 "500 -4 OFFCURVE",
 "516 7 CURVE",
@@ -7867,21 +7872,8 @@ nodes = (
 "460 67 OFFCURVE",
 "456 76 OFFCURVE",
 "456 89 CURVE SMOOTH",
-"456 221 LINE",
-"347 221 LINE",
-"347 76 LINE",
-"347 21 OFFCURVE",
-"391 -16 OFFCURVE",
-"443 -16 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"456 203 LINE",
 "456 357 LINE",
-"347 357 LINE",
-"347 203 LINE"
+"347 357 LINE"
 );
 }
 );
