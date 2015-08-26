@@ -21650,6 +21650,8 @@ keepAlternatesTogether = 1;
 instances = (
 {
 interpolationWeight = 700;
+isBold = 1;
+linkStyle = Light;
 name = Bold;
 weightClass = Bold;
 },
@@ -21700,6 +21702,8 @@ widthClass = Expanded;
 {
 interpolationWeight = 700;
 interpolationWidth = 600;
+isBold = 1;
+linkStyle = "Light Extended";
 name = "Bold Expanded";
 weightClass = Bold;
 widthClass = Expanded;
