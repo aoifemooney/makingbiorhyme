@@ -21653,11 +21653,20 @@ instances = (
 interpolationWeight = 250;
 interpolationWidth = 8;
 name = "Light Extended";
+weightClass = ExtraLight;
+widthClass = "Extra Expanded";
 },
 {
 interpolationWeight = 700;
 interpolationWidth = 5;
 name = Bold;
+weightClass = Bold;
+},
+{
+interpolationWeight = 250;
+interpolationWidth = 5;
+name = Light;
+weightClass = ExtraLight;
 }
 );
 manufacturer = AMT;
