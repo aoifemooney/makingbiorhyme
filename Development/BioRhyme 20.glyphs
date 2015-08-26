@@ -7680,7 +7680,7 @@ width = 534;
 {
 color = 6;
 glyphname = a.alt2;
-lastChange = "2015-08-26 22:56:52 +0000";
+lastChange = "2015-08-26 22:57:34 +0000";
 layers = (
 {
 anchors = (
@@ -7821,12 +7821,35 @@ nodes = (
 width = 827;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{221, -20}";
+},
+{
+name = ogonek;
+position = "{474, -2}";
+},
+{
+name = top;
+position = "{221, 377}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
+"355 324 OFFCURVE",
+"295 376 OFFCURVE",
+"221 376 CURVE SMOOTH",
+"115 376 OFFCURVE",
+"28 289 OFFCURVE",
+"28 165 CURVE",
+"28 41 OFFCURVE",
+"122 -20 OFFCURVE",
+"216 -20 CURVE SMOOTH",
 "293 -20 OFFCURVE",
 "354 26 OFFCURVE",
 "403 85 CURVE",
@@ -7843,16 +7866,7 @@ nodes = (
 "294 288 OFFCURVE",
 "354 249 OFFCURVE",
 "405 214 CURVE",
-"405 279 LINE",
-"355 324 OFFCURVE",
-"295 376 OFFCURVE",
-"221 376 CURVE SMOOTH",
-"115 376 OFFCURVE",
-"28 289 OFFCURVE",
-"28 165 CURVE",
-"28 41 OFFCURVE",
-"122 -20 OFFCURVE",
-"216 -20 CURVE SMOOTH"
+"405 279 LINE"
 );
 },
 {
