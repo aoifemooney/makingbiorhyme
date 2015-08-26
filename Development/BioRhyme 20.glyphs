@@ -44,7 +44,8 @@ D,
 /a.alt,
 /a.alt2,
 d,
-/d.alt
+/d.alt,
+o
 );
 classes = (
 {
@@ -11755,7 +11756,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2015-08-25 21:43:54 +0000";
+lastChange = "2015-08-26 23:03:51 +0000";
 layers = (
 {
 anchors = (
@@ -11821,6 +11822,28 @@ nodes = (
 width = 779;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{257, -20}";
+},
+{
+name = center;
+position = "{257, 179}";
+},
+{
+name = ogonek;
+position = "{249, -9}";
+},
+{
+name = top;
+position = "{257, 387}";
+},
+{
+name = topright;
+position = "{626, 357}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
