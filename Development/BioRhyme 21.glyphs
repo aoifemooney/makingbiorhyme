@@ -21372,17 +21372,15 @@ widthClass = Expanded;
 {
 interpolationWeight = 700;
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = InterpolationWeightY;
-value = "400";
-}
-);
 interpolationWeight = 400;
+name = Regular;
+},
+{
 name = Regular;
 }
 );
