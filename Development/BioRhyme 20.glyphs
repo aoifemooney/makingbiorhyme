@@ -3920,7 +3920,7 @@ unicode = 013B;
 {
 color = 6;
 glyphname = M;
-lastChange = "2015-08-27 01:18:19 +0000";
+lastChange = "2015-08-27 01:21:49 +0000";
 layers = (
 {
 anchors = (
@@ -4166,6 +4166,19 @@ name = top;
 position = "{426, 480}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"429 -27 LINE",
+"161 490 LINE",
+"189 490 LINE",
+"457 -27 LINE"
+);
+}
+);
+};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
@@ -4185,15 +4198,6 @@ nodes = (
 "190 490 LINE",
 "190 12 LINE",
 "165 12 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"165 490 LINE",
-"190 490 LINE",
-"440 11 LINE",
-"433 -27 LINE"
 );
 },
 {
@@ -4235,10 +4239,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"428 11 LINE",
-"676 490 LINE",
-"700 490 LINE",
-"433 -27 LINE"
+"429 -27 LINE",
+"161 490 LINE",
+"189 490 LINE",
+"438 8 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"669 490 LINE",
+"697 490 LINE",
+"429 -27 LINE",
+"420 8 LINE"
 );
 }
 );
