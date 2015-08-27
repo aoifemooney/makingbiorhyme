@@ -330,7 +330,7 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2015-08-27 00:37:47 +0000";
+lastChange = "2015-08-27 00:57:34 +0000";
 layers = (
 {
 anchors = (
@@ -540,48 +540,6 @@ name = top;
 position = "{337, 490}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"127 13 LINE",
-"338 472 LINE",
-"549 13 LINE",
-"576 13 LINE",
-"339 522 LINE",
-"102 13 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"695 0 LINE",
-"695 24 LINE",
-"428 24 LINE",
-"428 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"249 0 LINE",
-"249 24 LINE",
-"-18 24 LINE",
-"-18 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"468 206 LINE",
-"206 206 LINE",
-"189 182 LINE",
-"485 182 LINE"
-);
-}
-);
-};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
@@ -589,8 +547,8 @@ paths = (
 closed = 1;
 nodes = (
 "694 0 LINE",
-"694 24 LINE",
-"426 24 LINE",
+"694 23 LINE",
+"426 23 LINE",
 "426 0 LINE"
 );
 },
@@ -598,16 +556,16 @@ nodes = (
 closed = 1;
 nodes = (
 "251 0 LINE",
-"251 24 LINE",
-"-18 24 LINE",
+"251 23 LINE",
+"-18 23 LINE",
 "-18 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"470 207 LINE",
-"204 207 LINE",
+"470 206 LINE",
+"204 206 LINE",
 "186 183 LINE",
 "487 183 LINE"
 );
@@ -615,10 +573,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"490 466 LINE",
+"490 467 LINE",
 "490 490 LINE",
 "184 490 LINE",
-"184 466 LINE"
+"184 467 LINE"
 );
 },
 {
@@ -643,7 +601,7 @@ unicode = 0041;
 {
 color = 6;
 glyphname = A.alt;
-lastChange = "2015-08-27 00:38:26 +0000";
+lastChange = "2015-08-27 00:57:49 +0000";
 layers = (
 {
 anchors = (
@@ -838,8 +796,8 @@ nodes = (
 closed = 1;
 nodes = (
 "695 0 LINE",
-"695 24 LINE",
-"428 24 LINE",
+"695 23 LINE",
+"428 23 LINE",
 "428 0 LINE"
 );
 },
@@ -847,16 +805,16 @@ nodes = (
 closed = 1;
 nodes = (
 "249 0 LINE",
-"249 24 LINE",
-"-18 24 LINE",
+"249 23 LINE",
+"-18 23 LINE",
 "-18 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"468 206 LINE",
-"206 206 LINE",
+"468 205 LINE",
+"206 205 LINE",
 "189 182 LINE",
 "485 182 LINE"
 );
