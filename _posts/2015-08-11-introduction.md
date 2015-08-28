@@ -1,13 +1,10 @@
 ---
 layout: post-no-feature
 title: "Introduction to BioRhyme"
-description: "Introduction"
+#description: "Introduction"
 category: articles
 tags: [history, context, form]
 ---
-
-making BIORHYME
-July 20th, 2015
 
 Hello!
 
