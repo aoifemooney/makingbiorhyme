@@ -250,7 +250,7 @@ header.site-header nav {
 
   ul li {
     font-size: 16px;
-    text-transform: uppercase;
+    text-transform: none;
     display: inline;
     font-weight: bold;
     top: 2px;
@@ -323,7 +323,7 @@ header.site-header nav {
                 font-size: $fs5;
                 font-weight: bold;
                 color: $grey-light;
-                text-transform: uppercase;
+                text-transform: none;
                 margin-top: $lh * 2/3;
             }
         }
@@ -429,7 +429,7 @@ header.site-header nav {
             font-family: $sans;
             font-style: normal;
             color: $grey-light;
-            text-transform: uppercase;
+            text-transform: none;
             vertical-align: middle;
         }
     }
@@ -477,7 +477,7 @@ header.site-header nav {
             font-size: $fs5;
             font-family: $sans;
             font-weight: bold;
-            text-transform: uppercase;
+            text-transform: none;
             color: lighten($black, 50%);
             text-align: center;
         }
@@ -535,7 +535,7 @@ header.site-header nav {
         width: 76px;
         font-size: $fs5;
         font-family: $sans;
-        text-transform: uppercase;
+        text-transform: none;
         font-weight: bold;
         letter-spacing: 1px;
         padding: 4px 6px 4px 6px;
@@ -579,7 +579,7 @@ footer {
         position: absolute;
         bottom: 8px;
         font-family: $sans;
-        text-transform: uppercase;
+        text-transform: none;
         color: transparentize($white, .9);
         a {
             color: transparentize($white, .7);
@@ -619,7 +619,7 @@ footer {
                 position: relative;
                 font-size: $fs5;
                 font-family: $sans;
-                text-transform: uppercase;
+                text-transform: none;
                 text-align: right;
             }
         }
