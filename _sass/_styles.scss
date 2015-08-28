@@ -619,7 +619,8 @@ footer {
                 @include column(4,12);
                 position: relative;
                 font-size: $fs5;
-                font-family: $sans;
+                font-family: $serif;
+                font-style: italic;
                 text-transform: none;
                 text-align: right;
             }
