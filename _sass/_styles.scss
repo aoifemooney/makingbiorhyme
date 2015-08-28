@@ -230,7 +230,7 @@ header.site-header hgroup {
       line-height: 100%;
       color: $accent;
       letter-spacing: 2px;
-      text-transform: uppercase;
+      text-transform: lowercase;
   }
   a {
       color: #fff;
@@ -410,6 +410,7 @@ header.site-header nav {
             h1 {
                 font-size: $fs3;
                 font-style: normal;
+                font-weight: 900;
                 text-transform: lowercase;
             }
         }
