@@ -8,7 +8,7 @@ image:
   feature: Ideas_4-04.png
 ---
 
-This project is housed on GitHub and is a Google Webfont initiative.
+This project is housed on GitHub and is possible thanks to financial support from [Google Fonts](https://www.google.com/fonts).
 
 ### Font Specifics
 * slab serif, monoline
