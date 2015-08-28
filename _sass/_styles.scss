@@ -13,7 +13,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: $serif;
+    font-family: $sans;
     font-style: normal;
 }
 
@@ -622,9 +622,9 @@ footer {
                 @include column(4,12);
                 position: relative;
                 font-size: $fs5;
-                font-family: $serif;
+                font-family: $sans;
                 font-weight: 900;
-                font-style: italic;
+                font-style: normal;
                 text-transform: none;
                 text-align: right;
             }
