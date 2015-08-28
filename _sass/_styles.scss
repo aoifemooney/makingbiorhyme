@@ -54,6 +54,7 @@ small {
 
 blockquote, blockquote p {
     font-style: italic;
+    font-family:serif;
     line-height: 1.3em;
     text-align: center;
     color: lighten($black, .2);
@@ -409,7 +410,7 @@ header.site-header nav {
 
             h1 {
                 font-size: $fs3;
-                font-style: normal;
+                font-style: italic;
                 font-weight: 900;
                 text-transform: lowercase;
             }
@@ -622,6 +623,7 @@ footer {
                 position: relative;
                 font-size: $fs5;
                 font-family: $serif;
+                font-weight: 900;
                 font-style: italic;
                 text-transform: none;
                 text-align: right;
