@@ -65,7 +65,7 @@ p,
 b,
 preditn,
 I,
-"bingo ringo\012pingo lingo\012shingo\012dingo\012pingo\012anmmigo"
+"bingo ringo\012pingo lingo\012shingo\012dingo\012pingo\012amigo"
 );
 classes = (
 {
@@ -13771,7 +13771,7 @@ unicode = 013C;
 },
 {
 glyphname = m;
-lastChange = "2015-09-03 20:02:05 +0000";
+lastChange = "2015-09-03 20:02:31 +0000";
 layers = (
 {
 anchors = (
@@ -13947,9 +13947,39 @@ nodes = (
 "546 0 LINE",
 "546 74 LINE"
 );
+},
+{
+closed = 1;
+nodes = (
+"577 366 OFFCURVE",
+"519 330 OFFCURVE",
+"451 242 CURVE",
+"451 154 LINE",
+"505 226 OFFCURVE",
+"566 268 OFFCURVE",
+"613 268 CURVE SMOOTH",
+"650 268 OFFCURVE",
+"670 241 OFFCURVE",
+"670 196 CURVE SMOOTH",
+"670 0 LINE",
+"779 0 LINE",
+"779 197 LINE SMOOTH",
+"779 309 OFFCURVE",
+"736 366 OFFCURVE",
+"649 366 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"599 74 LINE",
+"599 0 LINE",
+"834 0 LINE",
+"834 74 LINE"
+);
 }
 );
-width = 883;
+width = 844;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
