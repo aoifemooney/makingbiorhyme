@@ -49,11 +49,12 @@ o,
 s,
 "A/A.alt DHMOa/a.alt s/a.alt2 d/d.alt n/ncommaaccent sonand\012nnnsnnn\012ooosonoo\012nonononononosn",
 "A/A.alt DHMOa/a.alt/a.alt2 d/d.alt n/ncommaaccent s",
-"",
 don,
 h,
 f,
-"/f.alt aongdanz"
+"/f.alt aongdanz",
+/gcommaaccent,
+goe
 );
 classes = (
 {
@@ -12011,7 +12012,7 @@ leftMetricsKey = "=f";
 },
 {
 glyphname = g;
-lastChange = "2015-08-27 03:43:58 +0000";
+lastChange = "2015-09-03 18:10:54 +0000";
 layers = (
 {
 anchors = (
@@ -12155,18 +12156,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"225 176 OFFCURVE",
-"189 208 OFFCURVE",
-"189 248 CURVE SMOOTH",
-"189 290 OFFCURVE",
-"225 319 OFFCURVE",
-"271 319 CURVE SMOOTH",
-"321 319 OFFCURVE",
-"356 290 OFFCURVE",
-"356 248 CURVE SMOOTH",
-"356 208 OFFCURVE",
-"321 176 OFFCURVE",
-"271 176 CURVE SMOOTH"
+"229 183 OFFCURVE",
+"197 212 OFFCURVE",
+"197 248 CURVE SMOOTH",
+"197 286 OFFCURVE",
+"229 313 OFFCURVE",
+"271 313 CURVE SMOOTH",
+"317 313 OFFCURVE",
+"348 286 OFFCURVE",
+"348 248 CURVE SMOOTH",
+"348 212 OFFCURVE",
+"317 183 OFFCURVE",
+"271 183 CURVE SMOOTH"
 );
 },
 {
@@ -12465,7 +12466,7 @@ width = 420;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2015-08-27 00:37:08 +0000";
+lastChange = "2015-09-03 18:10:19 +0000";
 layers = (
 {
 components = (
@@ -12492,7 +12493,7 @@ name = commaturnedabovecomb;
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+width = 553;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
