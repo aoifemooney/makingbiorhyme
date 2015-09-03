@@ -67,7 +67,9 @@ preditn,
 I,
 "bingo ringo\012pingo lingo\012shingo\012dingo\012pingo\012amigoHarbour rapidl groshashana",
 gn,
-"shisheido\012nonsnnhnln\012oosoo\012minimum"
+"shisheido\012nonsnnhnln\012oosoo\012minimum",
+"/jdotless j",
+j
 );
 classes = (
 {
@@ -13299,7 +13301,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-03 23:05:17 +0000";
 layers = (
 {
 components = (
@@ -13333,7 +13335,44 @@ width = 382;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"140 0 LINE",
+"249 0 LINE",
+"249 357 LINE",
+"140 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"70 357 LINE",
+"70 284 LINE",
+"242 284 LINE",
+"242 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"134 530 OFFCURVE",
+"104 507 OFFCURVE",
+"104 475 CURVE",
+"104 445 OFFCURVE",
+"134 422 OFFCURVE",
+"187 422 CURVE",
+"242 422 OFFCURVE",
+"270 445 OFFCURVE",
+"270 475 CURVE",
+"270 507 OFFCURVE",
+"242 530 OFFCURVE",
+"187 530 CURVE"
+);
+}
+);
+width = 284;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14324,7 +14363,7 @@ unicode = 006E;
 },
 {
 glyphname = nacute;
-lastChange = "2015-08-27 03:17:00 +0000";
+lastChange = "2015-09-03 23:05:05 +0000";
 layers = (
 {
 components = (
@@ -14351,7 +14390,7 @@ name = acutecomb;
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 582;
+width = 587;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14363,7 +14402,7 @@ unicode = 0144;
 },
 {
 glyphname = ncaron;
-lastChange = "2015-08-27 03:17:00 +0000";
+lastChange = "2015-09-03 23:05:05 +0000";
 layers = (
 {
 components = (
@@ -14390,7 +14429,7 @@ name = caroncomb;
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 582;
+width = 587;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14402,7 +14441,7 @@ unicode = 0148;
 },
 {
 glyphname = ncommaaccent;
-lastChange = "2015-08-27 03:17:00 +0000";
+lastChange = "2015-09-03 23:05:05 +0000";
 layers = (
 {
 components = (
@@ -14429,7 +14468,7 @@ name = commaaccentcomb;
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 582;
+width = 587;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -14527,7 +14566,7 @@ unicode = 014B;
 },
 {
 glyphname = ntilde;
-lastChange = "2015-08-27 03:17:00 +0000";
+lastChange = "2015-09-03 23:05:05 +0000";
 layers = (
 {
 components = (
@@ -14554,7 +14593,7 @@ name = tildecomb;
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 582;
+width = 587;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
