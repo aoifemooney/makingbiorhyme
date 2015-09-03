@@ -56,8 +56,9 @@ f,
 /gcommaaccent,
 goe,
 /f.alt,
+dp,
 p,
-p
+npo
 );
 classes = (
 {
@@ -14879,7 +14880,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2015-09-03 19:03:48 +0000";
+lastChange = "2015-09-03 19:06:06 +0000";
 layers = (
 {
 anchors = (
@@ -15037,36 +15038,63 @@ paths = (
 {
 closed = 1;
 nodes = (
-"205 49 OFFCURVE",
-"254 -11 OFFCURVE",
-"351 -11 CURVE SMOOTH",
-"457 -11 OFFCURVE",
-"553 72 OFFCURVE",
-"553 190 CURVE SMOOTH",
-"553 294 OFFCURVE",
-"474 367 OFFCURVE",
-"369 367 CURVE SMOOTH",
-"272 367 OFFCURVE",
-"214 296 OFFCURVE",
-"168 240 CURVE",
-"168 164 LINE",
-"216 220 OFFCURVE",
-"272 278 OFFCURVE",
-"339 279 CURVE SMOOTH",
-"395 280 OFFCURVE",
-"437 240 OFFCURVE",
-"437 184 CURVE SMOOTH",
-"437 124 OFFCURVE",
-"389 76 OFFCURVE",
-"324 76 CURVE SMOOTH",
-"259 76 OFFCURVE",
-"202 125 OFFCURVE",
-"168 163 CURVE",
-"168 91 LINE"
+"192 49 OFFCURVE",
+"241 -11 OFFCURVE",
+"338 -11 CURVE SMOOTH",
+"444 -11 OFFCURVE",
+"540 72 OFFCURVE",
+"540 190 CURVE SMOOTH",
+"540 294 OFFCURVE",
+"461 367 OFFCURVE",
+"356 367 CURVE SMOOTH",
+"259 367 OFFCURVE",
+"201 296 OFFCURVE",
+"155 240 CURVE",
+"155 164 LINE",
+"203 220 OFFCURVE",
+"259 278 OFFCURVE",
+"326 279 CURVE SMOOTH",
+"382 280 OFFCURVE",
+"424 240 OFFCURVE",
+"424 184 CURVE SMOOTH",
+"424 124 OFFCURVE",
+"376 76 OFFCURVE",
+"311 76 CURVE SMOOTH",
+"246 76 OFFCURVE",
+"189 125 OFFCURVE",
+"155 163 CURVE",
+"155 91 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 -158 LINE",
+"204 -158 LINE",
+"204 357 LINE",
+"95 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"25 -91 LINE",
+"25 -165 LINE",
+"274 -165 LINE",
+"274 -91 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"25 357 LINE",
+"25 284 LINE",
+"197 284 LINE",
+"197 357 LINE"
 );
 }
 );
-width = 420;
+width = 563;
 },
 {
 background = {
@@ -15197,8 +15225,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"193 -165 LINE",
-"217 -165 LINE",
+"193 -164 LINE",
+"217 -164 LINE",
 "217 357 LINE",
 "193 357 LINE"
 );
@@ -15206,10 +15234,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"102 -143 LINE",
-"102 -166 LINE",
-"308 -166 LINE",
-"308 -143 LINE"
+"102 -142 LINE",
+"102 -165 LINE",
+"308 -165 LINE",
+"308 -142 LINE"
 );
 },
 {
@@ -15257,6 +15285,7 @@ width = 420;
 }
 );
 leftMetricsKey = "=h";
+rightMetricsKey = "=o";
 unicode = 0070;
 },
 {
