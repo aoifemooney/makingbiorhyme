@@ -31,7 +31,7 @@ C,
 O,
 a,
 z,
-un,
+dun,
 adheasion,
 /idotless,
 R,
@@ -317,7 +317,7 @@ guideLines = (
 position = "{260, 366}";
 },
 {
-position = "{295, -11}";
+position = "{285, -11}";
 },
 {
 position = "{552, -99}";
@@ -17045,7 +17045,7 @@ unicode = 0163;
 },
 {
 glyphname = u;
-lastChange = "2015-09-03 19:31:07 +0000";
+lastChange = "2015-09-03 19:32:53 +0000";
 layers = (
 {
 anchors = (
@@ -17217,39 +17217,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"487 357 LINE",
-"378 357 LINE",
-"378 0 LINE",
-"487 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"467 283 LINE",
-"467 357 LINE",
-"322 357 LINE",
-"322 283 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"557 0 LINE",
-"557 73 LINE",
-"385 73 LINE",
-"385 0 LINE"
+"457 283 LINE",
+"457 357 LINE",
+"312 357 LINE",
+"312 283 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "288 -9 OFFCURVE",
-"351 27 OFFCURVE",
-"419 115 CURVE",
-"419 203 LINE",
-"365 131 OFFCURVE",
-"299 89 OFFCURVE",
+"341 27 OFFCURVE",
+"409 115 CURVE",
+"409 203 LINE",
+"355 131 OFFCURVE",
+"289 89 OFFCURVE",
 "247 89 CURVE SMOOTH",
 "205 89 OFFCURVE",
 "185 116 OFFCURVE",
@@ -17270,9 +17252,30 @@ nodes = (
 "10 357 LINE",
 "10 283 LINE"
 );
+},
+{
+closed = 1;
+nodes = (
+"367 26 OFFCURVE",
+"411 -11 OFFCURVE",
+"463 -11 CURVE SMOOTH",
+"497 -11 OFFCURVE",
+"520 1 OFFCURVE",
+"536 12 CURVE",
+"515 83 LINE",
+"508 76 OFFCURVE",
+"499 72 OFFCURVE",
+"490 72 CURVE SMOOTH",
+"480 72 OFFCURVE",
+"476 81 OFFCURVE",
+"476 94 CURVE SMOOTH",
+"476 357 LINE",
+"367 357 LINE",
+"367 81 LINE SMOOTH"
+);
 }
 );
-width = 582;
+width = 546;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -17280,7 +17283,7 @@ name = Light;
 width = 420;
 }
 );
-rightMetricsKey = "=n";
+rightMetricsKey = "=d";
 unicode = 0075;
 },
 {
