@@ -46,7 +46,7 @@ D,
 dp,
 /d.alt,
 o,
-Hldhesion,
+Hldfhesion,
 "A/A.alt DHMOa/a.alt s/a.alt2 d/d.alt n/ncommaaccent sonand\012nnnsnnn\012ooosonoo\012nonononononosn",
 "A/A.alt DHMOa/a.alt/a.alt2 d/d.alt n/ncommaaccent s",
 don,
@@ -60,7 +60,9 @@ dp,
 pqdh,
 npo,
 d,
-q
+q,
+p,
+b
 );
 classes = (
 {
@@ -9779,7 +9781,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-03 19:23:48 +0000";
 layers = (
 {
 anchors = (
@@ -9859,7 +9861,58 @@ width = 834;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"192 49 OFFCURVE",
+"241 -11 OFFCURVE",
+"338 -11 CURVE SMOOTH",
+"444 -11 OFFCURVE",
+"540 72 OFFCURVE",
+"540 190 CURVE SMOOTH",
+"540 294 OFFCURVE",
+"461 367 OFFCURVE",
+"356 367 CURVE SMOOTH",
+"259 367 OFFCURVE",
+"201 296 OFFCURVE",
+"155 240 CURVE",
+"155 164 LINE",
+"203 220 OFFCURVE",
+"259 278 OFFCURVE",
+"326 279 CURVE SMOOTH",
+"382 280 OFFCURVE",
+"424 240 OFFCURVE",
+"424 184 CURVE SMOOTH",
+"424 124 OFFCURVE",
+"376 76 OFFCURVE",
+"311 76 CURVE SMOOTH",
+"246 76 OFFCURVE",
+"189 125 OFFCURVE",
+"155 163 CURVE",
+"155 91 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 -11 LINE",
+"204 -11 LINE",
+"204 560 LINE",
+"95 560 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"25 560 LINE",
+"25 487 LINE",
+"197 487 LINE",
+"197 560 LINE"
+);
+}
+);
+width = 563;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -9867,6 +9920,7 @@ name = Light;
 width = 420;
 }
 );
+rightMetricsKey = "=p";
 unicode = 0062;
 },
 {
@@ -13496,7 +13550,7 @@ unicode = 0137;
 },
 {
 glyphname = l;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-03 19:22:26 +0000";
 layers = (
 {
 anchors = (
@@ -13553,7 +13607,36 @@ width = 379;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"95 0 LINE",
+"204 0 LINE",
+"204 560 LINE",
+"95 560 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"25 74 LINE",
+"25 0 LINE",
+"260 0 LINE",
+"260 74 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"25 560 LINE",
+"25 487 LINE",
+"197 487 LINE",
+"197 560 LINE"
+);
+}
+);
+width = 265;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -13562,6 +13645,7 @@ width = 420;
 }
 );
 leftMetricsKey = "=h";
+rightMetricsKey = "=i";
 unicode = 006C;
 },
 {
