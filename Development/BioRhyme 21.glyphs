@@ -72,7 +72,7 @@ gn,
 j,
 H,
 EH,
-EHnop
+EHnopbdq
 );
 classes = (
 {
@@ -9937,7 +9937,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2015-09-03 19:23:48 +0000";
+lastChange = "2015-09-04 01:28:00 +0000";
 layers = (
 {
 anchors = (
@@ -10052,19 +10052,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"95 -11 LINE",
-"204 -11 LINE",
-"204 560 LINE",
-"95 560 LINE"
+"100 -11 LINE",
+"199 -11 LINE",
+"199 560 LINE",
+"100 560 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "25 560 LINE",
-"25 487 LINE",
-"197 487 LINE",
-"197 560 LINE"
+"25 477 LINE",
+"192 477 LINE",
+"192 560 LINE"
 );
 }
 );
@@ -10306,7 +10306,7 @@ unicode = 00E7;
 {
 color = 6;
 glyphname = d;
-lastChange = "2015-09-03 19:18:59 +0000";
+lastChange = "2015-09-04 01:28:18 +0000";
 layers = (
 {
 anchors = (
@@ -10510,16 +10510,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"446 487 LINE",
-"446 560 LINE",
+"441 477 LINE",
+"441 560 LINE",
 "252 560 LINE",
-"252 487 LINE"
+"252 477 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"347 26 OFFCURVE",
+"352 26 OFFCURVE",
 "391 -11 OFFCURVE",
 "443 -11 CURVE SMOOTH",
 "477 -11 OFFCURVE",
@@ -10530,11 +10530,11 @@ nodes = (
 "479 72 OFFCURVE",
 "470 72 CURVE SMOOTH",
 "460 72 OFFCURVE",
-"456 81 OFFCURVE",
-"456 94 CURVE SMOOTH",
-"456 560 LINE",
-"347 560 LINE",
-"347 81 LINE SMOOTH"
+"451 81 OFFCURVE",
+"451 94 CURVE SMOOTH",
+"451 560 LINE",
+"352 560 LINE",
+"352 81 LINE SMOOTH"
 );
 },
 {
@@ -15359,7 +15359,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2015-09-03 19:14:00 +0000";
+lastChange = "2015-09-04 01:27:24 +0000";
 layers = (
 {
 anchors = (
@@ -15548,27 +15548,27 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"95 -158 LINE",
-"204 -158 LINE",
-"204 357 LINE",
-"95 357 LINE"
+"100 -158 LINE",
+"199 -158 LINE",
+"199 357 LINE",
+"100 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"25 -91 LINE",
+"25 -82 LINE",
 "25 -165 LINE",
 "274 -165 LINE",
-"274 -91 LINE"
+"274 -82 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "25 357 LINE",
-"25 284 LINE",
-"197 284 LINE",
+"25 274 LINE",
+"192 274 LINE",
 "197 357 LINE"
 );
 }
