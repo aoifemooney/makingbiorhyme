@@ -3,7 +3,7 @@ DisplayStrings = (
 "ELFHThe EndAnd\012HEHFHTHLH\012nondqbp\012Lone Hagglier\012ngnogonenoeo",
 scoe,
 hk,
-OQRkxz,
+OQueenERkxz,
 QRkxz
 );
 classes = (
@@ -5849,7 +5849,7 @@ unicode = 00DE;
 {
 color = 6;
 glyphname = Q;
-lastChange = "2015-09-04 15:59:57 +0000";
+lastChange = "2015-09-04 16:02:47 +0000";
 layers = (
 {
 anchors = (
@@ -6072,17 +6072,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"630 21 LINE",
-"623 -35 OFFCURVE",
-"596 -75 OFFCURVE",
-"546 -75 CURVE SMOOTH",
-"494 -75 OFFCURVE",
-"462 -31 OFFCURVE",
-"408 73 CURVE SMOOTH",
-"342 199 OFFCURVE",
-"285 243 OFFCURVE",
-"173 243 CURVE SMOOTH",
-"78 243 LINE",
+"630 26 LINE",
+"623 -30 OFFCURVE",
+"596 -70 OFFCURVE",
+"546 -70 CURVE SMOOTH",
+"494 -70 OFFCURVE",
+"467 -26 OFFCURVE",
+"413 78 CURVE SMOOTH",
+"347 204 OFFCURVE",
+"285 248 OFFCURVE",
+"173 248 CURVE SMOOTH",
+"78 248 LINE",
 "78 160 LINE",
 "170 160 LINE SMOOTH",
 "256 160 OFFCURVE",
@@ -6092,8 +6092,8 @@ nodes = (
 "453 -158 OFFCURVE",
 "546 -158 CURVE SMOOTH",
 "634 -158 OFFCURVE",
-"699 -85 OFFCURVE",
-"707 4 CURVE"
+"704 -91 OFFCURVE",
+"712 8 CURVE"
 );
 }
 );
@@ -6275,7 +6275,7 @@ width = 420;
 },
 {
 glyphname = R;
-lastChange = "2015-09-04 02:08:16 +0000";
+lastChange = "2015-09-04 16:03:16 +0000";
 layers = (
 {
 anchors = (
@@ -6439,7 +6439,72 @@ width = 1047;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"400 201 LINE",
+"400 284 LINE",
+"169 284 LINE",
+"169 201 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"606 0 LINE",
+"606 88 LINE",
+"39 88 LINE",
+"39 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"230 46 LINE",
+"230 437 LINE",
+"132 437 LINE",
+"132 46 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"607 402 LINE",
+"607 490 LINE",
+"39 490 LINE",
+"39 402 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"514 307 LINE",
+"607 307 LINE",
+"607 490 LINE",
+"514 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"514 0 LINE",
+"607 0 LINE",
+"607 183 LINE",
+"514 183 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"352 137 LINE",
+"435 137 LINE",
+"435 340 LINE",
+"352 340 LINE"
+);
+}
+);
+width = 646;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
