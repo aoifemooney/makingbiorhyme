@@ -1,80 +1,7 @@
 {
 DisplayStrings = (
-"\U00FA\U00FB\U00FC/gravecomb \U00F9/hungarumlautcomb/uhungarumlaut/umacron/uogonek/uring",
-"S/Scedilla T/cedillacomb/Tcedilla/commaturnedabovecomb/gcommaaccent/iogonek ,/commaaccentcomb/ncommaaccent \U00F1/cedillacomb s/scedilla/tcedilla",
-"\U00C7",
-/Scedilla,
-S,
-/hungarumlautcomb,
-/seven.001,
-/two.001,
-2,
-3,
-5,
-w/wacute,
-w,
-/acutecomb,
-/brevecomb,
-/caroncomb,
-/cedillacomb,
-/circumflexcomb,
-/commaturnedabovecomb,
-/dieresiscomb,
-/dotaccentcomb,
-/gravecomb,
-/macroncomb,
-/ringcomb,
-/tildecomb,
-/commaturnedmod,
-/commaaccentcomb,
-C,
-O,
-a,
-z,
-dun,
-adheasion,
-/idotless,
-R,
-A,
-/brevecomb/Abreve,
-HIFnsolence,
-M,
-D,
-/A.alt,
-/a.alt,
-/a.alt2,
-dp,
-/d.alt,
-o,
-Hldfhesion,
-"A/A.alt DHMOa/a.alt s/a.alt2 d/d.alt n/ncommaaccent sonand\012nnnsnnn\012ooosonoo\012nonononononosn",
-"A/A.alt DHMOa/a.alt/a.alt2 d/d.alt n/ncommaaccent s",
-don,
-h,
-f,
-"/f.alt aongdanz",
-/gcommaaccent,
-goe,
-/f.alt,
-dp,
-pqdh,
-npo,
-d,
-"qualin google\012nnnnn\012oooooo\012ngnnenn\012",
-p,
-b,
-preditn,
-I,
-"bingo ringo\012pingo lingo\012shingo\012dingo\012pingo\012amigoHarbour rapidl groshashana",
-gn,
-"shisheido\012nonsnnhnln\012oosoo\012minimum",
-"/jdotless j",
-"/jdotless/jdotless j",
-H,
-EH,
-"EHnopbdqueer\012nonpnbnhnqnrn\012biorhime",
-j,
-"ELFHThe End\012HEHFHTHLH\012nondqbp\012Lone Hagglier\012ngnogonenoeo"
+"ELFHThe EndAnd\012HEHFHTHLH\012nondqbp\012Lone Hagglier\012ngnogonenoeo",
+scoe
 );
 classes = (
 {
@@ -328,6 +255,7 @@ guideLines = (
 position = "{260, 366}";
 },
 {
+angle = 90;
 position = "{285, -11}";
 },
 {
@@ -10313,7 +10241,7 @@ unicode = 0062;
 {
 color = 6;
 glyphname = c;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-04 14:33:13 +0000";
 layers = (
 {
 anchors = (
@@ -10405,13 +10333,124 @@ nodes = (
 width = 741;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"232 353 OFFCURVE",
+"95 290 OFFCURVE",
+"95 171 CURVE SMOOTH",
+"95 72 OFFCURVE",
+"198 2 OFFCURVE",
+"345 3 CURVE SMOOTH",
+"484 2 OFFCURVE",
+"590 45 OFFCURVE",
+"653 103 CURVE",
+"668 85 LINE",
+"600 22 OFFCURVE",
+"495 -20 OFFCURVE",
+"345 -20 CURVE SMOOTH",
+"188 -20 OFFCURVE",
+"70 52 OFFCURVE",
+"70 171 CURVE SMOOTH",
+"70 307 OFFCURVE",
+"222 376 OFFCURVE",
+"367 375 CURVE SMOOTH",
+"491 375 OFFCURVE",
+"603 324 OFFCURVE",
+"654 261 CURVE",
+"639 266 LINE",
+"639 375 LINE",
+"662 375 LINE",
+"662 229 LINE",
+"589 315 OFFCURVE",
+"474 352 OFFCURVE",
+"365 352 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"225 72 OFFCURVE",
+"182 114 OFFCURVE",
+"182 183 CURVE",
+"182 252 OFFCURVE",
+"225 294 OFFCURVE",
+"284 294 CURVE SMOOTH",
+"356 294 OFFCURVE",
+"426 249 OFFCURVE",
+"472 194 CURVE",
+"480 197 LINE",
+"480 359 LINE",
+"398 359 LINE",
+"398 263 LINE",
+"442 273 LINE",
+"408 321 OFFCURVE",
+"353 362 OFFCURVE",
+"284 362 CURVE SMOOTH",
+"170 362 OFFCURVE",
+"73 303 OFFCURVE",
+"73 183 CURVE",
+"73 63 OFFCURVE",
+"170 -11 OFFCURVE",
+"284 -11 CURVE",
+"363 -11 OFFCURVE",
+"423 19 OFFCURVE",
+"466 55 CURVE",
+"429 131 LINE",
+"389 99 OFFCURVE",
+"337 72 OFFCURVE",
+"284 72 CURVE SMOOTH"
+);
+}
+);
+width = 738;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"232 353 OFFCURVE",
+"95 290 OFFCURVE",
+"95 171 CURVE SMOOTH",
+"95 72 OFFCURVE",
+"198 2 OFFCURVE",
+"345 3 CURVE SMOOTH",
+"484 2 OFFCURVE",
+"590 45 OFFCURVE",
+"653 103 CURVE",
+"668 85 LINE",
+"600 22 OFFCURVE",
+"495 -20 OFFCURVE",
+"345 -20 CURVE SMOOTH",
+"188 -20 OFFCURVE",
+"70 52 OFFCURVE",
+"70 171 CURVE SMOOTH",
+"70 307 OFFCURVE",
+"222 376 OFFCURVE",
+"367 375 CURVE SMOOTH",
+"491 375 OFFCURVE",
+"603 324 OFFCURVE",
+"654 261 CURVE",
+"639 266 LINE",
+"639 375 LINE",
+"662 375 LINE",
+"662 229 LINE",
+"589 315 OFFCURVE",
+"474 352 OFFCURVE",
+"365 352 CURVE SMOOTH"
+);
+}
+);
 width = 420;
 }
 );
