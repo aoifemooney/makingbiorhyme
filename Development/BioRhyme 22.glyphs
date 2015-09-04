@@ -3,7 +3,7 @@ DisplayStrings = (
 "ELFHThe EndAnd\012HEHFHTHLH\012nondqbp\012Lone Hagglier\012ngnogonenoeo",
 scoe,
 hk,
-OQueenERkxz,
+OQueenERHkxz,
 QRkxz
 );
 classes = (
@@ -6275,7 +6275,7 @@ width = 420;
 },
 {
 glyphname = R;
-lastChange = "2015-09-04 16:03:16 +0000";
+lastChange = "2015-09-04 16:07:31 +0000";
 layers = (
 {
 anchors = (
@@ -6437,24 +6437,28 @@ nodes = (
 width = 1047;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"627 48 LINE",
+"627 445 LINE",
+"528 445 LINE",
+"528 48 LINE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"400 201 LINE",
-"400 284 LINE",
-"169 284 LINE",
-"169 201 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"606 0 LINE",
-"606 88 LINE",
-"39 88 LINE",
+"322 0 LINE",
+"322 86 LINE",
+"39 86 LINE",
 "39 0 LINE"
 );
 },
@@ -6462,45 +6466,45 @@ nodes = (
 closed = 1;
 nodes = (
 "230 46 LINE",
-"230 437 LINE",
-"132 437 LINE",
+"230 442 LINE",
+"132 442 LINE",
 "132 46 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"607 402 LINE",
-"607 490 LINE",
+"322 405 LINE",
+"322 490 LINE",
 "39 490 LINE",
-"39 402 LINE"
+"39 405 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"514 307 LINE",
-"607 307 LINE",
-"607 490 LINE",
-"514 490 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"514 0 LINE",
-"607 0 LINE",
-"607 183 LINE",
-"514 183 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"352 137 LINE",
-"435 137 LINE",
-"435 340 LINE",
-"352 340 LINE"
+"646 149 LINE",
+"649 83 OFFCURVE",
+"627 50 OFFCURVE",
+"577 50 CURVE SMOOTH",
+"525 50 OFFCURVE",
+"508 97 OFFCURVE",
+"480 148 CURVE SMOOTH",
+"438 225 OFFCURVE",
+"372 288 OFFCURVE",
+"260 288 CURVE SMOOTH",
+"165 288 LINE",
+"165 200 LINE",
+"257 200 LINE SMOOTH",
+"343 200 OFFCURVE",
+"370 150 OFFCURVE",
+"400 93 CURVE SMOOTH",
+"435 27 OFFCURVE",
+"484 -38 OFFCURVE",
+"577 -38 CURVE SMOOTH",
+"665 -38 OFFCURVE",
+"732 40 OFFCURVE",
+"730 149 CURVE"
 );
 }
 );
