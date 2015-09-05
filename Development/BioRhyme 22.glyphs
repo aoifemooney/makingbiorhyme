@@ -1404,7 +1404,7 @@ unicode = 0042;
 {
 color = 6;
 glyphname = C;
-lastChange = "2015-09-05 15:25:39 +0000";
+lastChange = "2015-09-05 15:26:48 +0000";
 layers = (
 {
 anchors = (
@@ -1622,9 +1622,8 @@ layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-"453 135 LINE",
 "424 92 OFFCURVE",
 "376 66 OFFCURVE",
 "316 66 CURVE SMOOTH",
@@ -1653,7 +1652,8 @@ nodes = (
 "316 -15 CURVE SMOOTH",
 "403 -15 OFFCURVE",
 "482 16 OFFCURVE",
-"534 74 CURVE"
+"534 74 CURVE",
+"453 135 LINE"
 );
 }
 );
