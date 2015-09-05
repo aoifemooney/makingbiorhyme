@@ -13,7 +13,8 @@ PBrosR,
 "Has an ignoramus go home. grab ",
 s,
 OSOHs,
-"s HSmokhingHHmoking Hh"
+"s HSmokhingHHmoking Hh",
+HUJ
 );
 classes = (
 {
@@ -7569,7 +7570,7 @@ unicode = 0162;
 },
 {
 glyphname = U;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-05 14:46:05 +0000";
 layers = (
 {
 anchors = (
@@ -7709,7 +7710,57 @@ width = 1023;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"230 46 LINE",
+"230 442 LINE",
+"132 442 LINE",
+"132 46 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"322 405 LINE",
+"322 490 LINE",
+"39 490 LINE",
+"39 405 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"720 405 LINE",
+"720 490 LINE",
+"436 490 LINE",
+"436 405 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"63 244 LINE",
+"63 69 OFFCURVE",
+"189 -20 OFFCURVE",
+"382 -20 CURVE SMOOTH",
+"512 -20 OFFCURVE",
+"627 69 OFFCURVE",
+"627 214 CURVE",
+"627 445 LINE",
+"528 445 LINE",
+"529 202 LINE",
+"527 119 OFFCURVE",
+"463 63 OFFCURVE",
+"382 63 CURVE SMOOTH",
+"207 63 OFFCURVE",
+"89 79 OFFCURVE",
+"88 233 CURVE SMOOTH"
+);
+}
+);
+width = 759;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
