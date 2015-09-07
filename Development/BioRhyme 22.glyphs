@@ -20,7 +20,8 @@ OCcS,
 "HELLO\012Danny\012haggling\012Magg",
 A,
 "IOMIHIJHUHHHAST ESUSUHJESUS",
-"PDHOBRk\012LEFTHBSoO s\012HSHsHCHcHOHH"
+"PDHOBRk\012LEFTHBSoO s\012HSHsHCHcHOHH",
+".!?"
 );
 classes = (
 {
@@ -145,6 +146,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -217,6 +219,7 @@ id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 xHeight = 427;
@@ -22191,14 +22194,9 @@ unicode = 002C;
 },
 {
 glyphname = exclam;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-07 18:35:37 +0000";
 layers = (
 {
-components = (
-{
-name = period;
-}
-);
 guideLines = (
 {
 angle = 90;
@@ -22227,6 +22225,23 @@ nodes = (
 "93 524 OFFCURVE",
 "106 424 OFFCURVE"
 );
+},
+{
+closed = 1;
+nodes = (
+"92 44 OFFCURVE",
+"74 31 OFFCURVE",
+"74 12 CURVE",
+"74 -6 OFFCURVE",
+"92 -20 OFFCURVE",
+"123 -20 CURVE",
+"155 -20 OFFCURVE",
+"172 -6 OFFCURVE",
+"172 12 CURVE",
+"172 31 OFFCURVE",
+"155 44 OFFCURVE",
+"123 44 CURVE"
+);
 }
 );
 width = 246;
@@ -22234,6 +22249,45 @@ width = 246;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"93 262 CURVE SMOOTH",
+"103 149 LINE",
+"134 149 LINE",
+"142 262 LINE SMOOTH",
+"151 392 OFFCURVE",
+"174 484 OFFCURVE",
+"174 517 CURVE",
+"174 547 OFFCURVE",
+"157 572 OFFCURVE",
+"119 572 CURVE",
+"79 572 OFFCURVE",
+"63 547 OFFCURVE",
+"63 517 CURVE",
+"63 484 OFFCURVE",
+"81 394 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"61 97 OFFCURVE",
+"30 74 OFFCURVE",
+"30 40 CURVE",
+"30 8 OFFCURVE",
+"61 -18 OFFCURVE",
+"117 -18 CURVE",
+"176 -18 OFFCURVE",
+"205 8 OFFCURVE",
+"205 40 CURVE",
+"205 74 OFFCURVE",
+"176 97 OFFCURVE",
+"117 97 CURVE"
+);
+}
+);
 width = 420;
 },
 {
