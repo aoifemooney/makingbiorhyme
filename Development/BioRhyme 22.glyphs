@@ -17,7 +17,9 @@ OSOHs,
 HUHSSERL,
 HOD,
 OCcS,
-"HELLO\012Danny\012haggling\012Magg"
+"HELLO\012Danny\012haggling\012Magg",
+A,
+IOJUH
 );
 classes = (
 {
@@ -3781,7 +3783,7 @@ unicode = 012E;
 {
 color = 6;
 glyphname = J;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-07 00:12:07 +0000";
 layers = (
 {
 anchors = (
@@ -3867,7 +3869,39 @@ width = 643;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"479 405 LINE",
+"479 490 LINE",
+"195 490 LINE",
+"195 405 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 25 LINE",
+"49 0 OFFCURVE",
+"104 -27 OFFCURVE",
+"176 -27 CURVE SMOOTH",
+"291 -27 OFFCURVE",
+"386 47 OFFCURVE",
+"386 162 CURVE SMOOTH",
+"386 445 LINE",
+"288 445 LINE",
+"289 168 LINE SMOOTH",
+"289 93 OFFCURVE",
+"237 54 OFFCURVE",
+"176 54 CURVE SMOOTH",
+"120 54 OFFCURVE",
+"79 79 OFFCURVE",
+"52 100 CURVE"
+);
+}
+);
+width = 514;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -3875,6 +3909,7 @@ name = Light;
 width = 420;
 }
 );
+rightMetricsKey = "=U";
 unicode = 004A;
 },
 {
