@@ -11104,7 +11104,7 @@ unicode = 00E7;
 {
 color = 6;
 glyphname = d;
-lastChange = "2015-09-07 15:59:23 +0000";
+lastChange = "2015-09-07 15:59:38 +0000";
 layers = (
 {
 anchors = (
@@ -11345,25 +11345,24 @@ nodes = (
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
-"444 94 LINE",
 "444 560 LINE",
 "345 560 LINE",
-"345 85 LINE",
+"345 85 LINE SMOOTH",
 "345 22 OFFCURVE",
 "390 -16 OFFCURVE",
 "442 -16 CURVE SMOOTH",
 "469 -16 OFFCURVE",
 "495 -7 OFFCURVE",
 "514 7 CURVE",
-"488 76 LINE",
-"481 71 OFFCURVE",
-"474 67 OFFCURVE",
-"464 67 CURVE SMOOTH",
-"452 67 OFFCURVE",
-"443 76 OFFCURVE",
-"443 92 CURVE SMOOTH"
+"489 76 LINE",
+"482 71 OFFCURVE",
+"475 67 OFFCURVE",
+"465 67 CURVE SMOOTH",
+"453 67 OFFCURVE",
+"444 76 OFFCURVE",
+"444 92 CURVE SMOOTH"
 );
 },
 {
