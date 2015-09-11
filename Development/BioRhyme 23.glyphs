@@ -288,7 +288,7 @@ guideLines = (
 position = "{231, 377}";
 },
 {
-position = "{288, -41}";
+position = "{511, -41}";
 },
 {
 position = "{552, -99}";
@@ -19804,7 +19804,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-09-11 20:26:48 +0000";
+lastChange = "2015-09-11 20:29:16 +0000";
 layers = (
 {
 anchors = (
@@ -19873,6 +19873,21 @@ nodes = (
 width = 1043;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"660 344 LINE",
+"536 111 LINE",
+"400 341 LINE",
+"289 341 LINE",
+"532 -46 LINE",
+"750 344 LINE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
@@ -19883,17 +19898,6 @@ nodes = (
 "0 272 LINE",
 "262 272 LINE",
 "262 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"664 344 LINE",
-"539 114 LINE",
-"442 253 LINE",
-"380 183 LINE",
-"537 -46 LINE",
-"755 344 LINE"
 );
 },
 {
@@ -19917,12 +19921,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"409 344 LINE",
-"284 114 LINE",
-"151 341 LINE",
+"410 344 LINE",
+"286 111 LINE",
+"150 341 LINE",
 "39 341 LINE",
 "282 -46 LINE",
 "500 344 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"660 344 LINE",
+"536 111 LINE",
+"419 310 LINE",
+"367 217 LINE",
+"532 -46 LINE",
+"750 344 LINE"
 );
 }
 );
