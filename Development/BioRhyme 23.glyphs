@@ -34,7 +34,8 @@ G,
 AV,
 "G/A.alt AVvWillowoVolume",
 "fraggle rock",
-wmonderful
+wmonderful,
+vy
 );
 classes = (
 {
@@ -20481,7 +20482,7 @@ width = 420;
 },
 {
 glyphname = y;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-11 20:38:46 +0000";
 layers = (
 {
 anchors = (
@@ -20549,8 +20550,91 @@ nodes = (
 width = 741;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"454 344 LINE",
+"309 117 LINE",
+"164 344 LINE",
+"49 344 LINE",
+"306 -46 LINE",
+"564 344 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 357 LINE",
+"0 273 LINE",
+"262 273 LINE",
+"262 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"351 357 LINE",
+"351 273 LINE",
+"613 273 LINE",
+"613 357 LINE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"360 37 LINE",
+"164 344 LINE",
+"49 344 LINE",
+"306 -46 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 357 LINE",
+"0 273 LINE",
+"262 273 LINE",
+"262 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"351 357 LINE",
+"351 273 LINE",
+"613 273 LINE",
+"613 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"564 344 LINE",
+"469 344 LINE",
+"252 -47 LINE SMOOTH",
+"230 -87 OFFCURVE",
+"201 -107 OFFCURVE",
+"162 -107 CURVE SMOOTH",
+"124 -107 OFFCURVE",
+"93 -92 OFFCURVE",
+"57 -73 CURVE",
+"29 -149 LINE",
+"69 -170 OFFCURVE",
+"107 -190 OFFCURVE",
+"167 -190 CURVE SMOOTH",
+"250 -190 OFFCURVE",
+"301 -131 OFFCURVE",
+"348 -47 CURVE SMOOTH"
+);
+}
+);
 width = 420;
 },
 {
