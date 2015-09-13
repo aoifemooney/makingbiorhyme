@@ -35,7 +35,11 @@ AV,
 "G/A.alt AVvWillowoVolume",
 "fraggle rock",
 wmonderful,
-vy
+vy,
+v,
+N,
+C,
+"/jdotless/jdotless ijy"
 );
 classes = (
 {
@@ -1423,7 +1427,7 @@ unicode = 0042;
 {
 color = 6;
 glyphname = C;
-lastChange = "2015-09-10 20:44:28 +0000";
+lastChange = "2015-09-13 17:11:15 +0000";
 layers = (
 {
 anchors = (
@@ -14572,12 +14576,17 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2015-09-04 01:48:09 +0000";
+lastChange = "2015-09-13 17:16:08 +0000";
 layers = (
 {
-components = (
+anchors = (
 {
-name = jdotless;
+name = bottom;
+position = "{191, 0}";
+},
+{
+name = top;
+position = "{191, 357}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -14599,6 +14608,36 @@ nodes = (
 "258 530 OFFCURVE",
 "227 530 CURVE"
 );
+},
+{
+closed = 1;
+nodes = (
+"-35 -185 LINE",
+"7 -198 OFFCURVE",
+"53 -210 OFFCURVE",
+"105 -210 CURVE SMOOTH",
+"199 -210 OFFCURVE",
+"250 -149 OFFCURVE",
+"249 -52 CURVE SMOOTH",
+"249 344 LINE",
+"224 344 LINE",
+"224 -53 LINE SMOOTH",
+"224 -141 OFFCURVE",
+"182 -187 OFFCURVE",
+"106 -187 CURVE SMOOTH",
+"59 -187 OFFCURVE",
+"14 -176 OFFCURVE",
+"-28 -163 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"43 357 LINE",
+"43 334 LINE",
+"249 334 LINE",
+"249 357 LINE"
+);
 }
 );
 width = 382;
@@ -14610,36 +14649,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"140 0 LINE",
-"249 0 LINE",
-"249 357 LINE",
-"140 357 LINE"
+"-37 -185 LINE",
+"-5 -198 OFFCURVE",
+"31 -210 OFFCURVE",
+"83 -210 CURVE SMOOTH",
+"187 -210 OFFCURVE",
+"248 -149 OFFCURVE",
+"247 -52 CURVE SMOOTH",
+"247 344 LINE",
+"148 344 LINE",
+"148 -53 LINE SMOOTH",
+"148 -91 OFFCURVE",
+"116 -127 OFFCURVE",
+"80 -127 CURVE SMOOTH",
+"43 -127 OFFCURVE",
+"19 -116 OFFCURVE",
+"-13 -103 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"70 357 LINE",
-"70 284 LINE",
-"242 284 LINE",
-"242 357 LINE"
+"75 357 LINE",
+"75 272 LINE",
+"247 272 LINE",
+"247 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"134 530 OFFCURVE",
-"104 507 OFFCURVE",
-"104 475 CURVE",
-"104 445 OFFCURVE",
-"134 422 OFFCURVE",
-"187 422 CURVE",
-"242 422 OFFCURVE",
-"270 445 OFFCURVE",
-"270 475 CURVE",
-"270 507 OFFCURVE",
-"242 530 OFFCURVE",
-"187 530 CURVE"
+"149 530 OFFCURVE",
+"119 507 OFFCURVE",
+"119 475 CURVE",
+"119 445 OFFCURVE",
+"149 422 OFFCURVE",
+"192 422 CURVE",
+"237 422 OFFCURVE",
+"265 445 OFFCURVE",
+"265 475 CURVE",
+"265 507 OFFCURVE",
+"237 530 OFFCURVE",
+"192 530 CURVE"
 );
 }
 );
