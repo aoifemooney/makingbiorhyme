@@ -39,7 +39,8 @@ vy,
 v,
 N,
 C,
-"/jdotless/jdotless ijfyvwnao"
+"/jdotless/jdotless ijfyvwnao",
+Vhp
 );
 classes = (
 {
@@ -8266,7 +8267,7 @@ unicode = 016E;
 },
 {
 glyphname = V;
-lastChange = "2015-09-10 21:17:16 +0000";
+lastChange = "2015-09-13 17:36:58 +0000";
 layers = (
 {
 anchors = (
@@ -8315,8 +8316,7 @@ nodes = (
 width = 951;
 },
 {
-layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
-name = Bold;
+background = {
 paths = (
 {
 closed = 1;
@@ -8345,6 +8345,41 @@ nodes = (
 "428 406 LINE",
 "695 406 LINE",
 "695 490 LINE"
+);
+}
+);
+};
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"-18 490 LINE",
+"-18 406 LINE",
+"249 406 LINE",
+"249 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"428 490 LINE",
+"428 406 LINE",
+"695 406 LINE",
+"695 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"365 0 LINE",
+"646 477 LINE",
+"541 477 LINE",
+"341 117 LINE",
+"141 477 LINE",
+"31 477 LINE",
+"311 0 LINE"
 );
 }
 );
@@ -13889,7 +13924,7 @@ unicode = 0123;
 },
 {
 glyphname = h;
-lastChange = "2015-09-08 02:42:59 +0000";
+lastChange = "2015-09-13 17:37:56 +0000";
 layers = (
 {
 anchors = (
