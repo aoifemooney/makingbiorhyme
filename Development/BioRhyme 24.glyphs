@@ -43,7 +43,8 @@ C,
 Vhp,
 HWMw,
 nu,
-V
+V,
+z
 );
 classes = (
 {
@@ -168,7 +169,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -21132,7 +21132,7 @@ unicode = 1EF3;
 {
 color = 6;
 glyphname = z;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-13 21:02:28 +0000";
 layers = (
 {
 anchors = (
@@ -21265,8 +21265,110 @@ nodes = (
 width = 687;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"517 261 LINE",
+"421 301 OFFCURVE",
+"300 354 OFFCURVE",
+"121 354 CURVE",
+"121 223 LINE",
+"101 223 LINE",
+"101 376 LINE",
+"121 376 LINE SMOOTH",
+"312 376 OFFCURVE",
+"428 321 OFFCURVE",
+"523 280 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"594 362 LINE",
+"529 150 OFFCURVE",
+"204 201 OFFCURVE",
+"104 -29 CURVE",
+"87 -18 LINE",
+"182 217 OFFCURVE",
+"510 167 OFFCURVE",
+"576 371 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"616 100 LINE",
+"605 20 OFFCURVE",
+"558 -31 OFFCURVE",
+"464 -31 CURVE SMOOTH",
+"383 -31 OFFCURVE",
+"268 15 OFFCURVE",
+"160 70 CURVE",
+"173 85 LINE",
+"279 32 OFFCURVE",
+"392 -8 OFFCURVE",
+"464 -8 CURVE SMOOTH",
+"532 -8 OFFCURVE",
+"586 26 OFFCURVE",
+"597 104 CURVE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"477 211 LINE",
+"421 241 OFFCURVE",
+"300 294 OFFCURVE",
+"186 294 CURVE",
+"186 223 LINE",
+"101 223 LINE",
+"101 376 LINE",
+"121 376 LINE SMOOTH",
+"312 376 OFFCURVE",
+"428 321 OFFCURVE",
+"523 280 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"594 339 LINE",
+"529 127 OFFCURVE",
+"244 196 OFFCURVE",
+"164 -34 CURVE",
+"87 7 LINE",
+"162 242 OFFCURVE",
+"450 174 OFFCURVE",
+"516 378 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"616 100 LINE",
+"605 20 OFFCURVE",
+"558 -31 OFFCURVE",
+"464 -31 CURVE SMOOTH",
+"383 -31 OFFCURVE",
+"268 15 OFFCURVE",
+"160 70 CURVE",
+"193 145 LINE",
+"279 92 OFFCURVE",
+"392 52 OFFCURVE",
+"464 52 CURVE SMOOTH",
+"502 52 OFFCURVE",
+"526 86 OFFCURVE",
+"537 134 CURVE"
+);
+}
+);
 width = 420;
 },
 {
