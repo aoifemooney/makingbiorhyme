@@ -40,7 +40,8 @@ v,
 N,
 C,
 "/jdotless/jdotless ijfyvwnao",
-Vhp
+Vhp,
+W
 );
 classes = (
 {
@@ -8395,7 +8396,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2015-09-10 21:18:04 +0000";
+lastChange = "2015-09-13 17:45:38 +0000";
 layers = (
 {
 anchors = (
@@ -8497,8 +8498,7 @@ nodes = (
 width = 1238;
 },
 {
-layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
-name = Bold;
+background = {
 paths = (
 {
 closed = 1;
@@ -8547,6 +8547,62 @@ nodes = (
 "684 406 LINE",
 "941 406 LINE",
 "941 490 LINE"
+);
+}
+);
+};
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"2 490 LINE",
+"2 406 LINE",
+"259 406 LINE",
+"259 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 490 LINE",
+"292 406 LINE",
+"649 406 LINE",
+"649 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"684 490 LINE",
+"684 406 LINE",
+"941 406 LINE",
+"941 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"363 -3 LINE",
+"636 477 LINE",
+"541 477 LINE",
+"341 122 LINE",
+"161 477 LINE",
+"51 477 LINE",
+"314 -3 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"628 -3 LINE",
+"892 477 LINE",
+"797 477 LINE",
+"607 122 LINE",
+"407 477 LINE",
+"307 477 LINE",
+"579 -3 LINE"
 );
 }
 );
