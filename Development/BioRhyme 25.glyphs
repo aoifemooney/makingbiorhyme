@@ -47,7 +47,7 @@ V,
 "avrzkalia oolander",
 /Q.alt,
 z,
-onxv
+onxzv
 );
 classes = (
 {
@@ -297,7 +297,7 @@ value = "81";
 descender = -70;
 guideLines = (
 {
-position = "{226, 367}";
+position = "{326, 367}";
 },
 {
 position = "{511, -41}";
@@ -20398,7 +20398,7 @@ unicode = 1E81;
 {
 color = 6;
 glyphname = x;
-lastChange = "2015-09-15 22:08:28 +0000";
+lastChange = "2015-09-15 22:11:46 +0000";
 layers = (
 {
 anchors = (
@@ -20620,50 +20620,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"641 -20 OFFCURVE",
-"677 59 OFFCURVE",
-"677 112 CURVE",
-"652 112 LINE",
-"652 55 OFFCURVE",
-"616 3 OFFCURVE",
-"568 3 CURVE SMOOTH",
-"516 3 OFFCURVE",
-"474 75 OFFCURVE",
-"399 198 CURVE SMOOTH",
-"337 299 OFFCURVE",
-"295 377 OFFCURVE",
-"221 377 CURVE SMOOTH",
-"144 377 OFFCURVE",
-"107 298 OFFCURVE",
-"107 245 CURVE",
-"132 245 LINE",
-"132 302 OFFCURVE",
-"168 354 OFFCURVE",
-"219 354 CURVE SMOOTH",
-"276 354 OFFCURVE",
-"320 285 OFFCURVE",
-"380 185 CURVE SMOOTH",
-"447 74 OFFCURVE",
-"494 -20 OFFCURVE",
-"567 -20 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"326 0 LINE",
-"326 23 LINE",
-"93 23 LINE",
-"93 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"682 334 LINE",
-"682 357 LINE",
-"449 357 LINE",
-"449 334 LINE"
+"641 -10 OFFCURVE",
+"677 69 OFFCURVE",
+"677 122 CURVE",
+"652 122 LINE",
+"652 65 OFFCURVE",
+"616 13 OFFCURVE",
+"568 13 CURVE SMOOTH",
+"516 13 OFFCURVE",
+"491 68 OFFCURVE",
+"429 198 CURVE SMOOTH",
+"367 329 OFFCURVE",
+"313 397 OFFCURVE",
+"224 397 CURVE SMOOTH",
+"137 397 OFFCURVE",
+"92 318 OFFCURVE",
+"92 235 CURVE",
+"177 235 LINE",
+"177 272 OFFCURVE",
+"194 314 OFFCURVE",
+"235 314 CURVE SMOOTH",
+"277 314 OFFCURVE",
+"305 275 OFFCURVE",
+"350 185 CURVE SMOOTH",
+"408 68 OFFCURVE",
+"494 -10 OFFCURVE",
+"567 -10 CURVE SMOOTH"
 );
 },
 {
@@ -20678,10 +20660,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"534 344 LINE",
-"644 344 LINE",
-"215 -1 LINE",
-"104 -1 LINE"
+"215 55 LINE",
+"654 294 LINE",
+"544 294 LINE",
+"104 55 LINE"
 );
 },
 {
