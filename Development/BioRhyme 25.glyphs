@@ -52,7 +52,8 @@ vwy,
 R,
 Q,
 EZolton,
-HK
+HK,
+VvWXYZvwxy
 );
 classes = (
 {
@@ -9071,7 +9072,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-15 23:28:51 +0000";
 layers = (
 {
 anchors = (
@@ -9193,7 +9194,57 @@ width = 918;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"34 490 LINE",
+"34 406 LINE",
+"271 406 LINE",
+"271 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"430 490 LINE",
+"430 406 LINE",
+"667 406 LINE",
+"667 490 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"377 160 LINE",
+"658 477 LINE",
+"545 477 LINE",
+"355 257 LINE",
+"165 477 LINE",
+"43 477 LINE",
+"323 160 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"401 224 LINE",
+"301 224 LINE",
+"301 0 LINE",
+"401 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"496 0 LINE",
+"496 83 LINE",
+"207 83 LINE",
+"207 0 LINE"
+);
+}
+);
+width = 701;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
