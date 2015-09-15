@@ -46,7 +46,8 @@ nu,
 V,
 "avrzkalia oolander",
 /Q.alt,
-z
+z,
+x
 );
 classes = (
 {
@@ -20397,7 +20398,7 @@ unicode = 1E81;
 {
 color = 6;
 glyphname = x;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-15 22:01:32 +0000";
 layers = (
 {
 anchors = (
@@ -20549,7 +20550,71 @@ width = 769;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"711 -20 OFFCURVE",
+"752 59 OFFCURVE",
+"752 112 CURVE",
+"727 112 LINE",
+"727 55 OFFCURVE",
+"686 3 OFFCURVE",
+"618 3 CURVE SMOOTH",
+"546 3 OFFCURVE",
+"493 71 OFFCURVE",
+"399 198 CURVE SMOOTH",
+"320 305 OFFCURVE",
+"265 377 OFFCURVE",
+"171 377 CURVE SMOOTH",
+"74 377 OFFCURVE",
+"32 298 OFFCURVE",
+"32 245 CURVE",
+"57 245 LINE",
+"57 302 OFFCURVE",
+"98 354 OFFCURVE",
+"169 354 CURVE SMOOTH",
+"246 354 OFFCURVE",
+"301 292 OFFCURVE",
+"380 185 CURVE SMOOTH",
+"465 69 OFFCURVE",
+"524 -20 OFFCURVE",
+"617 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"326 0 LINE",
+"326 23 LINE",
+"18 23 LINE",
+"18 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"142 9 LINE",
+"400 178 LINE",
+"402 175 LINE",
+"670 348 LINE",
+"633 348 LINE",
+"387 190 LINE",
+"385 193 LINE",
+"105 9 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"757 334 LINE",
+"757 357 LINE",
+"449 357 LINE",
+"449 334 LINE"
+);
+}
+);
+width = 775;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
