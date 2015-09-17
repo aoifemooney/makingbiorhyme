@@ -35,7 +35,8 @@ _n,
 "H*H",
 "(H)",
 _,
-"-/endash/emdash"
+"-/endash/emdash",
+"[]"
 );
 classes = (
 {
@@ -25284,7 +25285,7 @@ unicode = 007D;
 },
 {
 glyphname = bracketleft;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-17 21:32:36 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25323,6 +25324,35 @@ width = 336;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"84 -96 LINE",
+"169 -96 LINE",
+"169 584 LINE",
+"84 584 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"86 501 LINE",
+"308 501 LINE",
+"308 584 LINE",
+"86 584 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"86 -96 LINE",
+"308 -96 LINE",
+"308 -13 LINE",
+"86 -13 LINE"
+);
+}
+);
 width = 420;
 },
 {
