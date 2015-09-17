@@ -26,7 +26,9 @@ x,
 /quotedblbase,
 /quotedblright,
 /quotereversed,
-/quoteright
+/quoteright,
+//,
+_
 );
 classes = (
 {
@@ -24862,7 +24864,7 @@ unicode = 003B;
 },
 {
 glyphname = slash;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-17 21:11:15 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -24883,6 +24885,17 @@ width = 417;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"412 561 LINE",
+"324 561 LINE",
+"-9 -79 LINE",
+"79 -79 LINE"
+);
+}
+);
 width = 420;
 },
 {
@@ -24895,7 +24908,7 @@ unicode = 002F;
 },
 {
 glyphname = underscore;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-17 21:11:34 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -24916,6 +24929,17 @@ width = 350;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"-35 -7 LINE",
+"-35 -91 LINE",
+"385 -91 LINE",
+"385 -7 LINE"
+);
+}
+);
 width = 420;
 },
 {
