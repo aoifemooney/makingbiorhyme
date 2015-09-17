@@ -32,7 +32,8 @@ _n,
 //,
 "\U00B7",
 /backslash//,
-"H*H"
+"H*H",
+"("
 );
 classes = (
 {
@@ -25360,7 +25361,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-17 21:23:09 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25391,6 +25392,27 @@ width = 334;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"54 49 OFFCURVE",
+"184 -64 OFFCURVE",
+"298 -109 CURVE",
+"306 -90 LINE",
+"263 -46 OFFCURVE",
+"139 57 OFFCURVE",
+"139 245 CURVE",
+"139 433 OFFCURVE",
+"263 536 OFFCURVE",
+"306 580 CURVE",
+"298 599 LINE",
+"184 554 OFFCURVE",
+"54 441 OFFCURVE",
+"54 245 CURVE"
+);
+}
+);
 width = 420;
 },
 {
