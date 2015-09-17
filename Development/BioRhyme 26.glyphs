@@ -25896,7 +25896,7 @@ unicode = 201B;
 {
 color = 6;
 glyphname = quoteright;
-lastChange = "2015-09-17 21:09:33 +0000";
+lastChange = "2015-09-17 21:10:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25930,14 +25930,34 @@ nodes = (
 width = 262;
 },
 {
-components = (
-{
-name = quoteleft;
-transform = "{-1, 0, 0, -1, 231, 870}";
-}
-);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"86 297 LINE",
+"159 363 OFFCURVE",
+"196 431 OFFCURVE",
+"196 484 CURVE SMOOTH",
+"196 540 OFFCURVE",
+"163 573 OFFCURVE",
+"112 573 CURVE SMOOTH",
+"69 573 OFFCURVE",
+"35 550 OFFCURVE",
+"35 515 CURVE SMOOTH",
+"35 483 OFFCURVE",
+"63 460 OFFCURVE",
+"101 460 CURVE SMOOTH",
+"115 460 OFFCURVE",
+"128 462 OFFCURVE",
+"137 466 CURVE",
+"136 424 OFFCURVE",
+"106 374 OFFCURVE",
+"61 323 CURVE"
+);
+}
+);
 width = 231;
 },
 {
