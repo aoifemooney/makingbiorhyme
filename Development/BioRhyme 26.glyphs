@@ -12,7 +12,12 @@ x,
 "/De-cy",
 "SH?H!HO",
 "\U00BFO",
-"\U00A1"
+"\U00A1",
+"?",
+"\U00BF",
+",!\U00A1.?\U00BF",
+":",
+";,"
 );
 classes = (
 {
@@ -268,7 +273,7 @@ position = "{336, 367}";
 position = "{536, -255}";
 },
 {
-position = "{552, -99}";
+position = "{538, -20}";
 },
 {
 position = "{474, 505}";
@@ -24106,7 +24111,7 @@ unicode = 00B7;
 },
 {
 glyphname = colon;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-17 21:01:10 +0000";
 layers = (
 {
 components = (
@@ -24123,9 +24128,18 @@ name = "Light Extended";
 width = 246;
 },
 {
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 256}";
+},
+{
+name = period;
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+width = 226;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -24138,7 +24152,7 @@ unicode = 003A;
 {
 color = 6;
 glyphname = comma;
-lastChange = "2015-09-07 23:12:20 +0000";
+lastChange = "2015-09-17 21:02:10 +0000";
 layers = (
 {
 background = {
@@ -24211,10 +24225,10 @@ nodes = (
 "196 -47 OFFCURVE",
 "196 6 CURVE SMOOTH",
 "196 62 OFFCURVE",
-"163 98 OFFCURVE",
-"112 98 CURVE SMOOTH",
-"69 98 OFFCURVE",
-"35 69 OFFCURVE",
+"163 95 OFFCURVE",
+"112 95 CURVE SMOOTH",
+"69 95 OFFCURVE",
+"35 72 OFFCURVE",
 "35 37 CURVE SMOOTH",
 "35 5 OFFCURVE",
 "63 -18 OFFCURVE",
@@ -24240,7 +24254,7 @@ unicode = 002C;
 },
 {
 glyphname = exclam;
-lastChange = "2015-09-17 20:48:33 +0000";
+lastChange = "2015-09-17 21:00:40 +0000";
 layers = (
 {
 guideLines = (
@@ -24334,7 +24348,7 @@ nodes = (
 );
 }
 );
-width = 237;
+width = 236;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -24346,7 +24360,7 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2015-09-17 20:54:36 +0000";
+lastChange = "2015-09-17 21:00:43 +0000";
 layers = (
 {
 components = (
@@ -24368,7 +24382,7 @@ transform = "{-1, 0, 0, -1, 236, 496}";
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 237;
+width = 236;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -24641,7 +24655,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-09-17 20:54:17 +0000";
+lastChange = "2015-09-17 21:00:48 +0000";
 layers = (
 {
 components = (
@@ -24658,7 +24672,7 @@ width = 509;
 components = (
 {
 name = question;
-transform = "{-1, 0, 0, -1, 440, 494}";
+transform = "{-1, 0, 0, -1, 430, 494}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -24753,7 +24767,7 @@ unicode = 0027;
 {
 color = 6;
 glyphname = semicolon;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-17 21:01:57 +0000";
 layers = (
 {
 components = (
@@ -24793,9 +24807,41 @@ nodes = (
 width = 249;
 },
 {
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 254}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"86 -181 LINE",
+"159 -115 OFFCURVE",
+"196 -47 OFFCURVE",
+"196 6 CURVE SMOOTH",
+"196 62 OFFCURVE",
+"163 95 OFFCURVE",
+"112 95 CURVE SMOOTH",
+"69 95 OFFCURVE",
+"35 72 OFFCURVE",
+"35 37 CURVE SMOOTH",
+"35 5 OFFCURVE",
+"63 -18 OFFCURVE",
+"101 -18 CURVE SMOOTH",
+"115 -18 OFFCURVE",
+"128 -16 OFFCURVE",
+"137 -12 CURVE",
+"136 -54 OFFCURVE",
+"106 -104 OFFCURVE",
+"61 -155 CURVE"
+);
+}
+);
+width = 231;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
