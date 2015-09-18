@@ -51,7 +51,7 @@ Q/Q.alt,
 "Qo/Q.alt oR/R.alt o",
 "(H)H{H}k",
 /guilsinglleft/guilsinglright,
-/guilsinglleft
+"/guilsinglleft H"
 );
 classes = (
 {
@@ -26609,7 +26609,7 @@ unicode = 00BB;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2015-09-18 18:39:24 +0000";
+lastChange = "2015-09-18 18:43:43 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -26642,8 +26642,7 @@ nodes = (
 width = 359;
 },
 {
-layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
-name = Bold;
+background = {
 paths = (
 {
 closed = 1;
@@ -26666,6 +26665,34 @@ nodes = (
 "194 243 OFFCURVE",
 "46 243 CURVE",
 "46 236 LINE"
+);
+}
+);
+};
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"234 236 OFFCURVE",
+"354 320 OFFCURVE",
+"385 439 CURVE",
+"319 467 LINE",
+"290 353 OFFCURVE",
+"182 281 OFFCURVE",
+"46 281 CURVE SMOOTH",
+"10 281 LINE",
+"10 198 LINE",
+"42 198 LINE SMOOTH",
+"172 198 OFFCURVE",
+"255 136 OFFCURVE",
+"319 12 CURVE",
+"379 41 LINE",
+"338 140 OFFCURVE",
+"234 253 OFFCURVE",
+"76 253 CURVE",
+"76 236 LINE"
 );
 }
 );
