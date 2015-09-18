@@ -29,7 +29,7 @@ x,
 /quoteright,
 //,
 _n,
-"\U00B7",
+"\U00B7.",
 /backslash//,
 "H*H",
 "(H)",
@@ -52,7 +52,9 @@ Q/Q.alt,
 "(H)H{H}k",
 /guilsinglleft/guilsinglright,
 "/guilsinglleft H",
-"\U00AB\U00BB/guilsinglleft/guilsinglright"
+"\U00AB\U00BB/guilsinglleft/guilsinglright",
+"\"",
+"H#H"
 );
 classes = (
 {
@@ -25018,7 +25020,7 @@ unicode = 005C;
 },
 {
 glyphname = periodcentered;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-18 19:10:13 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25047,7 +25049,26 @@ width = 246;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"68 294 OFFCURVE",
+"35 269 OFFCURVE",
+"35 233 CURVE",
+"35 200 OFFCURVE",
+"68 175 OFFCURVE",
+"113 175 CURVE",
+"161 175 OFFCURVE",
+"191 200 OFFCURVE",
+"191 233 CURVE",
+"191 269 OFFCURVE",
+"161 294 OFFCURVE",
+"113 294 CURVE"
+);
+}
+);
+width = 226;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -25342,7 +25363,7 @@ unicode = 00A1;
 },
 {
 glyphname = numbersign;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-18 19:12:23 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25390,7 +25411,45 @@ width = 748;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"532 490 LINE",
+"447 490 LINE",
+"269 0 LINE",
+"353 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"328 490 LINE",
+"243 490 LINE",
+"65 0 LINE",
+"149 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"49 292 LINE",
+"598 292 LINE",
+"598 370 LINE",
+"49 370 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"0 117 LINE",
+"549 117 LINE",
+"549 195 LINE",
+"0 195 LINE"
+);
+}
+);
+width = 598;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
