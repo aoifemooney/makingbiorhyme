@@ -17273,7 +17273,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-09-19 18:59:26 +0000";
+lastChange = "2015-09-19 19:04:14 +0000";
 layers = (
 {
 anchors = (
@@ -17434,6 +17434,67 @@ name = top;
 position = "{304, 367}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"95 0 LINE",
+"194 0 LINE",
+"194 357 LINE",
+"95 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"20 84 LINE",
+"20 0 LINE",
+"255 0 LINE",
+"255 84 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"20 357 LINE",
+"20 274 LINE",
+"187 274 LINE",
+"187 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 366 OFFCURVE",
+"226 320 OFFCURVE",
+"158 232 CURVE",
+"158 154 LINE",
+"212 231 OFFCURVE",
+"263 274 OFFCURVE",
+"315 274 CURVE SMOOTH",
+"362 274 OFFCURVE",
+"387 242 OFFCURVE",
+"387 196 CURVE SMOOTH",
+"387 0 LINE",
+"486 0 LINE",
+"486 197 LINE SMOOTH",
+"486 309 OFFCURVE",
+"438 366 OFFCURVE",
+"351 366 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"329 84 LINE",
+"329 0 LINE",
+"557 0 LINE",
+"557 84 LINE"
+);
+}
+);
+};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
@@ -17441,57 +17502,57 @@ paths = (
 closed = 1;
 nodes = (
 "133 0 LINE",
-"157 0 LINE",
-"157 358 LINE",
+"158 0 LINE",
+"158 358 LINE",
 "133 358 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"41 25 LINE",
+"41 23 LINE",
 "41 0 LINE",
 "233 0 LINE",
-"233 25 LINE"
+"233 23 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "41 358 LINE",
-"41 333 LINE",
-"157 333 LINE",
-"157 358 LINE"
+"41 335 LINE",
+"158 335 LINE",
+"158 358 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"271 367 OFFCURVE",
-"211 305 OFFCURVE",
-"144 218 CURVE",
-"144 193 LINE",
-"213 279 OFFCURVE",
-"275 343 OFFCURVE",
-"344 343 CURVE SMOOTH",
-"406 343 OFFCURVE",
-"438 303 OFFCURVE",
-"438 233 CURVE SMOOTH",
-"438 0 LINE",
-"462 0 LINE",
-"462 233 LINE SMOOTH",
-"462 324 OFFCURVE",
-"419 367 OFFCURVE",
-"348 367 CURVE SMOOTH"
+"266 366 OFFCURVE",
+"195 282 OFFCURVE",
+"144 213 CURVE",
+"144 189 LINE",
+"197 257 OFFCURVE",
+"270 343 OFFCURVE",
+"339 343 CURVE SMOOTH",
+"401 343 OFFCURVE",
+"428 303 OFFCURVE",
+"428 233 CURVE SMOOTH",
+"428 0 LINE",
+"453 0 LINE",
+"453 233 LINE SMOOTH",
+"453 323 OFFCURVE",
+"414 366 OFFCURVE",
+"343 366 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"360 25 LINE",
-"360 0 LINE",
-"546 0 LINE",
-"546 25 LINE"
+"350 23 LINE",
+"350 0 LINE",
+"536 0 LINE",
+"536 23 LINE"
 );
 }
 );
