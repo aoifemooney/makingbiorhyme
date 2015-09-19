@@ -107,7 +107,7 @@ nan,
 cx,
 ec,
 j,
-n,
+"minimum\012plodin",
 on,
 opn,
 r,
@@ -20969,7 +20969,7 @@ unicode = 0163;
 },
 {
 glyphname = u;
-lastChange = "2015-09-19 19:24:54 +0000";
+lastChange = "2015-09-19 20:18:14 +0000";
 layers = (
 {
 anchors = (
@@ -21204,6 +21204,65 @@ width = 494;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"402 367 LINE",
+"377 367 LINE",
+"377 10 LINE",
+"402 10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"494 344 LINE",
+"494 367 LINE",
+"302 367 LINE",
+"302 344 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"494 10 LINE",
+"494 33 LINE",
+"377 33 LINE",
+"377 10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"272 0 OFFCURVE",
+"336 52 OFFCURVE",
+"391 113 CURVE",
+"391 136 LINE",
+"335 73 OFFCURVE",
+"266 23 OFFCURVE",
+"203 23 CURVE SMOOTH",
+"139 23 OFFCURVE",
+"107 63 OFFCURVE",
+"107 138 CURVE SMOOTH",
+"107 367 LINE",
+"82 367 LINE",
+"82 133 LINE SMOOTH",
+"82 43 OFFCURVE",
+"129 0 OFFCURVE",
+"198 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"185 344 LINE",
+"185 367 LINE",
+"-1 367 LINE",
+"-1 344 LINE"
+);
+}
+);
 width = 420;
 }
 );
