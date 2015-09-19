@@ -98,7 +98,7 @@ f,
 h,
 l,
 m,
-C,
+CGS,
 "HbpqHbp default and",
 Q,
 Hhghph,
@@ -1504,7 +1504,7 @@ unicode = 0042;
 {
 color = 6;
 glyphname = C;
-lastChange = "2015-09-19 14:38:07 +0000";
+lastChange = "2015-09-19 15:38:08 +0000";
 layers = (
 {
 anchors = (
@@ -1718,6 +1718,48 @@ nodes = (
 width = 829;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"472 -11 OFFCURVE",
+"578 94 OFFCURVE",
+"578 261 CURVE SMOOTH",
+"578 287 LINE",
+"254 287 LINE",
+"254 204 LINE",
+"470 204 LINE",
+"463 131 OFFCURVE",
+"408 72 OFFCURVE",
+"313 72 CURVE SMOOTH",
+"215 72 OFFCURVE",
+"139 137 OFFCURVE",
+"139 260 CURVE SMOOTH",
+"139 384 OFFCURVE",
+"215 448 OFFCURVE",
+"318 448 CURVE SMOOTH",
+"406 448 OFFCURVE",
+"463 398 OFFCURVE",
+"492 347 CURVE",
+"560 351 LINE",
+"560 520 LINE",
+"466 520 LINE",
+"466 422 LINE",
+"513 408 LINE",
+"476 477 OFFCURVE",
+"401 530 OFFCURVE",
+"292 530 CURVE SMOOTH",
+"164 530 OFFCURVE",
+"30 438 OFFCURVE",
+"30 260 CURVE SMOOTH",
+"30 91 OFFCURVE",
+"153 -11 OFFCURVE",
+"309 -11 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
@@ -1733,8 +1775,8 @@ nodes = (
 "399 448 OFFCURVE",
 "463 383 OFFCURVE",
 "502 302 CURVE",
-"525 306 LINE",
-"525 520 LINE",
+"555 306 LINE",
+"555 520 LINE",
 "436 520 LINE",
 "436 422 LINE",
 "493 408 LINE",
