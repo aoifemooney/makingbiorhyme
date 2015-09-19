@@ -134,7 +134,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 "\U00A59HhIifi9",
 "minimum\012hodgepodge\012unannnimous\012plodding",
 o,
-hn
+"hn\012nononon\012nnnnnn"
 );
 classes = (
 {
@@ -15037,7 +15037,7 @@ unicode = 0123;
 },
 {
 glyphname = h;
-lastChange = "2015-09-19 19:30:25 +0000";
+lastChange = "2015-09-19 19:30:43 +0000";
 layers = (
 {
 anchors = (
@@ -15249,15 +15249,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"41 23 LINE",
-"41 0 LINE",
-"233 0 LINE",
-"233 23 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "263 367 OFFCURVE",
 "199 315 OFFCURVE",
 "144 254 CURVE",
@@ -15283,6 +15274,33 @@ nodes = (
 "350 0 LINE",
 "536 0 LINE",
 "536 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"133 0 LINE",
+"158 0 LINE",
+"158 520 LINE",
+"133 520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"41 23 LINE",
+"41 0 LINE",
+"234 0 LINE",
+"234 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"41 520 LINE",
+"41 497 LINE",
+"158 497 LINE",
+"158 520 LINE"
 );
 }
 );
@@ -17303,7 +17321,7 @@ unicode = 006D;
 {
 color = 4;
 glyphname = n;
-lastChange = "2015-09-19 19:28:25 +0000";
+lastChange = "2015-09-19 19:31:23 +0000";
 layers = (
 {
 anchors = (
@@ -17457,11 +17475,11 @@ width = 557;
 anchors = (
 {
 name = bottom;
-position = "{314, 0}";
+position = "{308, 0}";
 },
 {
 name = top;
-position = "{304, 367}";
+position = "{298, 367}";
 }
 );
 background = {
@@ -17469,58 +17487,58 @@ paths = (
 {
 closed = 1;
 nodes = (
-"95 0 LINE",
-"194 0 LINE",
-"194 357 LINE",
-"95 357 LINE"
+"89 0 LINE",
+"188 0 LINE",
+"188 357 LINE",
+"89 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"20 84 LINE",
-"20 0 LINE",
-"255 0 LINE",
-"255 84 LINE"
+"14 84 LINE",
+"14 0 LINE",
+"249 0 LINE",
+"249 84 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"20 357 LINE",
-"20 274 LINE",
-"187 274 LINE",
-"187 357 LINE"
+"14 357 LINE",
+"14 274 LINE",
+"181 274 LINE",
+"181 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"279 366 OFFCURVE",
-"226 320 OFFCURVE",
-"158 232 CURVE",
-"158 154 LINE",
-"212 231 OFFCURVE",
-"263 274 OFFCURVE",
-"315 274 CURVE SMOOTH",
-"362 274 OFFCURVE",
-"387 242 OFFCURVE",
-"387 196 CURVE SMOOTH",
-"387 0 LINE",
-"486 0 LINE",
-"486 197 LINE SMOOTH",
-"486 309 OFFCURVE",
-"438 366 OFFCURVE",
-"351 366 CURVE SMOOTH"
+"273 366 OFFCURVE",
+"220 320 OFFCURVE",
+"152 232 CURVE",
+"152 154 LINE",
+"206 231 OFFCURVE",
+"257 274 OFFCURVE",
+"309 274 CURVE SMOOTH",
+"356 274 OFFCURVE",
+"381 242 OFFCURVE",
+"381 196 CURVE SMOOTH",
+"381 0 LINE",
+"480 0 LINE",
+"480 197 LINE SMOOTH",
+"480 309 OFFCURVE",
+"432 366 OFFCURVE",
+"345 366 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"329 84 LINE",
-"329 0 LINE",
-"557 0 LINE",
-"557 84 LINE"
+"323 84 LINE",
+"323 0 LINE",
+"551 0 LINE",
+"551 84 LINE"
 );
 }
 );
@@ -17531,62 +17549,62 @@ paths = (
 {
 closed = 1;
 nodes = (
-"133 0 LINE",
-"158 0 LINE",
-"158 357 LINE",
-"133 357 LINE"
+"127 0 LINE",
+"152 0 LINE",
+"152 357 LINE",
+"127 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"41 23 LINE",
-"41 0 LINE",
-"233 0 LINE",
-"233 23 LINE"
+"35 23 LINE",
+"35 0 LINE",
+"227 0 LINE",
+"227 23 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"41 357 LINE",
-"41 334 LINE",
-"158 334 LINE",
-"158 357 LINE"
+"35 357 LINE",
+"35 334 LINE",
+"152 334 LINE",
+"152 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"263 367 OFFCURVE",
-"199 315 OFFCURVE",
-"144 254 CURVE",
-"144 231 LINE",
-"200 294 OFFCURVE",
-"269 344 OFFCURVE",
-"332 344 CURVE SMOOTH",
-"396 344 OFFCURVE",
-"428 304 OFFCURVE",
-"428 229 CURVE SMOOTH",
-"428 0 LINE",
-"453 0 LINE",
-"453 234 LINE SMOOTH",
-"453 324 OFFCURVE",
-"406 367 OFFCURVE",
-"337 367 CURVE SMOOTH"
+"257 367 OFFCURVE",
+"193 315 OFFCURVE",
+"138 254 CURVE",
+"138 231 LINE",
+"194 294 OFFCURVE",
+"263 344 OFFCURVE",
+"326 344 CURVE SMOOTH",
+"390 344 OFFCURVE",
+"422 304 OFFCURVE",
+"422 229 CURVE SMOOTH",
+"422 0 LINE",
+"447 0 LINE",
+"447 234 LINE SMOOTH",
+"447 324 OFFCURVE",
+"400 367 OFFCURVE",
+"331 367 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 23 LINE",
-"350 0 LINE",
-"536 0 LINE",
-"536 23 LINE"
+"344 23 LINE",
+"344 0 LINE",
+"530 0 LINE",
+"530 23 LINE"
 );
 }
 );
-width = 592;
+width = 565;
 }
 );
 unicode = 006E;
