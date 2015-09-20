@@ -198,6 +198,7 @@ alignmentZones = (
 );
 ascender = 520;
 capHeight = 520;
+customValue = 100;
 customParameters = (
 {
 name = winAscent;
@@ -274,7 +275,6 @@ verticalStems = (
 weight = Light;
 weightValue = 250;
 width = Extended;
-widthValue = 200;
 xHeight = 357;
 },
 {
@@ -31846,6 +31846,7 @@ name = Light;
 weightClass = Light;
 },
 {
+interpolationCustom = 100;
 interpolationWeight = 250;
 interpolationWidth = 200;
 name = "Light Extended";
@@ -31853,21 +31854,21 @@ weightClass = Light;
 widthClass = Expanded;
 },
 {
+interpolationCustom = 100;
 interpolationWeight = 550;
-interpolationWidth = 200;
 name = "Regular Expanded";
 widthClass = Expanded;
 },
 {
+interpolationCustom = 100;
 interpolationWeight = 650;
-interpolationWidth = 200;
 name = "SemiBold Expanded";
 weightClass = SemiBold;
 widthClass = Expanded;
 },
 {
+interpolationCustom = 100;
 interpolationWeight = 700;
-interpolationWidth = 200;
 isBold = 1;
 linkStyle = "Light Extended";
 name = "Bold Expanded";
