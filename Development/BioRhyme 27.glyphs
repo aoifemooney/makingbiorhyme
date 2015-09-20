@@ -106,7 +106,7 @@ t,
 nan,
 cx,
 ec,
-j,
+ji,
 "minimum\012plodin",
 on,
 opn,
@@ -149,7 +149,8 @@ m,
 p,
 "abcdeghilmnopqru\012sc",
 g,
-s
+s,
+f
 );
 classes = (
 {
@@ -274,7 +275,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -14091,8 +14091,9 @@ width = 600;
 unicode = 0119;
 },
 {
+color = 5;
 glyphname = f;
-lastChange = "2015-09-20 16:52:28 +0000";
+lastChange = "2015-09-20 16:52:56 +0000";
 layers = (
 {
 anchors = (
@@ -16199,7 +16200,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2015-09-19 19:24:54 +0000";
+lastChange = "2015-09-20 16:55:48 +0000";
 layers = (
 {
 anchors = (
@@ -16373,6 +16374,55 @@ width = 295;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"154 530 OFFCURVE",
+"136 517 OFFCURVE",
+"136 499 CURVE",
+"136 482 OFFCURVE",
+"154 469 OFFCURVE",
+"184 469 CURVE",
+"215 469 OFFCURVE",
+"231 482 OFFCURVE",
+"231 499 CURVE",
+"231 517 OFFCURVE",
+"215 530 OFFCURVE",
+"184 530 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"13 -173 LINE",
+"34 -181 OFFCURVE",
+"61 -190 OFFCURVE",
+"103 -190 CURVE SMOOTH",
+"167 -190 OFFCURVE",
+"206 -139 OFFCURVE",
+"206 -72 CURVE SMOOTH",
+"206 357 LINE",
+"181 357 LINE",
+"181 -73 LINE SMOOTH",
+"181 -131 OFFCURVE",
+"150 -167 OFFCURVE",
+"104 -167 CURVE SMOOTH",
+"67 -167 OFFCURVE",
+"41 -159 OFFCURVE",
+"20 -151 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"91 357 LINE",
+"91 334 LINE",
+"206 334 LINE",
+"206 357 LINE"
+);
+}
+);
 width = 420;
 }
 );
