@@ -15243,7 +15243,7 @@ unicode = 0123;
 {
 color = 5;
 glyphname = h;
-lastChange = "2015-09-19 21:34:39 +0000";
+lastChange = "2015-09-20 14:30:21 +0000";
 layers = (
 {
 anchors = (
@@ -15324,6 +15324,20 @@ nodes = (
 width = 886;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{283, 0}";
+},
+{
+name = center;
+position = "{283, 179}";
+},
+{
+name = top;
+position = "{283, 387}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
@@ -15388,6 +15402,20 @@ nodes = (
 width = 539;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{303, 0}";
+},
+{
+name = center;
+position = "{303, 179}";
+},
+{
+name = top;
+position = "{303, 387}";
+}
+);
 background = {
 paths = (
 {
