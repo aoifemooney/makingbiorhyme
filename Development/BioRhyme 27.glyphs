@@ -21215,7 +21215,7 @@ unicode = 0163;
 {
 color = 5;
 glyphname = u;
-lastChange = "2015-09-20 13:32:28 +0000";
+lastChange = "2015-09-20 14:34:42 +0000";
 layers = (
 {
 anchors = (
@@ -21374,11 +21374,19 @@ width = 843;
 anchors = (
 {
 name = bottom;
-position = "{258, 62}";
+position = "{242, -20}";
+},
+{
+name = ogonek;
+position = "{458, -2}";
 },
 {
 name = top;
-position = "{248, 429}";
+position = "{212, 357}";
+},
+{
+name = topright;
+position = "{483, 357}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -21448,6 +21456,24 @@ nodes = (
 width = 494;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{242, -20}";
+},
+{
+name = ogonek;
+position = "{458, -2}";
+},
+{
+name = top;
+position = "{212, 357}";
+},
+{
+name = topright;
+position = "{483, 357}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
