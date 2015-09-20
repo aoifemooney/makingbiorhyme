@@ -148,7 +148,8 @@ m,
 n,
 p,
 "abcdeghilmnopqru\012sc",
-g
+g,
+s
 );
 classes = (
 {
@@ -17100,7 +17101,7 @@ unicode = 0137;
 {
 color = 5;
 glyphname = l;
-lastChange = "2015-09-19 21:35:55 +0000";
+lastChange = "2015-09-20 14:31:17 +0000";
 layers = (
 {
 anchors = (
@@ -17155,6 +17156,24 @@ nodes = (
 width = 379;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{130, 0}";
+},
+{
+name = center;
+position = "{130, 283}";
+},
+{
+name = top;
+position = "{130, 560}";
+},
+{
+name = topright;
+position = "{299, 357}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
@@ -17189,6 +17208,24 @@ nodes = (
 width = 254;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{140, 0}";
+},
+{
+name = center;
+position = "{140, 283}";
+},
+{
+name = top;
+position = "{140, 560}";
+},
+{
+name = topright;
+position = "{309, 357}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
@@ -17347,7 +17384,7 @@ unicode = 013C;
 {
 color = 5;
 glyphname = m;
-lastChange = "2015-09-20 13:29:48 +0000";
+lastChange = "2015-09-20 14:31:37 +0000";
 layers = (
 {
 anchors = (
@@ -17457,11 +17494,11 @@ width = 1209;
 anchors = (
 {
 name = bottom;
-position = "{299, 0}";
+position = "{415, 0}";
 },
 {
 name = top;
-position = "{289, 367}";
+position = "{415, 387}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -17558,6 +17595,16 @@ nodes = (
 width = 809;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{415, 0}";
+},
+{
+name = top;
+position = "{415, 387}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
@@ -17659,7 +17706,7 @@ unicode = 006D;
 {
 color = 5;
 glyphname = n;
-lastChange = "2015-09-20 14:12:30 +0000";
+lastChange = "2015-09-20 14:31:51 +0000";
 layers = (
 {
 anchors = (
@@ -17813,11 +17860,11 @@ width = 557;
 anchors = (
 {
 name = bottom;
-position = "{313, 0}";
+position = "{299, 0}";
 },
 {
 name = top;
-position = "{303, 367}";
+position = "{289, 367}";
 }
 );
 background = {
@@ -18190,9 +18237,9 @@ width = 600;
 unicode = 00F1;
 },
 {
-color = 5;
+color = 4;
 glyphname = o;
-lastChange = "2015-09-20 13:30:28 +0000";
+lastChange = "2015-09-20 14:32:43 +0000";
 layers = (
 {
 anchors = (
@@ -18277,7 +18324,7 @@ position = "{234, 387}";
 },
 {
 name = topright;
-position = "{603, 357}";
+position = "{431, 357}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -18321,6 +18368,28 @@ nodes = (
 width = 468;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{230, -20}";
+},
+{
+name = center;
+position = "{230, 179}";
+},
+{
+name = ogonek;
+position = "{222, -9}";
+},
+{
+name = top;
+position = "{230, 387}";
+},
+{
+name = topright;
+position = "{404, 357}";
+}
+);
 guideLines = (
 {
 position = "{253, 377}";
@@ -18798,7 +18867,7 @@ unicode = 0153;
 {
 color = 5;
 glyphname = p;
-lastChange = "2015-09-20 13:31:06 +0000";
+lastChange = "2015-09-20 14:33:06 +0000";
 layers = (
 {
 anchors = (
@@ -18950,6 +19019,16 @@ nodes = (
 width = 879;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{300, -20}";
+},
+{
+name = top;
+position = "{300, 387}";
+}
+);
 background = {
 paths = (
 {
@@ -19076,6 +19155,16 @@ nodes = (
 width = 522;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{280, -20}";
+},
+{
+name = top;
+position = "{280, 387}";
+}
+);
 background = {
 paths = (
 {
@@ -19267,7 +19356,7 @@ unicode = 00FE;
 {
 color = 5;
 glyphname = q;
-lastChange = "2015-09-20 13:31:34 +0000";
+lastChange = "2015-09-20 14:33:23 +0000";
 layers = (
 {
 anchors = (
@@ -19602,6 +19691,16 @@ nodes = (
 width = 529;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{245, -20}";
+},
+{
+name = top;
+position = "{245, 387}";
+}
+);
 background = {
 paths = (
 {
@@ -19702,7 +19801,7 @@ unicode = 0071;
 {
 color = 5;
 glyphname = r;
-lastChange = "2015-09-20 13:31:57 +0000";
+lastChange = "2015-09-20 14:33:49 +0000";
 layers = (
 {
 anchors = (
@@ -19768,11 +19867,11 @@ width = 690;
 anchors = (
 {
 name = bottom;
-position = "{299, 0}";
+position = "{149, 0}";
 },
 {
 name = top;
-position = "{289, 367}";
+position = "{139, 367}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -19825,6 +19924,16 @@ nodes = (
 width = 428;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{225, 0}";
+},
+{
+name = top;
+position = "{225, 357}";
+}
+);
 background = {
 paths = (
 {
