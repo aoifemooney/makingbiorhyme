@@ -156,7 +156,9 @@ t,
 "/f.alt f",
 "/a.alt2 d",
 "j/g.alt d",
-/g.alt
+/g.alt,
+/k.001,
+/t.alt
 );
 classes = (
 {
@@ -17012,8 +17014,9 @@ leftMetricsKey = "=h";
 unicode = 006B;
 },
 {
+color = 0;
 glyphname = k.001;
-lastChange = "2015-09-17 22:07:57 +0000";
+lastChange = "2015-09-20 18:20:01 +0000";
 layers = (
 {
 anchors = (
@@ -20437,7 +20440,7 @@ unicode = 0157;
 {
 color = 5;
 glyphname = s;
-lastChange = "2015-09-20 14:36:08 +0000";
+lastChange = "2015-09-20 18:22:32 +0000";
 layers = (
 {
 anchors = (
@@ -20633,18 +20636,18 @@ paths = (
 closed = 1;
 nodes = (
 "346 -10 OFFCURVE",
-"405 31 OFFCURVE",
-"405 96 CURVE SMOOTH",
-"405 166 OFFCURVE",
-"341 202 OFFCURVE",
-"244 216 CURVE SMOOTH",
-"163 228 OFFCURVE",
-"137 244 OFFCURVE",
-"137 266 CURVE SMOOTH",
-"137 289 OFFCURVE",
-"153 304 OFFCURVE",
-"198 304 CURVE SMOOTH",
-"255 304 OFFCURVE",
+"405 41 OFFCURVE",
+"405 106 CURVE SMOOTH",
+"405 178 OFFCURVE",
+"346 216 OFFCURVE",
+"249 230 CURVE SMOOTH",
+"168 242 OFFCURVE",
+"137 255 OFFCURVE",
+"137 273 CURVE SMOOTH",
+"137 292 OFFCURVE",
+"156 304 OFFCURVE",
+"194 304 CURVE SMOOTH",
+"251 304 OFFCURVE",
 "318 266 OFFCURVE",
 "349 216 CURVE",
 "387 219 LINE",
@@ -20656,14 +20659,14 @@ nodes = (
 "247 367 OFFCURVE",
 "163 367 CURVE SMOOTH",
 "78 367 OFFCURVE",
-"31 323 OFFCURVE",
-"31 258 CURVE SMOOTH",
-"31 199 OFFCURVE",
-"77 156 OFFCURVE",
-"176 134 CURVE SMOOTH",
-"276 112 OFFCURVE",
-"300 102 OFFCURVE",
-"300 83 CURVE SMOOTH",
+"31 313 OFFCURVE",
+"31 248 CURVE SMOOTH",
+"31 193 OFFCURVE",
+"83 148 OFFCURVE",
+"171 128 CURVE SMOOTH",
+"283 103 OFFCURVE",
+"300 92 OFFCURVE",
+"300 75 CURVE SMOOTH",
 "300 60 OFFCURVE",
 "280 52 OFFCURVE",
 "250 52 CURVE SMOOTH",
@@ -21356,8 +21359,9 @@ width = 420;
 unicode = 0074;
 },
 {
+color = 0;
 glyphname = t.alt;
-lastChange = "2015-09-17 22:17:20 +0000";
+lastChange = "2015-09-20 18:20:14 +0000";
 layers = (
 {
 anchors = (
