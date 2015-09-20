@@ -16466,7 +16466,7 @@ unicode = 0237;
 },
 {
 glyphname = k;
-lastChange = "2015-09-20 17:37:37 +0000";
+lastChange = "2015-09-20 17:38:14 +0000";
 layers = (
 {
 anchors = (
@@ -16484,93 +16484,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"191 0 LINE",
-"215 0 LINE",
-"215 560 LINE",
-"191 560 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"8 560 LINE",
-"8 536 LINE",
-"215 536 LINE",
-"215 560 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"30 0 LINE",
-"398 0 LINE",
-"398 25 LINE",
-"30 25 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"244 165 OFFCURVE",
-"358 153 OFFCURVE",
-"450 153 CURVE SMOOTH",
-"585 153 OFFCURVE",
-"695 191 OFFCURVE",
-"695 260 CURVE SMOOTH",
-"695 321 OFFCURVE",
-"644 354 OFFCURVE",
-"548 354 CURVE",
-"431 354 OFFCURVE",
-"314 293 OFFCURVE",
-"201 212 CURVE",
-"201 241 LINE",
-"312 321 OFFCURVE",
-"417 376 OFFCURVE",
-"548 376 CURVE",
-"663 376 OFFCURVE",
-"719 330 OFFCURVE",
-"719 261 CURVE SMOOTH",
-"719 179 OFFCURVE",
-"609 130 OFFCURVE",
-"447 130 CURVE SMOOTH",
-"344 130 OFFCURVE",
-"244 146 OFFCURVE",
-"198 155 CURVE",
-"200 173 LINE"
-);
-},
-{
-closed = 0;
-nodes = (
-"597 99 LINE",
-"537 186 OFFCURVE",
-"494 233 OFFCURVE",
-"382 233 CURVE SMOOTH",
-"301 233 LINE",
-"301 209 LINE",
-"397 209 LINE SMOOTH",
-"487 209 OFFCURVE",
-"525 154 OFFCURVE",
-"574 83 CURVE"
-);
-},
-{
-closed = 0;
-nodes = (
-"574 98 LINE",
-"574 32 OFFCURVE",
-"621 -16 OFFCURVE",
-"684 -16 CURVE SMOOTH",
-"775 -16 OFFCURVE",
-"802 63 OFFCURVE",
-"802 116 CURVE",
-"777 116 LINE",
-"777 60 OFFCURVE",
-"750 8 OFFCURVE",
-"686 8 CURVE SMOOTH",
-"640 8 OFFCURVE",
-"598 43 OFFCURVE",
-"598 98 CURVE"
+"215 497 LINE",
+"215 520 LINE",
+"10 520 LINE",
+"10 497 LINE"
 );
 }
 );
@@ -16630,15 +16547,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"215 497 LINE",
-"215 520 LINE",
-"10 520 LINE",
-"10 497 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "741 -20 OFFCURVE",
 "794 31 OFFCURVE",
 "807 99 CURVE",
@@ -16653,6 +16561,15 @@ nodes = (
 "498 57 OFFCURVE",
 "570 -20 OFFCURVE",
 "661 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 497 LINE",
+"215 520 LINE",
+"10 520 LINE",
+"10 497 LINE"
 );
 }
 );
