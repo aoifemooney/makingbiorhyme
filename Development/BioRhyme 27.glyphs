@@ -31843,29 +31843,31 @@ name = Regular;
 {
 interpolationWeight = 250;
 name = Light;
+weightClass = Light;
 },
 {
 interpolationWeight = 250;
-interpolationWidth = 600;
+interpolationWidth = 200;
 name = "Light Extended";
+weightClass = Light;
 widthClass = Expanded;
 },
 {
 interpolationWeight = 550;
-interpolationWidth = 600;
+interpolationWidth = 200;
 name = "Regular Expanded";
 widthClass = Expanded;
 },
 {
 interpolationWeight = 650;
-interpolationWidth = 600;
+interpolationWidth = 200;
 name = "SemiBold Expanded";
 weightClass = SemiBold;
 widthClass = Expanded;
 },
 {
 interpolationWeight = 700;
-interpolationWidth = 600;
+interpolationWidth = 200;
 isBold = 1;
 linkStyle = "Light Extended";
 name = "Bold Expanded";
