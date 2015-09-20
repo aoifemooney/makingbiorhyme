@@ -147,7 +147,8 @@ i,
 m,
 n,
 p,
-"abcdeghilmnopqru\012sc"
+"abcdeghilmnopqru\012sc",
+g
 );
 classes = (
 {
@@ -14516,7 +14517,7 @@ leftMetricsKey = "=f";
 {
 color = 5;
 glyphname = g;
-lastChange = "2015-09-19 21:33:10 +0000";
+lastChange = "2015-09-20 14:29:56 +0000";
 layers = (
 {
 anchors = (
@@ -14637,6 +14638,16 @@ nodes = (
 width = 711;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{226, -169}";
+},
+{
+name = top;
+position = "{226, 387}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
@@ -14740,6 +14751,16 @@ nodes = (
 width = 451;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{226, -169}";
+},
+{
+name = top;
+position = "{226, 387}";
+}
+);
 background = {
 paths = (
 {
