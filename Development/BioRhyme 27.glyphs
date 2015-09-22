@@ -143,7 +143,7 @@ q,
 c,
 gnm,
 h,
-i,
+i01i,
 m,
 "minimum\012minimum\012minimum\012lllddd",
 p,
@@ -337,16 +337,10 @@ value = "81";
 descender = -70;
 guideLines = (
 {
-position = "{207, -27}";
-},
-{
 position = "{102, -95}";
 },
 {
 position = "{133, -64}";
-},
-{
-position = "{533, 11}";
 },
 {
 position = "{258, -10}";
@@ -356,9 +350,6 @@ position = "{336, 367}";
 },
 {
 position = "{537, 480}";
-},
-{
-position = "{343, -10}";
 }
 );
 horizontalStems = (
@@ -15783,7 +15774,7 @@ unicode = 0127;
 {
 color = 5;
 glyphname = i;
-lastChange = "2015-09-22 23:06:26 +0000";
+lastChange = "2015-09-22 23:08:41 +0000";
 layers = (
 {
 anchors = (
@@ -15969,11 +15960,11 @@ nodes = (
 "174 517 OFFCURVE",
 "158 530 OFFCURVE",
 "134 530 CURVE",
-"111 530 OFFCURVE",
-"94 517 OFFCURVE",
-"94 499 CURVE",
-"94 482 OFFCURVE",
-"111 469 OFFCURVE",
+"112 530 OFFCURVE",
+"95 517 OFFCURVE",
+"95 499 CURVE",
+"95 482 OFFCURVE",
+"112 469 OFFCURVE",
 "134 469 CURVE"
 );
 }
@@ -25227,7 +25218,7 @@ width = 420;
 },
 {
 glyphname = zero;
-lastChange = "2015-09-22 22:25:17 +0000";
+lastChange = "2015-09-22 23:07:02 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25299,23 +25290,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"371 264 OFFCURVE",
-"354 252 OFFCURVE",
-"354 233 CURVE",
-"354 216 OFFCURVE",
-"371 203 OFFCURVE",
-"401 203 CURVE",
-"432 203 OFFCURVE",
-"448 216 OFFCURVE",
-"448 233 CURVE",
-"448 252 OFFCURVE",
-"432 264 OFFCURVE",
-"401 264 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "538 -10 OFFCURVE",
 "653 89 OFFCURVE",
 "653 235 CURVE",
@@ -25346,6 +25320,23 @@ nodes = (
 "528 14 OFFCURVE",
 "400 14 CURVE"
 );
+},
+{
+closed = 1;
+nodes = (
+"425 203 OFFCURVE",
+"441 216 OFFCURVE",
+"441 233 CURVE",
+"441 251 OFFCURVE",
+"425 264 OFFCURVE",
+"401 264 CURVE",
+"378 264 OFFCURVE",
+"361 251 OFFCURVE",
+"361 233 CURVE",
+"361 216 OFFCURVE",
+"378 203 OFFCURVE",
+"401 203 CURVE"
+);
 }
 );
 width = 800;
@@ -25355,7 +25346,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2015-09-22 22:12:33 +0000";
+lastChange = "2015-09-22 23:09:24 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25403,6 +25394,39 @@ width = 420;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"272 0 LINE",
+"296 0 LINE",
+"296 480 LINE",
+"272 480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"164 23 LINE",
+"164 0 LINE",
+"387 0 LINE",
+"387 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"166 356 LINE",
+"235 361 OFFCURVE",
+"282 406 OFFCURVE",
+"289 475 CURVE",
+"272 480 LINE",
+"265 424 OFFCURVE",
+"220 381 OFFCURVE",
+"162 381 CURVE"
+);
+}
+);
 width = 420;
 }
 );
