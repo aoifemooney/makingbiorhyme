@@ -143,7 +143,7 @@ q,
 c,
 gnm,
 h,
-i01i,
+i012i,
 m,
 "minimum\012minimum\012minimum\012lllddd",
 p,
@@ -162,7 +162,9 @@ t,
 "padua\012minimum\012Hasslefree \012Hark a flagrant\012bibliographic\012biobabble\012lombardi",
 0O,
 02O,
-HHOOdO0I008123456789/two.alt/five.alt/two.alt2
+HHOOdO0I008123456789/two.alt/five.alt/two.alt2,
+/two.001,
+"/two.001/seven.001 0123456789/two.alt/five.alt/two.alt2"
 );
 classes = (
 {
@@ -25434,7 +25436,7 @@ unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2015-09-22 22:13:13 +0000";
+lastChange = "2015-09-22 23:11:39 +0000";
 layers = (
 {
 background = {
@@ -25537,9 +25539,95 @@ name = Bold;
 width = 420;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"326 169 LINE SMOOTH",
+"420 227 OFFCURVE",
+"466 273 OFFCURVE",
+"466 348 CURVE SMOOTH",
+"466 442 OFFCURVE",
+"380 490 OFFCURVE",
+"281 490 CURVE SMOOTH",
+"196 490 OFFCURVE",
+"119 450 OFFCURVE",
+"65 388 CURVE",
+"120 325 LINE",
+"166 378 OFFCURVE",
+"217 407 OFFCURVE",
+"276 407 CURVE SMOOTH",
+"329 407 OFFCURVE",
+"362 377 OFFCURVE",
+"362 338 CURVE SMOOTH",
+"362 296 OFFCURVE",
+"334 271 OFFCURVE",
+"270 227 CURVE SMOOTH",
+"59 83 LINE",
+"119 41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"493 0 LINE",
+"493 172 LINE",
+"409 172 LINE",
+"409 83 LINE",
+"60 83 LINE",
+"60 0 LINE"
+);
+}
+);
+};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"492 0 LINE",
+"492 172 LINE",
+"468 172 LINE",
+"468 23 LINE",
+"59 23 LINE",
+"59 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"475 446 OFFCURVE",
+"380 481 OFFCURVE",
+"308 481 CURVE SMOOTH",
+"222 481 OFFCURVE",
+"135 432 OFFCURVE",
+"64 349 CURVE",
+"81 334 LINE",
+"152 412 OFFCURVE",
+"233 458 OFFCURVE",
+"308 458 CURVE SMOOTH",
+"376 458 OFFCURVE",
+"449 426 OFFCURVE",
+"450 353 CURVE SMOOTH",
+"451 272 OFFCURVE",
+"381 257 OFFCURVE",
+"264 216 CURVE SMOOTH",
+"120 165 OFFCURVE",
+"59 133 OFFCURVE",
+"59 17 CURVE",
+"84 17 LINE",
+"84 118 OFFCURVE",
+"131 144 OFFCURVE",
+"274 194 CURVE SMOOTH",
+"395 236 OFFCURVE",
+"475 256 OFFCURVE",
+"475 352 CURVE SMOOTH"
+);
+}
+);
+width = 711;
 }
 );
 unicode = 0032;
