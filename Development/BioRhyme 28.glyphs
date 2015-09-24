@@ -73,7 +73,7 @@ DBH,
 A,
 CH,
 D,
-HEFH,
+HBPEFHIL,
 FlS,
 G,
 I,
@@ -3195,7 +3195,7 @@ unicode = 0118;
 },
 {
 glyphname = F;
-lastChange = "2015-09-24 22:32:24 +0000";
+lastChange = "2015-09-24 22:32:36 +0000";
 layers = (
 {
 anchors = (
@@ -4086,7 +4086,7 @@ unicode = 0126;
 },
 {
 glyphname = I;
-lastChange = "2015-09-19 19:24:54 +0000";
+lastChange = "2015-09-24 22:33:08 +0000";
 layers = (
 {
 anchors = (
@@ -4173,7 +4173,36 @@ width = 317;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"279 0 LINE",
+"279 23 LINE",
+"30 23 LINE",
+"30 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 13 LINE",
+"167 509 LINE",
+"142 509 LINE",
+"142 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 497 LINE",
+"279 520 LINE",
+"30 520 LINE",
+"30 497 LINE"
+);
+}
+);
+width = 309;
 }
 );
 leftMetricsKey = "=H";
@@ -4816,7 +4845,7 @@ unicode = 0136;
 },
 {
 glyphname = L;
-lastChange = "2015-09-19 19:24:54 +0000";
+lastChange = "2015-09-24 22:34:07 +0000";
 layers = (
 {
 anchors = (
@@ -4918,7 +4947,38 @@ width = 542;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 497 LINE",
+"279 497 LINE",
+"279 520 LINE",
+"30 520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"516 0 LINE",
+"516 136 LINE",
+"492 136 LINE",
+"492 23 LINE",
+"30 23 LINE",
+"30 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 13 LINE",
+"167 507 LINE",
+"142 507 LINE",
+"142 13 LINE"
+);
+}
+);
+width = 521;
 }
 );
 leftMetricsKey = "=H";
@@ -6628,7 +6688,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2015-09-19 19:24:54 +0000";
+lastChange = "2015-09-24 22:36:15 +0000";
 layers = (
 {
 anchors = (
@@ -6784,7 +6844,50 @@ width = 590;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"443 227 OFFCURVE",
+"527 274 OFFCURVE",
+"527 374 CURVE SMOOTH",
+"527 475 OFFCURVE",
+"455 520 OFFCURVE",
+"338 520 CURVE SMOOTH",
+"30 520 LINE",
+"30 497 LINE",
+"332 497 LINE SMOOTH",
+"434 497 OFFCURVE",
+"502 465 OFFCURVE",
+"502 373 CURVE SMOOTH",
+"502 288 OFFCURVE",
+"420 252 OFFCURVE",
+"321 251 CURVE SMOOTH",
+"159 250 LINE",
+"159 227 LINE",
+"326 227 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 13 LINE",
+"167 507 LINE",
+"142 507 LINE",
+"142 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 0 LINE",
+"293 23 LINE",
+"30 23 LINE",
+"30 0 LINE"
+);
+}
+);
+width = 532;
 }
 );
 leftMetricsKey = "=H";
