@@ -24076,7 +24076,7 @@ unicode = 007A;
 },
 {
 glyphname = z.001;
-lastChange = "2015-09-24 19:52:33 +0000";
+lastChange = "2015-09-24 19:56:09 +0000";
 layers = (
 {
 anchors = (
@@ -24090,59 +24090,6 @@ position = "{384, 362}";
 }
 );
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"563 260 LINE",
-"448 300 OFFCURVE",
-"311 353 OFFCURVE",
-"95 353 CURVE",
-"95 222 LINE",
-"70 222 LINE",
-"70 375 LINE",
-"95 375 LINE SMOOTH",
-"326 375 OFFCURVE",
-"456 320 OFFCURVE",
-"571 279 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"657 361 LINE",
-"578 150 OFFCURVE",
-"195 200 OFFCURVE",
-"74 -29 CURVE",
-"53 -18 LINE",
-"169 216 OFFCURVE",
-"555 166 OFFCURVE",
-"635 370 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"683 100 LINE",
-"670 20 OFFCURVE",
-"613 -31 OFFCURVE",
-"499 -31 CURVE SMOOTH",
-"402 -31 OFFCURVE",
-"272 15 OFFCURVE",
-"142 70 CURVE",
-"158 85 LINE",
-"286 32 OFFCURVE",
-"413 -8 OFFCURVE",
-"500 -8 CURVE SMOOTH",
-"582 -8 OFFCURVE",
-"647 26 OFFCURVE",
-"660 104 CURVE"
-);
-}
-);
-};
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-name = "Light Extended";
 paths = (
 {
 closed = 1;
@@ -24190,6 +24137,36 @@ nodes = (
 "562 13 OFFCURVE",
 "627 47 OFFCURVE",
 "640 125 CURVE"
+);
+}
+);
+};
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"125 20 LINE",
+"125 19 LINE",
+"148 23 LINE",
+"608 23 LINE",
+"608 113 LINE",
+"631 113 LINE",
+"631 0 LINE",
+"69 0 LINE",
+"69 13 LINE",
+"557 325 LINE",
+"577 335 LINE",
+"577 336 LINE",
+"554 332 LINE",
+"98 332 LINE",
+"98 242 LINE",
+"75 242 LINE",
+"75 355 LINE",
+"632 355 LINE",
+"632 342 LINE",
+"145 30 LINE"
 );
 }
 );
@@ -24256,22 +24233,26 @@ paths = (
 {
 closed = 1;
 nodes = (
+"120 20 LINE",
+"120 19 LINE",
+"143 23 LINE",
+"418 23 LINE",
 "418 113 LINE",
 "441 113 LINE",
 "441 0 LINE",
 "89 0 LINE",
 "89 13 LINE",
-"408 344 LINE",
-"423 332 LINE",
+"392 325 LINE",
+"412 335 LINE",
+"412 336 LINE",
+"389 332 LINE",
 "118 332 LINE",
 "118 242 LINE",
 "95 242 LINE",
 "95 355 LINE",
 "442 355 LINE",
 "442 342 LINE",
-"121 13 LINE",
-"108 23 LINE",
-"418 23 LINE"
+"140 30 LINE"
 );
 }
 );
