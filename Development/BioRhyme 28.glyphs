@@ -170,7 +170,7 @@ HHOOdO0I008123456789/two.alt/five.alt/two.alt2,
 /z.001,
 "/schwa e",
 "/idotless i",
-"/jdotless j"
+"/jdotless jj"
 );
 classes = (
 {
@@ -16557,7 +16557,7 @@ unicode = 006A;
 },
 {
 glyphname = jdotless;
-lastChange = "2015-09-24 20:07:12 +0000";
+lastChange = "2015-09-24 20:07:31 +0000";
 layers = (
 {
 anchors = (
@@ -16639,23 +16639,6 @@ nodes = (
 "70 357 LINE",
 "70 272 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"232 422 OFFCURVE",
-"260 445 OFFCURVE",
-"260 475 CURVE",
-"260 507 OFFCURVE",
-"232 530 OFFCURVE",
-"187 530 CURVE",
-"144 530 OFFCURVE",
-"114 507 OFFCURVE",
-"114 475 CURVE",
-"114 445 OFFCURVE",
-"144 422 OFFCURVE",
-"187 422 CURVE"
-);
 }
 );
 width = 295;
@@ -16663,7 +16646,39 @@ width = 295;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"122 -190 OFFCURVE",
+"163 -145 OFFCURVE",
+"163 -78 CURVE SMOOTH",
+"163 357 LINE",
+"138 357 LINE",
+"138 -79 LINE SMOOTH",
+"138 -137 OFFCURVE",
+"105 -167 OFFCURVE",
+"60 -167 CURVE SMOOTH",
+"27 -167 OFFCURVE",
+"-4 -156 OFFCURVE",
+"-23 -146 CURVE",
+"-30 -168 LINE",
+"-11 -177 OFFCURVE",
+"21 -190 OFFCURVE",
+"59 -190 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"163 334 LINE",
+"163 357 LINE",
+"48 357 LINE",
+"48 334 LINE"
+);
+}
+);
+width = 248;
 }
 );
 leftMetricsKey = "=j";
