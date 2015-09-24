@@ -164,7 +164,7 @@ t,
 02O,
 HHOOdO0I008123456789/two.alt/five.alt/two.alt2,
 /two.001,
-"/two.001 nHO/seven.001 0.1O23456789/two.alt/five.alt/two.alt2"
+"/two.001 nHO/seven.001 0.1iO23456789/two.alt/five.alt/two.alt2"
 );
 classes = (
 {
@@ -286,7 +286,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -361,7 +360,6 @@ id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 xHeight = 357;
@@ -427,6 +425,9 @@ position = "{477, 530}";
 },
 {
 position = "{258, -10}";
+},
+{
+position = "{537, 480}";
 }
 );
 horizontalStems = (
@@ -25456,7 +25457,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2015-09-24 16:50:48 +0000";
+lastChange = "2015-09-24 16:53:59 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25502,38 +25503,71 @@ paths = (
 {
 closed = 1;
 nodes = (
-"255 0 LINE",
-"275 0 LINE",
-"275 480 LINE",
-"255 480 LINE"
+"256 -9 LINE",
+"273 -9 LINE",
+"273 490 LINE",
+"256 490 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"89 23 LINE",
-"89 0 LINE",
-"426 0 LINE",
-"426 23 LINE"
+"113 15 LINE",
+"113 -9 LINE",
+"403 -9 LINE",
+"403 15 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"93 336 LINE",
-"176 351 OFFCURVE",
-"248 386 OFFCURVE",
-"270 475 CURVE",
-"255 480 LINE",
-"232 404 OFFCURVE",
-"163 371 OFFCURVE",
-"90 361 CURVE"
+"117 340 LINE",
+"188 356 OFFCURVE",
+"250 392 OFFCURVE",
+"269 484 CURVE",
+"256 490 LINE",
+"236 410 OFFCURVE",
+"177 376 OFFCURVE",
+"114 365 CURVE"
 );
 }
 );
 };
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"309 0 LINE",
+"309 480 LINE",
+"210 480 LINE",
+"210 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"394 0 LINE",
+"394 85 LINE",
+"105 85 LINE",
+"105 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 296 LINE",
+"164 301 OFFCURVE",
+"221 346 OFFCURVE",
+"228 415 CURVE",
+"211 480 LINE",
+"204 424 OFFCURVE",
+"142 381 OFFCURVE",
+"84 381 CURVE"
+);
+}
+);
 width = 420;
 },
 {
