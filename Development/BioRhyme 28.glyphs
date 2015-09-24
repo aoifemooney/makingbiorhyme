@@ -25135,7 +25135,7 @@ width = 420;
 },
 {
 glyphname = seven.001;
-lastChange = "2015-09-22 23:29:24 +0000";
+lastChange = "2015-09-24 19:26:26 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25177,6 +25177,42 @@ nodes = (
 width = 642;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"617 436 LINE SMOOTH",
+"617 325 OFFCURVE",
+"526 304 OFFCURVE",
+"362 247 CURVE SMOOTH",
+"201 191 OFFCURVE",
+"141 101 OFFCURVE",
+"141 0 CURVE",
+"166 0 LINE",
+"166 85 OFFCURVE",
+"214 169 OFFCURVE",
+"372 225 CURVE SMOOTH",
+"537 283 OFFCURVE",
+"642 312 OFFCURVE",
+"642 436 CURVE SMOOTH",
+"642 453 LINE",
+"617 453 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"59 470 LINE",
+"59 298 LINE",
+"83 298 LINE",
+"83 447 LINE",
+"642 447 LINE",
+"642 470 LINE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 width = 420;
