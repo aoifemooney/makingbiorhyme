@@ -73,7 +73,7 @@ DBH,
 A,
 CH,
 D,
-E,
+HEH,
 FlS,
 G,
 I,
@@ -176,7 +176,7 @@ HHOOdO0I008123456789/two.alt/five.alt/two.alt2,
 nntnntransplant,
 H,
 "ADHMO\012nnnnHnnni\012HHHHHH\012OOOOOO\012HHHAHOAOOO",
-CO
+CWO
 );
 classes = (
 {
@@ -1691,7 +1691,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2015-09-24 21:26:44 +0000";
+lastChange = "2015-09-24 22:05:58 +0000";
 layers = (
 {
 anchors = (
@@ -2042,20 +2042,18 @@ nodes = (
 "50 260 CURVE SMOOTH",
 "50 427 OFFCURVE",
 "171 530 OFFCURVE",
-"296 530 CURVE SMOOTH",
-"398 530 OFFCURVE",
-"482 467 OFFCURVE",
+"306 530 CURVE SMOOTH",
+"413 530 OFFCURVE",
+"484 465 OFFCURVE",
 "506 391 CURVE",
 "489 412 LINE",
 "489 520 LINE",
 "512 520 LINE",
-"512 354 LINE",
-"511 358 OFFCURVE",
-"509 351 OFFCURVE",
-"508 354 CURVE SMOOTH",
-"470 465 OFFCURVE",
-"386 507 OFFCURVE",
-"296 507 CURVE SMOOTH",
+"512 355 LINE",
+"504 354 LINE",
+"471 453 OFFCURVE",
+"403 507 OFFCURVE",
+"306 507 CURVE SMOOTH",
 "179 507 OFFCURVE",
 "75 409 OFFCURVE",
 "75 260 CURVE SMOOTH",
@@ -2503,7 +2501,7 @@ unicode = 0110;
 },
 {
 glyphname = E;
-lastChange = "2015-09-19 19:24:54 +0000";
+lastChange = "2015-09-24 22:06:30 +0000";
 layers = (
 {
 anchors = (
@@ -2771,9 +2769,113 @@ nodes = (
 width = 612;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"862 0 LINE",
+"862 186 LINE",
+"838 186 LINE",
+"838 23 LINE",
+"56 23 LINE",
+"56 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"583 261 LINE",
+"583 284 LINE",
+"260 284 LINE",
+"260 261 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"596 147 LINE",
+"596 387 LINE",
+"571 387 LINE",
+"571 147 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"837 497 LINE",
+"837 337 LINE",
+"862 337 LINE",
+"862 520 LINE",
+"56 520 LINE",
+"56 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 13 LINE",
+"263 507 LINE",
+"238 507 LINE",
+"238 13 LINE"
+);
+}
+);
+};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"862 0 LINE",
+"862 186 LINE",
+"838 186 LINE",
+"838 23 LINE",
+"56 23 LINE",
+"56 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"583 261 LINE",
+"583 284 LINE",
+"260 284 LINE",
+"260 261 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"596 147 LINE",
+"596 387 LINE",
+"571 387 LINE",
+"571 147 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"837 497 LINE",
+"837 337 LINE",
+"862 337 LINE",
+"862 520 LINE",
+"56 520 LINE",
+"56 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 13 LINE",
+"263 507 LINE",
+"238 507 LINE",
+"238 13 LINE"
+);
+}
+);
+width = 882;
 }
 );
 leftMetricsKey = "=H";
