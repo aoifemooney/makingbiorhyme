@@ -166,7 +166,8 @@ HHOOdO0I008123456789/two.alt/five.alt/two.alt2,
 /two.001,
 "/two.001 7nHO11/seven.001 110.18S2345iO234567089/two.alt \012III1II1II11111111\012II0II0II0\012OO0OO0OO\012oo0oo0oo0\01210101010101010\01211111100000\012112113113114115116117111181189110117585",
 /seven.001,
-"n/z.001 Z"
+"n/z.001 Z",
+/z.001
 );
 classes = (
 {
@@ -24078,7 +24079,7 @@ unicode = 007A;
 },
 {
 glyphname = z.001;
-lastChange = "2015-09-24 19:57:50 +0000";
+lastChange = "2015-09-24 20:04:04 +0000";
 layers = (
 {
 anchors = (
@@ -24180,33 +24181,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"465 272 LINE",
-"143 274 LINE",
-"143 196 LINE",
-"58 196 LINE",
-"58 357 LINE",
-"465 355 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"58 84 LINE",
-"380 82 LINE",
-"380 160 LINE",
-"465 160 LINE",
-"465 -1 LINE",
-"58 1 LINE"
-);
-}
-);
-};
-layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
-name = Bold;
-paths = (
-{
-closed = 1;
-nodes = (
 "461 0 LINE",
 "461 163 LINE",
 "378 163 LINE",
@@ -24227,6 +24201,36 @@ nodes = (
 "373 334 LINE",
 "59 53 LINE",
 "59 0 LINE"
+);
+}
+);
+};
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"462 302 LINE",
+"462 355 LINE",
+"65 355 LINE",
+"65 192 LINE",
+"148 192 LINE",
+"148 272 LINE",
+"286 272 LINE",
+"336 289 LINE",
+"337 287 LINE",
+"288 258 LINE",
+"59 53 LINE",
+"59 0 LINE",
+"461 0 LINE",
+"461 163 LINE",
+"378 163 LINE",
+"378 83 LINE",
+"232 83 LINE",
+"182 66 LINE",
+"181 68 LINE",
+"230 97 LINE"
 );
 }
 );
