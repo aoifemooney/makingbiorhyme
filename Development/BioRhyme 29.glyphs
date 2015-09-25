@@ -194,7 +194,8 @@ $0,
 "\U00B5",
 /minus,
 "\U00D7",
-"+"
+"+",
+"\U00B1"
 );
 classes = (
 {
@@ -32935,7 +32936,7 @@ unicode = 0025;
 },
 {
 glyphname = plus;
-lastChange = "2015-09-25 18:21:03 +0000";
+lastChange = "2015-09-25 18:21:52 +0000";
 layers = (
 {
 background = {
@@ -32981,26 +32982,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"306 43 LINE",
-"331 43 LINE",
-"331 427 LINE",
-"306 427 LINE"
+"209 43 LINE",
+"234 43 LINE",
+"234 427 LINE",
+"209 427 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"511 247 LINE",
-"127 247 LINE",
-"127 224 LINE",
-"511 224 LINE"
+"404 247 LINE",
+"40 247 LINE",
+"40 224 LINE",
+"404 224 LINE"
 );
 }
 );
 };
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"179 43 LINE",
+"264 43 LINE",
+"264 427 LINE",
+"179 427 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"404 277 LINE",
+"40 277 LINE",
+"40 194 LINE",
+"404 194 LINE"
+);
+}
+);
+width = 444;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
