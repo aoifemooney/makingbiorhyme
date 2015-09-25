@@ -184,7 +184,8 @@ $01S,
 $0,
 "ak\U00A31S00",
 "S$\U00A30",
-"\U00A50"
+"\U00A50",
+"\U00A5"
 );
 classes = (
 {
@@ -31873,7 +31874,7 @@ unicode = 00A3;
 },
 {
 glyphname = yen;
-lastChange = "2015-09-25 17:24:43 +0000";
+lastChange = "2015-09-25 17:27:17 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -31979,13 +31980,13 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"343 155 LINE",
-"609 457 LINE",
+"341 155 LINE",
+"599 457 LINE",
 "496 457 LINE",
-"321 245 LINE",
+"323 245 LINE",
 "138 457 LINE",
 "19 457 LINE",
-"289 155 LINE"
+"291 155 LINE"
 );
 },
 {
@@ -32009,10 +32010,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"50 202 LINE",
-"50 150 LINE",
-"583 150 LINE SMOOTH",
-"583 202 LINE SMOOTH"
+"50 237 LINE",
+"50 185 LINE",
+"583 185 LINE SMOOTH",
+"583 237 LINE SMOOTH"
 );
 },
 {
@@ -32020,6 +32021,15 @@ closed = 1;
 nodes = (
 "50 322 LINE",
 "50 270 LINE",
+"223 270 LINE SMOOTH",
+"223 322 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 322 LINE",
+"400 270 LINE",
 "583 270 LINE SMOOTH",
 "583 322 LINE SMOOTH"
 );
