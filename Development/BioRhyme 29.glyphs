@@ -195,7 +195,7 @@ $0,
 /minus,
 "\U00D7",
 "+",
-"1\U00B12"
+"1+1\U00B12=3"
 );
 classes = (
 {
@@ -33033,7 +33033,7 @@ unicode = 002B;
 },
 {
 glyphname = plusminus;
-lastChange = "2015-09-25 18:30:48 +0000";
+lastChange = "2015-09-25 18:31:53 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -33076,8 +33076,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"179 153 LINE",
-"264 153 LINE",
+"179 173 LINE",
+"264 173 LINE",
 "264 449 LINE",
 "179 449 LINE"
 );
@@ -33094,10 +33094,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"70 343 LINE",
-"70 260 LINE",
-"377 260 LINE",
-"377 343 LINE"
+"70 353 LINE",
+"70 270 LINE",
+"377 270 LINE",
+"377 353 LINE"
 );
 }
 );
