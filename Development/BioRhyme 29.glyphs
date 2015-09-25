@@ -193,7 +193,8 @@ $0,
 "\U00B5u",
 "\U00B5",
 /minus,
-"\U00D7"
+"\U00D7",
+"+"
 );
 classes = (
 {
@@ -32666,7 +32667,7 @@ unicode = 2212;
 },
 {
 glyphname = multiply;
-lastChange = "2015-09-25 18:20:10 +0000";
+lastChange = "2015-09-25 18:20:18 +0000";
 layers = (
 {
 background = {
@@ -32721,17 +32722,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"236 384 LINE",
+"246 384 LINE",
 "568 72 LINE",
 "581 90 LINE",
-"249 402 LINE"
+"259 402 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"236 90 LINE",
-"249 72 LINE",
+"246 90 LINE",
+"259 72 LINE",
 "581 384 LINE",
 "568 402 LINE"
 );
@@ -32934,7 +32935,7 @@ unicode = 0025;
 },
 {
 glyphname = plus;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-25 18:21:03 +0000";
 layers = (
 {
 background = {
@@ -32975,6 +32976,28 @@ nodes = (
 width = 637;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"306 43 LINE",
+"331 43 LINE",
+"331 427 LINE",
+"306 427 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"511 247 LINE",
+"127 247 LINE",
+"127 224 LINE",
+"511 224 LINE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 width = 420;
