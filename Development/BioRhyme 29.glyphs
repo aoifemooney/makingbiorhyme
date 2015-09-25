@@ -178,7 +178,7 @@ H,
 "ADHMO\012nnnnHnnni\012HHHHHH\012OOOOOO\012HHHAHOAOOO",
 CWO,
 C,
-"\U00A2c"
+"\U00A210c"
 );
 classes = (
 {
@@ -440,7 +440,7 @@ position = "{538, -20}";
 position = "{477, 530}";
 },
 {
-position = "{258, -10}";
+position = "{268, -10}";
 },
 {
 position = "{537, 480}";
@@ -31271,7 +31271,7 @@ width = 420;
 },
 {
 glyphname = cent;
-lastChange = "2015-09-25 14:02:31 +0000";
+lastChange = "2015-09-25 14:04:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -31324,9 +31324,65 @@ nodes = (
 width = 741;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{226, -20}";
+},
+{
+name = top;
+position = "{226, 377}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"317 62 OFFCURVE",
+"362 90 OFFCURVE",
+"400 124 CURVE",
+"353 192 LINE",
+"323 164 OFFCURVE",
+"293 141 OFFCURVE",
+"245 141 CURVE SMOOTH",
+"184 141 OFFCURVE",
+"141 185 OFFCURVE",
+"141 242 CURVE SMOOTH",
+"141 303 OFFCURVE",
+"189 343 OFFCURVE",
+"242 343 CURVE SMOOTH",
+"289 343 OFFCURVE",
+"317 320 OFFCURVE",
+"341 285 CURVE",
+"389 288 LINE",
+"389 416 LINE",
+"320 416 LINE",
+"320 344 LINE",
+"356 339 LINE",
+"326 387 OFFCURVE",
+"290 423 OFFCURVE",
+"217 423 CURVE SMOOTH",
+"125 423 OFFCURVE",
+"32 350 OFFCURVE",
+"32 242 CURVE SMOOTH",
+"32 120 OFFCURVE",
+"145 60 OFFCURVE",
+"240 61 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"204 -10 LINE",
+"277 -10 LINE",
+"277 480 LINE",
+"204 480 LINE"
+);
+}
+);
+width = 406;
 },
 {
 anchors = (
