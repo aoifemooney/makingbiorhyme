@@ -205,7 +205,8 @@ $0,
 /ampersand_alt1,
 "//50%0 ",
 "0~0=0>0<0\U00B50/minus 0\U00D70%0+0\U00B10",
-"@aoifemooney"
+"@aoifemooney",
+"|"
 );
 classes = (
 {
@@ -33580,7 +33581,7 @@ width = 420;
 },
 {
 glyphname = bar;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-25 19:48:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -33601,7 +33602,18 @@ width = 275;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"90 -146 LINE",
+"189 -146 LINE",
+"189 634 LINE",
+"90 634 LINE"
+);
+}
+);
+width = 279;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
