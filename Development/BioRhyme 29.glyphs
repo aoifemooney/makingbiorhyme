@@ -233,7 +233,8 @@ $0,
 /macroncomb,
 /Umacron,
 /ogonekcomb,
-/eogonek/ogonekcomb
+/eogonek/ogonekcomb,
+/ogonekcomb/eogonek
 );
 classes = (
 {
@@ -1136,7 +1137,7 @@ unicode = 00C2;
 },
 {
 glyphname = Adieresis;
-lastChange = "2015-09-26 20:10:43 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -1159,7 +1160,7 @@ name = A;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 116, 59}";
+transform = "{1, 0, 0, 1, 119, 127}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -1216,7 +1217,7 @@ unicode = 00C0;
 },
 {
 glyphname = Amacron;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -1239,6 +1240,7 @@ name = A;
 },
 {
 name = macroncomb;
+transform = "{1, 0, 0, 1, 65, 79}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -3159,7 +3161,7 @@ unicode = 00C8;
 },
 {
 glyphname = Emacron;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -3182,6 +3184,7 @@ name = E;
 },
 {
 name = macroncomb;
+transform = "{1, 0, 0, 1, 23, 49}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -3198,7 +3201,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -3221,6 +3224,7 @@ name = E;
 },
 {
 name = ogonekcomb;
+transform = "{1, 0, 0, 1, 296, 17}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -4457,7 +4461,7 @@ unicode = 00CC;
 },
 {
 glyphname = Imacron;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -4480,6 +4484,7 @@ name = I;
 },
 {
 name = macroncomb;
+transform = "{1, 0, 0, 1, -132, 49}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -4496,7 +4501,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -4519,6 +4524,7 @@ name = I;
 },
 {
 name = ogonekcomb;
+transform = "{1, 0, 0, 1, 71, 7}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -12295,7 +12301,7 @@ unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2015-09-26 20:21:27 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -12318,7 +12324,7 @@ name = a;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 222, 8}";
+transform = "{1, 0, 0, 1, 204, 16}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -14772,7 +14778,7 @@ unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2015-09-26 20:21:27 +0000";
+lastChange = "2015-09-26 20:44:11 +0000";
 layers = (
 {
 components = (
@@ -14795,7 +14801,7 @@ name = e;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 225, 54}";
+transform = "{1, 0, 0, 1, 207, 62}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -36352,7 +36358,7 @@ unicode = 0304;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2015-09-26 20:23:14 +0000";
+lastChange = "2015-09-26 20:45:03 +0000";
 layers = (
 {
 anchors = (
@@ -36425,7 +36431,7 @@ width = 383;
 anchors = (
 {
 name = _ogonek;
-position = "{190, 1}";
+position = "{208, -7}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -36434,24 +36440,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"165 3 LINE",
-"132 -13 OFFCURVE",
-"85 -47 OFFCURVE",
-"85 -100 CURVE SMOOTH",
-"85 -147 OFFCURVE",
-"130 -174 OFFCURVE",
+"175 13 LINE",
+"142 -3 OFFCURVE",
+"88 -37 OFFCURVE",
+"88 -100 CURVE SMOOTH",
+"88 -147 OFFCURVE",
+"129 -174 OFFCURVE",
 "175 -174 CURVE SMOOTH",
-"208 -174 OFFCURVE",
-"229 -166 OFFCURVE",
-"253 -153 CURVE",
-"233 -100 LINE",
-"216 -110 OFFCURVE",
-"200 -116 OFFCURVE",
-"181 -116 CURVE SMOOTH",
-"163 -116 OFFCURVE",
-"145 -105 OFFCURVE",
-"145 -84 CURVE SMOOTH",
-"145 -49 OFFCURVE",
+"211 -174 OFFCURVE",
+"232 -166 OFFCURVE",
+"256 -153 CURVE",
+"236 -100 LINE",
+"219 -110 OFFCURVE",
+"203 -116 OFFCURVE",
+"184 -116 CURVE SMOOTH",
+"166 -116 OFFCURVE",
+"148 -105 OFFCURVE",
+"148 -84 CURVE SMOOTH",
+"148 -49 OFFCURVE",
 "186 -23 OFFCURVE",
 "208 -7 CURVE"
 );
