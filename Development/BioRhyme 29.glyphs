@@ -210,7 +210,9 @@ $0,
 "Oq\U00B6pH",
 "/g.alt \U00B6",
 "@",
-/acutecomb
+/acutecomb,
+"\U00C1",
+/brevecomb
 );
 classes = (
 {
@@ -495,7 +497,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2015-09-24 23:04:48 +0000";
+lastChange = "2015-09-26 19:44:04 +0000";
 layers = (
 {
 anchors = (
@@ -579,7 +581,7 @@ position = "{647, 10}";
 },
 {
 name = top;
-position = "{348, 490}";
+position = "{348, 520}";
 }
 );
 background = {
@@ -992,7 +994,7 @@ width = 678;
 },
 {
 glyphname = Aacute;
-lastChange = "2015-09-26 19:41:57 +0000";
+lastChange = "2015-09-26 19:44:09 +0000";
 layers = (
 {
 components = (
@@ -1015,7 +1017,7 @@ name = A;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 135, 69}";
+transform = "{1, 0, 0, 1, 135, 99}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -35279,7 +35281,7 @@ width = 420;
 },
 {
 glyphname = acutecomb;
-lastChange = "2015-09-26 19:42:42 +0000";
+lastChange = "2015-09-26 19:44:15 +0000";
 layers = (
 {
 anchors = (
@@ -35329,10 +35331,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"389 662 LINE",
-"430 584 LINE",
-"123 468 LINE",
-"98 526 LINE"
+"309 652 LINE",
+"350 574 LINE",
+"135 490 LINE",
+"108 546 LINE"
 );
 }
 );
@@ -35348,7 +35350,7 @@ unicode = 0301;
 },
 {
 glyphname = brevecomb;
-lastChange = "2015-08-27 00:37:24 +0000";
+lastChange = "2015-09-26 19:44:28 +0000";
 layers = (
 {
 anchors = (
@@ -35383,8 +35385,52 @@ nodes = (
 width = 486;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"317 508 OFFCURVE",
+"376 560 OFFCURVE",
+"396 630 CURVE",
+"416 625 LINE",
+"401 555 OFFCURVE",
+"340 484 OFFCURVE",
+"243 484 CURVE",
+"146 484 OFFCURVE",
+"85 555 OFFCURVE",
+"70 625 CURVE",
+"90 630 LINE",
+"110 560 OFFCURVE",
+"171 508 OFFCURVE",
+"244 508 CURVE"
+);
+}
+);
+};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"317 508 OFFCURVE",
+"376 560 OFFCURVE",
+"396 630 CURVE",
+"416 625 LINE",
+"401 555 OFFCURVE",
+"340 484 OFFCURVE",
+"243 484 CURVE",
+"146 484 OFFCURVE",
+"85 555 OFFCURVE",
+"70 625 CURVE",
+"90 630 LINE",
+"110 560 OFFCURVE",
+"171 508 OFFCURVE",
+"244 508 CURVE"
+);
+}
+);
 width = 420;
 },
 {
