@@ -146,7 +146,7 @@ hn,
 i012i,
 m,
 "minimum\012minimum\012minimum\012lllddd",
-p,
+pb,
 "abcdeghilmnopqru\012sc",
 g,
 s,
@@ -250,7 +250,8 @@ i,
 /dotaccentcomb,
 "/jdotless i",
 k,
-n
+n,
+i/dotaccentcomb/iogonek
 );
 classes = (
 {
@@ -16981,7 +16982,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2015-09-26 21:24:28 +0000";
+lastChange = "2015-09-26 21:31:35 +0000";
 layers = (
 {
 components = (
@@ -17008,7 +17009,7 @@ name = idotless;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, -1, -1}";
+transform = "{1, 0, 0, 1, -1, 65}";
 },
 {
 name = ogonekcomb;
@@ -20018,17 +20019,17 @@ unicode = 0153;
 {
 color = 5;
 glyphname = p;
-lastChange = "2015-09-26 21:29:59 +0000";
+lastChange = "2015-09-26 21:30:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{440, -20}";
+position = "{440, -10}";
 },
 {
 name = top;
-position = "{440, 377}";
+position = "{440, 367}";
 }
 );
 background = {
@@ -20111,37 +20112,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"660 -20 OFFCURVE",
-"809 55 OFFCURVE",
-"809 192 CURVE",
-"809 307 OFFCURVE",
-"714 376 OFFCURVE",
-"571 376 CURVE",
-"442 376 OFFCURVE",
-"319 312 OFFCURVE",
-"204 228 CURVE",
-"204 205 LINE",
-"329 293 OFFCURVE",
-"457 353 OFFCURVE",
-"571 353 CURVE",
-"703 353 OFFCURVE",
-"784 287 OFFCURVE",
-"784 192 CURVE",
-"784 72 OFFCURVE",
-"648 2 OFFCURVE",
-"507 3 CURVE",
-"388 2 OFFCURVE",
-"275 45 OFFCURVE",
-"201 85 CURVE",
-"201 63 LINE",
-"273 22 OFFCURVE",
-"378 -20 OFFCURVE",
-"507 -20 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "400 -165 LINE",
 "400 -142 LINE",
 "32 -142 LINE",
@@ -20165,6 +20135,37 @@ nodes = (
 "10 357 LINE",
 "10 334 LINE"
 );
+},
+{
+closed = 1;
+nodes = (
+"442 367 OFFCURVE",
+"320 303 OFFCURVE",
+"204 219 CURVE",
+"204 196 LINE",
+"329 284 OFFCURVE",
+"458 344 OFFCURVE",
+"572 344 CURVE",
+"705 344 OFFCURVE",
+"785 283 OFFCURVE",
+"785 195 CURVE",
+"785 85 OFFCURVE",
+"659 12 OFFCURVE",
+"507 13 CURVE",
+"388 12 OFFCURVE",
+"275 55 OFFCURVE",
+"201 95 CURVE",
+"201 73 LINE",
+"273 32 OFFCURVE",
+"378 -10 OFFCURVE",
+"507 -10 CURVE",
+"670 -10 OFFCURVE",
+"810 67 OFFCURVE",
+"810 195 CURVE",
+"810 303 OFFCURVE",
+"715 367 OFFCURVE",
+"572 367 CURVE"
+);
 }
 );
 width = 879;
@@ -20173,11 +20174,11 @@ width = 879;
 anchors = (
 {
 name = bottom;
-position = "{300, -20}";
+position = "{300, -10}";
 },
 {
 name = top;
-position = "{300, 387}";
+position = "{300, 367}";
 }
 );
 background = {
@@ -36043,7 +36044,7 @@ unicode = 0308;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2015-09-26 21:24:45 +0000";
+lastChange = "2015-09-26 21:31:35 +0000";
 layers = (
 {
 anchors = (
@@ -36079,7 +36080,7 @@ width = 254;
 anchors = (
 {
 name = _top;
-position = "{136, 423}";
+position = "{136, 357}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
