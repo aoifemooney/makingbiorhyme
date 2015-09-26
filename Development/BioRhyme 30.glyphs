@@ -253,7 +253,8 @@ n,
 i/dotaccentcomb/idotless/iogonek,
 p,
 t,
-/tbar
+/tbar,
+/ringcomb
 );
 classes = (
 {
@@ -36469,7 +36470,7 @@ unicode = 0328;
 },
 {
 glyphname = ringcomb;
-lastChange = "2015-08-27 00:37:24 +0000";
+lastChange = "2015-09-26 23:42:42 +0000";
 layers = (
 {
 anchors = (
@@ -36519,8 +36520,50 @@ nodes = (
 width = 411;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{206, 391}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"141 684 OFFCURVE",
+"80 642 OFFCURVE",
+"80 579 CURVE",
+"80 519 OFFCURVE",
+"141 473 OFFCURVE",
+"206 473 CURVE",
+"275 473 OFFCURVE",
+"331 519 OFFCURVE",
+"331 579 CURVE",
+"331 642 OFFCURVE",
+"275 684 OFFCURVE",
+"206 684 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 662 OFFCURVE",
+"308 627 OFFCURVE",
+"308 579 CURVE",
+"308 533 OFFCURVE",
+"263 495 OFFCURVE",
+"206 495 CURVE",
+"152 495 OFFCURVE",
+"103 533 OFFCURVE",
+"103 579 CURVE",
+"103 627 OFFCURVE",
+"152 662 OFFCURVE",
+"206 662 CURVE"
+);
+}
+);
 width = 420;
 },
 {
