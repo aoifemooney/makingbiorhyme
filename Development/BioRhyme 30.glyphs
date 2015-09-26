@@ -11061,7 +11061,7 @@ unicode = 017D;
 },
 {
 glyphname = Zdotaccent;
-lastChange = "2015-09-26 23:41:29 +0000";
+lastChange = "2015-09-26 23:46:06 +0000";
 layers = (
 {
 components = (
@@ -11084,7 +11084,7 @@ name = Z;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 156, 97}";
+transform = "{1, 0, 0, 1, 156, 163}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -12438,7 +12438,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2015-09-26 23:41:30 +0000";
+lastChange = "2015-09-26 23:46:06 +0000";
 layers = (
 {
 components = (
@@ -12461,6 +12461,7 @@ name = a;
 },
 {
 name = ringcomb;
+transform = "{1, 0, 0, 1, 8, -24}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -23282,7 +23283,7 @@ unicode = 0173;
 },
 {
 glyphname = uring;
-lastChange = "2015-09-26 23:41:34 +0000";
+lastChange = "2015-09-26 23:46:05 +0000";
 layers = (
 {
 components = (
@@ -23305,6 +23306,7 @@ name = u;
 },
 {
 name = ringcomb;
+transform = "{1, 0, 0, 1, 23, -44}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -36470,7 +36472,7 @@ unicode = 0328;
 },
 {
 glyphname = ringcomb;
-lastChange = "2015-09-26 23:43:34 +0000";
+lastChange = "2015-09-26 23:45:58 +0000";
 layers = (
 {
 anchors = (
@@ -36532,35 +36534,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"156 684 OFFCURVE",
-"105 642 OFFCURVE",
-"105 579 CURVE",
-"105 519 OFFCURVE",
-"156 473 OFFCURVE",
-"206 473 CURVE",
-"260 473 OFFCURVE",
-"306 519 OFFCURVE",
-"306 579 CURVE",
-"306 642 OFFCURVE",
-"260 684 OFFCURVE",
-"206 684 CURVE"
+"148 473 OFFCURVE",
+"97 519 OFFCURVE",
+"97 579 CURVE",
+"97 642 OFFCURVE",
+"148 684 OFFCURVE",
+"206 684 CURVE",
+"264 684 OFFCURVE",
+"315 638 OFFCURVE",
+"315 578 CURVE",
+"315 515 OFFCURVE",
+"264 473 OFFCURVE",
+"206 473 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"248 662 OFFCURVE",
-"283 627 OFFCURVE",
-"283 579 CURVE",
-"283 533 OFFCURVE",
-"248 495 OFFCURVE",
-"206 495 CURVE",
-"167 495 OFFCURVE",
-"128 533 OFFCURVE",
-"128 579 CURVE",
-"128 627 OFFCURVE",
-"167 662 OFFCURVE",
-"206 662 CURVE"
+"177 634 OFFCURVE",
+"151 611 OFFCURVE",
+"151 579 CURVE",
+"151 548 OFFCURVE",
+"177 523 OFFCURVE",
+"206 523 CURVE",
+"235 523 OFFCURVE",
+"261 546 OFFCURVE",
+"261 578 CURVE",
+"261 609 OFFCURVE",
+"235 634 OFFCURVE",
+"206 634 CURVE"
 );
 }
 );
