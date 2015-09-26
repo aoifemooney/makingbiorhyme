@@ -257,7 +257,8 @@ t,
 /ringcomb,
 .,
 ";",
-/slashlongcomb
+/slashlongcomb,
+/slashshortcomb
 );
 classes = (
 {
@@ -36615,7 +36616,7 @@ unicode = 0338;
 },
 {
 glyphname = slashshortcomb;
-lastChange = "2015-08-27 00:42:16 +0000";
+lastChange = "2015-09-26 23:49:55 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -36636,6 +36637,17 @@ width = 417;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"344 391 LINE",
+"266 391 LINE",
+"97 67 LINE",
+"175 67 LINE"
+);
+}
+);
 width = 600;
 },
 {
