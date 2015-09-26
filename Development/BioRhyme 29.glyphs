@@ -229,7 +229,8 @@ $0,
 /dieresiscomb,
 /acutecomb/brevecomb/caroncomb/cedillacomb/circumflexcomb/commaaccentcomb/commaturnedabovecomb/dieresiscomb/dotaccentcomb/gravecomb,
 /hungarumlautcomb,
-/acutecomb/brevecomb/caroncomb/cedillacomb/circumflexcomb/commaaccentcomb/commaturnedabovecomb/dieresiscomb/dotaccentcomb/gravecomb/hungarumlautcomb
+/acutecomb/brevecomb/caroncomb/cedillacomb/circumflexcomb/commaaccentcomb/commaturnedabovecomb/dieresiscomb/dotaccentcomb/gravecomb/hungarumlautcomb,
+/macroncomb
 );
 classes = (
 {
@@ -36166,7 +36167,7 @@ unicode = 0300;
 },
 {
 glyphname = hungarumlautcomb;
-lastChange = "2015-09-26 20:15:05 +0000";
+lastChange = "2015-09-26 20:15:30 +0000";
 layers = (
 {
 anchors = (
@@ -36256,19 +36257,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"193 691 LINE",
-"255 629 LINE",
-"94 485 LINE",
-"52 531 LINE"
+"158 696 LINE",
+"225 639 LINE",
+"94 495 LINE",
+"47 536 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"389 691 LINE",
-"451 629 LINE",
-"290 485 LINE",
-"248 531 LINE"
+"354 696 LINE",
+"421 639 LINE",
+"290 495 LINE",
+"243 536 LINE"
 );
 }
 );
@@ -36284,7 +36285,7 @@ unicode = 030B;
 },
 {
 glyphname = macroncomb;
-lastChange = "2015-08-27 00:37:24 +0000";
+lastChange = "2015-09-26 20:15:52 +0000";
 layers = (
 {
 anchors = (
@@ -36309,8 +36310,25 @@ nodes = (
 width = 617;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{313, 441}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"70 622 LINE",
+"70 538 LINE",
+"547 538 LINE",
+"547 622 LINE"
+);
+}
+);
 width = 420;
 },
 {
