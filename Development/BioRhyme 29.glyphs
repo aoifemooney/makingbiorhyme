@@ -212,7 +212,9 @@ $0,
 "@",
 /acutecomb,
 "\U00C1",
-/brevecomb
+/brevecomb,
+/Abreve,
+/caroncomb
 );
 classes = (
 {
@@ -334,6 +336,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -1034,7 +1037,7 @@ unicode = 00C1;
 },
 {
 glyphname = Abreve;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 19:54:05 +0000";
 layers = (
 {
 components = (
@@ -1057,6 +1060,7 @@ name = A;
 },
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, 136, 99}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -12047,7 +12051,7 @@ unicode = 00E1;
 },
 {
 glyphname = abreve;
-lastChange = "2015-09-20 17:47:22 +0000";
+lastChange = "2015-09-26 19:54:05 +0000";
 layers = (
 {
 components = (
@@ -12070,6 +12074,7 @@ name = a;
 },
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, 6, -44}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -35350,7 +35355,7 @@ unicode = 0301;
 },
 {
 glyphname = brevecomb;
-lastChange = "2015-09-26 19:46:44 +0000";
+lastChange = "2015-09-26 19:54:01 +0000";
 layers = (
 {
 anchors = (
@@ -35385,6 +35390,12 @@ nodes = (
 width = 486;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{212, 421}";
+}
+);
 background = {
 paths = (
 {
@@ -35414,20 +35425,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"292 538 OFFCURVE",
-"316 575 OFFCURVE",
-"324 626 CURVE",
-"376 615 LINE",
-"371 545 OFFCURVE",
-"325 464 OFFCURVE",
-"238 464 CURVE",
-"141 464 OFFCURVE",
-"85 535 OFFCURVE",
-"70 605 CURVE",
-"90 660 LINE",
-"110 590 OFFCURVE",
-"166 538 OFFCURVE",
-"239 538 CURVE"
+"290 484 OFFCURVE",
+"344 545 OFFCURVE",
+"349 615 CURVE",
+"297 626 LINE",
+"289 585 OFFCURVE",
+"255 558 OFFCURVE",
+"212 558 CURVE",
+"169 558 OFFCURVE",
+"135 585 OFFCURVE",
+"127 626 CURVE",
+"75 615 LINE",
+"80 545 OFFCURVE",
+"136 484 OFFCURVE",
+"212 484 CURVE"
 );
 }
 );
@@ -35443,7 +35454,7 @@ unicode = 0306;
 },
 {
 glyphname = caroncomb;
-lastChange = "2015-08-27 00:37:24 +0000";
+lastChange = "2015-09-26 19:55:21 +0000";
 layers = (
 {
 anchors = (
@@ -35471,8 +35482,28 @@ nodes = (
 width = 464;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{232, 391}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"232 517 LINE",
+"116 629 LINE",
+"85 601 LINE",
+"207 449 LINE",
+"257 449 LINE",
+"379 601 LINE",
+"348 629 LINE"
+);
+}
+);
 width = 420;
 },
 {
