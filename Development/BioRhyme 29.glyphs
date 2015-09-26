@@ -221,7 +221,11 @@ $0,
 /acutecomb/brevecomb/caroncomb/cedillacomb/circumflexcomb,
 /cedillacomb,
 "\U00C7/cedillacomb",
-/gravecomb
+/gravecomb,
+/commaaccentcomb,
+/rcommaaccent,
+/commaturnedabovecomb,
+/gcommaaccent
 );
 classes = (
 {
@@ -5170,7 +5174,7 @@ unicode = 013D;
 },
 {
 glyphname = Lcommaaccent;
-lastChange = "2015-09-19 16:22:53 +0000";
+lastChange = "2015-09-26 20:10:05 +0000";
 layers = (
 {
 components = (
@@ -5193,6 +5197,7 @@ name = L;
 },
 {
 name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 115, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -16077,7 +16082,7 @@ rightMetricsKey = "=j";
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2015-09-20 17:47:22 +0000";
+lastChange = "2015-09-26 20:10:04 +0000";
 layers = (
 {
 components = (
@@ -16100,6 +16105,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 107, -6}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -18178,7 +18184,7 @@ leftMetricsKey = "=h";
 },
 {
 glyphname = kcommaaccent;
-lastChange = "2015-09-20 17:47:22 +0000";
+lastChange = "2015-09-26 20:08:29 +0000";
 layers = (
 {
 components = (
@@ -18201,6 +18207,7 @@ name = k;
 },
 {
 name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 184, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -18463,7 +18470,7 @@ unicode = 013E;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2015-09-20 17:47:22 +0000";
+lastChange = "2015-09-26 20:08:29 +0000";
 layers = (
 {
 components = (
@@ -18486,6 +18493,7 @@ name = l;
 },
 {
 name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -19195,7 +19203,7 @@ unicode = 0148;
 },
 {
 glyphname = ncommaaccent;
-lastChange = "2015-09-20 17:47:23 +0000";
+lastChange = "2015-09-26 20:08:28 +0000";
 layers = (
 {
 components = (
@@ -19218,6 +19226,7 @@ name = n;
 },
 {
 name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 192, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -21218,7 +21227,7 @@ unicode = 0159;
 },
 {
 glyphname = rcommaaccent;
-lastChange = "2015-09-20 18:14:33 +0000";
+lastChange = "2015-09-26 20:08:27 +0000";
 layers = (
 {
 components = (
@@ -21241,6 +21250,7 @@ name = r;
 },
 {
 name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 42, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -35733,7 +35743,7 @@ unicode = 0302;
 },
 {
 glyphname = commaaccentcomb;
-lastChange = "2015-08-27 00:37:24 +0000";
+lastChange = "2015-09-26 20:09:13 +0000";
 layers = (
 {
 anchors = (
@@ -35773,9 +35783,41 @@ nodes = (
 width = 262;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{107, 0}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"90 -309 LINE",
+"154 -260 OFFCURVE",
+"186 -209 OFFCURVE",
+"186 -162 CURVE SMOOTH",
+"186 -113 OFFCURVE",
+"154 -84 OFFCURVE",
+"112 -84 CURVE SMOOTH",
+"75 -84 OFFCURVE",
+"45 -104 OFFCURVE",
+"45 -135 CURVE SMOOTH",
+"45 -163 OFFCURVE",
+"69 -183 OFFCURVE",
+"103 -183 CURVE SMOOTH",
+"115 -183 OFFCURVE",
+"126 -182 OFFCURVE",
+"134 -178 CURVE",
+"134 -215 OFFCURVE",
+"107 -246 OFFCURVE",
+"68 -286 CURVE"
+);
+}
+);
+width = 231;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -35787,7 +35829,7 @@ unicode = 0326;
 },
 {
 glyphname = commaturnedabovecomb;
-lastChange = "2015-08-27 00:42:16 +0000";
+lastChange = "2015-09-26 20:10:02 +0000";
 layers = (
 {
 anchors = (
@@ -35827,9 +35869,41 @@ nodes = (
 width = 262;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{119, 393}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"141 694 LINE",
+"77 645 OFFCURVE",
+"45 594 OFFCURVE",
+"45 547 CURVE SMOOTH",
+"45 498 OFFCURVE",
+"77 469 OFFCURVE",
+"119 469 CURVE SMOOTH",
+"156 469 OFFCURVE",
+"186 489 OFFCURVE",
+"186 520 CURVE SMOOTH",
+"186 548 OFFCURVE",
+"162 568 OFFCURVE",
+"128 568 CURVE SMOOTH",
+"116 568 OFFCURVE",
+"105 567 OFFCURVE",
+"97 563 CURVE",
+"97 600 OFFCURVE",
+"124 631 OFFCURVE",
+"163 671 CURVE"
+);
+}
+);
+width = 231;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
