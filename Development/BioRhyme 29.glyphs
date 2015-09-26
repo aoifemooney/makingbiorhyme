@@ -232,7 +232,8 @@ $0,
 /acutecomb/brevecomb/caroncomb/cedillacomb/circumflexcomb/commaaccentcomb/commaturnedabovecomb/dieresiscomb/dotaccentcomb/gravecomb/hungarumlautcomb,
 /macroncomb,
 /Umacron,
-/ogonekcomb
+/ogonekcomb,
+/eogonek/ogonekcomb
 );
 classes = (
 {
@@ -12294,7 +12295,7 @@ unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2015-09-20 17:47:22 +0000";
+lastChange = "2015-09-26 20:21:27 +0000";
 layers = (
 {
 components = (
@@ -12317,6 +12318,7 @@ name = a;
 },
 {
 name = ogonekcomb;
+transform = "{1, 0, 0, 1, 222, 8}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -14770,7 +14772,7 @@ unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2015-09-24 20:05:01 +0000";
+lastChange = "2015-09-26 20:21:27 +0000";
 layers = (
 {
 components = (
@@ -14793,6 +14795,7 @@ name = e;
 },
 {
 name = ogonekcomb;
+transform = "{1, 0, 0, 1, 225, 54}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -23319,7 +23322,7 @@ unicode = 016B;
 },
 {
 glyphname = uogonek;
-lastChange = "2015-09-20 18:14:34 +0000";
+lastChange = "2015-09-26 20:21:26 +0000";
 layers = (
 {
 components = (
@@ -23342,6 +23345,7 @@ name = u;
 },
 {
 name = ogonekcomb;
+transform = "{1, 0, 0, 1, 268, -3}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -36348,7 +36352,7 @@ unicode = 0304;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2015-09-26 20:21:14 +0000";
+lastChange = "2015-09-26 20:23:14 +0000";
 layers = (
 {
 anchors = (
@@ -36432,22 +36436,22 @@ closed = 1;
 nodes = (
 "165 3 LINE",
 "132 -13 OFFCURVE",
-"95 -49 OFFCURVE",
-"95 -92 CURVE SMOOTH",
-"95 -144 OFFCURVE",
-"141 -174 OFFCURVE",
-"194 -174 CURVE SMOOTH",
-"229 -174 OFFCURVE",
-"255 -166 OFFCURVE",
-"283 -153 CURVE",
-"263 -100 LINE",
-"241 -112 OFFCURVE",
-"223 -116 OFFCURVE",
-"199 -116 CURVE SMOOTH",
-"176 -116 OFFCURVE",
-"155 -103 OFFCURVE",
-"155 -79 CURVE SMOOTH",
-"155 -51 OFFCURVE",
+"85 -47 OFFCURVE",
+"85 -100 CURVE SMOOTH",
+"85 -147 OFFCURVE",
+"130 -174 OFFCURVE",
+"175 -174 CURVE SMOOTH",
+"208 -174 OFFCURVE",
+"229 -166 OFFCURVE",
+"253 -153 CURVE",
+"233 -100 LINE",
+"216 -110 OFFCURVE",
+"200 -116 OFFCURVE",
+"181 -116 CURVE SMOOTH",
+"163 -116 OFFCURVE",
+"145 -105 OFFCURVE",
+"145 -84 CURVE SMOOTH",
+"145 -49 OFFCURVE",
 "186 -23 OFFCURVE",
 "208 -7 CURVE"
 );
