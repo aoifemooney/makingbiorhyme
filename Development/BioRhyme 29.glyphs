@@ -241,7 +241,8 @@ E,
 F,
 /Q.alt,
 /ogonekcomb/aogonek,
-"/a.alt a"
+"/a.alt a",
+n/a.alt2
 );
 classes = (
 {
@@ -490,7 +491,7 @@ value = "81";
 descender = -70;
 guideLines = (
 {
-position = "{344, 299}";
+position = "{338, 366}";
 },
 {
 position = "{533, -190}";
@@ -11532,17 +11533,17 @@ unicode = 0061;
 },
 {
 glyphname = a.alt;
-lastChange = "2015-09-26 21:10:34 +0000";
+lastChange = "2015-09-26 21:11:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{429, -20}";
+position = "{429, -10}";
 },
 {
 name = ogonek;
-position = "{742, -3}";
+position = "{720, -13}";
 },
 {
 name = top;
@@ -11553,9 +11554,8 @@ layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-"627 93 LINE",
 "627 197 LINE SMOOTH",
 "627 297 OFFCURVE",
 "552 367 OFFCURVE",
@@ -11570,7 +11570,22 @@ nodes = (
 "539 344 OFFCURVE",
 "602 281 OFFCURVE",
 "602 197 CURVE SMOOTH",
-"602 93 LINE"
+"602 98 LINE",
+"602 29 OFFCURVE",
+"628 -20 OFFCURVE",
+"691 -20 CURVE SMOOTH",
+"758 -20 OFFCURVE",
+"781 39 OFFCURVE",
+"781 88 CURVE SMOOTH",
+"781 102 LINE",
+"756 102 LINE",
+"756 88 LINE SMOOTH",
+"756 39 OFFCURVE",
+"735 3 OFFCURVE",
+"693 3 CURVE SMOOTH",
+"647 3 OFFCURVE",
+"627 39 OFFCURVE",
+"627 98 CURVE"
 );
 },
 {
@@ -11602,27 +11617,6 @@ nodes = (
 "70 16 OFFCURVE",
 "146 -10 OFFCURVE",
 "267 -10 CURVE SMOOTH"
-);
-},
-{
-closed = 0;
-nodes = (
-"602 98 LINE SMOOTH",
-"602 29 OFFCURVE",
-"628 -20 OFFCURVE",
-"691 -20 CURVE SMOOTH",
-"758 -20 OFFCURVE",
-"781 39 OFFCURVE",
-"781 88 CURVE SMOOTH",
-"781 102 LINE",
-"756 102 LINE",
-"756 88 LINE SMOOTH",
-"756 39 OFFCURVE",
-"735 3 OFFCURVE",
-"693 3 CURVE SMOOTH",
-"647 3 OFFCURVE",
-"626 39 OFFCURVE",
-"626 98 CURVE SMOOTH"
 );
 }
 );
@@ -11837,7 +11831,7 @@ width = 534;
 {
 color = 5;
 glyphname = a.alt2;
-lastChange = "2015-09-20 18:16:34 +0000";
+lastChange = "2015-09-26 21:12:04 +0000";
 layers = (
 {
 anchors = (
@@ -11981,73 +11975,17 @@ width = 828;
 anchors = (
 {
 name = bottom;
-position = "{214, -20}";
+position = "{214, -10}";
 },
 {
 name = ogonek;
-position = "{467, -2}";
+position = "{481, -4}";
 },
 {
 name = top;
-position = "{214, 377}";
+position = "{214, 367}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"348 324 OFFCURVE",
-"288 376 OFFCURVE",
-"214 376 CURVE SMOOTH",
-"108 376 OFFCURVE",
-"21 289 OFFCURVE",
-"21 165 CURVE",
-"21 41 OFFCURVE",
-"115 -20 OFFCURVE",
-"209 -20 CURVE SMOOTH",
-"286 -20 OFFCURVE",
-"347 26 OFFCURVE",
-"396 85 CURVE",
-"396 157 LINE",
-"342 105 OFFCURVE",
-"289 67 OFFCURVE",
-"230 67 CURVE SMOOTH",
-"174 67 OFFCURVE",
-"137 109 OFFCURVE",
-"137 169 CURVE",
-"137 241 OFFCURVE",
-"180 288 OFFCURVE",
-"236 288 CURVE SMOOTH",
-"287 288 OFFCURVE",
-"347 249 OFFCURVE",
-"398 214 CURVE",
-"398 279 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"340 76 LINE SMOOTH",
-"340 21 OFFCURVE",
-"384 -16 OFFCURVE",
-"436 -16 CURVE SMOOTH",
-"470 -16 OFFCURVE",
-"493 -4 OFFCURVE",
-"509 7 CURVE",
-"488 78 LINE",
-"481 71 OFFCURVE",
-"472 67 OFFCURVE",
-"463 67 CURVE SMOOTH",
-"453 67 OFFCURVE",
-"449 76 OFFCURVE",
-"449 89 CURVE SMOOTH",
-"449 357 LINE",
-"340 357 LINE"
-);
-}
-);
-};
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
