@@ -262,7 +262,8 @@ t,
 /strokeshortcomb,
 /doubleprimemod,
 /primemod,
-/commaturnedmod
+/commaturnedmod,
+/tildecomb
 );
 classes = (
 {
@@ -36696,7 +36697,7 @@ unicode = 0335;
 },
 {
 glyphname = tildecomb;
-lastChange = "2015-08-27 00:37:24 +0000";
+lastChange = "2015-09-26 23:55:08 +0000";
 layers = (
 {
 anchors = (
@@ -36753,7 +36754,40 @@ width = 563;
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"226 558 OFFCURVE",
+"216 568 OFFCURVE",
+"203 568 CURVE SMOOTH",
+"182 568 OFFCURVE",
+"172 545 OFFCURVE",
+"171 495 CURVE",
+"115 497 LINE",
+"115 562 OFFCURVE",
+"139 623 OFFCURVE",
+"203 623 CURVE SMOOTH",
+"240 623 OFFCURVE",
+"262 603 OFFCURVE",
+"285 577 CURVE",
+"307 552 OFFCURVE",
+"317 540 OFFCURVE",
+"330 540 CURVE SMOOTH",
+"351 540 OFFCURVE",
+"363 567 OFFCURVE",
+"370 609 CURVE",
+"426 600 LINE",
+"418 543 OFFCURVE",
+"394 485 OFFCURVE",
+"330 485 CURVE SMOOTH",
+"293 485 OFFCURVE",
+"269 506 OFFCURVE",
+"246 533 CURVE"
+);
+}
+);
+width = 533;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -36765,7 +36799,7 @@ unicode = 0303;
 },
 {
 glyphname = commaturnedmod;
-lastChange = "2015-08-27 00:35:44 +0000";
+lastChange = "2015-09-26 23:54:00 +0000";
 layers = (
 {
 anchors = (
@@ -36785,9 +36819,21 @@ name = "Light Extended";
 width = 262;
 },
 {
+anchors = (
+{
+name = _bottom;
+position = "{127, 0}";
+}
+);
+components = (
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 253, -205}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+width = 293;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
