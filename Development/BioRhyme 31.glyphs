@@ -33532,7 +33532,7 @@ unicode = 2039;
 },
 {
 glyphname = guilsinglright;
-lastChange = "2015-09-18 19:17:05 +0000";
+lastChange = "2015-10-06 18:04:21 +0000";
 layers = (
 {
 components = (
@@ -33576,9 +33576,15 @@ nodes = (
 width = 385;
 },
 {
+components = (
+{
+name = guilsinglleft;
+transform = "{-1, 0, 0, -1, 259, 479}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+width = 259;
 }
 );
 unicode = 203A;
