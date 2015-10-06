@@ -128,7 +128,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 "H/backslash H",
 "\U00B7",
 "*",
-/backslash,
+"H/backslash H",
 "H,H.H;",
 "!",
 "\U00A59HhIifi9",
@@ -294,7 +294,8 @@ v,
 "/a.alt/u.alt u",
 "/De-cy",
 "/schwa e",
-.i
+.i,
+///backslash
 );
 classes = (
 {
@@ -31146,7 +31147,7 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2015-09-19 16:18:35 +0000";
+lastChange = "2015-10-06 16:45:05 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -31171,26 +31172,37 @@ paths = (
 {
 closed = 1;
 nodes = (
-"394 -79 LINE",
-"111 591 LINE",
-"23 591 LINE",
-"306 -79 LINE"
+"389 -79 LINE",
+"106 591 LINE",
+"18 591 LINE",
+"301 -79 LINE"
 );
 }
 );
-width = 410;
+width = 401;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"291 -79 LINE",
+"48 591 LINE",
+"23 591 LINE",
+"266 -79 LINE"
+);
+}
+);
+width = 310;
 }
 );
 unicode = 005C;
 },
 {
 glyphname = periodcentered;
-lastChange = "2015-09-26 23:48:52 +0000";
+lastChange = "2015-10-06 16:43:52 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -31241,16 +31253,22 @@ nodes = (
 width = 226;
 },
 {
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 228}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+width = 193;
 }
 );
 unicode = 00B7;
 },
 {
 glyphname = colon;
-lastChange = "2015-09-17 21:01:10 +0000";
+lastChange = "2015-10-06 16:43:33 +0000";
 layers = (
 {
 components = (
@@ -31281,9 +31299,18 @@ name = Bold;
 width = 226;
 },
 {
+components = (
+{
+name = period;
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 311}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+width = 193;
 }
 );
 unicode = 003A;
@@ -32170,7 +32197,7 @@ unicode = 003B;
 },
 {
 glyphname = slash;
-lastChange = "2015-09-19 16:18:05 +0000";
+lastChange = "2015-10-06 16:45:39 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -32207,6 +32234,17 @@ width = 410;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"332 561 LINE",
+"304 561 LINE",
+"71 -79 LINE",
+"99 -79 LINE"
+);
+}
+);
 width = 420;
 }
 );
