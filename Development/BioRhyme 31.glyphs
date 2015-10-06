@@ -311,7 +311,8 @@ v,
 "\U00AB\U00BB",
 "[",
 "]",
-"HH{H}H\012\012HH{H}H\012\012HH{H}H"
+"HH{H}H\012\012HH{H}H\012\012HH{H}H",
+"("
 );
 classes = (
 {
@@ -438,6 +439,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -3887,7 +3889,7 @@ unicode = 0122;
 {
 color = 5;
 glyphname = H;
-lastChange = "2015-10-06 19:21:54 +0000";
+lastChange = "2015-10-06 19:27:40 +0000";
 layers = (
 {
 anchors = (
@@ -3910,10 +3912,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"875 252 LINE",
-"875 275 LINE",
-"258 275 LINE",
-"258 252 LINE"
+"875 253 LINE",
+"875 276 LINE",
+"258 276 LINE",
+"258 253 LINE"
 );
 },
 {
@@ -3994,10 +3996,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"585 219 LINE",
-"585 302 LINE",
-"159 302 LINE",
-"159 219 LINE"
+"585 223 LINE",
+"585 306 LINE",
+"159 306 LINE",
+"159 223 LINE"
 );
 },
 {
@@ -4145,10 +4147,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"558 242 LINE",
-"558 265 LINE",
-"162 265 LINE",
-"162 242 LINE"
+"558 252 LINE",
+"558 275 LINE",
+"162 275 LINE",
+"162 252 LINE"
 );
 },
 {
@@ -32494,7 +32496,7 @@ unicode = 005F;
 },
 {
 glyphname = braceleft;
-lastChange = "2015-10-06 19:26:34 +0000";
+lastChange = "2015-10-06 19:27:05 +0000";
 layers = (
 {
 background = {
@@ -32762,7 +32764,7 @@ unicode = 007B;
 },
 {
 glyphname = braceright;
-lastChange = "2015-10-06 19:26:37 +0000";
+lastChange = "2015-10-06 19:27:09 +0000";
 layers = (
 {
 components = (
@@ -32974,7 +32976,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2015-09-17 21:28:02 +0000";
+lastChange = "2015-10-06 19:29:27 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -33031,6 +33033,27 @@ width = 329;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"109 393 OFFCURVE",
+"183 506 OFFCURVE",
+"251 580 CURVE",
+"240 594 LINE",
+"166 520 OFFCURVE",
+"84 401 OFFCURVE",
+"84 245 CURVE SMOOTH",
+"84 89 OFFCURVE",
+"166 -30 OFFCURVE",
+"240 -104 CURVE",
+"251 -90 LINE",
+"183 -16 OFFCURVE",
+"109 97 OFFCURVE",
+"109 245 CURVE SMOOTH"
+);
+}
+);
 width = 420;
 }
 );
