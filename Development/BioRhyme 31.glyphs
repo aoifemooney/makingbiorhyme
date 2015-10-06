@@ -23,7 +23,7 @@ x,
 /quotesinglbase,
 /quoteleft,
 "/quotereversed ,",
-/quotedblbase,
+"\"/quotedblbase",
 /quotedblright,
 /quotereversed,
 /quoteright,
@@ -33265,7 +33265,7 @@ unicode = 203A;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2015-09-17 21:08:07 +0000";
+lastChange = "2015-10-06 16:48:09 +0000";
 layers = (
 {
 components = (
@@ -33294,9 +33294,6 @@ width = 441;
 },
 {
 components = (
-{
-name = comma;
-},
 {
 name = comma;
 }
