@@ -11,7 +11,9 @@ N,
 Q,
 /Q.alt,
 R,
-/R.alt
+/R.alt,
+S,
+U
 );
 classes = (
 {
@@ -8764,7 +8766,7 @@ unicode = 0156;
 },
 {
 glyphname = S;
-lastChange = "2015-10-06 22:35:41 +0000";
+lastChange = "2015-10-06 23:55:44 +0000";
 layers = (
 {
 anchors = (
@@ -8836,12 +8838,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"132 0 LINE",
-"132 140 LINE",
-"117 140 LINE",
-"190 65 OFFCURVE",
-"354 -10 OFFCURVE",
-"526 -10 CURVE SMOOTH",
 "667 -10 OFFCURVE",
 "771 34 OFFCURVE",
 "771 124 CURVE SMOOTH",
@@ -8855,13 +8851,14 @@ nodes = (
 "227 507 OFFCURVE",
 "366 507 CURVE SMOOTH",
 "533 507 OFFCURVE",
-"639 444 OFFCURVE",
-"736 341 CURVE",
+"644 444 OFFCURVE",
+"730 344 CURVE",
+"736 346 LINE",
 "736 520 LINE",
 "713 520 LINE",
 "713 378 LINE",
 "727 378 LINE",
-"655 453 OFFCURVE",
+"660 453 OFFCURVE",
 "552 530 OFFCURVE",
 "368 530 CURVE SMOOTH",
 "206 530 OFFCURVE",
@@ -8877,9 +8874,16 @@ nodes = (
 "651 13 OFFCURVE",
 "527 13 CURVE SMOOTH",
 "378 13 OFFCURVE",
-"205 74 OFFCURVE",
-"109 178 CURVE",
-"109 0 LINE"
+"205 73 OFFCURVE",
+"115 177 CURVE",
+"109 175 LINE",
+"109 0 LINE",
+"132 0 LINE",
+"132 140 LINE",
+"117 140 LINE",
+"190 65 OFFCURVE",
+"354 -10 OFFCURVE",
+"526 -10 CURVE SMOOTH"
 );
 }
 );
@@ -9009,6 +9013,16 @@ nodes = (
 width = 575;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{274, -10}";
+},
+{
+name = top;
+position = "{254, 530}";
+}
+);
 background = {
 paths = (
 {
@@ -9587,7 +9601,7 @@ unicode = 0162;
 },
 {
 glyphname = U;
-lastChange = "2015-10-06 01:53:16 +0000";
+lastChange = "2015-10-06 23:57:29 +0000";
 layers = (
 {
 anchors = (
@@ -9683,15 +9697,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"407 497 LINE",
-"407 520 LINE",
-"14 520 LINE",
-"14 497 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "705 -10 OFFCURVE",
 "830 79 OFFCURVE",
 "830 254 CURVE SMOOTH",
@@ -9715,10 +9720,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"407 497 LINE",
+"407 520 LINE",
+"14 520 LINE",
+"14 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1009 497 LINE",
 "1009 520 LINE",
 "616 520 LINE",
-"616 497 LINE",
-"1009 497 LINE"
+"616 497 LINE"
 );
 }
 );
@@ -9737,6 +9751,10 @@ position = "{380, -9}";
 {
 name = top;
 position = "{371, 490}";
+},
+{
+name = topright;
+position = "{690, 490}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -9745,15 +9763,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"704 435 LINE",
-"704 520 LINE",
-"420 520 LINE",
-"420 435 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
+"509 -10 OFFCURVE",
+"611 79 OFFCURVE",
+"611 204 CURVE SMOOTH",
+"611 475 LINE",
 "513 475 LINE",
 "514 210 LINE SMOOTH",
 "514 131 OFFCURVE",
@@ -9767,26 +9780,49 @@ nodes = (
 "127 204 LINE SMOOTH",
 "127 79 OFFCURVE",
 "224 -10 OFFCURVE",
-"369 -10 CURVE SMOOTH",
-"509 -10 OFFCURVE",
-"611 79 OFFCURVE",
-"611 204 CURVE SMOOTH",
-"611 475 LINE"
+"369 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
+"318 435 LINE",
 "318 520 LINE",
 "34 520 LINE",
-"34 435 LINE",
-"318 435 LINE"
+"34 435 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"704 435 LINE",
+"704 520 LINE",
+"420 520 LINE",
+"420 435 LINE"
 );
 }
 );
 width = 738;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{353, -10}";
+},
+{
+name = ogonek;
+position = "{362, -9}";
+},
+{
+name = top;
+position = "{358, 490}";
+},
+{
+name = topright;
+position = "{674, 490}";
+}
+);
 background = {
 paths = (
 {
@@ -9860,15 +9896,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"272 497 LINE",
-"272 520 LINE",
-"30 520 LINE",
-"30 497 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "491 -10 OFFCURVE",
 "571 79 OFFCURVE",
 "571 194 CURVE SMOOTH",
@@ -9892,10 +9919,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"272 497 LINE",
+"272 520 LINE",
+"30 520 LINE",
+"30 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"675 497 LINE",
 "675 520 LINE",
 "441 520 LINE",
-"441 497 LINE",
-"675 497 LINE"
+"441 497 LINE"
 );
 }
 );
