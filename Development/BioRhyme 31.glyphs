@@ -6,7 +6,8 @@ DisplayStrings = (
 G,
 J,
 K,
-M
+M,
+N
 );
 classes = (
 {
@@ -5226,13 +5227,13 @@ unicode = 013B;
 {
 color = 5;
 glyphname = M;
-lastChange = "2015-10-06 23:42:46 +0000";
+lastChange = "2015-10-06 23:45:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{614, 0}";
+position = "{614, -20}";
 },
 {
 name = top;
@@ -5341,8 +5342,8 @@ nodes = (
 closed = 1;
 nodes = (
 "258 12 LINE",
-"258 507 LINE",
-"233 507 LINE",
+"258 520 LINE",
+"233 520 LINE",
 "233 12 LINE"
 );
 },
@@ -5378,8 +5379,8 @@ nodes = (
 closed = 1;
 nodes = (
 "994 12 LINE",
-"994 507 LINE",
-"969 507 LINE",
+"994 520 LINE",
+"969 520 LINE",
 "969 12 LINE"
 );
 },
@@ -5399,7 +5400,7 @@ width = 1227;
 anchors = (
 {
 name = bottom;
-position = "{438, -2}";
+position = "{424, -2}";
 },
 {
 name = top;
@@ -5494,13 +5495,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"411 -3 LINE",
 "446 -3 LINE",
 "434 -3 LINE",
 "455 73 LINE",
 "231 520 LINE",
 "129 520 LINE",
-"396 -3 LINE"
+"396 -3 LINE",
+"411 -3 LINE"
 );
 },
 {
@@ -5516,16 +5517,16 @@ nodes = (
 closed = 1;
 nodes = (
 "215 46 LINE",
-"215 472 LINE",
-"122 472 LINE",
+"215 520 LINE",
+"122 520 LINE",
 "122 46 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"220 435 LINE",
-"220 520 LINE",
+"215 435 LINE",
+"215 520 LINE",
 "34 520 LINE",
 "34 435 LINE"
 );
@@ -5555,8 +5556,8 @@ nodes = (
 closed = 1;
 nodes = (
 "725 46 LINE",
-"725 472 LINE",
-"627 472 LINE",
+"725 520 LINE",
+"627 520 LINE",
 "627 46 LINE"
 );
 },
@@ -5565,8 +5566,8 @@ closed = 1;
 nodes = (
 "813 435 LINE",
 "813 520 LINE",
-"622 520 LINE",
-"622 435 LINE"
+"627 520 LINE",
+"627 435 LINE"
 );
 }
 );
@@ -5576,7 +5577,7 @@ width = 847;
 anchors = (
 {
 name = bottom;
-position = "{406, -35}";
+position = "{406, -25}";
 },
 {
 name = top;
@@ -5746,7 +5747,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2015-10-06 13:22:48 +0000";
+lastChange = "2015-10-06 23:46:02 +0000";
 layers = (
 {
 anchors = (
@@ -5874,8 +5875,7 @@ name = top;
 position = "{380, 490}";
 }
 );
-layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
-name = Bold;
+background = {
 paths = (
 {
 closed = 1;
@@ -5926,6 +5926,9 @@ nodes = (
 );
 }
 );
+};
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = Bold;
 width = 724;
 },
 {
