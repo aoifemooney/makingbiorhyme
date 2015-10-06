@@ -293,7 +293,8 @@ v,
 "/a.alt/u.alt u",
 "/a.alt/u.alt u",
 "/De-cy",
-/schwa
+"/schwa e",
+.i
 );
 classes = (
 {
@@ -31630,7 +31631,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2015-09-26 23:47:55 +0000";
+lastChange = "2015-10-06 16:15:13 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -31639,18 +31640,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"92 44 OFFCURVE",
-"74 31 OFFCURVE",
-"74 12 CURVE",
-"74 -6 OFFCURVE",
-"92 -20 OFFCURVE",
-"123 -20 CURVE",
-"155 -20 OFFCURVE",
-"172 -6 OFFCURVE",
-"172 12 CURVE",
-"172 31 OFFCURVE",
-"155 44 OFFCURVE",
-"123 44 CURVE"
+"92 54 OFFCURVE",
+"74 41 OFFCURVE",
+"74 22 CURVE",
+"74 4 OFFCURVE",
+"92 -10 OFFCURVE",
+"123 -10 CURVE",
+"155 -10 OFFCURVE",
+"172 4 OFFCURVE",
+"172 22 CURVE",
+"172 41 OFFCURVE",
+"155 54 OFFCURVE",
+"123 54 CURVE"
 );
 }
 );
@@ -31663,18 +31664,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"73 99 OFFCURVE",
-"40 74 OFFCURVE",
-"40 38 CURVE",
-"40 5 OFFCURVE",
-"73 -20 OFFCURVE",
-"113 -20 CURVE",
-"156 -20 OFFCURVE",
-"186 5 OFFCURVE",
-"186 38 CURVE",
-"186 74 OFFCURVE",
-"156 99 OFFCURVE",
-"113 99 CURVE"
+"73 109 OFFCURVE",
+"40 84 OFFCURVE",
+"40 48 CURVE",
+"40 15 OFFCURVE",
+"73 -10 OFFCURVE",
+"113 -10 CURVE",
+"156 -10 OFFCURVE",
+"186 15 OFFCURVE",
+"186 48 CURVE",
+"186 84 OFFCURVE",
+"156 109 OFFCURVE",
+"113 109 CURVE"
 );
 }
 );
@@ -31683,7 +31684,26 @@ width = 226;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"118 -10 OFFCURVE",
+"135 4 OFFCURVE",
+"135 22 CURVE",
+"135 41 OFFCURVE",
+"118 55 OFFCURVE",
+"93 55 CURVE",
+"70 55 OFFCURVE",
+"52 41 OFFCURVE",
+"52 22 CURVE",
+"52 4 OFFCURVE",
+"70 -10 OFFCURVE",
+"93 -10 CURVE"
+);
+}
+);
+width = 187;
 }
 );
 unicode = 002E;
