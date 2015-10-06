@@ -292,7 +292,8 @@ v,
 /u.alt,
 "/a.alt/u.alt u",
 "/a.alt/u.alt u",
-"/De-cy"
+"/De-cy",
+/schwa
 );
 classes = (
 {
@@ -23052,7 +23053,7 @@ leftMetricsKey = "=f";
 },
 {
 glyphname = schwa;
-lastChange = "2015-09-24 20:04:50 +0000";
+lastChange = "2015-10-06 16:09:22 +0000";
 layers = (
 {
 components = (
@@ -23077,9 +23078,15 @@ name = Bold;
 width = 430;
 },
 {
+components = (
+{
+name = e;
+transform = "{-1, 0, 0, -1, 418, 357}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+width = 418;
 }
 );
 unicode = 0259;
@@ -37926,7 +37933,7 @@ unicode = 005E;
 {
 color = 0;
 glyphname = servicemark;
-lastChange = "2015-09-19 16:19:13 +0000";
+lastChange = "2015-10-06 16:09:18 +0000";
 layers = (
 {
 components = (
@@ -37963,12 +37970,12 @@ name = S;
 },
 {
 name = M;
-transform = "{1, 0, 0, 1, 420, 0}";
+transform = "{1, 0, 0, 1, 521, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 1282;
+width = 1335;
 }
 );
 unicode = 2120;
