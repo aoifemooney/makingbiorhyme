@@ -235,7 +235,7 @@ $0,
 /ogonekcomb,
 /eogonek/ogonekcomb,
 /ogonekcomb/eogonek,
-/A.alt,
+"H/A.alt AV",
 B,
 E,
 F,
@@ -585,7 +585,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2015-09-26 19:44:04 +0000";
+lastChange = "2015-10-06 14:47:48 +0000";
 layers = (
 {
 anchors = (
@@ -814,10 +814,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"269 0 LINE",
-"269 23 LINE",
-"0 23 LINE",
-"0 0 LINE"
+"249 0 LINE",
+"249 23 LINE",
+"20 23 LINE",
+"20 0 LINE"
 );
 },
 {
@@ -832,19 +832,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"712 0 LINE",
-"712 23 LINE",
-"444 23 LINE",
-"444 0 LINE"
+"692 0 LINE",
+"692 23 LINE",
+"464 23 LINE",
+"464 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"508 497 LINE",
-"508 520 LINE",
-"202 520 LINE",
-"202 497 LINE"
+"488 497 LINE",
+"488 520 LINE",
+"222 520 LINE",
+"222 497 LINE"
 );
 }
 );
@@ -856,7 +856,7 @@ unicode = 0041;
 {
 color = 6;
 glyphname = A.alt;
-lastChange = "2015-09-26 20:51:32 +0000";
+lastChange = "2015-10-06 14:50:36 +0000";
 layers = (
 {
 anchors = (
@@ -921,12 +921,13 @@ paths = (
 {
 closed = 1;
 nodes = (
+"494 530 LINE",
+"137 13 LINE",
 "166 13 LINE",
-"497 482 LINE",
+"497 489 LINE",
 "827 13 LINE",
 "856 13 LINE",
-"497 522 LINE",
-"137 13 LINE"
+"500 530 LINE"
 );
 },
 {
@@ -1031,7 +1032,7 @@ position = "{646, 10}";
 },
 {
 name = top;
-position = "{339, 490}";
+position = "{340, 530}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -1040,19 +1041,20 @@ paths = (
 {
 closed = 1;
 nodes = (
+"337 530 LINE",
+"102 13 LINE",
 "127 13 LINE",
-"338 472 LINE",
+"338 486 LINE",
 "549 13 LINE",
 "576 13 LINE",
-"339 522 LINE",
-"102 13 LINE"
+"343 530 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"695 0 LINE",
-"695 23 LINE",
+"675 0 LINE",
+"675 23 LINE",
 "428 23 LINE",
 "428 0 LINE"
 );
@@ -1062,8 +1064,8 @@ closed = 1;
 nodes = (
 "249 0 LINE",
 "249 23 LINE",
-"-18 23 LINE",
-"-18 0 LINE"
+"2 23 LINE",
+"2 0 LINE"
 );
 },
 {
