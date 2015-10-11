@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"11/two.001 11/seven.001 11011111211311411511611711811911*/backslash \U00B7:,!\U00A1#.?\U00BF\"';//_{H}[H](H)/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quotereversed/quoteright/quotesinglbase Phantom"
+"11/two.001 11/seven.001 11011111211311411511611711811911*/backslash \U00B7:,!\U00A1#.?\U00BF\"';//_{H}[H](H)/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quotereversed/quoteright/quotesinglbase Phantom\012nnznnznnsnnbn"
 );
 classes = (
 {
@@ -26538,7 +26538,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2015-10-06 14:40:36 +0000";
+lastChange = "2015-10-11 23:42:53 +0000";
 layers = (
 {
 anchors = (
@@ -26661,11 +26661,11 @@ width = 687;
 anchors = (
 {
 name = bottom;
-position = "{224, -10}";
+position = "{204, -10}";
 },
 {
 name = top;
-position = "{264, 367}";
+position = "{244, 367}";
 }
 );
 background = {
@@ -26673,49 +26673,49 @@ paths = (
 {
 closed = 1;
 nodes = (
-"454 261 LINE",
-"358 301 OFFCURVE",
-"237 354 OFFCURVE",
-"58 354 CURVE",
-"58 223 LINE",
+"434 261 LINE",
+"338 301 OFFCURVE",
+"217 354 OFFCURVE",
+"38 354 CURVE",
 "38 223 LINE",
-"38 376 LINE",
-"58 376 LINE SMOOTH",
-"249 376 OFFCURVE",
-"365 321 OFFCURVE",
-"460 280 CURVE"
+"18 223 LINE",
+"18 376 LINE",
+"38 376 LINE SMOOTH",
+"229 376 OFFCURVE",
+"345 321 OFFCURVE",
+"440 280 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"531 362 LINE",
-"466 150 OFFCURVE",
-"141 201 OFFCURVE",
-"41 -29 CURVE",
-"24 -18 LINE",
-"119 217 OFFCURVE",
-"447 167 OFFCURVE",
-"513 371 CURVE"
+"511 362 LINE",
+"446 150 OFFCURVE",
+"121 201 OFFCURVE",
+"21 -29 CURVE",
+"4 -18 LINE",
+"99 217 OFFCURVE",
+"427 167 OFFCURVE",
+"493 371 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"553 100 LINE",
-"542 20 OFFCURVE",
-"495 -31 OFFCURVE",
-"401 -31 CURVE SMOOTH",
-"320 -31 OFFCURVE",
-"205 15 OFFCURVE",
-"97 70 CURVE",
-"110 85 LINE",
-"216 32 OFFCURVE",
-"329 -8 OFFCURVE",
-"401 -8 CURVE SMOOTH",
-"469 -8 OFFCURVE",
-"523 26 OFFCURVE",
-"534 104 CURVE"
+"533 100 LINE",
+"522 20 OFFCURVE",
+"475 -31 OFFCURVE",
+"381 -31 CURVE SMOOTH",
+"300 -31 OFFCURVE",
+"185 15 OFFCURVE",
+"77 70 CURVE",
+"90 85 LINE",
+"196 32 OFFCURVE",
+"309 -8 OFFCURVE",
+"381 -8 CURVE SMOOTH",
+"449 -8 OFFCURVE",
+"503 26 OFFCURVE",
+"514 104 CURVE"
 );
 }
 );
@@ -26726,59 +26726,59 @@ paths = (
 {
 closed = 1;
 nodes = (
-"334 212 LINE",
-"298 242 OFFCURVE",
-"247 284 OFFCURVE",
-"143 284 CURVE",
-"143 196 LINE",
-"58 196 LINE",
-"58 367 LINE",
-"118 367 LINE SMOOTH",
-"249 367 OFFCURVE",
-"295 327 OFFCURVE",
-"365 261 CURVE"
+"314 212 LINE",
+"278 242 OFFCURVE",
+"227 284 OFFCURVE",
+"123 284 CURVE",
+"123 196 LINE",
+"38 196 LINE",
+"38 367 LINE",
+"98 367 LINE SMOOTH",
+"229 367 OFFCURVE",
+"275 327 OFFCURVE",
+"345 261 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"466 337 LINE",
-"438 229 OFFCURVE",
-"378 188 OFFCURVE",
-"294 149 CURVE SMOOTH",
-"215 112 OFFCURVE",
-"154 81 OFFCURVE",
-"121 -11 CURVE",
-"40 22 LINE",
-"82 142 OFFCURVE",
-"171 187 OFFCURVE",
-"243 220 CURVE SMOOTH",
-"325 257 OFFCURVE",
-"363 278 OFFCURVE",
-"383 368 CURVE"
+"446 337 LINE",
+"418 229 OFFCURVE",
+"358 188 OFFCURVE",
+"274 149 CURVE SMOOTH",
+"195 112 OFFCURVE",
+"134 81 OFFCURVE",
+"101 -11 CURVE",
+"20 22 LINE",
+"62 142 OFFCURVE",
+"151 187 OFFCURVE",
+"223 220 CURVE SMOOTH",
+"305 257 OFFCURVE",
+"343 278 OFFCURVE",
+"363 368 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"473 120 LINE",
-"462 35 OFFCURVE",
-"390 -11 OFFCURVE",
-"326 -11 CURVE SMOOTH",
-"250 -11 OFFCURVE",
-"207 30 OFFCURVE",
-"127 100 CURVE",
-"150 145 LINE",
-"231 92 OFFCURVE",
-"266 72 OFFCURVE",
-"311 72 CURVE SMOOTH",
-"349 72 OFFCURVE",
-"380 104 OFFCURVE",
-"389 144 CURVE"
+"453 120 LINE",
+"442 35 OFFCURVE",
+"370 -11 OFFCURVE",
+"306 -11 CURVE SMOOTH",
+"230 -11 OFFCURVE",
+"187 30 OFFCURVE",
+"107 100 CURVE",
+"130 145 LINE",
+"211 92 OFFCURVE",
+"246 72 OFFCURVE",
+"291 72 CURVE SMOOTH",
+"329 72 OFFCURVE",
+"360 104 OFFCURVE",
+"369 144 CURVE"
 );
 }
 );
-width = 508;
+width = 468;
 },
 {
 background = {
