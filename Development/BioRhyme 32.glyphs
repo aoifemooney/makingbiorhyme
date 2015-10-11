@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"11/two.001 11/seven.001 11011111211311411511611711811911*/backslash \U00B7:,!\U00A1#.?\U00BF\"';//_{H}[H](H)/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quotereversed/quoteright/quotesinglbase Phantom\012nnznnznnsnnbn"
+"11/two.001 11/seven.001 11011111211311411511611711811911*/backslash \U00B7:,!\U00A1#.?\U00BF\"';//_{H}[H](H)/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quotereversed/quoteright/quotesinglbase Phantom\012nnznnznnsnnbn",
+"vw\012vw"
 );
 classes = (
 {
@@ -31,7 +32,7 @@ code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u b
 name = ss02;
 },
 {
-code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub g by g.alt;\012sub section by section.001;\012\012\012";
+code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub g by g.alt;\012sub k by k.alt;\012sub z by z.alt;\012sub x by x.alt;\012sub section by section.001;\012\012\012";
 name = ss03;
 },
 {
@@ -18707,8 +18708,8 @@ unicode = 006B;
 },
 {
 color = 0;
-glyphname = k.001;
-lastChange = "2015-10-07 00:14:44 +0000";
+glyphname = k.alt;
+lastChange = "2015-10-11 23:45:16 +0000";
 layers = (
 {
 anchors = (
@@ -24623,7 +24624,7 @@ unicode = 016F;
 },
 {
 glyphname = v;
-lastChange = "2015-10-06 14:15:14 +0000";
+lastChange = "2015-10-11 23:46:01 +0000";
 layers = (
 {
 anchors = (
@@ -24776,7 +24777,7 @@ nodes = (
 "310 -3 LINE",
 "519 344 LINE",
 "409 344 LINE",
-"284 117 LINE",
+"284 112 LINE",
 "159 344 LINE",
 "44 344 LINE",
 "253 -3 LINE"
@@ -24827,7 +24828,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-10-06 14:17:52 +0000";
+lastChange = "2015-10-11 23:46:06 +0000";
 layers = (
 {
 anchors = (
@@ -25050,7 +25051,7 @@ nodes = (
 "292 -3 LINE",
 "490 344 LINE",
 "400 344 LINE",
-"269 116 LINE",
+"269 111 LINE",
 "155 341 LINE",
 "44 341 LINE",
 "240 -3 LINE"
@@ -25062,7 +25063,7 @@ nodes = (
 "551 -3 LINE",
 "725 344 LINE",
 "635 344 LINE",
-"529 116 LINE",
+"529 111 LINE",
 "409 310 LINE",
 "357 217 LINE",
 "499 -3 LINE"
@@ -25699,8 +25700,8 @@ unicode = 0078;
 },
 {
 color = 6;
-glyphname = x.001;
-lastChange = "2015-10-06 15:47:12 +0000";
+glyphname = x.alt;
+lastChange = "2015-10-11 23:44:58 +0000";
 layers = (
 {
 background = {
@@ -26891,8 +26892,8 @@ width = 457;
 unicode = 007A;
 },
 {
-glyphname = z.001;
-lastChange = "2015-09-26 21:42:12 +0000";
+glyphname = z.alt;
+lastChange = "2015-10-11 23:45:02 +0000";
 layers = (
 {
 anchors = (
@@ -27095,7 +27096,7 @@ width = 521;
 },
 {
 glyphname = zacute;
-lastChange = "2015-09-26 23:41:34 +0000";
+lastChange = "2015-10-11 23:43:23 +0000";
 layers = (
 {
 components = (
@@ -27118,12 +27119,12 @@ name = z;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 51, -54}";
+transform = "{1, 0, 0, 1, 31, -54}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 508;
+width = 468;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -27135,7 +27136,7 @@ unicode = 017A;
 },
 {
 glyphname = zcaron;
-lastChange = "2015-09-26 23:41:34 +0000";
+lastChange = "2015-10-11 23:43:23 +0000";
 layers = (
 {
 components = (
@@ -27158,12 +27159,12 @@ name = z;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 32, -44}";
+transform = "{1, 0, 0, 1, 12, -44}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 508;
+width = 468;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -27175,7 +27176,7 @@ unicode = 017E;
 },
 {
 glyphname = zdotaccent;
-lastChange = "2015-09-26 23:41:34 +0000";
+lastChange = "2015-10-11 23:43:23 +0000";
 layers = (
 {
 components = (
@@ -27198,12 +27199,12 @@ name = z;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 128, 10}";
+transform = "{1, 0, 0, 1, 108, 10}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 508;
+width = 468;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
