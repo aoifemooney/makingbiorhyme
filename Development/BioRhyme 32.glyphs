@@ -13,7 +13,8 @@ DisplayStrings = (
 /k.alt,
 "%",
 "@nO",
-"O&O"
+"O&oO",
+"\U00B6"
 );
 classes = (
 {
@@ -38311,7 +38312,7 @@ unicode = 0040;
 },
 {
 glyphname = ampersand;
-lastChange = "2015-10-12 01:52:34 +0000";
+lastChange = "2015-10-12 01:52:45 +0000";
 layers = (
 {
 background = {
@@ -38645,14 +38646,14 @@ nodes = (
 );
 }
 );
-width = 538;
+width = 543;
 }
 );
 unicode = 0026;
 },
 {
 glyphname = paragraph;
-lastChange = "2015-09-25 19:58:59 +0000";
+lastChange = "2015-10-12 01:55:19 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -38858,6 +38859,69 @@ width = 757;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"70 153 OFFCURVE",
+"123 188 OFFCURVE",
+"157 230 CURVE",
+"157 257 LINE",
+"118 209 OFFCURVE",
+"70 177 OFFCURVE",
+"6 176 CURVE SMOOTH",
+"-82 175 OFFCURVE",
+"-145 240 OFFCURVE",
+"-145 334 CURVE SMOOTH",
+"-145 435 OFFCURVE",
+"-75 508 OFFCURVE",
+"28 508 CURVE SMOOTH",
+"118 508 OFFCURVE",
+"190 462 OFFCURVE",
+"259 404 CURVE",
+"259 429 LINE",
+"197 481 OFFCURVE",
+"121 530 OFFCURVE",
+"28 530 CURVE SMOOTH",
+"-86 530 OFFCURVE",
+"-170 453 OFFCURVE",
+"-170 333 CURVE SMOOTH",
+"-170 227 OFFCURVE",
+"-95 153 OFFCURVE",
+"6 153 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"158 -161 LINE",
+"158 490 LINE",
+"134 500 LINE",
+"134 -161 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"203 -176 OFFCURVE",
+"268 -112 OFFCURVE",
+"268 3 CURVE SMOOTH",
+"268 520 LINE",
+"242 520 LINE",
+"242 -2 LINE SMOOTH",
+"242 -102 OFFCURVE",
+"186 -153 OFFCURVE",
+"110 -153 CURVE SMOOTH",
+"43 -153 OFFCURVE",
+"-10 -120 OFFCURVE",
+"-44 -93 CURVE",
+"-59 -113 LINE",
+"-21 -142 OFFCURVE",
+"36 -176 OFFCURVE",
+"110 -176 CURVE SMOOTH"
+);
+}
+);
 width = 420;
 }
 );
