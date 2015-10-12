@@ -4,7 +4,11 @@ DisplayStrings = (
 "vw\012vw",
 "v/x.alt nh",
 "/k.alt vwx/x.alt",
-"\U00B5punh"
+"\U00B5punh",
+/minus,
+"\U00D7",
+"+",
+"\U00B1"
 );
 classes = (
 {
@@ -36408,7 +36412,7 @@ unicode = 003C;
 },
 {
 glyphname = micro;
-lastChange = "2015-10-12 00:07:35 +0000";
+lastChange = "2015-10-12 00:08:02 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -36665,10 +36669,10 @@ closed = 1;
 nodes = (
 "149 -165 LINE",
 "149 -43 LINE",
-"149 -5 OFFCURVE",
-"144 34 OFFCURVE",
-"144 72 CURVE",
-"144 357 LINE",
+"149 9 OFFCURVE",
+"140 58 OFFCURVE",
+"140 96 CURVE",
+"140 357 LINE",
 "125 357 LINE",
 "125 -165 LINE"
 );
@@ -36743,7 +36747,7 @@ unicode = 00B5;
 },
 {
 glyphname = minus;
-lastChange = "2015-09-25 18:16:27 +0000";
+lastChange = "2015-10-12 00:08:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -36780,7 +36784,18 @@ width = 447;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"70 247 LINE",
+"70 224 LINE",
+"377 224 LINE",
+"377 247 LINE"
+);
+}
+);
+width = 447;
 }
 );
 unicode = 2212;
@@ -37235,7 +37250,7 @@ unicode = 0025;
 },
 {
 glyphname = plus;
-lastChange = "2015-09-25 18:21:52 +0000";
+lastChange = "2015-10-12 00:10:28 +0000";
 layers = (
 {
 background = {
@@ -37325,14 +37340,34 @@ width = 444;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"211 68 LINE",
+"236 68 LINE",
+"236 402 LINE",
+"211 402 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"60 247 LINE",
+"60 224 LINE",
+"387 224 LINE",
+"387 247 LINE"
+);
+}
+);
+width = 447;
 }
 );
 unicode = 002B;
 },
 {
 glyphname = plusminus;
-lastChange = "2015-09-25 18:31:53 +0000";
+lastChange = "2015-10-12 00:11:09 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -37405,6 +37440,35 @@ width = 447;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"211 188 LINE",
+"236 188 LINE",
+"236 442 LINE",
+"211 442 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"90 327 LINE",
+"90 304 LINE",
+"357 304 LINE",
+"357 327 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"70 247 LINE",
+"70 224 LINE",
+"567 224 LINE",
+"567 247 LINE"
+);
+}
+);
 width = 420;
 }
 );
