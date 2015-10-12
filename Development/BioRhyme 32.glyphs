@@ -9,7 +9,8 @@ DisplayStrings = (
 "\U00D7",
 "+",
 "\U00B1",
-"|"
+"|",
+/k.alt
 );
 classes = (
 {
@@ -18718,7 +18719,7 @@ unicode = 006B;
 {
 color = 0;
 glyphname = k.alt;
-lastChange = "2015-10-11 23:56:08 +0000";
+lastChange = "2015-10-12 00:40:43 +0000";
 layers = (
 {
 anchors = (
@@ -19126,8 +19127,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"427 348 LINE",
-"395 348 LINE",
+"417 348 LINE",
+"385 348 LINE",
 "142 112 LINE",
 "142 83 LINE"
 );
@@ -19163,7 +19164,7 @@ nodes = (
 closed = 1;
 nodes = (
 "442 6 LINE",
-"262 198 LINE",
+"255 206 LINE",
 "241 188 LINE",
 "412 6 LINE"
 );
@@ -19180,10 +19181,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"474 334 LINE",
-"474 357 LINE",
-"296 357 LINE",
-"296 334 LINE"
+"464 334 LINE",
+"464 357 LINE",
+"286 357 LINE",
+"286 334 LINE"
 );
 }
 );
@@ -36803,7 +36804,7 @@ unicode = 2212;
 },
 {
 glyphname = multiply;
-lastChange = "2015-09-25 19:05:09 +0000";
+lastChange = "2015-10-12 00:42:20 +0000";
 layers = (
 {
 background = {
@@ -36895,6 +36896,24 @@ nodes = (
 "41 129 LINE",
 "99 71 LINE"
 );
+},
+{
+closed = 1;
+nodes = (
+"575 43 LINE",
+"660 43 LINE",
+"660 427 LINE",
+"575 427 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"800 277 LINE",
+"436 277 LINE",
+"436 194 LINE",
+"800 194 LINE"
+);
 }
 );
 width = 421;
@@ -36902,7 +36921,27 @@ width = 421;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"99 362 LINE",
+"81 345 LINE",
+"318 109 LINE",
+"335 126 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 343 LINE",
+"316 359 LINE",
+"85 128 LINE",
+"101 111 LINE"
+);
+}
+);
+width = 447;
 }
 );
 unicode = 00D7;
