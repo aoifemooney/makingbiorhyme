@@ -42572,12 +42572,23 @@ unicode = 02BA;
 },
 {
 glyphname = primemod;
-lastChange = "2015-10-14 02:36:04 +0000";
+lastChange = "2015-10-14 02:38:13 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"90 328 LINE",
+"104 324 LINE",
+"190 548 LINE",
+"160 556 LINE"
+);
+}
+);
+width = 265;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -42602,14 +42613,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"85 358 LINE",
-"99 355 LINE",
-"155 549 LINE",
-"125 556 LINE"
+"90 358 LINE",
+"104 355 LINE",
+"160 549 LINE",
+"130 556 LINE"
 );
 }
 );
-width = 420;
+width = 235;
 }
 );
 unicode = 02B9;
