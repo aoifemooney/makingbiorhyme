@@ -28,7 +28,9 @@ a,
 "/dotaccentcomb i",
 /dotaccentcomb,
 /gravecomb,
-/acutecomb
+/acutecomb,
+/hungarumlautcomb,
+/circumflexcomb
 );
 classes = (
 {
@@ -40950,7 +40952,7 @@ unicode = 0301;
 },
 {
 glyphname = hungarumlautcomb;
-lastChange = "2015-09-26 20:15:30 +0000";
+lastChange = "2015-10-14 00:38:27 +0000";
 layers = (
 {
 anchors = (
@@ -41025,13 +41027,13 @@ nodes = (
 );
 }
 );
-width = 537;
+width = 510;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{213, 421}";
+position = "{211, 421}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -41040,35 +41042,61 @@ paths = (
 {
 closed = 1;
 nodes = (
-"158 696 LINE",
-"225 639 LINE",
-"94 495 LINE",
-"47 536 LINE"
+"156 696 LINE",
+"223 639 LINE",
+"92 495 LINE",
+"45 536 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"354 696 LINE",
-"421 639 LINE",
-"290 495 LINE",
-"243 536 LINE"
+"352 696 LINE",
+"419 639 LINE",
+"288 495 LINE",
+"241 536 LINE"
 );
 }
 );
-width = 420;
+width = 464;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{204, 391}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"372 674 LINE",
+"391 658 LINE",
+"262 512 LINE",
+"251 522 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 674 LINE",
+"195 658 LINE",
+"66 512 LINE",
+"55 522 LINE"
+);
+}
+);
+width = 446;
 }
 );
 unicode = 030B;
 },
 {
 glyphname = circumflexcomb;
-lastChange = "2015-09-27 00:01:25 +0000";
+lastChange = "2015-10-14 00:39:39 +0000";
 layers = (
 {
 anchors = (
@@ -41099,7 +41127,7 @@ width = 464;
 anchors = (
 {
 name = _top;
-position = "{232, 411}";
+position = "{212, 411}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -41108,21 +41136,41 @@ paths = (
 {
 closed = 1;
 nodes = (
-"231 561 LINE",
-"338 479 LINE",
-"369 507 LINE",
-"257 639 LINE",
-"207 639 LINE",
-"95 507 LINE",
-"126 479 LINE"
+"211 561 LINE",
+"318 479 LINE",
+"349 507 LINE",
+"237 639 LINE",
+"187 639 LINE",
+"75 507 LINE",
+"106 479 LINE"
 );
 }
 );
-width = 420;
+width = 400;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{232, 391}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"232 611 LINE",
+"353 492 LINE",
+"364 503 LINE",
+"242 639 LINE",
+"222 639 LINE",
+"100 503 LINE",
+"111 492 LINE"
+);
+}
+);
 width = 600;
 }
 );
