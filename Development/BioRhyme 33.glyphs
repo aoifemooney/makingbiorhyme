@@ -76,7 +76,8 @@ D/OE,
 "\U00B7/bullet hello",
 "\U00B7H/bullet H",
 "\U00B7/bullet H",
-"0\U00AC0/endash 0-="
+"0\U00AC0/endash 0-=",
+"X\U00A4o0"
 );
 classes = (
 {
@@ -34006,7 +34007,7 @@ unicode = 00A2;
 },
 {
 glyphname = currency;
-lastChange = "2015-10-15 22:05:35 +0000";
+lastChange = "2015-10-15 22:22:07 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -34021,6 +34022,51 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"375 10 OFFCURVE",
+"464 109 OFFCURVE",
+"464 235 CURVE",
+"464 361 OFFCURVE",
+"369 460 OFFCURVE",
+"261 460 CURVE SMOOTH",
+"147 460 OFFCURVE",
+"58 361 OFFCURVE",
+"58 235 CURVE",
+"58 109 OFFCURVE",
+"153 10 OFFCURVE",
+"261 10 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"163 34 OFFCURVE",
+"82 127 OFFCURVE",
+"82 235 CURVE",
+"82 343 OFFCURVE",
+"157 436 OFFCURVE",
+"261 436 CURVE SMOOTH",
+"359 436 OFFCURVE",
+"440 343 OFFCURVE",
+"440 235 CURVE",
+"440 127 OFFCURVE",
+"365 34 OFFCURVE",
+"261 34 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"411 386 LINE",
+"492 492 LINE",
+"473 507 LINE",
+"396 409 LINE"
+);
+}
+);
 width = 600;
 }
 );
