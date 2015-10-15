@@ -22,7 +22,6 @@ DisplayStrings = (
 "bah humbug!",
 "/Be-cy/De-cy/Zhe-cy/Ef-cy",
 "/dieresiscomb .i",
-"",
 a,
 /dieresiscomb,
 "/dotaccentcomb i",
@@ -40,12 +39,11 @@ a,
 w,
 W,
 "nigmatic\012schafflers?",
-"",
 "fr\U00EAre-jacques\012/f.alt rance!",
 "6/doubleprimemod 5/primemod",
 "6/doubleprimemod 5/primemod",
 "\U00C6",
-/OE
+D/OE
 );
 classes = (
 {
@@ -6301,7 +6299,7 @@ unicode = 00D5;
 },
 {
 glyphname = OE;
-lastChange = "2015-10-14 03:13:18 +0000";
+lastChange = "2015-10-15 01:17:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -6389,35 +6387,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"395 520 LINE",
-"232 520 OFFCURVE",
-"60 421 OFFCURVE",
-"60 260 CURVE",
-"60 99 OFFCURVE",
-"172 0 OFFCURVE",
-"335 0 CURVE",
-"556 0 LINE",
-"556 23 LINE",
-"335 23 LINE",
-"182 23 OFFCURVE",
-"85 116 OFFCURVE",
-"85 260 CURVE",
-"85 404 OFFCURVE",
-"242 497 OFFCURVE",
-"395 497 CURVE",
-"556 497 LINE",
-"556 520 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "768 0 LINE",
 "768 136 LINE",
 "744 136 LINE",
 "744 23 LINE",
-"332 23 LINE",
-"332 0 LINE"
+"402 23 LINE",
+"402 0 LINE"
 );
 },
 {
@@ -6456,6 +6431,29 @@ nodes = (
 "392 497 LINE",
 "743 497 LINE",
 "743 387 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"350 520 LINE",
+"177 520 OFFCURVE",
+"60 421 OFFCURVE",
+"60 260 CURVE",
+"60 99 OFFCURVE",
+"177 0 OFFCURVE",
+"350 0 CURVE",
+"586 0 LINE",
+"586 23 LINE",
+"350 23 LINE",
+"187 23 OFFCURVE",
+"85 116 OFFCURVE",
+"85 260 CURVE",
+"85 404 OFFCURVE",
+"187 497 OFFCURVE",
+"350 497 CURVE",
+"586 497 LINE",
+"586 520 LINE"
 );
 }
 );
