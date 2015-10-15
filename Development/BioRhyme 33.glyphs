@@ -61,7 +61,7 @@ D/OE,
 classes = (
 {
 automatic = 1;
-code = "A A.alt Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H Hbar I Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.alt R R.alt Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Germandbls T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent";
+code = "A A.alt Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H Hbar I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q Q.alt R R.alt S Germandbls T U Uacute Ucircumflex Udieresis Ugrave V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Be-cy De-cy Zhe-cy Ef-cy";
 name = Uppercase;
 }
 );
@@ -91,7 +91,7 @@ code = "#stylistic alternates\012sub ampersand by ampersand_alt1;\012sub f by f.
 name = ss03;
 },
 {
-code = "#numeric alternates\012sub two by two.001;\012sub seven by seven.001;\012";
+code = "#numeric alternates\012sub two by two.alt;\012sub seven by seven.alt;\012";
 name = ss04;
 }
 );
