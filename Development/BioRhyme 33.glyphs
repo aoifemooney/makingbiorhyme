@@ -51,7 +51,8 @@ D/OE,
 "\U00DF",
 "\U00DF/germandbls.001",
 /OE,
-"H\U00DEHPH"
+"H\U00DEHPH",
+"\U00DEIHP"
 );
 classes = (
 {
@@ -3949,7 +3950,7 @@ unicode = 0126;
 {
 color = 5;
 glyphname = I;
-lastChange = "2015-09-26 20:54:28 +0000";
+lastChange = "2015-10-15 01:33:17 +0000";
 layers = (
 {
 anchors = (
@@ -4003,15 +4004,15 @@ width = 521;
 anchors = (
 {
 name = bottom;
-position = "{159, 0}";
+position = "{179, 0}";
 },
 {
 name = ogonek;
-position = "{279, 0}";
+position = "{299, 0}";
 },
 {
 name = top;
-position = "{159, 520}";
+position = "{179, 520}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -4020,17 +4021,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"208 0 LINE",
-"208 472 LINE",
-"109 472 LINE",
-"109 0 LINE"
+"228 0 LINE",
+"228 472 LINE",
+"129 472 LINE",
+"129 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"283 0 LINE",
-"283 85 LINE",
+"323 0 LINE",
+"323 85 LINE",
 "34 85 LINE",
 "34 0 LINE"
 );
@@ -4038,14 +4039,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"283 435 LINE",
-"283 520 LINE",
+"323 435 LINE",
+"323 520 LINE",
 "34 520 LINE",
 "34 435 LINE"
 );
 }
 );
-width = 317;
+width = 357;
 },
 {
 anchors = (
@@ -6781,7 +6782,7 @@ unicode = 0050;
 },
 {
 glyphname = Thorn;
-lastChange = "2015-10-15 01:31:37 +0000";
+lastChange = "2015-10-15 01:35:14 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -6921,9 +6922,71 @@ nodes = (
 width = 532;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{292, 0}";
+},
+{
+name = top;
+position = "{292, 520}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"374 133 LINE SMOOTH",
+"488 133 OFFCURVE",
+"570 183 OFFCURVE",
+"570 272 CURVE SMOOTH",
+"570 357 OFFCURVE",
+"488 405 OFFCURVE",
+"374 405 CURVE SMOOTH",
+"194 405 LINE",
+"194 322 LINE",
+"369 322 LINE SMOOTH",
+"412 322 OFFCURVE",
+"466 313 OFFCURVE",
+"466 272 CURVE SMOOTH",
+"466 222 OFFCURVE",
+"409 215 OFFCURVE",
+"369 215 CURVE SMOOTH",
+"193 215 LINE",
+"193 132 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"327 0 LINE",
+"327 83 LINE",
+"34 83 LINE",
+"34 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 46 LINE",
+"226 475 LINE",
+"127 475 LINE",
+"127 46 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"327 437 LINE",
+"327 520 LINE",
+"34 520 LINE",
+"34 437 LINE"
+);
+}
+);
+width = 590;
 }
 );
 leftMetricsKey = "=I";
