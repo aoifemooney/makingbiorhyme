@@ -44,12 +44,14 @@ W,
 "6/doubleprimemod 5/primemod",
 "\U00C6",
 D/OE,
-"\U00DE",
+"\U00DEP",
 "\U00E6",
 /oe,
 "\U00FE",
 "\U00DF",
-"\U00DF/germandbls.001"
+"\U00DF/germandbls.001",
+/OE,
+"\U00DE"
 );
 classes = (
 {
@@ -6779,7 +6781,7 @@ unicode = 0050;
 },
 {
 glyphname = Thorn;
-lastChange = "2015-10-15 01:22:43 +0000";
+lastChange = "2015-10-15 01:28:29 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -6848,9 +6850,131 @@ nodes = (
 width = 852;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{272, 0}";
+},
+{
+name = top;
+position = "{272, 490}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"455 0 LINE",
+"455 23 LINE",
+"56 23 LINE",
+"56 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"455 0 LINE SMOOTH",
+"455 23 LINE SMOOTH",
+"56 23 LINE SMOOTH",
+"56 0 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"238 477 LINE SMOOTH",
+"238 13 LINE SMOOTH",
+"263 13 LINE SMOOTH",
+"263 477 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"56 490 LINE SMOOTH",
+"56 467 LINE SMOOTH",
+"455 467 LINE SMOOTH",
+"455 490 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"822 312 OFFCURVE",
+"764 357 OFFCURVE",
+"672 357 CURVE SMOOTH",
+"249 357 LINE",
+"249 334 LINE",
+"679 334 LINE SMOOTH",
+"745 334 OFFCURVE",
+"797 303 OFFCURVE",
+"797 245 CURVE",
+"797 187 OFFCURVE",
+"745 156 OFFCURVE",
+"679 156 CURVE SMOOTH",
+"249 156 LINE",
+"249 133 LINE",
+"672 133 LINE SMOOTH",
+"764 133 OFFCURVE",
+"822 178 OFFCURVE",
+"822 245 CURVE"
+);
+}
+);
+};
+components = (
+{
+name = I;
+transform = "{1, 0, 0, 1, -390, 0}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"293 0 LINE",
+"293 23 LINE",
+"30 23 LINE",
+"30 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 13 LINE",
+"167 507 LINE",
+"142 507 LINE",
+"142 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"502 184 OFFCURVE",
+"450 156 OFFCURVE",
+"368 156 CURVE SMOOTH",
+"150 156 LINE",
+"150 133 LINE",
+"368 133 LINE SMOOTH",
+"465 133 OFFCURVE",
+"527 168 OFFCURVE",
+"527 244 CURVE SMOOTH",
+"527 320 OFFCURVE",
+"465 357 OFFCURVE",
+"368 357 CURVE SMOOTH",
+"150 357 LINE",
+"150 334 LINE",
+"368 334 LINE SMOOTH",
+"450 334 OFFCURVE",
+"502 306 OFFCURVE",
+"502 245 CURVE SMOOTH"
+);
+}
+);
+width = 532;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
