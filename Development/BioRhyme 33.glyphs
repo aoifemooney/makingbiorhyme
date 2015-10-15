@@ -8871,7 +8871,7 @@ unicode = 0053;
 },
 {
 glyphname = Germandbls;
-lastChange = "2015-10-15 14:31:13 +0000";
+lastChange = "2015-10-15 14:34:53 +0000";
 layers = (
 {
 anchors = (
@@ -8951,9 +8951,60 @@ nodes = (
 width = 961;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{146, 0}";
+},
+{
+name = top;
+position = "{146, 557}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 420;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 0 LINE",
+"276 0 LINE",
+"276 83 LINE",
+"20 83 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"94 0 LINE",
+"191 0 LINE",
+"191 406 LINE SMOOTH",
+"191 441 OFFCURVE",
+"218 468 OFFCURVE",
+"264 468 CURVE SMOOTH",
+"303 468 OFFCURVE",
+"329 455 OFFCURVE",
+"365 436 CURVE",
+"400 515 LINE",
+"354 536 OFFCURVE",
+"313 555 OFFCURVE",
+"252 555 CURVE SMOOTH",
+"157 555 OFFCURVE",
+"94 497 OFFCURVE",
+"94 404 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 357 LINE",
+"20 357 LINE",
+"20 274 LINE",
+"300 274 LINE"
+);
+}
+);
+width = 320;
 },
 {
 anchors = (
