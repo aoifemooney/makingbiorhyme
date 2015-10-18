@@ -80,7 +80,7 @@ D/OE,
 /trademark,
 "HH/trademark HH/servicemark HHSM",
 "$/euro 09",
-"HSH$H/euro HCH\U00A30\U00A5"
+"HSH$H/euro 0HCH\U00A30\U00A5"
 );
 classes = (
 {
@@ -34529,12 +34529,67 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2015-10-18 18:24:44 +0000";
+lastChange = "2015-10-18 18:29:46 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"573 -11 OFFCURVE",
+"677 44 OFFCURVE",
+"750 114 CURVE",
+"734 131 LINE",
+"670 69 OFFCURVE",
+"564 12 OFFCURVE",
+"406 12 CURVE",
+"264 12 OFFCURVE",
+"115 81 OFFCURVE",
+"115 235 CURVE",
+"115 389 OFFCURVE",
+"269 457 OFFCURVE",
+"414 457 CURVE",
+"543 457 OFFCURVE",
+"648 418 OFFCURVE",
+"749 285 CURVE",
+"752 286 LINE",
+"752 470 LINE",
+"729 470 LINE",
+"729 321 LINE",
+"746 321 LINE",
+"676 418 OFFCURVE",
+"568 480 OFFCURVE",
+"414 480 CURVE",
+"261 480 OFFCURVE",
+"90 407 OFFCURVE",
+"90 235 CURVE",
+"90 63 OFFCURVE",
+"254 -11 OFFCURVE",
+"406 -11 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"626 166 LINE",
+"-25 166 LINE",
+"-25 188 LINE",
+"626 188 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"628 271 LINE",
+"-23 271 LINE",
+"-23 293 LINE",
+"628 293 LINE"
+);
+}
+);
+width = 858;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -34606,7 +34661,7 @@ unicode = 20AC;
 },
 {
 glyphname = sterling;
-lastChange = "2015-10-18 18:14:57 +0000";
+lastChange = "2015-10-18 18:29:50 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -34660,10 +34715,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"568 251 LINE",
-"47 251 LINE",
-"47 273 LINE",
-"568 273 LINE"
+"568 271 LINE",
+"47 271 LINE",
+"47 293 LINE",
+"568 293 LINE"
 );
 },
 {
