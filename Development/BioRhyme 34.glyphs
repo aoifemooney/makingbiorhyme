@@ -86,7 +86,8 @@ N,
 "\U00DE",
 /Germandbls,
 X,
-"\U00E6"
+"\U00E6",
+"\U00FE"
 );
 classes = (
 {
@@ -20652,7 +20653,7 @@ unicode = 0070;
 },
 {
 glyphname = thorn;
-lastChange = "2015-10-18 19:21:23 +0000";
+lastChange = "2015-10-18 19:21:50 +0000";
 layers = (
 {
 anchors = (
@@ -20706,21 +20707,21 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"355 -165 LINE",
+"355 -142 LINE",
+"-13 -142 LINE",
+"-13 -165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "-35 520 LINE",
 "-35 497 LINE",
 "147 497 LINE",
 "147 -151 LINE",
 "172 -151 LINE",
 "172 520 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-13 -165 LINE",
-"355 -165 LINE",
-"355 -142 LINE",
-"-13 -142 LINE"
 );
 }
 );
