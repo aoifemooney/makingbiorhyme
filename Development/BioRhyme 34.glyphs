@@ -79,7 +79,8 @@ D/OE,
 "/bullet $\U00A4",
 /trademark,
 "HH/trademark HH/servicemark HHSM",
-/euro
+"$/euro 09",
+"$/euro \U00A30\U00A5"
 );
 classes = (
 {
@@ -356,6 +357,9 @@ position = "{268, -10}";
 },
 {
 position = "{537, 555}";
+},
+{
+position = "{270, 480}";
 }
 );
 horizontalStems = (
@@ -34528,7 +34532,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2015-10-18 18:11:02 +0000";
+lastChange = "2015-10-18 18:15:09 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -34536,13 +34540,45 @@ name = "Light Extended";
 width = 600;
 },
 {
-components = (
-{
-name = C;
-}
-);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"415 -10 OFFCURVE",
+"478 31 OFFCURVE",
+"522 76 CURVE",
+"467 139 LINE",
+"432 103 OFFCURVE",
+"387 73 OFFCURVE",
+"322 73 CURVE SMOOTH",
+"228 73 OFFCURVE",
+"149 144 OFFCURVE",
+"149 243 CURVE SMOOTH",
+"149 348 OFFCURVE",
+"219 428 OFFCURVE",
+"311 428 CURVE SMOOTH",
+"388 428 OFFCURVE",
+"437 393 OFFCURVE",
+"471 327 CURVE",
+"529 331 LINE",
+"529 500 LINE",
+"435 500 LINE",
+"435 402 LINE",
+"482 388 LINE",
+"450 457 OFFCURVE",
+"379 510 OFFCURVE",
+"285 510 CURVE SMOOTH",
+"154 510 OFFCURVE",
+"40 399 OFFCURVE",
+"40 243 CURVE SMOOTH",
+"40 98 OFFCURVE",
+"171 -10 OFFCURVE",
+"318 -10 CURVE SMOOTH"
+);
+}
+);
 width = 562;
 },
 {
@@ -34555,7 +34591,7 @@ unicode = 20AC;
 },
 {
 glyphname = sterling;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 18:14:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
