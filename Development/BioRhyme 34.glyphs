@@ -80,7 +80,7 @@ D/OE,
 /trademark,
 "HH/trademark HH/servicemark HHSM",
 "$/euro 09",
-"HSH$H/euro HC0HCH\U00A30\U00A5"
+"HSH$H/euro 0HC0HCH\U00A30\U00A5"
 );
 classes = (
 {
@@ -279,7 +279,7 @@ angle = 90;
 position = "{268, -10}";
 },
 {
-position = "{479, 467}";
+position = "{483, 480}";
 }
 );
 horizontalStems = (
@@ -2174,7 +2174,7 @@ unicode = 0043;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 18:33:59 +0000";
 layers = (
 {
 components = (
@@ -2188,7 +2188,7 @@ transform = "{1, 0, 0, 1, 269, 0}";
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 858;
+width = 864;
 },
 {
 components = (
@@ -34529,7 +34529,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2015-10-18 18:33:28 +0000";
+lastChange = "2015-10-18 18:37:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -34609,9 +34609,9 @@ nodes = (
 "164 135 OFFCURVE",
 "164 234 CURVE SMOOTH",
 "164 339 OFFCURVE",
-"231 397 OFFCURVE",
-"304 397 CURVE SMOOTH",
-"371 397 OFFCURVE",
+"233 397 OFFCURVE",
+"309 397 CURVE SMOOTH",
+"381 397 OFFCURVE",
 "416 363 OFFCURVE",
 "451 317 CURVE",
 "504 321 LINE",
@@ -34620,9 +34620,9 @@ nodes = (
 "420 372 LINE",
 "467 358 LINE",
 "435 427 OFFCURVE",
-"374 480 OFFCURVE",
-"280 480 CURVE SMOOTH",
-"163 480 OFFCURVE",
+"376 480 OFFCURVE",
+"282 480 CURVE SMOOTH",
+"165 480 OFFCURVE",
 "55 386 OFFCURVE",
 "55 234 CURVE SMOOTH",
 "55 89 OFFCURVE",
@@ -34654,7 +34654,44 @@ width = 534;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"409 -11 OFFCURVE",
+"461 34 OFFCURVE",
+"504 80 CURVE",
+"489 96 LINE",
+"444 49 OFFCURVE",
+"393 12 OFFCURVE",
+"305 12 CURVE SMOOTH",
+"198 12 OFFCURVE",
+"105 111 OFFCURVE",
+"105 235 CURVE SMOOTH",
+"105 359 OFFCURVE",
+"194 457 OFFCURVE",
+"301 457 CURVE SMOOTH",
+"393 457 OFFCURVE",
+"454 414 OFFCURVE",
+"498 325 CURVE",
+"510 326 LINE",
+"511 470 LINE",
+"488 470 LINE",
+"487 359 LINE",
+"499 354 LINE",
+"470 423 OFFCURVE",
+"402 480 OFFCURVE",
+"301 480 CURVE SMOOTH",
+"186 480 OFFCURVE",
+"80 377 OFFCURVE",
+"80 235 CURVE SMOOTH",
+"80 93 OFFCURVE",
+"188 -11 OFFCURVE",
+"305 -11 CURVE SMOOTH"
+);
+}
+);
+width = 566;
 }
 );
 unicode = 20AC;
