@@ -10029,7 +10029,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2015-10-18 19:04:32 +0000";
+lastChange = "2015-10-18 19:05:40 +0000";
 layers = (
 {
 anchors = (
@@ -10284,27 +10284,17 @@ nodes = (
 width = 899;
 },
 {
+background = {
 anchors = (
 {
 name = top;
 position = "{462, 520}";
 }
 );
+};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
-{
-closed = 1;
-nodes = (
-"612 -10 LINE",
-"797 507 LINE",
-"770 507 LINE",
-"607 40 LINE",
-"369 507 LINE",
-"340 507 LINE",
-"604 -10 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -10324,6 +10314,18 @@ nodes = (
 "247 520 LINE",
 "20 520 LINE",
 "20 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"612 -10 LINE",
+"797 507 LINE",
+"770 507 LINE",
+"607 40 LINE",
+"369 507 LINE",
+"340 507 LINE",
+"604 -10 LINE"
 );
 },
 {
