@@ -10564,7 +10564,7 @@ unicode = 1E80;
 },
 {
 glyphname = X;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 19:10:36 +0000";
 layers = (
 {
 anchors = (
@@ -10887,6 +10887,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"630 0 LINE",
+"630 23 LINE",
+"394 23 LINE",
+"394 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "158 12 LINE",
 "335 240 LINE",
 "339 240 LINE",
@@ -10913,15 +10922,6 @@ nodes = (
 "630 520 LINE",
 "393 520 LINE SMOOTH",
 "393 497 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"630 0 LINE",
-"630 23 LINE",
-"394 23 LINE",
-"394 0 LINE"
 );
 }
 );
