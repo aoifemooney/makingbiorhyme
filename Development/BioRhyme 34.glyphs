@@ -78,7 +78,8 @@ D/OE,
 "X\U00A4o0",
 "/bullet $\U00A4",
 /trademark,
-"HH/trademark HH/servicemark HHSM"
+"HH/trademark HH/servicemark HHSM",
+/euro
 );
 classes = (
 {
@@ -34527,7 +34528,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2015-10-15 22:05:35 +0000";
+lastChange = "2015-10-18 18:11:02 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -34535,9 +34536,14 @@ name = "Light Extended";
 width = 600;
 },
 {
+components = (
+{
+name = C;
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+width = 562;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
