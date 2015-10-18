@@ -92,7 +92,8 @@ X,
 v,
 x,
 /x.alt,
-"/Be-cy"
+"/Be-cy",
+y
 );
 classes = (
 {
@@ -25856,7 +25857,7 @@ unicode = 00BA;
 },
 {
 glyphname = "Be-cy";
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 19:30:55 +0000";
 layers = (
 {
 background = {
@@ -26012,15 +26013,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"231 46 LINE",
-"231 472 LINE",
-"132 472 LINE",
-"132 46 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "198 274 LINE",
 "198 196 LINE",
 "386 196 LINE SMOOTH",
@@ -26044,19 +26036,21 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"39 432 LINE",
-"562 432 LINE",
-"562 520 LINE",
-"39 520 LINE"
+"470 432 LINE",
+"470 337 LINE",
+"563 337 LINE",
+"563 520 LINE",
+"39 520 LINE",
+"39 432 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"563 337 LINE",
-"563 520 LINE",
-"470 520 LINE",
-"470 337 LINE"
+"231 46 LINE",
+"231 472 LINE",
+"132 472 LINE",
+"132 46 LINE"
 );
 }
 );
