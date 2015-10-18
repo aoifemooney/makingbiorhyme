@@ -89,7 +89,8 @@ X,
 "\U00E6",
 "\U00FE",
 /germandbls.001,
-v
+v,
+x
 );
 classes = (
 {
@@ -23523,7 +23524,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 19:25:43 +0000";
 layers = (
 {
 anchors = (
@@ -23770,6 +23771,10 @@ width = 774;
 {
 anchors = (
 {
+name = bottom;
+position = "{392, 0}";
+},
+{
 name = top;
 position = "{384, 357}";
 }
@@ -23798,6 +23803,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"564 357 LINE",
+"564 334 LINE",
+"738 334 LINE",
+"738 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "262 -10 LINE",
 "465 348 LINE",
 "442 348 LINE",
@@ -23805,15 +23819,6 @@ nodes = (
 "109 348 LINE",
 "82 348 LINE",
 "256 -10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"564 357 LINE",
-"564 334 LINE",
-"738 334 LINE",
-"738 357 LINE"
 );
 },
 {
