@@ -85,7 +85,8 @@ M,
 N,
 "\U00DE",
 /Germandbls,
-X
+X,
+"\U00E6"
 );
 classes = (
 {
@@ -12880,9 +12881,23 @@ unicode = 00E3;
 },
 {
 glyphname = ae;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 19:16:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{579, -10}";
+},
+{
+name = ogonek;
+position = "{1110, 55}";
+},
+{
+name = top;
+position = "{574, 367}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -12958,8 +12973,8 @@ nodes = (
 "726 376 OFFCURVE",
 "587 306 OFFCURVE",
 "571 197 CURVE",
-"583 197 LINE",
-"583 297 OFFCURVE",
+"581 197 LINE",
+"581 297 OFFCURVE",
 "516 377 OFFCURVE",
 "374 377 CURVE SMOOTH",
 "277 377 OFFCURVE",
@@ -12970,9 +12985,8 @@ nodes = (
 "273 354 OFFCURVE",
 "374 354 CURVE SMOOTH",
 "509 354 OFFCURVE",
-"564 276 OFFCURVE",
-"564 197 CURVE SMOOTH",
-"564 180 LINE",
+"562 276 OFFCURVE",
+"562 197 CURVE SMOOTH",
 "562 167 LINE"
 );
 }
@@ -12983,15 +12997,15 @@ width = 1184;
 anchors = (
 {
 name = bottom;
-position = "{265, -20}";
+position = "{359, -10}";
 },
 {
 name = ogonek;
-position = "{449, 9}";
+position = "{658, 49}";
 },
 {
 name = top;
-position = "{224, 377}";
+position = "{354, 367}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -13069,8 +13083,8 @@ nodes = (
 "445 366 OFFCURVE",
 "364 320 OFFCURVE",
 "344 217 CURVE",
-"353 217 LINE",
-"353 333 OFFCURVE",
+"351 217 LINE",
+"351 333 OFFCURVE",
 "295 367 OFFCURVE",
 "219 367 CURVE SMOOTH",
 "163 367 OFFCURVE",
@@ -13081,9 +13095,8 @@ nodes = (
 "163 343 OFFCURVE",
 "219 343 CURVE SMOOTH",
 "285 343 OFFCURVE",
-"334 317 OFFCURVE",
-"334 207 CURVE SMOOTH",
-"334 187 LINE",
+"332 317 OFFCURVE",
+"332 207 CURVE SMOOTH",
 "332 177 LINE"
 );
 }
@@ -13094,15 +13107,15 @@ width = 704;
 anchors = (
 {
 name = bottom;
-position = "{144, -10}";
+position = "{349, -10}";
 },
 {
 name = ogonek;
-position = "{455, 11}";
+position = "{689, 55}";
 },
 {
 name = top;
-position = "{214, 367}";
+position = "{344, 367}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -14410,7 +14423,7 @@ width = 554;
 {
 color = 0;
 glyphname = eth;
-lastChange = "2015-10-15 21:13:26 +0000";
+lastChange = "2015-10-18 19:17:08 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -14428,16 +14441,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"633 224 LINE",
-"555 276 OFFCURVE",
-"439 315 OFFCURVE",
-"329 315 CURVE SMOOTH",
-"186 315 OFFCURVE",
-"70 255 OFFCURVE",
-"70 147 CURVE SMOOTH",
-"70 43 OFFCURVE",
-"194 -20 OFFCURVE",
-"341 -20 CURVE SMOOTH",
 "512 -20 OFFCURVE",
 "649 62 OFFCURVE",
 "649 224 CURVE SMOOTH",
@@ -14459,7 +14462,17 @@ nodes = (
 "326 292 CURVE SMOOTH",
 "445 292 OFFCURVE",
 "554 254 OFFCURVE",
-"633 199 CURVE"
+"633 199 CURVE",
+"633 224 LINE",
+"555 276 OFFCURVE",
+"439 315 OFFCURVE",
+"329 315 CURVE SMOOTH",
+"186 315 OFFCURVE",
+"70 255 OFFCURVE",
+"70 147 CURVE SMOOTH",
+"70 43 OFFCURVE",
+"194 -20 OFFCURVE",
+"341 -20 CURVE SMOOTH"
 );
 }
 );
@@ -14481,16 +14494,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"393 219 LINE",
-"351 274 OFFCURVE",
-"288 315 OFFCURVE",
-"202 315 CURVE SMOOTH",
-"107 315 OFFCURVE",
-"25 249 OFFCURVE",
-"25 145 CURVE SMOOTH",
-"25 45 OFFCURVE",
-"108 -20 OFFCURVE",
-"205 -20 CURVE SMOOTH",
 "321 -20 OFFCURVE",
 "409 72 OFFCURVE",
 "409 214 CURVE SMOOTH",
@@ -14512,7 +14515,17 @@ nodes = (
 "202 292 CURVE SMOOTH",
 "283 292 OFFCURVE",
 "350 252 OFFCURVE",
-"393 194 CURVE"
+"393 194 CURVE",
+"393 219 LINE",
+"351 274 OFFCURVE",
+"283 315 OFFCURVE",
+"202 315 CURVE SMOOTH",
+"107 315 OFFCURVE",
+"25 249 OFFCURVE",
+"25 145 CURVE SMOOTH",
+"25 45 OFFCURVE",
+"108 -20 OFFCURVE",
+"205 -20 CURVE SMOOTH"
 );
 }
 );
@@ -14522,6 +14535,15 @@ width = 444;
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
 paths = (
+{
+closed = 1;
+nodes = (
+"124 403 LINE",
+"181 361 LINE",
+"322 563 LINE",
+"266 606 LINE"
+);
+},
 {
 closed = 1;
 nodes = (
@@ -14557,15 +14579,6 @@ nodes = (
 "20 48 OFFCURVE",
 "102 -20 OFFCURVE",
 "218 -19 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"124 403 LINE",
-"181 361 LINE",
-"322 563 LINE",
-"266 606 LINE"
 );
 }
 );
@@ -19927,7 +19940,7 @@ unicode = 00F5;
 },
 {
 glyphname = oe;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-18 19:17:32 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -20141,7 +20154,7 @@ position = "{224, 367}";
 },
 {
 name = topright;
-position = "{593, 357}";
+position = "{390, 357}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
