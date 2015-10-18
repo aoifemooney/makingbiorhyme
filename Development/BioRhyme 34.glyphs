@@ -10029,7 +10029,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2015-10-18 19:05:40 +0000";
+lastChange = "2015-10-18 19:06:00 +0000";
 layers = (
 {
 anchors = (
@@ -10284,6 +10284,16 @@ nodes = (
 width = 899;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{459, 0}";
+},
+{
+name = top;
+position = "{459, 520}";
+}
+);
 background = {
 anchors = (
 {
