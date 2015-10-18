@@ -8891,7 +8891,7 @@ unicode = 0053;
 {
 color = 0;
 glyphname = Germandbls;
-lastChange = "2015-10-18 18:58:41 +0000";
+lastChange = "2015-10-18 18:59:15 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -8909,6 +8909,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"202 0 LINE",
 "227 0 LINE",
 "227 302 LINE SMOOTH",
 "227 429 OFFCURVE",
@@ -8923,8 +8924,7 @@ nodes = (
 "442 532 CURVE SMOOTH",
 "287 532 OFFCURVE",
 "202 443 OFFCURVE",
-"202 300 CURVE SMOOTH",
-"202 0 LINE"
+"202 300 CURVE SMOOTH"
 );
 },
 {
@@ -8967,10 +8967,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"20 0 LINE",
 "176 0 LINE",
 "176 83 LINE",
-"20 83 LINE"
+"20 83 LINE",
+"20 0 LINE"
 );
 },
 {
@@ -9029,12 +9029,6 @@ nodes = (
 width = 795;
 },
 {
-anchors = (
-{
-name = top;
-position = "{116, 357}";
-}
-);
 background = {
 paths = (
 {
@@ -9105,10 +9099,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"10 0 LINE",
 "105 0 LINE",
 "105 23 LINE",
-"10 23 LINE"
+"10 23 LINE",
+"10 0 LINE"
 );
 },
 {
