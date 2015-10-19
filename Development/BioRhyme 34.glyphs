@@ -34969,7 +34969,7 @@ unicode = 00A3;
 },
 {
 glyphname = yen;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-19 00:55:26 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -35041,10 +35041,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"576 300 LINE",
+"812 300 LINE",
+"812 322 LINE",
+"595 322 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"595 322 LINE",
 "91 322 LINE",
 "91 300 LINE",
-"812 300 LINE",
-"812 322 LINE"
+"576 300 LINE"
 );
 }
 );
@@ -35278,10 +35287,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"382 300 LINE",
+"542 300 LINE",
+"542 322 LINE",
+"397 322 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"397 322 LINE",
 "61 322 LINE",
 "61 300 LINE",
-"542 300 LINE",
-"542 322 LINE"
+"382 300 LINE"
 );
 }
 );
