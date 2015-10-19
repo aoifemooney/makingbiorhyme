@@ -42987,6 +42987,12 @@ weightClass = Light;
 widthClass = Expanded;
 },
 {
+customParameters = (
+{
+name = "New Parameter";
+value = "New Value";
+}
+);
 interpolationCustom = 100;
 interpolationWeight = 550;
 name = "Regular Expanded";
