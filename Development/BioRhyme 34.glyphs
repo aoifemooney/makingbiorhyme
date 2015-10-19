@@ -125,7 +125,8 @@ $,
 "\U00A9",
 /tildecomb,
 /commaturnedabovecomb,
-/commaaccentcomb
+/commaaccentcomb,
+h
 );
 classes = (
 {
@@ -16447,7 +16448,7 @@ rightMetricsKey = "=j";
 },
 {
 glyphname = h;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-19 01:19:00 +0000";
 layers = (
 {
 anchors = (
@@ -16500,28 +16501,21 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"215 0 LINE",
-"215 520 LINE",
-"190 520 LINE",
-"190 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"215 497 LINE",
-"215 520 LINE",
-"10 520 LINE",
-"10 497 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "891 0 LINE",
 "891 23 LINE",
 "523 23 LINE",
 "523 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 520 LINE",
+"10 497 LINE",
+"190 497 LINE",
+"190 0 LINE",
+"215 0 LINE",
+"215 520 LINE"
 );
 }
 );
@@ -16578,15 +16572,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"179 0 LINE",
-"179 520 LINE",
-"80 520 LINE",
-"80 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "538 0 LINE",
 "538 85 LINE",
 "309 85 LINE",
@@ -16596,10 +16581,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"172 435 LINE",
-"172 520 LINE",
 "5 520 LINE",
-"5 435 LINE"
+"5 435 LINE",
+"80 435 LINE",
+"80 0 LINE",
+"179 0 LINE",
+"179 520 LINE"
 );
 }
 );
@@ -16717,15 +16704,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"150 0 LINE",
-"150 520 LINE",
-"125 520 LINE",
-"125 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "525 0 LINE",
 "525 23 LINE",
 "345 23 LINE",
@@ -16735,10 +16713,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"150 497 LINE",
-"150 520 LINE",
 "35 520 LINE",
-"35 497 LINE"
+"35 497 LINE",
+"125 497 LINE",
+"125 0 LINE",
+"150 0 LINE",
+"150 520 LINE"
 );
 }
 );
