@@ -18062,7 +18062,7 @@ unicode = 006B;
 },
 {
 glyphname = k.alt;
-lastChange = "2015-10-20 22:20:48 +0000";
+lastChange = "2015-10-20 22:21:21 +0000";
 layers = (
 {
 anchors = (
@@ -18075,37 +18075,6 @@ name = top;
 position = "{441, 367}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"215 497 LINE",
-"215 520 LINE",
-"10 520 LINE",
-"10 497 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"702 6 LINE",
-"432 198 LINE",
-"406 188 LINE",
-"667 6 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"774 334 LINE",
-"774 357 LINE",
-"496 357 LINE",
-"496 334 LINE"
-);
-}
-);
-};
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -18143,6 +18112,33 @@ nodes = (
 "794 23 LINE",
 "508 23 LINE",
 "508 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"702 6 LINE",
+"432 198 LINE",
+"406 188 LINE",
+"667 6 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 497 LINE",
+"215 520 LINE",
+"10 520 LINE",
+"10 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"774 334 LINE",
+"774 357 LINE",
+"496 357 LINE",
+"496 334 LINE"
 );
 }
 );
