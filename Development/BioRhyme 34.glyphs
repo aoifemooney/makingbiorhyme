@@ -5677,7 +5677,7 @@ unicode = 004D;
 {
 color = 0;
 glyphname = N;
-lastChange = "2015-10-20 22:07:02 +0000";
+lastChange = "2015-10-20 22:09:14 +0000";
 layers = (
 {
 anchors = (
@@ -5709,6 +5709,18 @@ nodes = (
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
+{
+closed = 1;
+nodes = (
+"909 -5 LINE",
+"909 507 LINE",
+"884 507 LINE",
+"884 43 LINE",
+"262 520 LINE",
+"218 520 LINE",
+"904 -5 LINE"
+);
+},
 {
 closed = 1;
 nodes = (
@@ -5744,18 +5756,6 @@ nodes = (
 "704 520 LINE",
 "704 497 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"909 -5 LINE",
-"909 507 LINE",
-"884 507 LINE",
-"884 43 LINE",
-"262 520 LINE",
-"218 520 LINE",
-"904 -5 LINE"
-);
 }
 );
 width = 1100;
@@ -5777,13 +5777,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"576 -5 LINE",
 "625 -4 LINE",
 "625 507 LINE",
-"528 507 LINE",
-"528 174 LINE",
-"242 520 LINE",
-"106 520 LINE"
+"535 507 LINE",
+"535 169 LINE",
+"222 520 LINE",
+"98 520 LINE",
+"576 -5 LINE"
 );
 },
 {
@@ -5791,8 +5791,8 @@ closed = 1;
 nodes = (
 "318 0 LINE",
 "318 83 LINE",
-"34 83 LINE",
-"34 0 LINE"
+"36 83 LINE",
+"36 0 LINE"
 );
 },
 {
@@ -5800,8 +5800,8 @@ closed = 1;
 nodes = (
 "222 12 LINE",
 "222 520 LINE",
-"125 520 LINE",
-"125 12 LINE"
+"127 520 LINE",
+"127 12 LINE"
 );
 },
 {
@@ -5809,8 +5809,8 @@ closed = 1;
 nodes = (
 "222 437 LINE",
 "222 520 LINE",
-"34 520 LINE",
-"34 437 LINE"
+"36 520 LINE",
+"36 437 LINE"
 );
 },
 {
@@ -5909,13 +5909,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"577 -5 LINE",
 "582 -5 LINE",
 "582 507 LINE",
 "557 507 LINE",
 "557 57 LINE",
 "168 520 LINE",
-"133 520 LINE"
+"133 520 LINE",
+"577 -5 LINE"
 );
 },
 {
