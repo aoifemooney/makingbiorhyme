@@ -131,7 +131,8 @@ h,
 8,
 ":",
 .,
-/ellipsis
+/ellipsis,
+"("
 );
 classes = (
 {
@@ -31694,7 +31695,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2015-10-15 21:08:50 +0000";
+lastChange = "2015-10-20 22:29:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -31703,9 +31704,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"85 69 OFFCURVE",
-"235 -44 OFFCURVE",
-"319 -89 CURVE",
 "327 -70 LINE",
 "254 -26 OFFCURVE",
 "110 77 OFFCURVE",
@@ -31716,7 +31714,10 @@ nodes = (
 "319 619 LINE",
 "235 574 OFFCURVE",
 "85 461 OFFCURVE",
-"85 265 CURVE"
+"85 265 CURVE",
+"85 69 OFFCURVE",
+"235 -44 OFFCURVE",
+"319 -89 CURVE"
 );
 }
 );
@@ -31729,9 +31730,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"35 79 OFFCURVE",
-"165 -39 OFFCURVE",
-"259 -89 CURVE",
 "282 -55 LINE",
 "234 -11 OFFCURVE",
 "130 97 OFFCURVE",
@@ -31742,7 +31740,10 @@ nodes = (
 "259 619 LINE",
 "155 559 OFFCURVE",
 "35 451 OFFCURVE",
-"35 265 CURVE"
+"35 265 CURVE",
+"35 79 OFFCURVE",
+"165 -39 OFFCURVE",
+"259 -89 CURVE"
 );
 }
 );
@@ -31755,6 +31756,10 @@ paths = (
 {
 closed = 1;
 nodes = (
+"232 -70 LINE",
+"164 4 OFFCURVE",
+"90 117 OFFCURVE",
+"90 265 CURVE SMOOTH",
 "90 413 OFFCURVE",
 "164 526 OFFCURVE",
 "232 600 CURVE",
@@ -31764,11 +31769,7 @@ nodes = (
 "65 265 CURVE SMOOTH",
 "65 109 OFFCURVE",
 "147 -10 OFFCURVE",
-"221 -84 CURVE",
-"232 -70 LINE",
-"164 4 OFFCURVE",
-"90 117 OFFCURVE",
-"90 265 CURVE SMOOTH"
+"221 -84 CURVE"
 );
 }
 );
