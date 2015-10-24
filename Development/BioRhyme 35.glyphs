@@ -180,7 +180,10 @@ R,
 T,
 U,
 V,
-Y
+Y,
+/d.alt,
+/f.alt,
+/idotless
 );
 classes = (
 {
@@ -14112,7 +14115,7 @@ unicode = 0064;
 },
 {
 glyphname = d.alt;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:40:24 +0000";
 layers = (
 {
 anchors = (
@@ -14283,8 +14286,8 @@ closed = 1;
 nodes = (
 "429 437 LINE",
 "429 520 LINE",
-"240 520 LINE",
-"240 437 LINE"
+"285 520 LINE",
+"285 437 LINE"
 );
 }
 );
@@ -15389,7 +15392,7 @@ unicode = 0066;
 },
 {
 glyphname = f.alt;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:40:49 +0000";
 layers = (
 {
 anchors = (
@@ -15548,19 +15551,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"20 357 LINE",
-"20 274 LINE",
-"335 274 LINE",
-"335 357 LINE"
+"54 357 LINE",
+"54 274 LINE",
+"292 274 LINE",
+"292 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"20 0 LINE",
-"341 0 LINE",
-"341 83 LINE",
-"20 83 LINE"
+"54 0 LINE",
+"298 0 LINE",
+"298 83 LINE",
+"54 83 LINE"
 );
 }
 );
@@ -16948,7 +16951,7 @@ unicode = 0069;
 },
 {
 glyphname = idotless;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:41:05 +0000";
 layers = (
 {
 anchors = (
@@ -17028,10 +17031,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"269 0 LINE",
-"269 85 LINE",
-"20 85 LINE",
-"20 0 LINE"
+"249 0 LINE",
+"249 85 LINE",
+"40 85 LINE",
+"40 0 LINE"
 );
 },
 {
@@ -17039,8 +17042,8 @@ closed = 1;
 nodes = (
 "192 272 LINE",
 "192 357 LINE",
-"20 357 LINE",
-"20 272 LINE"
+"40 357 LINE",
+"40 272 LINE"
 );
 }
 );
@@ -18111,7 +18114,7 @@ unicode = 006B;
 },
 {
 glyphname = k.alt;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:42:37 +0000";
 layers = (
 {
 anchors = (
@@ -18291,19 +18294,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"483 295 LINE",
-"353 295 LINE",
-"154 177 LINE",
+"463 295 LINE",
+"358 295 LINE",
+"154 167 LINE",
 "160 95 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"244 0 LINE",
-"244 84 LINE",
-"5 84 LINE",
-"5 0 LINE"
+"234 0 LINE",
+"234 84 LINE",
+"25 84 LINE",
+"25 0 LINE"
 );
 },
 {
@@ -18318,8 +18321,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"516 0 LINE",
-"516 83 LINE",
+"496 0 LINE",
+"496 83 LINE",
 "304 83 LINE",
 "304 0 LINE"
 );
@@ -18327,10 +18330,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"493 63 LINE",
+"473 63 LINE",
 "302 235 LINE",
 "237 186 LINE",
-"375 63 LINE"
+"355 63 LINE"
 );
 },
 {
@@ -18338,15 +18341,15 @@ closed = 1;
 nodes = (
 "172 437 LINE",
 "172 520 LINE",
-"5 520 LINE",
-"5 437 LINE"
+"25 520 LINE",
+"25 437 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"496 274 LINE",
-"496 357 LINE",
+"476 274 LINE",
+"476 357 LINE",
 "284 357 LINE",
 "284 274 LINE"
 );
@@ -20144,7 +20147,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2015-10-24 18:16:22 +0000";
+lastChange = "2015-10-24 18:43:07 +0000";
 layers = (
 {
 anchors = (
@@ -20404,8 +20407,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"234 -165 LINE",
-"234 -82 LINE",
+"239 -165 LINE",
+"239 -82 LINE",
 "25 -82 LINE",
 "25 -165 LINE"
 );
@@ -20538,7 +20541,7 @@ unicode = 0070;
 },
 {
 glyphname = thorn;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:43:01 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -20694,17 +20697,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"249 -165 LINE",
-"249 -82 LINE",
-"0 -82 LINE",
-"0 -165 LINE"
+"234 -165 LINE",
+"234 -82 LINE",
+"20 -82 LINE",
+"20 -165 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"0 520 LINE",
-"0 435 LINE",
+"20 520 LINE",
+"20 435 LINE",
 "75 435 LINE",
 "75 -165 LINE",
 "174 -165 LINE",
@@ -20721,7 +20724,7 @@ unicode = 00FE;
 },
 {
 glyphname = q;
-lastChange = "2015-10-24 18:17:44 +0000";
+lastChange = "2015-10-24 18:43:14 +0000";
 layers = (
 {
 anchors = (
@@ -20948,8 +20951,8 @@ closed = 1;
 nodes = (
 "474 -165 LINE",
 "474 -82 LINE",
-"265 -82 LINE",
-"265 -165 LINE"
+"260 -82 LINE",
+"260 -165 LINE"
 );
 },
 {
@@ -21078,7 +21081,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2015-10-24 18:17:52 +0000";
+lastChange = "2015-10-24 18:43:27 +0000";
 layers = (
 {
 anchors = (
@@ -21159,11 +21162,11 @@ closed = 1;
 nodes = (
 "212 226 OFFCURVE",
 "270 268 OFFCURVE",
-"325 268 CURVE",
-"325 194 LINE",
-"418 194 LINE",
-"418 366 LINE",
-"372 366 LINE SMOOTH",
+"305 268 CURVE",
+"305 194 LINE",
+"398 194 LINE",
+"398 366 LINE",
+"352 366 LINE SMOOTH",
 "287 366 OFFCURVE",
 "212 307 OFFCURVE",
 "158 229 CURVE",
