@@ -169,7 +169,10 @@ D,
 E,
 "\U00D0",
 H,
-F
+F,
+I,
+J,
+K
 );
 classes = (
 {
@@ -3074,7 +3077,7 @@ unicode = 00C8;
 },
 {
 glyphname = F;
-lastChange = "2015-10-24 18:29:17 +0000";
+lastChange = "2015-10-24 18:29:52 +0000";
 layers = (
 {
 anchors = (
@@ -3224,19 +3227,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"577 347 LINE",
+"577 357 LINE",
 "577 520 LINE",
 "57 520 LINE",
 "57 432 LINE",
 "484 432 LINE",
-"484 347 LINE"
+"484 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"297 0 LINE",
-"297 86 LINE",
+"300 0 LINE",
+"300 86 LINE",
 "57 86 LINE",
 "57 0 LINE"
 );
@@ -3636,7 +3639,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:30:27 +0000";
 layers = (
 {
 anchors = (
@@ -3752,10 +3755,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"317 0 LINE",
-"317 83 LINE",
-"34 83 LINE",
-"34 0 LINE"
+"295 0 LINE",
+"295 83 LINE",
+"57 83 LINE",
+"57 0 LINE"
 );
 },
 {
@@ -3770,19 +3773,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"317 437 LINE",
-"317 520 LINE",
-"34 520 LINE",
-"34 437 LINE"
+"295 437 LINE",
+"295 520 LINE",
+"57 520 LINE",
+"57 437 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"709 0 LINE",
-"709 83 LINE",
-"425 83 LINE",
-"425 0 LINE"
+"686 0 LINE",
+"686 83 LINE",
+"447 83 LINE",
+"447 0 LINE"
 );
 },
 {
@@ -3797,10 +3800,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"709 437 LINE",
-"709 520 LINE",
-"425 520 LINE",
-"425 437 LINE"
+"686 437 LINE",
+"686 520 LINE",
+"447 520 LINE",
+"447 437 LINE"
 );
 }
 );
@@ -4250,7 +4253,7 @@ unicode = 0126;
 },
 {
 glyphname = I;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:30:35 +0000";
 layers = (
 {
 anchors = (
@@ -4330,19 +4333,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"323 0 LINE",
-"323 85 LINE",
-"34 85 LINE",
-"34 0 LINE"
+"303 0 LINE",
+"303 85 LINE",
+"54 85 LINE",
+"54 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"323 435 LINE",
-"323 520 LINE",
-"34 520 LINE",
-"34 435 LINE"
+"303 435 LINE",
+"303 520 LINE",
+"54 520 LINE",
+"54 435 LINE"
 );
 }
 );
@@ -4599,7 +4602,7 @@ unicode = 00CC;
 },
 {
 glyphname = J;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:31:27 +0000";
 layers = (
 {
 anchors = (
@@ -4699,31 +4702,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"282 -10 OFFCURVE",
+"292 -10 OFFCURVE",
 "362 62 OFFCURVE",
 "362 177 CURVE SMOOTH",
 "362 475 LINE",
 "264 475 LINE",
 "265 183 LINE SMOOTH",
 "265 114 OFFCURVE",
-"227 79 OFFCURVE",
-"177 77 CURVE SMOOTH",
-"124 75 OFFCURVE",
-"77 116 OFFCURVE",
-"54 141 CURVE",
-"0 67 LINE",
-"33 33 OFFCURVE",
-"95 -10 OFFCURVE",
-"182 -10 CURVE SMOOTH"
+"237 79 OFFCURVE",
+"192 77 CURVE SMOOTH",
+"144 75 OFFCURVE",
+"107 116 OFFCURVE",
+"84 141 CURVE",
+"30 67 LINE",
+"63 33 OFFCURVE",
+"115 -10 OFFCURVE",
+"192 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"465 435 LINE",
-"465 520 LINE",
-"121 520 LINE",
-"121 435 LINE"
+"432 435 LINE",
+"432 520 LINE",
+"141 520 LINE",
+"141 435 LINE"
 );
 }
 );
@@ -4782,7 +4785,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:32:22 +0000";
 layers = (
 {
 anchors = (
@@ -4881,8 +4884,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"624 454 LINE",
-"496 454 LINE",
+"604 454 LINE",
+"481 454 LINE",
 "168 182 LINE",
 "169 86 LINE"
 );
@@ -4890,10 +4893,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"317 0 LINE",
-"317 86 LINE",
-"34 86 LINE",
-"34 0 LINE"
+"295 0 LINE",
+"295 86 LINE",
+"57 86 LINE",
+"57 0 LINE"
 );
 },
 {
@@ -4908,8 +4911,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"689 0 LINE",
-"689 86 LINE",
+"649 0 LINE",
+"649 86 LINE",
 "405 86 LINE",
 "405 0 LINE"
 );
@@ -4917,26 +4920,26 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"634 61 LINE",
+"614 61 LINE",
 "389 326 LINE",
 "314 276 LINE",
-"508 61 LINE"
+"488 61 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"317 435 LINE",
-"317 520 LINE",
-"34 520 LINE",
-"34 435 LINE"
+"295 435 LINE",
+"295 520 LINE",
+"57 520 LINE",
+"57 435 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"679 435 LINE",
-"679 520 LINE",
+"639 435 LINE",
+"639 520 LINE",
 "395 520 LINE",
 "395 435 LINE"
 );
