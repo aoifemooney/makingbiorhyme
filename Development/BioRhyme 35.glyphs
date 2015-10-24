@@ -183,7 +183,10 @@ V,
 Y,
 /d.alt,
 /f.alt,
-/idotless
+/idotless,
+/t.alt,
+/u.alt,
+/a.alt
 );
 classes = (
 {
@@ -11961,7 +11964,7 @@ unicode = 0061;
 },
 {
 glyphname = a.alt;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:45:16 +0000";
 layers = (
 {
 anchors = (
@@ -12127,8 +12130,8 @@ nodes = (
 "256 283 OFFCURVE",
 "297 266 OFFCURVE",
 "297 225 CURVE SMOOTH",
-"297 72 LINE SMOOTH",
-"297 17 OFFCURVE",
+"297 82 LINE SMOOTH",
+"297 27 OFFCURVE",
 "332 -20 OFFCURVE",
 "394 -20 CURVE SMOOTH"
 );
@@ -14115,7 +14118,7 @@ unicode = 0064;
 },
 {
 glyphname = d.alt;
-lastChange = "2015-10-24 18:40:24 +0000";
+lastChange = "2015-10-24 18:45:07 +0000";
 layers = (
 {
 anchors = (
@@ -14275,8 +14278,8 @@ nodes = (
 "439 81 CURVE SMOOTH",
 "439 520 LINE",
 "340 520 LINE",
-"340 82 LINE SMOOTH",
-"340 27 OFFCURVE",
+"340 92 LINE SMOOTH",
+"340 37 OFFCURVE",
 "380 -10 OFFCURVE",
 "437 -10 CURVE SMOOTH"
 );
@@ -22095,7 +22098,7 @@ unicode = 0074;
 },
 {
 glyphname = t.alt;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:44:28 +0000";
 layers = (
 {
 anchors = (
@@ -22219,20 +22222,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"277 357 LINE",
-"0 357 LINE",
-"0 274 LINE",
-"277 274 LINE"
+"257 357 LINE",
+"20 357 LINE",
+"20 274 LINE",
+"257 274 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"279 105 LINE",
-"252 87 OFFCURVE",
-"227 78 OFFCURVE",
-"198 78 CURVE SMOOTH",
-"166 78 OFFCURVE",
+"259 101 LINE",
+"238 86 OFFCURVE",
+"220 78 OFFCURVE",
+"196 78 CURVE SMOOTH",
+"171 78 OFFCURVE",
 "139 98 OFFCURVE",
 "139 155 CURVE SMOOTH",
 "139 212 OFFCURVE",
@@ -22248,10 +22251,10 @@ nodes = (
 "40 140 CURVE SMOOTH",
 "40 39 OFFCURVE",
 "102 -10 OFFCURVE",
-"189 -10 CURVE SMOOTH",
-"248 -10 OFFCURVE",
-"284 9 OFFCURVE",
-"312 28 CURVE"
+"179 -10 CURVE SMOOTH",
+"228 -10 OFFCURVE",
+"264 9 OFFCURVE",
+"292 28 CURVE"
 );
 }
 );
@@ -22655,7 +22658,7 @@ unicode = 0075;
 },
 {
 glyphname = u.alt;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:44:56 +0000";
 layers = (
 {
 anchors = (
@@ -22865,8 +22868,8 @@ closed = 1;
 nodes = (
 "169 274 LINE",
 "169 357 LINE",
-"0 357 LINE",
-"0 274 LINE"
+"15 357 LINE",
+"15 274 LINE"
 );
 },
 {
@@ -22886,8 +22889,8 @@ nodes = (
 "440 81 CURVE SMOOTH",
 "440 357 LINE",
 "342 357 LINE",
-"342 82 LINE SMOOTH",
-"342 27 OFFCURVE",
+"342 92 LINE SMOOTH",
+"342 37 OFFCURVE",
 "377 -10 OFFCURVE",
 "439 -10 CURVE SMOOTH"
 );
@@ -22897,8 +22900,8 @@ closed = 1;
 nodes = (
 "427 274 LINE",
 "427 357 LINE",
-"282 357 LINE",
-"282 274 LINE"
+"287 357 LINE",
+"287 274 LINE"
 );
 }
 );
