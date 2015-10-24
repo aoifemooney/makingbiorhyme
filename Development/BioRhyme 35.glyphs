@@ -146,7 +146,10 @@ h,
 "\U00BA",
 "\U00AA",
 n,
-i
+i,
+b,
+adh,
+f
 );
 classes = (
 {
@@ -13171,7 +13174,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:07:19 +0000";
 layers = (
 {
 anchors = (
@@ -13258,8 +13261,8 @@ closed = 1;
 nodes = (
 "167 437 LINE",
 "167 520 LINE",
-"0 520 LINE",
-"0 437 LINE"
+"20 520 LINE",
+"20 437 LINE"
 );
 },
 {
@@ -13710,7 +13713,7 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:08:36 +0000";
 layers = (
 {
 anchors = (
@@ -13919,22 +13922,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"451 -6 OFFCURVE",
-"467 -3 OFFCURVE",
-"482 1 CURVE",
-"482 82 LINE",
-"475 79 OFFCURVE",
-"470 78 OFFCURVE",
-"463 78 CURVE SMOOTH",
-"451 78 OFFCURVE",
-"439 84 OFFCURVE",
-"439 110 CURVE",
 "439 520 LINE",
 "340 520 LINE",
-"340 90 LINE",
-"340 27 OFFCURVE",
-"380 -6 OFFCURVE",
-"432 -6 CURVE SMOOTH"
+"340 85 LINE",
+"340 22 OFFCURVE",
+"380 -11 OFFCURVE",
+"433 -11 CURVE SMOOTH",
+"460 -11 OFFCURVE",
+"483 -3 OFFCURVE",
+"501 5 CURVE",
+"481 80 LINE",
+"475 78 OFFCURVE",
+"471 76 OFFCURVE",
+"463 76 CURVE SMOOTH",
+"451 76 OFFCURVE",
+"439 82 OFFCURVE",
+"439 105 CURVE"
 );
 },
 {
@@ -13942,8 +13945,8 @@ closed = 1;
 nodes = (
 "429 437 LINE",
 "429 520 LINE",
-"240 520 LINE",
-"240 437 LINE"
+"280 520 LINE",
+"280 437 LINE"
 );
 }
 );
@@ -15058,7 +15061,7 @@ unicode = 00E8;
 },
 {
 glyphname = f;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:10:04 +0000";
 layers = (
 {
 anchors = (
@@ -15209,10 +15212,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"20 0 LINE",
-"276 0 LINE",
-"276 83 LINE",
-"20 83 LINE"
+"40 0 LINE",
+"256 0 LINE",
+"256 83 LINE",
+"40 83 LINE"
 );
 },
 {
@@ -15221,16 +15224,16 @@ nodes = (
 "94 0 LINE",
 "191 0 LINE",
 "191 406 LINE SMOOTH",
-"191 441 OFFCURVE",
-"218 468 OFFCURVE",
-"264 468 CURVE SMOOTH",
-"303 468 OFFCURVE",
-"329 455 OFFCURVE",
-"365 436 CURVE",
-"400 515 LINE",
-"354 536 OFFCURVE",
-"313 555 OFFCURVE",
-"252 555 CURVE SMOOTH",
+"191 444 OFFCURVE",
+"215 468 OFFCURVE",
+"253 468 CURVE SMOOTH",
+"289 468 OFFCURVE",
+"315 451 OFFCURVE",
+"332 439 CURVE",
+"367 518 LINE",
+"341 532 OFFCURVE",
+"296 555 OFFCURVE",
+"242 555 CURVE SMOOTH",
 "157 555 OFFCURVE",
 "94 497 OFFCURVE",
 "94 404 CURVE SMOOTH"
@@ -15239,10 +15242,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"300 357 LINE",
-"20 357 LINE",
-"20 274 LINE",
-"300 274 LINE"
+"280 357 LINE",
+"40 357 LINE",
+"40 274 LINE",
+"280 274 LINE"
 );
 }
 );
