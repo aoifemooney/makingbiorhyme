@@ -22299,7 +22299,7 @@ width = 345;
 },
 {
 glyphname = u;
-lastChange = "2015-10-24 18:19:44 +0000";
+lastChange = "2015-10-24 18:20:28 +0000";
 layers = (
 {
 anchors = (
@@ -22509,6 +22509,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"427 274 LINE",
+"427 357 LINE",
+"297 357 LINE",
+"297 274 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "462 -11 OFFCURVE",
 "485 -3 OFFCURVE",
 "503 5 CURVE",
@@ -22518,10 +22527,10 @@ nodes = (
 "465 76 CURVE SMOOTH",
 "453 76 OFFCURVE",
 "441 82 OFFCURVE",
-"441 105 CURVE SMOOTH",
+"441 105 CURVE",
 "441 357 LINE",
 "342 357 LINE",
-"342 85 LINE SMOOTH",
+"342 85 LINE",
 "342 22 OFFCURVE",
 "382 -11 OFFCURVE",
 "435 -11 CURVE SMOOTH"
@@ -23159,7 +23168,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:20:51 +0000";
 layers = (
 {
 anchors = (
@@ -23291,19 +23300,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 357 LINE",
-"25 274 LINE",
-"242 274 LINE",
-"242 357 LINE"
+"45 357 LINE",
+"45 274 LINE",
+"232 274 LINE",
+"232 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"321 357 LINE",
-"321 274 LINE",
-"538 274 LINE",
-"538 357 LINE"
+"331 357 LINE",
+"331 274 LINE",
+"518 274 LINE",
+"518 357 LINE"
 );
 },
 {
@@ -23373,7 +23382,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:21:35 +0000";
 layers = (
 {
 anchors = (
@@ -23566,28 +23575,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"30 357 LINE",
-"30 274 LINE",
-"247 274 LINE",
-"247 357 LINE"
+"45 357 LINE",
+"45 274 LINE",
+"237 274 LINE",
+"237 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"302 357 LINE",
-"302 274 LINE",
-"499 274 LINE",
-"499 357 LINE"
+"312 357 LINE",
+"312 274 LINE",
+"489 274 LINE",
+"489 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"552 357 LINE",
-"552 274 LINE",
-"744 274 LINE",
-"744 357 LINE"
+"562 357 LINE",
+"562 274 LINE",
+"724 274 LINE",
+"724 357 LINE"
 );
 },
 {
@@ -23596,7 +23605,7 @@ nodes = (
 "292 -3 LINE",
 "490 344 LINE",
 "400 344 LINE",
-"269 111 LINE",
+"272 109 LINE",
 "155 341 LINE",
 "44 341 LINE",
 "240 -3 LINE"
@@ -23608,7 +23617,7 @@ nodes = (
 "551 -3 LINE",
 "725 344 LINE",
 "635 344 LINE",
-"529 111 LINE",
+"529 109 LINE",
 "409 310 LINE",
 "357 217 LINE",
 "499 -3 LINE"
