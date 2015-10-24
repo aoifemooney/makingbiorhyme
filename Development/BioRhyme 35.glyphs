@@ -130,7 +130,7 @@ h,
 /ringcomb,
 8,
 ":",
-.,
+0,
 /ellipsis,
 "(",
 "~",
@@ -144,7 +144,8 @@ h,
 "\U00D8",
 "\U00F8",
 "\U00BA",
-"\U00AA"
+"\U00AA",
+n
 );
 classes = (
 {
@@ -18954,7 +18955,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-24 18:05:15 +0000";
 layers = (
 {
 anchors = (
@@ -19068,10 +19069,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"254 0 LINE",
-"254 83 LINE",
-"20 83 LINE",
-"20 0 LINE"
+"244 0 LINE",
+"244 83 LINE",
+"40 83 LINE",
+"40 0 LINE"
 );
 },
 {
@@ -19088,17 +19089,17 @@ closed = 1;
 nodes = (
 "187 274 LINE",
 "187 357 LINE",
-"20 357 LINE",
-"20 274 LINE"
+"40 357 LINE",
+"40 274 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"556 0 LINE",
-"556 83 LINE",
-"327 83 LINE",
-"327 0 LINE"
+"536 0 LINE",
+"536 83 LINE",
+"337 83 LINE",
+"337 0 LINE"
 );
 }
 );
@@ -43158,7 +43159,39 @@ widthClass = Expanded;
 customParameters = (
 {
 name = "Instance Preview";
-value = "New Value";
+value = (
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
+    H,
+    O,
+    D,
+    E,
+    ".",
+    d,
+    o,
+    y,
+    o,
+    u,
+    r,
+    e,
+    a,
+    l,
+    l,
+    y,
+    l,
+    o,
+    v,
+    e,
+    m,
+    e,
+    "?"
+);
 }
 );
 interpolationCustom = 100;
