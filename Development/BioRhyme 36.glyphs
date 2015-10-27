@@ -156,7 +156,9 @@ d,
 /g.alt,
 p,
 q,
-"/a.alt2 du"
+"/a.alt2 du",
+//,
+/fraction//
 );
 classes = (
 {
@@ -28994,7 +28996,7 @@ width = 420;
 {
 color = 0;
 glyphname = fraction;
-lastChange = "2015-10-20 23:01:05 +0000";
+lastChange = "2015-10-27 21:59:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29002,9 +29004,27 @@ name = "Light Extended";
 width = 600;
 },
 {
+guideLines = (
+{
+position = "{335, 240}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"29 -51 LINE",
+"104 -82 LINE",
+"230 229 LINE",
+"374 530 LINE",
+"299 561 LINE",
+"173 250 LINE"
+);
+}
+);
+width = 403;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
