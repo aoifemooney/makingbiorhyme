@@ -184,7 +184,8 @@ q,
 /one.numr/fraction/two.dnom/one.numr/fraction/four.dnom/three.numr/fraction/four.dnom,
 "\U00BE",
 "\U00AA",
-"\U00AA\U00BA"
+"\U00AA\U00BA",
+"H\U00AAH\U00BAH/fraction H\U00BDH\U00BCH\U00BEH\012H/four.dnom H/one.numr H/three.numr H/two.dnom H"
 );
 classes = (
 {
@@ -29757,7 +29758,7 @@ width = 288;
 },
 {
 glyphname = one.numr;
-lastChange = "2015-10-27 23:28:29 +0000";
+lastChange = "2015-10-27 23:45:52 +0000";
 layers = (
 {
 background = {
@@ -29877,32 +29878,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"72 371 OFFCURVE",
-"93 402 OFFCURVE",
-"103 437 CURVE",
-"82 479 LINE",
-"73 447 OFFCURVE",
-"43 427 OFFCURVE",
-"11 421 CURVE",
-"32 362 LINE"
+"77 371 OFFCURVE",
+"98 402 OFFCURVE",
+"108 437 CURVE",
+"87 479 LINE",
+"78 447 OFFCURVE",
+"48 427 OFFCURVE",
+"16 421 CURVE",
+"37 362 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"196 203 LINE",
-"196 259 LINE",
-"20 259 LINE",
-"20 203 LINE"
+"201 203 LINE",
+"201 259 LINE",
+"25 259 LINE",
+"25 203 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"152 203 LINE",
-"152 479 LINE",
-"82 479 LINE",
-"82 203 LINE"
+"157 203 LINE",
+"157 479 LINE",
+"87 479 LINE",
+"87 203 LINE"
 );
 }
 );
