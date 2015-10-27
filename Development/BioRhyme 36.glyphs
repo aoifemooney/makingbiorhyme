@@ -167,7 +167,10 @@ q,
 /two.dnom,
 "/fraction \U00BD\U00BC\U00BE4/four.dnom/one.numr 3/three.numr 2/two.dnom",
 "/fraction \U00BD\U00BC\U00BE4/four.dnom 1/one.numr 35/three.numr 2/two.dnom",
-/fraction/four.dnom///two.dnom
+/fraction/two.dnom,
+"\U00BC",
+/fraction/four.dnom,
+/fraction
 );
 classes = (
 {
@@ -29002,7 +29005,7 @@ width = 420;
 {
 color = 0;
 glyphname = fraction;
-lastChange = "2015-10-27 22:14:48 +0000";
+lastChange = "2015-10-27 22:19:13 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29021,12 +29024,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-100 -51 LINE",
-"-25 -82 LINE",
-"101 229 LINE",
-"245 530 LINE",
-"170 561 LINE",
-"44 250 LINE"
+"-95 -53 LINE",
+"-30 -80 LINE",
+"96 231 LINE",
+"240 532 LINE",
+"175 559 LINE",
+"49 248 LINE"
 );
 }
 );
@@ -29043,7 +29046,7 @@ unicode = 2044;
 {
 color = 0;
 glyphname = onehalf;
-lastChange = "2015-10-27 22:15:07 +0000";
+lastChange = "2015-10-27 22:18:01 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29066,12 +29069,12 @@ transform = "{1, 0, 0, 1, 200, 0}";
 },
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 345, 0}";
+transform = "{1, 0, 0, 1, 325, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 637;
+width = 617;
 }
 );
 leftMetricsKey = one.numr;
@@ -29081,7 +29084,7 @@ unicode = 00BD;
 {
 color = 0;
 glyphname = onequarter;
-lastChange = "2015-10-27 22:14:48 +0000";
+lastChange = "2015-10-27 22:18:48 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29104,12 +29107,12 @@ transform = "{1, 0, 0, 1, 200, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 345, 0}";
+transform = "{1, 0, 0, 1, 305, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 633;
+width = 593;
 }
 );
 leftMetricsKey = one.numr;
@@ -29119,7 +29122,7 @@ unicode = 00BC;
 {
 color = 0;
 glyphname = threequarters;
-lastChange = "2015-10-27 22:16:27 +0000";
+lastChange = "2015-10-27 22:18:48 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29142,12 +29145,12 @@ transform = "{1, 0, 0, 1, 283, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 428, 0}";
+transform = "{1, 0, 0, 1, 388, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 716;
+width = 676;
 }
 );
 leftMetricsKey = three.numr;
@@ -29156,7 +29159,7 @@ unicode = 00BE;
 },
 {
 glyphname = four.dnom;
-lastChange = "2015-10-27 22:10:33 +0000";
+lastChange = "2015-10-27 22:18:48 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29330,7 +29333,7 @@ width = 283;
 },
 {
 glyphname = two.dnom;
-lastChange = "2015-10-27 22:17:07 +0000";
+lastChange = "2015-10-27 22:18:01 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -43535,6 +43538,14 @@ weightClass = Bold;
 widthClass = Expanded;
 }
 );
+kerning = {
+"FA480B27-EBBD-4830-9868-98507D39050C" = {
+fraction = {
+four.dnom = -40;
+two.dnom = -20;
+};
+};
+};
 manufacturer = AMT;
 manufacturerURL = AMT;
 unitsPerEm = 1000;
