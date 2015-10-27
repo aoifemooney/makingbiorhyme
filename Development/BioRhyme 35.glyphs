@@ -192,7 +192,8 @@ jft,
 "ae\U00E6\U00F0o\012tfj/f.alt gkh/k.alt l/oe vwx/x.alt yz/z.alt",
 C,
 "EFHIJKLMNh/OE P\U00DER/R.alt TUVWXYZ",
-"EFHIJKLMN/OE P\U00DER/R.alt TUVWXYZ"
+"EFHIJKLMN/OE P\U00DER/R.alt TUVWXYZ",
+/a.alt2
 );
 classes = (
 {
@@ -12253,7 +12254,7 @@ width = 534;
 },
 {
 glyphname = a.alt2;
-lastChange = "2015-10-27 03:13:12 +0000";
+lastChange = "2015-10-27 03:59:00 +0000";
 layers = (
 {
 anchors = (
@@ -12414,27 +12415,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"413 367 LINE",
-"314 348 LINE",
-"314 95 LINE",
-"314 32 OFFCURVE",
-"355 -6 OFFCURVE",
-"407 -6 CURVE SMOOTH",
-"437 -6 OFFCURVE",
-"457 2 OFFCURVE",
-"475 10 CURVE",
-"455 80 LINE",
-"449 78 OFFCURVE",
-"445 76 OFFCURVE",
-"437 76 CURVE SMOOTH",
-"425 76 OFFCURVE",
-"413 82 OFFCURVE",
-"413 105 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "289 -11 OFFCURVE",
 "338 66 OFFCURVE",
 "370 112 CURVE",
@@ -12461,6 +12441,27 @@ nodes = (
 "32 62 OFFCURVE",
 "101 -11 OFFCURVE",
 "194 -11 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 -6 OFFCURVE",
+"457 2 OFFCURVE",
+"475 10 CURVE",
+"455 80 LINE",
+"449 78 OFFCURVE",
+"445 76 OFFCURVE",
+"437 76 CURVE SMOOTH",
+"425 76 OFFCURVE",
+"413 82 OFFCURVE",
+"413 105 CURVE",
+"413 367 LINE",
+"314 348 LINE",
+"314 95 LINE",
+"314 32 OFFCURVE",
+"355 -6 OFFCURVE",
+"407 -6 CURVE SMOOTH"
 );
 }
 );
