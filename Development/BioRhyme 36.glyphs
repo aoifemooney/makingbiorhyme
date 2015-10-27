@@ -170,7 +170,7 @@ q,
 /fraction/two.dnom,
 "\U00BC",
 /fraction/four.dnom,
-/fraction,
+/fraction/two.dnom/one.numr/fraction/four.dnom/three.numr/fraction/four.dnom,
 /fraction/one.numr
 );
 classes = (
@@ -29006,7 +29006,7 @@ width = 420;
 {
 color = 0;
 glyphname = fraction;
-lastChange = "2015-10-27 22:20:26 +0000";
+lastChange = "2015-10-27 22:28:31 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29047,7 +29047,7 @@ unicode = 2044;
 {
 color = 0;
 glyphname = onehalf;
-lastChange = "2015-10-27 22:20:10 +0000";
+lastChange = "2015-10-27 22:28:27 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29066,16 +29066,16 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 200, 0}";
+transform = "{1, 0, 0, 1, 225, 0}";
 },
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 320, 0}";
+transform = "{1, 0, 0, 1, 345, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 612;
+width = 637;
 }
 );
 leftMetricsKey = one.numr;
@@ -29085,7 +29085,7 @@ unicode = 00BD;
 {
 color = 0;
 glyphname = onequarter;
-lastChange = "2015-10-27 22:19:57 +0000";
+lastChange = "2015-10-27 22:28:27 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29104,16 +29104,16 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 200, 0}";
+transform = "{1, 0, 0, 1, 225, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 305, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 593;
+width = 618;
 }
 );
 leftMetricsKey = one.numr;
@@ -29123,7 +29123,7 @@ unicode = 00BC;
 {
 color = 0;
 glyphname = threequarters;
-lastChange = "2015-10-27 22:19:57 +0000";
+lastChange = "2015-10-27 22:28:31 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29142,16 +29142,16 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 283, 0}";
+transform = "{1, 0, 0, 1, 273, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 388, 0}";
+transform = "{1, 0, 0, 1, 378, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 676;
+width = 666;
 }
 );
 leftMetricsKey = three.numr;
@@ -29334,7 +29334,7 @@ width = 283;
 },
 {
 glyphname = two.dnom;
-lastChange = "2015-10-27 22:20:10 +0000";
+lastChange = "2015-10-27 22:28:45 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -43544,6 +43544,12 @@ kerning = {
 fraction = {
 four.dnom = -40;
 two.dnom = -25;
+};
+one.numr = {
+fraction = 25;
+};
+three.numr = {
+fraction = -10;
 };
 };
 };
