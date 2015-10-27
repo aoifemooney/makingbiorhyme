@@ -12214,7 +12214,7 @@ width = 534;
 },
 {
 glyphname = a.alt2;
-lastChange = "2015-10-27 21:52:02 +0000";
+lastChange = "2015-10-27 21:54:46 +0000";
 layers = (
 {
 anchors = (
@@ -12439,12 +12439,8 @@ nodes = (
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
-"330 95 LINE",
-"330 32 OFFCURVE",
-"370 -6 OFFCURVE",
-"422 -6 CURVE SMOOTH",
 "452 -6 OFFCURVE",
 "472 2 OFFCURVE",
 "490 10 CURVE",
@@ -12457,11 +12453,14 @@ nodes = (
 "428 105 CURVE",
 "428 367 LINE",
 "329 348 LINE",
-"329 85 LINE"
+"329 95 LINE",
+"329 32 OFFCURVE",
+"369 -6 OFFCURVE",
+"422 -6 CURVE SMOOTH"
 );
 }
 );
-width = 481;
+width = 500;
 },
 {
 anchors = (
@@ -13741,7 +13740,7 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2015-10-27 21:49:20 +0000";
+lastChange = "2015-10-27 21:55:32 +0000";
 layers = (
 {
 anchors = (
@@ -13950,22 +13949,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"441 -6 OFFCURVE",
-"457 -3 OFFCURVE",
-"472 1 CURVE",
-"472 82 LINE",
-"465 79 OFFCURVE",
-"460 78 OFFCURVE",
-"453 78 CURVE SMOOTH",
-"441 78 OFFCURVE",
-"429 84 OFFCURVE",
-"429 110 CURVE",
+"453 -6 OFFCURVE",
+"473 2 OFFCURVE",
+"491 10 CURVE",
+"471 80 LINE",
+"465 78 OFFCURVE",
+"461 76 OFFCURVE",
+"453 76 CURVE SMOOTH",
+"440 76 OFFCURVE",
+"428 82 OFFCURVE",
+"429 105 CURVE",
 "429 520 LINE",
 "330 520 LINE",
-"330 90 LINE",
-"330 27 OFFCURVE",
+"330 95 LINE",
+"330 32 OFFCURVE",
 "370 -6 OFFCURVE",
-"422 -6 CURVE SMOOTH"
+"423 -6 CURVE SMOOTH"
 );
 },
 {
@@ -22317,7 +22316,7 @@ width = 345;
 },
 {
 glyphname = u;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-27 21:56:13 +0000";
 layers = (
 {
 anchors = (
@@ -22527,22 +22526,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"452 -6 OFFCURVE",
-"469 -3 OFFCURVE",
-"484 1 CURVE",
-"484 82 LINE",
-"477 79 OFFCURVE",
-"472 78 OFFCURVE",
-"465 78 CURVE SMOOTH",
-"453 78 OFFCURVE",
-"441 84 OFFCURVE",
-"441 110 CURVE SMOOTH",
+"465 -6 OFFCURVE",
+"485 2 OFFCURVE",
+"503 10 CURVE",
+"483 80 LINE",
+"477 78 OFFCURVE",
+"473 76 OFFCURVE",
+"465 76 CURVE SMOOTH",
+"453 76 OFFCURVE",
+"441 82 OFFCURVE",
+"441 105 CURVE",
 "441 357 LINE",
 "342 357 LINE",
-"342 90 LINE SMOOTH",
-"342 27 OFFCURVE",
+"342 95 LINE",
+"342 32 OFFCURVE",
 "382 -6 OFFCURVE",
-"434 -6 CURVE SMOOTH"
+"435 -6 CURVE SMOOTH"
 );
 },
 {
