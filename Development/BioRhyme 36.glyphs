@@ -173,7 +173,10 @@ q,
 /fraction/two.dnom/one.numr/fraction/four.dnom/three.numr/fraction/four.dnom,
 /fraction/one.numr,
 /fraction//,
-"/four.dnom 4"
+"/four.dnom 4",
+/one.numr,
+/four.dnom,
+"4/four.dnom 1/one.numr 3/three.numr 2/two.dnom"
 );
 classes = (
 {
@@ -459,6 +462,7 @@ verticalStems = (
 99,
 109
 );
+visible = 1;
 weight = Bold;
 weightValue = 700;
 xHeight = 357;
@@ -29188,7 +29192,7 @@ unicode = 00BE;
 },
 {
 glyphname = four.dnom;
-lastChange = "2015-10-27 22:32:27 +0000";
+lastChange = "2015-10-27 22:32:39 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29202,28 +29206,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"230 480 LINE",
-"212 480 LINE",
-"20 279 LINE",
-"33 274 LINE"
+"230 277 LINE",
+"212 277 LINE",
+"20 76 LINE",
+"33 71 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"298 265 LINE",
-"298 279 LINE",
-"20 279 LINE",
-"20 265 LINE"
+"298 62 LINE",
+"298 76 LINE",
+"20 76 LINE",
+"20 62 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"220 192 LINE",
-"235 192 LINE",
-"235 480 LINE",
-"220 480 LINE"
+"220 -11 LINE",
+"235 -11 LINE",
+"235 277 LINE",
+"220 277 LINE"
 );
 }
 );
@@ -29267,7 +29271,7 @@ width = 288;
 },
 {
 glyphname = one.numr;
-lastChange = "2015-10-27 22:16:00 +0000";
+lastChange = "2015-10-27 22:32:56 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29277,7 +29281,40 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"78 410 OFFCURVE",
+"117 436 OFFCURVE",
+"121 477 CURVE",
+"111 480 LINE",
+"107 447 OFFCURVE",
+"69 422 OFFCURVE",
+"35 422 CURVE",
+"37 407 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"179 198 LINE",
+"179 211 LINE",
+"36 211 LINE",
+"36 198 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"126 198 LINE",
+"126 480 LINE",
+"111 480 LINE",
+"111 198 LINE"
+);
+}
+);
+width = 310;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -29321,7 +29358,7 @@ width = 200;
 },
 {
 glyphname = three.numr;
-lastChange = "2015-10-27 22:15:40 +0000";
+lastChange = "2015-10-27 22:33:14 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29331,7 +29368,56 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"197 192 OFFCURVE",
+"237 223 OFFCURVE",
+"237 266 CURVE SMOOTH",
+"237 310 OFFCURVE",
+"191 336 OFFCURVE",
+"122 336 CURVE",
+"122 329 LINE",
+"188 329 OFFCURVE",
+"226 362 OFFCURVE",
+"226 405 CURVE SMOOTH",
+"226 455 OFFCURVE",
+"175 481 OFFCURVE",
+"131 481 CURVE SMOOTH",
+"87 481 OFFCURVE",
+"53 464 OFFCURVE",
+"25 442 CURVE",
+"33 431 LINE",
+"59 451 OFFCURVE",
+"89 467 OFFCURVE",
+"131 467 CURVE SMOOTH",
+"173 467 OFFCURVE",
+"211 443 OFFCURVE",
+"211 405 CURVE SMOOTH",
+"211 370 OFFCURVE",
+"179 339 OFFCURVE",
+"119 339 CURVE SMOOTH",
+"77 339 LINE",
+"77 326 LINE",
+"119 326 LINE SMOOTH",
+"189 326 OFFCURVE",
+"222 300 OFFCURVE",
+"222 266 CURVE SMOOTH",
+"222 230 OFFCURVE",
+"184 205 OFFCURVE",
+"138 205 CURVE SMOOTH",
+"90 205 OFFCURVE",
+"54 228 OFFCURVE",
+"24 251 CURVE",
+"15 240 LINE",
+"46 216 OFFCURVE",
+"84 192 OFFCURVE",
+"137 192 CURVE SMOOTH"
+);
+}
+);
+width = 412;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -29391,7 +29477,7 @@ width = 283;
 },
 {
 glyphname = two.dnom;
-lastChange = "2015-10-27 22:28:45 +0000";
+lastChange = "2015-10-27 22:33:40 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29401,7 +29487,47 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"167 90 LINE SMOOTH",
+"220 127 OFFCURVE",
+"266 156 OFFCURVE",
+"266 201 CURVE SMOOTH",
+"266 257 OFFCURVE",
+"214 282 OFFCURVE",
+"169 282 CURVE SMOOTH",
+"118 282 OFFCURVE",
+"82 257 OFFCURVE",
+"44 219 CURVE",
+"54 210 LINE",
+"91 247 OFFCURVE",
+"124 268 OFFCURVE",
+"169 268 CURVE SMOOTH",
+"211 268 OFFCURVE",
+"251 245 OFFCURVE",
+"251 202 CURVE SMOOTH",
+"251 162 OFFCURVE",
+"213 138 OFFCURVE",
+"160 101 CURVE SMOOTH",
+"35 13 LINE",
+"48 6 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 0 LINE",
+"279 71 LINE",
+"264 71 LINE",
+"264 13 LINE",
+"36 13 LINE",
+"36 0 LINE"
+);
+}
+);
+width = 499;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
