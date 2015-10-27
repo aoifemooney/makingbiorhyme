@@ -29042,7 +29042,7 @@ unicode = 2044;
 {
 color = 0;
 glyphname = onehalf;
-lastChange = "2015-10-27 22:00:24 +0000";
+lastChange = "2015-10-27 22:13:51 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29058,11 +29058,19 @@ width = 600;
 components = (
 {
 name = fraction;
+},
+{
+name = one.numr;
+transform = "{1, 0, 0, 1, 403, 0}";
+},
+{
+name = two.dnom;
+transform = "{1, 0, 0, 1, 603, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 403;
+width = 895;
 }
 );
 leftMetricsKey = one.numr;
