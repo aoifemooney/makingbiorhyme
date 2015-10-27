@@ -163,7 +163,7 @@ q,
 "\U00BD",
 "1/one.numr H//",
 /three.numr,
-/four.dnom,
+"4/four.dnom 4",
 /two.dnom,
 "/fraction \U00BD\U00BC\U00BE4/four.dnom/one.numr 3/three.numr 2/two.dnom",
 "/fraction \U00BD\U00BC\U00BE4/four.dnom 1/one.numr 35/three.numr 2/two.dnom",
@@ -171,7 +171,9 @@ q,
 "\U00BC",
 /fraction/four.dnom,
 /fraction/two.dnom/one.numr/fraction/four.dnom/three.numr/fraction/four.dnom,
-/fraction/one.numr
+/fraction/one.numr,
+/fraction//,
+"/four.dnom 4"
 );
 classes = (
 {
@@ -29006,12 +29008,25 @@ width = 420;
 {
 color = 0;
 glyphname = fraction;
-lastChange = "2015-10-27 22:28:31 +0000";
+lastChange = "2015-10-27 22:31:44 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-95 -54 LINE",
+"-70 -69 LINE",
+"111 239 LINE",
+"300 543 LINE",
+"275 558 LINE",
+"94 249 LINE"
+);
+}
+);
+width = 205;
 },
 {
 guideLines = (
@@ -29039,7 +29054,20 @@ width = 145;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-80 -55 LINE",
+"-55 -67 LINE",
+"76 241 LINE",
+"215 545 LINE",
+"190 557 LINE",
+"59 248 LINE"
+);
+}
+);
+width = 145;
 }
 );
 unicode = 2044;
@@ -29123,7 +29151,7 @@ unicode = 00BC;
 {
 color = 0;
 glyphname = threequarters;
-lastChange = "2015-10-27 22:28:31 +0000";
+lastChange = "2015-10-27 22:29:58 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29142,16 +29170,16 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 273, 0}";
+transform = "{1, 0, 0, 1, 283, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 378, 0}";
+transform = "{1, 0, 0, 1, 388, 0}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 666;
+width = 676;
 }
 );
 leftMetricsKey = three.numr;
@@ -29160,7 +29188,7 @@ unicode = 00BE;
 },
 {
 glyphname = four.dnom;
-lastChange = "2015-10-27 22:19:57 +0000";
+lastChange = "2015-10-27 22:32:27 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29170,7 +29198,36 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"230 480 LINE",
+"212 480 LINE",
+"20 279 LINE",
+"33 274 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"298 265 LINE",
+"298 279 LINE",
+"20 279 LINE",
+"20 265 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"220 192 LINE",
+"235 192 LINE",
+"235 480 LINE",
+"220 480 LINE"
+);
+}
+);
+width = 420;
 },
 {
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -43547,9 +43604,6 @@ two.dnom = -25;
 };
 one.numr = {
 fraction = 25;
-};
-three.numr = {
-fraction = -10;
 };
 };
 };
