@@ -177,7 +177,7 @@ q,
 "4/four.dnom 1/one.numr 3/three.numr 2/two.dnom",
 "\U00BD\U00BC\U00BE",
 /fraction,
-/two.dnom,
+"/two.dnom 23",
 4/one.numr/three.numr/two.dnom,
 /one.numr/fraction/two.dnom/one.numr/fraction/four.dnom/three.numr/fraction/four.dnom,
 "\U00BE",
@@ -12742,7 +12742,7 @@ rightMetricsKey = "=d";
 },
 {
 glyphname = aacute;
-lastChange = "2015-10-29 02:56:21 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -12779,12 +12779,12 @@ name = a;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 46, -54}";
+transform = "{1, 0, 0, 1, 70, -54}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 443;
+width = 482;
 }
 );
 leftKerningGroup = a;
@@ -12793,7 +12793,7 @@ unicode = 00E1;
 },
 {
 glyphname = acircumflex;
-lastChange = "2015-10-29 02:56:20 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -12830,12 +12830,12 @@ name = a;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 52, -44}";
+transform = "{1, 0, 0, 1, 76, -44}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 443;
+width = 482;
 }
 );
 leftKerningGroup = a;
@@ -12844,7 +12844,7 @@ unicode = 00E2;
 },
 {
 glyphname = adieresis;
-lastChange = "2015-10-29 02:56:20 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -12881,12 +12881,12 @@ name = a;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -3, -26}";
+transform = "{1, 0, 0, 1, 21, -26}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 443;
+width = 482;
 }
 );
 leftKerningGroup = a;
@@ -12895,7 +12895,7 @@ unicode = 00E4;
 },
 {
 glyphname = agrave;
-lastChange = "2015-10-29 02:56:21 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -12932,12 +12932,12 @@ name = a;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 46, -54}";
+transform = "{1, 0, 0, 1, 70, -54}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 443;
+width = 482;
 }
 );
 leftKerningGroup = a;
@@ -12946,7 +12946,7 @@ unicode = 00E0;
 },
 {
 glyphname = aring;
-lastChange = "2015-10-29 02:56:21 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -12983,12 +12983,12 @@ name = a;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 60, -24}";
+transform = "{1, 0, 0, 1, 84, -24}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 443;
+width = 482;
 }
 );
 leftKerningGroup = a;
@@ -12997,7 +12997,7 @@ unicode = 00E5;
 },
 {
 glyphname = atilde;
-lastChange = "2015-10-29 02:56:20 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -13034,12 +13034,12 @@ name = a;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 3, -24}";
+transform = "{1, 0, 0, 1, 27, -24}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 443;
+width = 482;
 }
 );
 leftKerningGroup = a;
@@ -19525,7 +19525,7 @@ unicode = 006E;
 },
 {
 glyphname = ntilde;
-lastChange = "2015-10-29 02:56:21 +0000";
+lastChange = "2015-10-29 02:57:50 +0000";
 layers = (
 {
 components = (
@@ -19567,7 +19567,7 @@ transform = "{1, 0, 0, 1, 78, -24}";
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = Bold;
-width = 561;
+width = 551;
 }
 );
 leftKerningGroup = n;
@@ -29958,7 +29958,7 @@ unicode = 00BE;
 },
 {
 glyphname = two.dnom;
-lastChange = "2015-10-29 02:56:20 +0000";
+lastChange = "2015-10-29 02:57:42 +0000";
 layers = (
 {
 background = {
@@ -30109,16 +30109,16 @@ nodes = (
 "103 282 OFFCURVE",
 "58 256 OFFCURVE",
 "26 222 CURVE",
-"58 182 LINE",
-"86 211 OFFCURVE",
-"114 230 OFFCURVE",
-"150 230 CURVE SMOOTH",
-"178 230 OFFCURVE",
-"197 216 OFFCURVE",
-"197 193 CURVE SMOOTH",
-"197 174 OFFCURVE",
-"181 159 OFFCURVE",
-"143 133 CURVE",
+"61 182 LINE",
+"88 210 OFFCURVE",
+"115 228 OFFCURVE",
+"149 228 CURVE SMOOTH",
+"176 228 OFFCURVE",
+"194 215 OFFCURVE",
+"194 193 CURVE SMOOTH",
+"194 174 OFFCURVE",
+"179 160 OFFCURVE",
+"142 135 CURVE",
 "22 54 LINE",
 "63 24 LINE"
 );
