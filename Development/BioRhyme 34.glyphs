@@ -11,86 +11,6 @@ DisplayStrings = (
 "\U00B1",
 "|",
 /k.alt,
-"%",
-"@nO",
-"O&oO",
-"HOH\U00B6HH",
-"C\U00A9c",
-"\U00AE",
-"\U00A9\U00AE",
-"HH\U00A7HHS",
-"bah humbug!",
-"/Be-cy/De-cy/Zhe-cy/Ef-cy",
-"/dieresiscomb .i",
-a,
-/dieresiscomb,
-"/dotaccentcomb i",
-/dotaccentcomb,
-/gravecomb,
-/acutecomb,
-/hungarumlautcomb,
-/circumflexcomb,
-/caroncomb,
-/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod/doubleprimemod/primemod,
-"/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/commaturnedabovecomb/commaaccentcomb ,/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod/doubleprimemod/primemod",
-/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod/doubleprimemod/primemod,
-"ndno\U00F0nbn",
-/wacute,
-w,
-W,
-"nigmatic\012schafflers?",
-"fr\U00EAre-jacques\012/f.alt rance!",
-"6/doubleprimemod 5/primemod",
-"6/doubleprimemod 5/primemod",
-"\U00C6",
-D/OE,
-"\U00DEP",
-"a\U00E6e",
-/oe,
-"\U00FEb",
-"\U00DF",
-"\U00DF/germandbls.001",
-/OE,
-"H\U00DEHPH",
-"aH\U00DEIHP",
-"\U00B0",
-"3^",
-H/Hbar,
-"SSs/Germandbls O",
-/commaturnedmod,
-/hbar,
-"\U00F0",
-/ampersand_alt1,
-"&",
-/section.001,
-"SMH/servicemark H*H",
-/servicemark,
-"T/trademark M",
-"HH/servicemark H",
-"H/trademark H/servicemark H",
-"\U00A6|",
-"\U00B7",
-/bullet,
-"\U00B7/bullet hello",
-"\U00B7H/bullet H",
-"\U00B7/bullet H",
-"0\U00AC0/endash 0-=",
-"X\U00A4o0",
-"/bullet $\U00A4",
-/trademark,
-"HH/trademark HH/servicemark HHSM",
-"$/euro 09",
-"HSH$HH/euro H0HC0HCH\U00A30\U00A5",
-M,
-N,
-"\U00DE",
-/Germandbls,
-X,
-"\U00E6",
-"\U00FE",
-/germandbls.001,
-v,
-x,
 /x.alt,
 "/Be-cy",
 y,
@@ -144,7 +64,7 @@ h,
 "\U00D8",
 "\U00F8",
 "\U00BA",
-"\U00AA"
+"oooaoo/Placeholder oo\012nnn/Placeholder nn/Placeholder n\012\012HH/Placeholder HH/Placeholder H\012OO/Placeholder OO/Placeholder OO"
 );
 classes = (
 {
@@ -11481,7 +11401,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2015-10-20 23:00:59 +0000";
+lastChange = "2015-10-29 02:54:34 +0000";
 layers = (
 {
 anchors = (
@@ -11915,6 +11835,8 @@ nodes = (
 width = 452;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = n;
 rightMetricsKey = "=n";
 unicode = 0061;
 },
