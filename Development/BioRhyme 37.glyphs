@@ -4,7 +4,7 @@ DisplayStrings = (
 /germandbls.001,
 "\U00A7",
 /ampersand_alt1,
-"HHCHHDHHEH\012HGHHJHHKHHMHH\012\012HHHHHH\012OOOCHOOGOO\012OOEOO"
+"HHCHHDHHEH\012HGHHJHHUHHKHHMHH\012\012HHHEHHFH\012OOOCHOOGOO\012OOEOO"
 );
 classes = (
 {
@@ -4485,7 +4485,7 @@ unicode = 00CC;
 },
 {
 glyphname = J;
-lastChange = "2015-10-29 02:56:21 +0000";
+lastChange = "2015-10-31 17:54:42 +0000";
 layers = (
 {
 anchors = (
@@ -4613,7 +4613,7 @@ nodes = (
 );
 }
 );
-width = 489;
+width = 485;
 },
 {
 anchors = (
@@ -9283,7 +9283,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2015-10-29 02:56:20 +0000";
+lastChange = "2015-10-31 17:54:38 +0000";
 layers = (
 {
 anchors = (
@@ -9424,19 +9424,19 @@ width = 1113;
 anchors = (
 {
 name = bottom;
-position = "{371, -10}";
+position = "{367, -10}";
 },
 {
 name = ogonek;
-position = "{380, -9}";
+position = "{376, -9}";
 },
 {
 name = top;
-position = "{371, 490}";
+position = "{367, 490}";
 },
 {
 name = topright;
-position = "{690, 490}";
+position = "{686, 490}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -9445,46 +9445,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"509 -10 OFFCURVE",
-"611 79 OFFCURVE",
-"611 204 CURVE SMOOTH",
-"611 475 LINE",
-"513 475 LINE",
-"514 210 LINE SMOOTH",
-"514 131 OFFCURVE",
-"455 77 OFFCURVE",
-"369 77 CURVE SMOOTH",
-"283 77 OFFCURVE",
-"226 130 OFFCURVE",
-"226 209 CURVE SMOOTH",
-"227 475 LINE",
-"127 475 LINE",
-"127 204 LINE SMOOTH",
-"127 79 OFFCURVE",
-"224 -10 OFFCURVE",
-"369 -10 CURVE SMOOTH"
+"505 -10 OFFCURVE",
+"607 79 OFFCURVE",
+"607 204 CURVE SMOOTH",
+"607 475 LINE",
+"509 475 LINE",
+"510 210 LINE SMOOTH",
+"510 131 OFFCURVE",
+"451 77 OFFCURVE",
+"365 77 CURVE SMOOTH",
+"279 77 OFFCURVE",
+"222 130 OFFCURVE",
+"222 209 CURVE SMOOTH",
+"223 475 LINE",
+"123 475 LINE",
+"123 204 LINE SMOOTH",
+"123 79 OFFCURVE",
+"220 -10 OFFCURVE",
+"365 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"320 435 LINE",
-"320 520 LINE",
-"34 520 LINE",
-"34 435 LINE"
+"316 435 LINE",
+"316 520 LINE",
+"30 520 LINE",
+"30 435 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"704 435 LINE",
-"704 520 LINE",
-"420 520 LINE",
-"420 435 LINE"
+"700 435 LINE",
+"700 520 LINE",
+"416 520 LINE",
+"416 435 LINE"
 );
 }
 );
-width = 738;
+width = 730;
 },
 {
 anchors = (
@@ -9621,9 +9621,7 @@ width = 723;
 }
 );
 leftKerningGroup = U;
-leftMetricsKey = "=H";
 rightKerningGroup = U;
-rightMetricsKey = "=H";
 unicode = 0055;
 },
 {
