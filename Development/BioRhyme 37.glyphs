@@ -12,7 +12,7 @@ nnann,
 "#\"'\U00A2\U00A4$/euro \U00A3\U00A5=%\U00A6|\U00B0^!\01211/Placeholder 11\01200/Placeholder 00Y0C\012HH/Placeholder HH",
 "\U00AA\U00BA\U00B5@&\U00A9\U00AE\012HH/Placeholder HHq\012OO/Placeholder OO\012nn/Placeholder nnbnn\012oo/Placeholder oo",
 ",!.\U00A1?\U00BF\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quotereversed/quoteright/quotesinglbase \U00B6/trademark/servicemark \012HH/Placeholder HH\012OO/Placeholder OO\012nn/Placeholder nn\012oo/Placeholder oo\012",
-"A/A.alt \U00C6BCEUHJKLNP\U00DER/R.alt S/Germandbls TUVWXZ/Be-cy/De-cy/Zhe-cy/Ef-cy \012\012HH/Placeholder HH\012OO/Placeholder OO\012nn/Placeholder nn\012oo/Placeholder oo"
+"A/A.alt \U00C6BCEUHJKLNP\U00DER/R.alt S/Germandbls TUVWXZ/Be-cy/De-cy/Zhe-cy/Ef-cy \012\012HH/Placeholder HHSH\012OO/Placeholder OO\012nn/Placeholder nn\012oo/Placeholder oo"
 );
 classes = (
 {
@@ -8871,7 +8871,7 @@ unicode = 0053;
 },
 {
 glyphname = Germandbls;
-lastChange = "2015-10-31 18:58:54 +0000";
+lastChange = "2015-10-31 19:50:56 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -9118,7 +9118,7 @@ nodes = (
 );
 }
 );
-width = 605;
+width = 608;
 }
 );
 leftKerningGroup = Germandbls;
@@ -9127,7 +9127,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-10-31 18:04:08 +0000";
+lastChange = "2015-10-31 19:51:08 +0000";
 layers = (
 {
 anchors = (
@@ -9237,15 +9237,15 @@ width = 594;
 anchors = (
 {
 name = bottom;
-position = "{250, 0}";
+position = "{265, 0}";
 },
 {
 name = center;
-position = "{250, 245}";
+position = "{265, 245}";
 },
 {
 name = top;
-position = "{250, 490}";
+position = "{265, 490}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -9254,36 +9254,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"30 384 LINE",
-"30 497 LINE",
-"479 497 LINE",
-"479 384 LINE",
-"504 384 LINE",
-"504 520 LINE",
-"5 520 LINE",
-"5 384 LINE"
+"45 384 LINE",
+"45 497 LINE",
+"494 497 LINE",
+"494 384 LINE",
+"519 384 LINE",
+"519 520 LINE",
+"20 520 LINE",
+"20 384 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"385 0 LINE",
-"385 23 LINE",
-"124 23 LINE",
-"124 0 LINE"
+"400 0 LINE",
+"400 23 LINE",
+"139 23 LINE",
+"139 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"267 13 LINE",
-"267 507 LINE",
-"242 507 LINE",
-"242 13 LINE"
+"282 13 LINE",
+"282 507 LINE",
+"257 507 LINE",
+"257 13 LINE"
 );
 }
 );
-width = 509;
+width = 539;
 }
 );
 leftKerningGroup = T;
