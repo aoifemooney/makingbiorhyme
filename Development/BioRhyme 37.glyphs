@@ -21,7 +21,8 @@ dlk,
 ij,
 "HH?HH",
 "?\U00BF",
-"CGNMnH\012VvWwXxX/x.alt Yy\012EeOo"
+"CGNMnHh\012VvWwXxX/x.alt Yy\012EeOo",
+B/A.alt
 );
 classes = (
 {
@@ -317,7 +318,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-10-31 23:32:09 +0000";
+lastChange = "2015-11-01 19:21:11 +0000";
 layers = (
 {
 anchors = (
@@ -397,7 +398,7 @@ position = "{347, 0}";
 },
 {
 name = ogonek;
-position = "{647, 10}";
+position = "{650, 10}";
 },
 {
 name = top;
@@ -463,22 +464,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"149 13 LINE",
-"363 470 LINE",
-"327 470 LINE",
-"541 13 LINE",
-"653 13 LINE",
-"417 470 LINE SMOOTH",
-"274 470 LINE",
-"40 13 LINE"
+"152 13 LINE",
+"366 470 LINE",
+"324 470 LINE",
+"538 13 LINE",
+"656 13 LINE",
+"420 470 LINE SMOOTH",
+"271 470 LINE",
+"37 13 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "259 0 LINE",
-"259 84 LINE",
-"0 84 LINE",
+"259 83 LINE",
+"0 83 LINE",
 "0 0 LINE"
 );
 },
@@ -495,18 +496,18 @@ nodes = (
 closed = 1;
 nodes = (
 "692 0 LINE",
-"692 84 LINE",
-"434 84 LINE",
+"692 83 LINE",
+"434 83 LINE",
 "434 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"500 436 LINE",
+"500 437 LINE",
 "500 520 LINE",
 "190 520 LINE",
-"190 436 LINE"
+"190 437 LINE"
 );
 }
 );
@@ -589,7 +590,7 @@ unicode = 0041;
 },
 {
 glyphname = A.alt;
-lastChange = "2015-10-31 23:32:15 +0000";
+lastChange = "2015-11-01 19:21:43 +0000";
 layers = (
 {
 anchors = (
@@ -714,21 +715,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"312 495 LINE",
-"31 13 LINE",
-"136 13 LINE",
-"336 373 LINE",
-"536 13 LINE",
-"646 13 LINE",
-"366 495 LINE"
+"309 495 LINE",
+"28 13 LINE",
+"139 13 LINE",
+"361 412 LINE",
+"311 412 LINE",
+"533 13 LINE",
+"649 13 LINE",
+"369 495 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "695 0 LINE",
-"695 84 LINE",
-"428 84 LINE",
+"695 83 LINE",
+"428 83 LINE",
 "428 0 LINE"
 );
 },
@@ -736,16 +738,16 @@ nodes = (
 closed = 1;
 nodes = (
 "249 0 LINE",
-"249 84 LINE",
-"-18 84 LINE",
+"249 83 LINE",
+"-18 83 LINE",
 "-18 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"468 216 LINE",
-"206 216 LINE",
+"468 225 LINE",
+"206 225 LINE",
 "189 150 LINE",
 "485 150 LINE"
 );
@@ -1125,7 +1127,7 @@ unicode = 00C3;
 },
 {
 glyphname = AE;
-lastChange = "2015-11-01 00:13:57 +0000";
+lastChange = "2015-11-01 19:22:50 +0000";
 layers = (
 {
 anchors = (
@@ -1322,22 +1324,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"114 13 LINE",
-"415 470 LINE",
+"117 13 LINE",
+"418 470 LINE",
 "372 470 LINE",
 "489 13 LINE",
 "595 13 LINE",
 "472 470 LINE SMOOTH",
-"319 470 LINE",
-"5 13 LINE"
+"316 470 LINE",
+"2 13 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "224 0 LINE",
-"224 84 LINE",
-"-15 84 LINE",
+"224 83 LINE",
+"-15 83 LINE",
 "-15 0 LINE"
 );
 },
@@ -1356,8 +1358,8 @@ nodes = (
 "868 0 LINE",
 "868 183 LINE",
 "775 183 LINE",
-"775 88 LINE",
-"380 88 LINE",
+"775 83 LINE",
+"380 83 LINE",
 "380 0 LINE"
 );
 },
@@ -1380,8 +1382,8 @@ nodes = (
 "868 341 LINE",
 "868 520 LINE",
 "235 520 LINE",
-"235 436 LINE",
-"775 436 LINE",
+"235 437 LINE",
+"775 437 LINE",
 "775 341 LINE"
 );
 }
@@ -1396,7 +1398,7 @@ unicode = 00C6;
 },
 {
 glyphname = B;
-lastChange = "2015-11-01 16:23:53 +0000";
+lastChange = "2015-11-01 19:23:31 +0000";
 layers = (
 {
 anchors = (
@@ -1547,34 +1549,34 @@ nodes = (
 "479 520 OFFCURVE",
 "361 520 CURVE SMOOTH",
 "34 520 LINE",
-"34 435 LINE",
-"356 435 LINE SMOOTH",
-"394 435 OFFCURVE",
-"435 419 OFFCURVE",
+"34 437 LINE",
+"356 437 LINE SMOOTH",
+"394 437 OFFCURVE",
+"435 421 OFFCURVE",
 "435 368 CURVE SMOOTH",
-"435 318 OFFCURVE",
-"396 299 OFFCURVE",
-"336 299 CURVE SMOOTH",
-"193 299 LINE",
-"193 221 LINE",
-"381 221 LINE SMOOTH",
-"438 221 OFFCURVE",
-"475 203 OFFCURVE",
+"435 317 OFFCURVE",
+"396 298 OFFCURVE",
+"336 298 CURVE SMOOTH",
+"193 298 LINE",
+"193 222 LINE",
+"381 222 LINE SMOOTH",
+"438 222 OFFCURVE",
+"475 204 OFFCURVE",
 "475 153 CURVE SMOOTH",
-"475 102 OFFCURVE",
-"434 85 OFFCURVE",
-"376 85 CURVE SMOOTH",
-"34 85 LINE",
+"475 100 OFFCURVE",
+"434 83 OFFCURVE",
+"376 83 CURVE SMOOTH",
+"34 83 LINE",
 "34 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"226 46 LINE",
-"226 472 LINE",
-"127 472 LINE",
-"127 46 LINE"
+"229 46 LINE",
+"229 472 LINE",
+"124 472 LINE",
+"124 46 LINE"
 );
 }
 );
