@@ -24055,7 +24055,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-04 04:02:23 +0000";
+lastChange = "2015-11-04 04:04:07 +0000";
 layers = (
 {
 anchors = (
@@ -24179,8 +24179,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"281 357 LINE",
-"281 279 LINE",
+"311 357 LINE",
+"311 279 LINE",
 "498 279 LINE",
 "498 357 LINE"
 );
@@ -24254,7 +24254,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-04 04:02:47 +0000";
+lastChange = "2015-11-04 04:05:59 +0000";
 layers = (
 {
 anchors = (
@@ -24326,33 +24326,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"5 357 LINE",
-"5 334 LINE",
-"257 334 LINE",
-"257 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"344 357 LINE",
-"344 335 LINE",
-"681 335 LINE",
-"681 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"767 357 LINE",
-"767 334 LINE",
-"1020 334 LINE",
-"1020 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "359 -11 LINE",
 "626 348 LINE",
 "599 348 LINE",
@@ -24365,6 +24338,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"257 334 LINE",
+"257 357 LINE",
+"5 357 LINE",
+"5 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "667 -11 LINE",
 "902 348 LINE",
 "876 348 LINE",
@@ -24372,6 +24354,24 @@ nodes = (
 "429 348 LINE",
 "401 348 LINE",
 "661 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"681 335 LINE",
+"681 357 LINE",
+"344 357 LINE",
+"344 335 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1020 334 LINE",
+"1020 357 LINE",
+"767 357 LINE",
+"767 334 LINE"
 );
 }
 );
@@ -24449,33 +24449,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"0 357 LINE",
-"0 279 LINE",
-"207 279 LINE",
-"207 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"262 357 LINE",
-"262 279 LINE",
-"459 279 LINE",
-"459 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"512 357 LINE",
-"512 279 LINE",
-"694 279 LINE",
-"694 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "248 -18 LINE",
 "449 344 LINE",
 "364 344 LINE",
@@ -24488,13 +24461,40 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"339 189 LINE",
-"450 -18 LINE",
+"207 279 LINE",
+"207 357 LINE",
+"0 357 LINE",
+"0 279 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "503 -18 LINE",
 "694 344 LINE",
 "609 344 LINE",
 "491 102 LINE",
-"394 287 LINE"
+"394 287 LINE",
+"339 189 LINE",
+"450 -18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"459 279 LINE",
+"459 357 LINE",
+"282 357 LINE",
+"282 279 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"702 279 LINE",
+"702 357 LINE",
+"530 357 LINE",
+"530 279 LINE"
 );
 }
 );
@@ -24517,33 +24517,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"10 357 LINE",
-"10 334 LINE",
-"183 334 LINE",
-"183 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"225 357 LINE",
-"225 334 LINE",
-"513 334 LINE",
-"513 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"554 357 LINE",
-"554 334 LINE",
-"728 334 LINE",
-"728 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "252 -10 LINE",
 "455 348 LINE",
 "432 348 LINE",
@@ -24551,6 +24524,33 @@ nodes = (
 "99 348 LINE",
 "72 348 LINE",
 "246 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"183 334 LINE",
+"183 357 LINE",
+"10 357 LINE",
+"10 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"513 334 LINE",
+"513 357 LINE",
+"225 357 LINE",
+"225 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"728 334 LINE",
+"728 357 LINE",
+"554 357 LINE",
+"554 334 LINE"
 );
 },
 {
@@ -44983,7 +44983,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45007,7 +45007,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45029,7 +45029,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45050,7 +45050,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45072,7 +45072,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45097,7 +45097,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45120,7 +45120,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
@@ -45144,7 +45144,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
+    w,
     i,
     b,
     e,
