@@ -44997,6 +44997,28 @@ value = (
 );
 }
 );
+interpolationWeight = 800;
+name = Heavy;
+weightClass = UltraBold;
+},
+{
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+    w,
+    i,
+    b,
+    e,
+    r,
+    v,
+    e,
+    n,
+    o,
+    m
+);
+}
+);
 interpolationWeight = 700;
 isBold = 1;
 linkStyle = Light;
@@ -45184,15 +45206,10 @@ value = (
 );
 }
 );
-interpolationWeight = 900;
-name = Regular;
-weightClass = Black;
-},
-{
 interpolationCustom = 100;
-interpolationWeight = 900;
-name = Regular;
-weightClass = Black;
+interpolationWeight = 800;
+name = "Heavy Expanded";
+weightClass = ExtraBold;
 widthClass = Expanded;
 }
 );
