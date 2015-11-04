@@ -56297,28 +56297,66 @@ rightKerningGroup = notdef.001;
 keepAlternatesTogether = 1;
 instances = (
 {
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
+    H,
+    O,
+    D
+);
+}
+);
 interpolationWeight = 800;
 name = Bold;
-},
-{
-interpolationWeight = 700;
-name = SemiBold;
 },
 {
 customParameters = (
 {
 name = "Instance Preview";
 value = (
-    w,
+    a,
+    d,
+    h,
+    e,
+    s,
     i,
-    b,
-    e,
-    r,
-    v,
-    e,
-    n,
     o,
-    m
+    n,
+    H,
+    O,
+    D
+);
+}
+);
+interpolationWeight = 700;
+name = DemiBold;
+weightClass = DemiBold;
+},
+{
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
+    H,
+    O,
+    D
 );
 }
 );
@@ -56330,16 +56368,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    w,
+    a,
+    d,
+    h,
+    e,
+    s,
     i,
-    b,
-    e,
-    r,
-    v,
-    e,
-    n,
     o,
-    m
+    n,
+    H,
+    O,
+    D
 );
 }
 );
@@ -56348,11 +56387,47 @@ name = Regular;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
+    H,
+    O,
+    D
+);
+}
+);
 interpolationWeight = 250;
 name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
+    H,
+    O,
+    D
+);
+}
+);
 interpolationCustom = 100;
 interpolationWeight = 250;
 name = "Thin Expanded";
@@ -56363,16 +56438,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    w,
+    a,
+    d,
+    h,
+    e,
+    s,
     i,
-    b,
-    e,
-    r,
-    v,
-    e,
-    n,
     o,
-    m
+    n,
+    H,
+    O,
+    D
 );
 }
 );
@@ -56386,16 +56462,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    w,
+    a,
+    d,
+    h,
+    e,
+    s,
     i,
-    b,
-    e,
-    r,
-    v,
-    e,
-    n,
     o,
-    m
+    n,
+    H,
+    O,
+    D
 );
 }
 );
@@ -56410,16 +56487,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    w,
+    a,
+    d,
+    h,
+    e,
+    s,
     i,
-    b,
-    e,
-    r,
-    v,
-    e,
-    n,
     o,
-    m
+    n,
+    H,
+    O,
+    D
 );
 }
 );
@@ -56427,8 +56505,8 @@ interpolationCustom = 100;
 interpolationWeight = 700;
 isBold = 1;
 linkStyle = "Light Extended";
-name = "Bold Expanded";
-weightClass = Bold;
+name = "DemiBold Expanded";
+weightClass = DemiBold;
 widthClass = Expanded;
 },
 {
@@ -56436,23 +56514,24 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    w,
+    a,
+    d,
+    h,
+    e,
+    s,
     i,
-    b,
-    e,
-    r,
-    v,
-    e,
-    n,
     o,
-    m
+    n,
+    H,
+    O,
+    D
 );
 }
 );
 interpolationCustom = 100;
 interpolationWeight = 800;
-name = "Heavy Expanded";
-weightClass = ExtraBold;
+name = "Bold Expanded";
+weightClass = Bold;
 widthClass = Expanded;
 }
 );
