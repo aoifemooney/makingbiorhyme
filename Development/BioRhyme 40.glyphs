@@ -56444,6 +56444,13 @@ name = "Thin Expanded";
 weightClass = Thin;
 },
 {
+interpolationCustom = 200;
+interpolationWeight = 350;
+name = "Light Expanded";
+weightClass = Light;
+widthClass = Expanded;
+},
+{
 customParameters = (
 {
 name = "Instance Preview";
@@ -56542,13 +56549,6 @@ interpolationCustom = 100;
 interpolationWeight = 800;
 name = "Bold Expanded";
 weightClass = Bold;
-widthClass = Expanded;
-},
-{
-interpolationCustom = 200;
-interpolationWeight = 350;
-name = "Light Expanded";
-weightClass = Light;
 widthClass = Expanded;
 }
 );
