@@ -45165,6 +45165,28 @@ linkStyle = "Light Extended";
 name = "Bold Expanded";
 weightClass = Bold;
 widthClass = Expanded;
+},
+{
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+    w,
+    i,
+    b,
+    e,
+    r,
+    v,
+    e,
+    n,
+    o,
+    m
+);
+}
+);
+interpolationWeight = 900;
+name = Regular;
+weightClass = Black;
 }
 );
 kerning = {
