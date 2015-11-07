@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="443"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="220" y="210"/>
+      <point x="278" y="252"/>
+      <point x="305" y="251" type="curve"/>
+      <point x="305" y="181" type="line"/>
+      <point x="414" y="181" type="line"/>
+      <point x="414" y="366" type="line"/>
+      <point x="361" y="366" type="line" smooth="yes"/>
+      <point x="299" y="366"/>
+      <point x="221" y="304"/>
+      <point x="168" y="223" type="curve"/>
+      <point x="168" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="90" type="line"/>
+      <point x="25" y="90" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="357" type="line"/>
+      <point x="96" y="357" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="267" type="line"/>
+      <point x="203" y="357" type="line"/>
+      <point x="25" y="357" type="line"/>
+      <point x="25" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="357" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="271" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
+    </dict>
+  </lib>
+</glyph>
