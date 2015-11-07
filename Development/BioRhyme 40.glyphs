@@ -26,7 +26,9 @@ a,
 "",
 "",
 /Acircumflexhookabove,
-/circumflexcomb
+/circumflexcomb,
+A,
+/acutecomb
 );
 classes = (
 {
@@ -392,13 +394,17 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:21:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{518, 0}";
+},
+{
+name = hook;
+position = "{608, 585}";
 },
 {
 name = ogonek;
@@ -469,6 +475,10 @@ anchors = (
 {
 name = bottom;
 position = "{347, 0}";
+},
+{
+name = hook;
+position = "{412, 631}";
 },
 {
 name = ogonek;
@@ -594,6 +604,10 @@ name = bottom;
 position = "{334, 0}";
 },
 {
+name = hook;
+position = "{410, 580}";
+},
+{
 name = ogonek;
 position = "{573, 13}";
 },
@@ -662,6 +676,10 @@ anchors = (
 {
 name = bottom;
 position = "{350, 0}";
+},
+{
+name = hook;
+position = "{419, 638}";
 },
 {
 name = ogonek;
@@ -1158,7 +1176,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2015-11-07 18:52:58 +0000";
+lastChange = "2015-11-07 19:21:19 +0000";
 layers = (
 {
 components = (
@@ -1207,6 +1225,7 @@ transform = "{1, 0, 0, 1, 186, 79}";
 },
 {
 name = hookabovecomb;
+transform = "{1, 0, 0, 1, 307, 182}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -3018,7 +3037,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2015-11-04 04:47:07 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -3058,7 +3077,7 @@ transform = "{1, 0, 0, 1, 0, 20}";
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 651;
+width = 647;
 },
 {
 components = (
@@ -3612,7 +3631,7 @@ unicode = 00CA;
 },
 {
 glyphname = Edieresis;
-lastChange = "2015-11-04 04:47:07 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -3649,12 +3668,12 @@ name = E;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 88, 127}";
+transform = "{1, 0, 0, 1, 84, 127}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 626;
+width = 622;
 },
 {
 components = (
@@ -5489,7 +5508,7 @@ unicode = 00CD;
 },
 {
 glyphname = Icircumflex;
-lastChange = "2015-11-04 04:47:07 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -5526,12 +5545,12 @@ name = I;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 15, 109}";
+transform = "{1, 0, 0, 1, 11, 79}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 353;
+width = 345;
 },
 {
 components = (
@@ -5554,7 +5573,7 @@ unicode = 00CE;
 },
 {
 glyphname = Idieresis;
-lastChange = "2015-11-04 04:47:07 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -5591,12 +5610,12 @@ name = I;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -40, 127}";
+transform = "{1, 0, 0, 1, -44, 127}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 353;
+width = 345;
 },
 {
 components = (
@@ -7434,7 +7453,7 @@ unicode = 004E;
 },
 {
 glyphname = Ntilde;
-lastChange = "2015-11-04 04:47:07 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -7471,12 +7490,12 @@ name = N;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 169, 99}";
+transform = "{1, 0, 0, 1, 165, 99}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 724;
+width = 720;
 },
 {
 components = (
@@ -12340,7 +12359,7 @@ unicode = 00DA;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -12377,7 +12396,7 @@ name = U;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 180, 79}";
+transform = "{1, 0, 0, 1, 180, 49}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -13236,7 +13255,7 @@ unicode = 1E82;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -13273,7 +13292,7 @@ name = W;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 277, 109}";
+transform = "{1, 0, 0, 1, 277, 79}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -14220,7 +14239,7 @@ unicode = 00DD;
 },
 {
 glyphname = Ycircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:17:54 +0000";
 layers = (
 {
 components = (
@@ -14257,7 +14276,7 @@ name = Y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 155, 79}";
+transform = "{1, 0, 0, 1, 155, 49}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -21965,7 +21984,7 @@ unicode = 00ED;
 },
 {
 glyphname = icircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -22002,7 +22021,7 @@ name = idotless;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -22, -54}";
+transform = "{1, 0, 0, 1, -22, -84}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -29821,7 +29840,7 @@ unicode = 00FA;
 },
 {
 glyphname = ucircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -29858,7 +29877,7 @@ name = u;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 62, -64}";
+transform = "{1, 0, 0, 1, 62, -94}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -30716,7 +30735,7 @@ unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -30753,7 +30772,7 @@ name = w;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 190, -54}";
+transform = "{1, 0, 0, 1, 190, -84}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -32049,7 +32068,7 @@ unicode = 00FD;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2015-11-04 04:20:39 +0000";
+lastChange = "2015-11-07 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -32086,7 +32105,7 @@ name = y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 98, -54}";
+transform = "{1, 0, 0, 1, 98, -84}";
 }
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
@@ -37876,7 +37895,7 @@ unicode = 00BD;
 },
 {
 glyphname = onequarter;
-lastChange = "2015-11-04 04:47:48 +0000";
+lastChange = "2015-11-07 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -37930,7 +37949,7 @@ transform = "{1, 0, 0, 1, 360, 0}";
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 675;
+width = 660;
 },
 {
 components = (
@@ -37959,7 +37978,7 @@ unicode = 00BC;
 },
 {
 glyphname = threequarters;
-lastChange = "2015-11-04 04:47:48 +0000";
+lastChange = "2015-11-07 19:18:22 +0000";
 layers = (
 {
 components = (
@@ -38013,7 +38032,7 @@ transform = "{1, 0, 0, 1, 381, 0}";
 );
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
-width = 696;
+width = 681;
 },
 {
 components = (
@@ -56019,12 +56038,12 @@ unicode = 0338;
 },
 {
 glyphname = hookabovecomb;
-lastChange = "2015-11-07 19:17:41 +0000";
+lastChange = "2015-11-07 19:18:54 +0000";
 layers = (
 {
 anchors = (
 {
-name = hook;
+name = _hook;
 position = "{178, 437}";
 }
 );
@@ -56062,7 +56081,7 @@ width = 383;
 {
 anchors = (
 {
-name = hook;
+name = _hook;
 position = "{179, 431}";
 }
 );
@@ -56100,7 +56119,7 @@ width = 600;
 {
 anchors = (
 {
-name = hook;
+name = _hook;
 position = "{105, 449}";
 }
 );
@@ -56138,7 +56157,7 @@ width = 258;
 {
 anchors = (
 {
-name = hook;
+name = _hook;
 position = "{98, 449}";
 }
 );
