@@ -21,7 +21,8 @@ w,
 "HOHOHHHH\012OOO",
 "HOHOHOoHhHHHHDEFGIJ\012OOOOO\012MOONPOP",
 JoUo,
-a
+a,
+/hookabovecomb
 );
 classes = (
 {
@@ -1148,6 +1149,32 @@ width = 696;
 leftKerningGroup = A;
 rightKerningGroup = A;
 unicode = 00C2;
+},
+{
+glyphname = Acircumflexhookabove;
+layers = (
+{
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = SemiBold;
+width = 600;
+},
+{
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 600;
+}
+);
+unicode = 1EA8;
 },
 {
 glyphname = Adieresis;
@@ -55932,6 +55959,66 @@ width = 434;
 leftKerningGroup = slash;
 rightKerningGroup = slash;
 unicode = 0338;
+},
+{
+glyphname = hookabovecomb;
+lastChange = "2015-11-07 18:41:05 +0000";
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+position = "{205, -164}";
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"214 440 LINE",
+"271 472 OFFCURVE",
+"313 511 OFFCURVE",
+"313 554 CURVE SMOOTH",
+"313 606 OFFCURVE",
+"258 636 OFFCURVE",
+"193 636 CURVE SMOOTH",
+"138 636 OFFCURVE",
+"98 616 OFFCURVE",
+"70 598 CURVE",
+"80 578 LINE",
+"106 595 OFFCURVE",
+"145 613 OFFCURVE",
+"193 613 CURVE SMOOTH",
+"245 613 OFFCURVE",
+"288 590 OFFCURVE",
+"288 551 CURVE SMOOTH",
+"288 511 OFFCURVE",
+"245 476 OFFCURVE",
+"204 449 CURVE"
+);
+}
+);
+width = 383;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 600;
+},
+{
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = SemiBold;
+width = 600;
+},
+{
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 600;
+}
+);
+unicode = 0309;
 },
 {
 glyphname = commaturnedmod;
