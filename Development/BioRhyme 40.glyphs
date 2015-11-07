@@ -56019,13 +56019,13 @@ unicode = 0338;
 },
 {
 glyphname = hookabovecomb;
-lastChange = "2015-11-07 18:55:41 +0000";
+lastChange = "2015-11-07 19:17:41 +0000";
 layers = (
 {
 anchors = (
 {
-name = top;
-position = "{178, 429}";
+name = hook;
+position = "{178, 437}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -56062,8 +56062,8 @@ width = 383;
 {
 anchors = (
 {
-name = top;
-position = "{178, 419}";
+name = hook;
+position = "{179, 431}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -56098,6 +56098,12 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = hook;
+position = "{105, 449}";
+}
+);
 layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
 name = SemiBold;
 paths = (
@@ -56130,8 +56136,41 @@ nodes = (
 width = 258;
 },
 {
+anchors = (
+{
+name = hook;
+position = "{98, 449}";
+}
+);
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"171 470 LINE",
+"196 496 OFFCURVE",
+"217 523 OFFCURVE",
+"217 561 CURVE SMOOTH",
+"217 603 OFFCURVE",
+"176 630 OFFCURVE",
+"131 630 CURVE SMOOTH",
+"95 630 OFFCURVE",
+"69 622 OFFCURVE",
+"45 609 CURVE",
+"65 548 LINE",
+"82 558 OFFCURVE",
+"100 564 OFFCURVE",
+"117 564 CURVE SMOOTH",
+"138 564 OFFCURVE",
+"149 552 OFFCURVE",
+"149 535 CURVE SMOOTH",
+"149 517 OFFCURVE",
+"140 502 OFFCURVE",
+"129 484 CURVE"
+);
+}
+);
 width = 600;
 }
 );
