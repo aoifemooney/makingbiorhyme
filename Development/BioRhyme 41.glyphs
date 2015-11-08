@@ -30,7 +30,8 @@ a,
 "\U00C3",
 /dieresiscomb,
 "\U00C4/dieresiscomb",
-"OO\U00D8\U00F8"
+"OO\U00D8\U00F8",
+/hbar
 );
 classes = (
 {
@@ -6170,20 +6171,35 @@ unicode = 00D2;
 },
 {
 glyphname = Oslash;
-lastChange = "2015-11-08 16:18:11 +0000";
+lastChange = "2015-11-08 16:20:08 +0000";
 layers = (
 {
 components = (
 {
 name = O;
-},
-{
-name = slashlongcomb;
-transform = "{1, 0, 0, 1, 250, 20}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"335 9 LINE",
+"338 15 LINE",
+"591 503 LINE",
+"595 510 LINE",
+"632 581 LINE",
+"604 581 LINE",
+"569 514 LINE",
+"565 507 LINE",
+"313 23 LINE",
+"308 14 LINE",
+"271 -59 LINE",
+"299 -59 LINE"
+);
+}
+);
 width = 906;
 },
 {
@@ -19104,20 +19120,48 @@ unicode = 00F2;
 },
 {
 glyphname = oslash;
-lastChange = "2015-11-08 16:17:50 +0000";
+lastChange = "2015-11-08 16:21:13 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"577 501 LINE",
+"549 501 LINE",
+"216 -139 LINE",
+"244 -139 LINE"
+);
+}
+);
+};
 components = (
 {
 name = o;
-},
-{
-name = slashlongcomb;
-transform = "{1, 0, 0, 1, 195, -60}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"318 2 LINE",
+"323 12 LINE",
+"496 347 LINE",
+"501 356 LINE",
+"529 411 LINE",
+"501 411 LINE",
+"475 360 LINE",
+"470 351 LINE",
+"297 16 LINE",
+"292 7 LINE",
+"258 -59 LINE",
+"286 -59 LINE"
+);
+}
+);
 width = 799;
 },
 {
