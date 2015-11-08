@@ -29,7 +29,8 @@ a,
 /acutecomb,
 "\U00C3",
 /dieresiscomb,
-"\U00C4/dieresiscomb"
+"\U00C4/dieresiscomb",
+"\U00D8\U00F8"
 );
 classes = (
 {
@@ -6169,7 +6170,7 @@ unicode = 00D2;
 },
 {
 glyphname = Oslash;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:11:49 +0000";
 layers = (
 {
 components = (
@@ -6203,14 +6204,21 @@ width = 606;
 components = (
 {
 name = O;
-},
-{
-name = slashlongcomb;
-transform = "{1, 0, 0, 1, 95, 20}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"506 581 LINE",
+"404 581 LINE",
+"110 -59 LINE",
+"212 -59 LINE"
+);
+}
+);
 width = 617;
 }
 );
@@ -19073,7 +19081,7 @@ unicode = 00F2;
 },
 {
 glyphname = oslash;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:11:58 +0000";
 layers = (
 {
 components = (
@@ -19107,14 +19115,21 @@ width = 460;
 components = (
 {
 name = o;
-},
-{
-name = slashlongcomb;
-transform = "{1, 0, 0, 1, 22, -65}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"433 496 LINE",
+"331 496 LINE",
+"37 -144 LINE",
+"139 -144 LINE"
+);
+}
+);
 width = 453;
 }
 );
