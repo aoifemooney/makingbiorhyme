@@ -31,7 +31,8 @@ a,
 /dieresiscomb,
 "\U00C4/dieresiscomb",
 "OO\U00D8\U00F8",
-/hbar
+/hbar,
+vw
 );
 classes = (
 {
@@ -19626,7 +19627,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:24:02 +0000";
 layers = (
 {
 anchors = (
@@ -19934,17 +19935,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"195 -157 LINE",
+"195 -137 LINE",
 "195 357 LINE",
 "79 357 LINE",
-"79 -157 LINE"
+"79 -137 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "186 267 LINE",
-"192 357 LINE",
+"187 357 LINE",
 "8 357 LINE",
 "8 267 LINE"
 );
@@ -20439,7 +20440,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:24:15 +0000";
 layers = (
 {
 anchors = (
@@ -20628,10 +20629,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"211 0 LINE",
+"211 30 LINE",
 "211 357 LINE",
 "96 357 LINE",
-"96 0 LINE"
+"96 30 LINE"
 );
 },
 {
@@ -20949,7 +20950,7 @@ unicode = 0073;
 },
 {
 glyphname = germandbls;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:24:25 +0000";
 layers = (
 {
 background = {
@@ -21246,8 +21247,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"204 0 LINE",
-"204 90 LINE",
+"184 0 LINE",
+"184 90 LINE",
 "25 90 LINE",
 "25 0 LINE"
 );
@@ -21255,8 +21256,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"204 267 LINE",
-"204 357 LINE",
+"184 267 LINE",
+"184 357 LINE",
 "25 357 LINE",
 "25 267 LINE"
 );
@@ -21827,7 +21828,7 @@ rightKerningGroup = t.alt;
 },
 {
 glyphname = u;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:24:54 +0000";
 layers = (
 {
 anchors = (
@@ -22102,8 +22103,8 @@ nodes = (
 "185 97 OFFCURVE",
 "172 128 OFFCURVE",
 "172 168 CURVE SMOOTH",
-"172 356 LINE",
-"57 356 LINE",
+"172 357 LINE",
+"57 357 LINE",
 "57 168 LINE SMOOTH",
 "57 50 OFFCURVE",
 "106 -10 OFFCURVE",
@@ -22113,8 +22114,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"174 267 LINE",
-"174 357 LINE",
+"154 267 LINE",
+"154 357 LINE",
 "-5 357 LINE",
 "-5 267 LINE"
 );
@@ -22160,7 +22161,7 @@ unicode = 0075;
 },
 {
 glyphname = u.alt;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:25:08 +0000";
 layers = (
 {
 anchors = (
@@ -22455,8 +22456,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"174 267 LINE",
-"174 357 LINE",
+"154 267 LINE",
+"154 357 LINE",
 "-5 357 LINE",
 "-5 267 LINE"
 );
@@ -22891,7 +22892,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 16:26:31 +0000";
 layers = (
 {
 anchors = (
@@ -23099,13 +23100,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"247 -20 LINE",
-"448 343 LINE",
-"346 343 LINE",
+"340 325 LINE",
 "229 109 LINE",
-"126 343 LINE",
-"1 343 LINE",
-"184 -20 LINE"
+"144 303 LINE",
+"21 303 LINE",
+"184 -20 LINE",
+"247 -20 LINE",
+"438 325 LINE"
 );
 },
 {
@@ -23120,13 +23121,13 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"507 -20 LINE",
-"702 343 LINE",
-"601 343 LINE",
+"579 298 LINE",
 "485 109 LINE",
-"411 273 LINE",
-"353 154 LINE",
-"443 -20 LINE"
+"391 310 LINE",
+"332 195 LINE",
+"443 -20 LINE",
+"507 -20 LINE",
+"678 298 LINE"
 );
 },
 {
@@ -23134,8 +23135,8 @@ closed = 1;
 nodes = (
 "447 267 LINE",
 "447 357 LINE",
-"295 357 LINE",
-"295 267 LINE"
+"285 357 LINE",
+"285 267 LINE"
 );
 },
 {
