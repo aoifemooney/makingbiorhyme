@@ -38,7 +38,8 @@ a,
 "\U00C6",
 "HZHSV /Hbar PF ",
 "?",
-"\U00BFH?"
+"\U00BFH?",
+MZ/z.alt
 );
 classes = (
 {
@@ -4964,7 +4965,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 19:09:20 +0000";
 layers = (
 {
 anchors = (
@@ -5320,7 +5321,8 @@ nodes = (
 "435 -1 LINE",
 "462 86 LINE",
 "244 520 LINE",
-"118 520 LINE",
+"148 520 LINE",
+"237 288 LINE",
 "386 -1 LINE"
 );
 },
@@ -5337,7 +5339,8 @@ nodes = (
 closed = 1;
 nodes = (
 "225 54 LINE",
-"225 520 LINE",
+"225 288 LINE",
+"205 520 LINE",
 "110 520 LINE",
 "110 54 LINE"
 );
@@ -5364,6 +5367,7 @@ nodes = (
 closed = 1;
 nodes = (
 "453 -1 LINE",
+"602 288 LINE",
 "721 520 LINE",
 "600 520 LINE",
 "387 86 LINE",
@@ -5376,6 +5380,7 @@ nodes = (
 "735 54 LINE",
 "735 520 LINE",
 "613 520 LINE",
+"613 288 LINE",
 "613 54 LINE"
 );
 },
