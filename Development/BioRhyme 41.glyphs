@@ -19081,7 +19081,7 @@ unicode = 00F2;
 },
 {
 glyphname = oslash;
-lastChange = "2015-11-08 16:11:58 +0000";
+lastChange = "2015-11-08 16:14:56 +0000";
 layers = (
 {
 components = (
@@ -19112,6 +19112,19 @@ name = Light;
 width = 460;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"433 496 LINE",
+"331 496 LINE",
+"37 -144 LINE",
+"139 -144 LINE"
+);
+}
+);
+};
 components = (
 {
 name = o;
@@ -19123,10 +19136,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"433 496 LINE",
-"331 496 LINE",
-"37 -144 LINE",
-"139 -144 LINE"
+"226 43 LINE",
+"223 58 LINE",
+"318 269 LINE",
+"332 275 LINE",
+"393 411 LINE",
+"291 411 LINE",
+"245 310 LINE",
+"248 295 LINE",
+"147 69 LINE",
+"131 59 LINE",
+"77 -59 LINE",
+"179 -59 LINE"
 );
 }
 );
