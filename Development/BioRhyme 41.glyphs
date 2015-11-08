@@ -25,7 +25,7 @@ a,
 /hookabovecomb,
 /Acircumflexhookabove,
 /circumflexcomb,
-f,
+/hbar,
 /acutecomb,
 "\U00C3",
 /dieresiscomb,
@@ -14556,7 +14556,7 @@ unicode = 00E8;
 },
 {
 glyphname = f;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 15:57:30 +0000";
 layers = (
 {
 anchors = (
@@ -14784,8 +14784,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"96 0 LINE",
-"209 0 LINE",
+"96 50 LINE",
+"209 50 LINE",
 "209 403 LINE",
 "209 427 OFFCURVE",
 "232 454 OFFCURVE",
@@ -14822,7 +14822,7 @@ unicode = 0066;
 },
 {
 glyphname = f.alt;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 15:57:40 +0000";
 layers = (
 {
 anchors = (
@@ -15019,8 +15019,8 @@ nodes = (
 "37 404 OFFCURVE",
 "65 378 OFFCURVE",
 "96 360 CURVE",
-"96 0 LINE",
-"211 0 LINE",
+"96 50 LINE",
+"211 50 LINE",
 "211 348 LINE",
 "181 358 OFFCURVE",
 "157 379 OFFCURVE",
@@ -15068,7 +15068,7 @@ rightKerningGroup = f.alt;
 },
 {
 glyphname = g;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 15:57:54 +0000";
 layers = (
 {
 anchors = (
@@ -15405,11 +15405,11 @@ width = 431;
 anchors = (
 {
 name = bottom;
-position = "{205, -167}";
+position = "{225, -161}";
 },
 {
 name = top;
-position = "{216, 363}";
+position = "{214, 367}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -15521,7 +15521,7 @@ unicode = 0067;
 },
 {
 glyphname = g.alt;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 15:58:03 +0000";
 layers = (
 {
 anchors = (
@@ -15703,11 +15703,11 @@ width = 469;
 anchors = (
 {
 name = bottom;
-position = "{243, -210}";
+position = "{244, -190}";
 },
 {
 name = top;
-position = "{243, 387}";
+position = "{243, 365}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -16059,7 +16059,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-11-08 15:45:12 +0000";
+lastChange = "2015-11-08 15:58:22 +0000";
 layers = (
 {
 components = (
@@ -16115,10 +16115,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-3 419 LINE",
-"-3 361 LINE",
-"468 361 LINE",
-"468 419 LINE"
+"7 409 LINE",
+"7 381 LINE",
+"468 381 LINE",
+"468 409 LINE"
 );
 }
 );
