@@ -16059,7 +16059,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-11-08 15:58:22 +0000";
+lastChange = "2015-11-08 16:01:27 +0000";
 layers = (
 {
 components = (
@@ -16115,14 +16115,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"7 409 LINE",
-"7 381 LINE",
-"468 381 LINE",
-"468 409 LINE"
+"9 469 LINE",
+"9 411 LINE",
+"478 411 LINE",
+"478 469 LINE"
 );
 }
 );
 width = 537;
+},
+{
+associatedMasterId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+components = (
+{
+name = h;
+}
+);
+layerId = "FA480B27-EBBD-4830-9868-98507D39050C";
+name = SemiBold;
+paths = (
+{
+closed = 1;
+nodes = (
+"5 426 LINE",
+"5 374 LINE",
+"465 374 LINE",
+"465 426 LINE"
+);
+}
+);
+width = 539;
 }
 );
 leftKerningGroup = h;
