@@ -30,7 +30,7 @@ a,
 "\U00C3",
 /dieresiscomb,
 "\U00C4/dieresiscomb",
-"\U00D8\U00F8"
+"OO\U00D8\U00F8"
 );
 classes = (
 {
@@ -6170,7 +6170,7 @@ unicode = 00D2;
 },
 {
 glyphname = Oslash;
-lastChange = "2015-11-08 16:15:20 +0000";
+lastChange = "2015-11-08 16:18:11 +0000";
 layers = (
 {
 components = (
@@ -6190,14 +6190,29 @@ width = 906;
 components = (
 {
 name = O;
-},
-{
-name = slashlongcomb;
-transform = "{1, 0, 0, 1, 150, 20}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"219 11 LINE",
+"222 19 LINE",
+"397 498 LINE",
+"400 506 LINE",
+"427 581 LINE",
+"402 581 LINE",
+"377 513 LINE",
+"374 506 LINE",
+"201 28 LINE",
+"198 21 LINE",
+"169 -59 LINE",
+"194 -59 LINE"
+);
+}
+);
 width = 606;
 },
 {
@@ -6212,27 +6227,18 @@ paths = (
 {
 closed = 1;
 nodes = (
+"259 43 LINE",
+"256 58 LINE",
+"431 439 LINE",
+"445 445 LINE",
 "506 581 LINE",
 "404 581 LINE",
+"358 480 LINE",
+"361 465 LINE",
+"180 69 LINE",
+"164 59 LINE",
 "110 -59 LINE",
 "212 -59 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"302 132 LINE",
-"299 147 LINE",
-"394 358 LINE",
-"408 364 LINE",
-"469 500 LINE",
-"367 500 LINE",
-"321 399 LINE",
-"324 384 LINE",
-"223 158 LINE",
-"207 148 LINE",
-"153 30 LINE",
-"255 30 LINE"
 );
 }
 );
@@ -19098,7 +19104,7 @@ unicode = 00F2;
 },
 {
 glyphname = oslash;
-lastChange = "2015-11-08 16:14:56 +0000";
+lastChange = "2015-11-08 16:17:50 +0000";
 layers = (
 {
 components = (
@@ -19115,17 +19121,45 @@ name = "Light Extended";
 width = 799;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"361 496 LINE",
+"336 496 LINE",
+"103 -144 LINE",
+"128 -144 LINE"
+);
+}
+);
+};
 components = (
 {
 name = o;
-},
-{
-name = slashlongcomb;
-transform = "{1, 0, 0, 1, 84, -65}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"181 3 LINE",
+"184 12 LINE",
+"303 337 LINE",
+"306 344 LINE",
+"331 411 LINE",
+"306 411 LINE",
+"285 353 LINE",
+"282 346 LINE",
+"161 18 LINE",
+"158 11 LINE",
+"133 -59 LINE",
+"158 -59 LINE"
+);
+}
+);
 width = 460;
 },
 {
@@ -19153,18 +19187,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"226 43 LINE",
-"223 58 LINE",
-"318 269 LINE",
-"332 275 LINE",
-"393 411 LINE",
-"291 411 LINE",
-"245 310 LINE",
-"248 295 LINE",
-"147 69 LINE",
-"131 59 LINE",
-"77 -59 LINE",
-"179 -59 LINE"
+"218 43 LINE",
+"215 58 LINE",
+"310 269 LINE",
+"324 275 LINE",
+"385 411 LINE",
+"283 411 LINE",
+"237 310 LINE",
+"240 295 LINE",
+"139 69 LINE",
+"123 59 LINE",
+"69 -59 LINE",
+"171 -59 LINE"
 );
 }
 );
