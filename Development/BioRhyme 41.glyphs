@@ -32,7 +32,7 @@ a,
 "\U00C4/dieresiscomb",
 "OO\U00D8\U00F8",
 /hbar,
-"vn/x.alt n"
+"vn/x.alt vn"
 );
 classes = (
 {
@@ -23614,7 +23614,7 @@ unicode = 0078;
 },
 {
 glyphname = x.alt;
-lastChange = "2015-11-08 16:45:58 +0000";
+lastChange = "2015-11-08 16:48:44 +0000";
 layers = (
 {
 anchors = (
@@ -23793,8 +23793,8 @@ closed = 1;
 nodes = (
 "228 -1 LINE",
 "228 89 LINE",
-"11 89 LINE",
-"11 -1 LINE"
+"16 89 LINE",
+"16 -1 LINE"
 );
 },
 {
@@ -23802,8 +23802,8 @@ closed = 1;
 nodes = (
 "228 267 LINE",
 "228 357 LINE",
-"11 357 LINE",
-"11 267 LINE"
+"16 357 LINE",
+"16 267 LINE"
 );
 },
 {
@@ -23824,13 +23824,26 @@ closed = 1;
 nodes = (
 "276 89 LINE",
 "276 -1 LINE",
-"493 -1 LINE",
-"493 89 LINE"
+"488 -1 LINE",
+"488 89 LINE"
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
+"276 357 LINE",
+"276 267 LINE",
+"488 267 LINE",
+"488 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"277 147 LINE",
+"464 279 LINE",
+"344 279 LINE",
+"240 208 LINE",
 "227 209 LINE",
 "40 77 LINE",
 "160 77 LINE",
