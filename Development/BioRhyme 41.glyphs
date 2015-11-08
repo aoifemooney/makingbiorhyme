@@ -4965,7 +4965,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2015-11-08 19:10:36 +0000";
+lastChange = "2015-11-08 19:12:39 +0000";
 layers = (
 {
 anchors = (
@@ -5064,7 +5064,9 @@ nodes = (
 "629 14 LINE",
 "263 520 LINE",
 "232 520 LINE",
-"616 -11 LINE"
+"360 343 OFFCURVE",
+"488 166 OFFCURVE",
+"616 -11 CURVE"
 );
 },
 {
@@ -5080,7 +5082,10 @@ nodes = (
 closed = 1;
 nodes = (
 "263 12 LINE",
-"263 520 LINE",
+"263 453 LINE",
+"263 475 OFFCURVE",
+"263 498 OFFCURVE",
+"263 520 CURVE",
 "238 520 LINE",
 "238 12 LINE"
 );
@@ -5119,6 +5124,9 @@ nodes = (
 "999 12 LINE",
 "999 520 LINE",
 "974 520 LINE",
+"974 498 OFFCURVE",
+"974 475 OFFCURVE",
+"974 453 CURVE",
 "974 12 LINE"
 );
 },
@@ -5247,7 +5255,10 @@ nodes = (
 closed = 1;
 nodes = (
 "166 12 LINE",
-"166 520 LINE",
+"166 447 LINE",
+"166 471 OFFCURVE",
+"166 496 OFFCURVE",
+"166 520 CURVE",
 "141 520 LINE",
 "141 12 LINE"
 );
@@ -5286,6 +5297,9 @@ nodes = (
 "679 12 LINE",
 "679 520 LINE",
 "654 520 LINE",
+"654 496 OFFCURVE",
+"654 471 OFFCURVE",
+"654 447 CURVE",
 "654 12 LINE"
 );
 },
@@ -5338,8 +5352,10 @@ nodes = (
 closed = 1;
 nodes = (
 "225 54 LINE",
-"225 259 LINE",
-"185 520 LINE",
+"225 229 LINE",
+"225 316 OFFCURVE",
+"198 463 OFFCURVE",
+"185 520 CURVE",
 "110 520 LINE",
 "110 54 LINE"
 );
@@ -5378,7 +5394,9 @@ nodes = (
 "735 54 LINE",
 "735 520 LINE",
 "663 520 LINE",
-"613 259 LINE",
+"646 463 OFFCURVE",
+"613 316 OFFCURVE",
+"613 229 CURVE SMOOTH",
 "613 54 LINE"
 );
 },
