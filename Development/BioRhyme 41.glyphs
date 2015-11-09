@@ -42,7 +42,8 @@ a,
 MZ/z.alt,
 M,
 "HUEBCO\012LDETTER RPCGROUPSOADINGSO",
-"c\U00A2S$C/euro \U00A3Y\U00A5&"
+"c\U00A2S$C/euro \U00A3Y\U00A5&",
+$
 );
 classes = (
 {
@@ -16254,12 +16255,21 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-11-08 16:06:32 +0000";
+lastChange = "2015-11-09 00:18:08 +0000";
 layers = (
 {
-components = (
+anchors = (
 {
-name = h;
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = center;
+position = "{450, 179}";
+},
+{
+name = top;
+position = "{450, 367}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -16268,19 +16278,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"11 456 LINE",
-"11 434 LINE",
+"737 0 LINE",
+"737 135 LINE",
+"737 257 OFFCURVE",
+"688 367 OFFCURVE",
+"532 367 CURVE SMOOTH",
+"396 367 OFFCURVE",
+"273 263 OFFCURVE",
+"209 211 CURVE",
+"209 188 LINE",
+"273 239 OFFCURVE",
+"396 344 OFFCURVE",
+"532 344 CURVE SMOOTH",
+"678 344 OFFCURVE",
+"712 237 OFFCURVE",
+"712 135 CURVE",
+"712 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"404 0 LINE",
+"404 23 LINE",
+"15 23 LINE",
+"15 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"222 0 LINE",
+"222 520 LINE",
+"15 520 LINE",
+"15 497 LINE",
+"197 497 LINE",
+"197 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"919 0 LINE",
+"919 23 LINE",
+"530 23 LINE",
+"530 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "751 434 LINE",
-"751 456 LINE"
+"751 456 LINE",
+"11 456 LINE",
+"11 434 LINE"
 );
 }
 );
 width = 886;
 },
 {
-components = (
+anchors = (
 {
-name = h;
+name = bottom;
+position = "{288, 0}";
+},
+{
+name = center;
+position = "{288, 179}";
+},
+{
+name = top;
+position = "{288, 387}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -16289,10 +16358,60 @@ paths = (
 {
 closed = 1;
 nodes = (
-"38 456 LINE",
-"38 434 LINE",
+"432 0 LINE",
+"432 234 LINE SMOOTH",
+"432 324 OFFCURVE",
+"385 367 OFFCURVE",
+"316 367 CURVE SMOOTH",
+"242 367 OFFCURVE",
+"178 315 OFFCURVE",
+"123 254 CURVE",
+"123 231 LINE",
+"179 294 OFFCURVE",
+"248 344 OFFCURVE",
+"311 344 CURVE SMOOTH",
+"375 344 OFFCURVE",
+"407 304 OFFCURVE",
+"407 229 CURVE SMOOTH",
+"407 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 0 LINE",
+"212 23 LINE",
+"20 23 LINE",
+"20 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 0 LINE",
+"137 520 LINE",
+"20 520 LINE",
+"20 497 LINE",
+"112 497 LINE",
+"112 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"514 0 LINE",
+"514 23 LINE",
+"332 23 LINE",
+"332 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "448 434 LINE",
-"448 456 LINE"
+"448 456 LINE",
+"38 456 LINE",
+"38 434 LINE"
 );
 }
 );
@@ -16316,15 +16435,6 @@ position = "{288, 363}";
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
 paths = (
-{
-closed = 1;
-nodes = (
-"8 474 LINE",
-"8 401 LINE",
-"317 401 LINE",
-"317 474 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -16358,6 +16468,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"195 0 LINE",
+"195 530 LINE",
+"79 530 LINE",
+"79 530 LINE",
+"79 437 LINE",
+"79 437 LINE",
+"79 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "543 0 LINE",
 "543 93 LINE",
 "310 93 LINE",
@@ -16367,13 +16489,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"79 530 LINE",
-"79 530 LINE",
-"79 437 LINE",
-"79 437 LINE",
-"79 0 LINE",
-"195 0 LINE",
-"195 530 LINE"
+"317 401 LINE",
+"317 474 LINE",
+"8 474 LINE",
+"8 401 LINE"
 );
 }
 );
@@ -34441,7 +34560,7 @@ unicode = 00A4;
 },
 {
 glyphname = dollar;
-lastChange = "2015-11-09 00:01:47 +0000";
+lastChange = "2015-11-09 00:18:27 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -34734,23 +34853,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"338 -111 LINE",
-"338 54 LINE",
-"332 67 LINE",
-"332 417 LINE",
-"338 431 LINE",
-"338 575 LINE",
-"250 575 LINE",
-"250 430 LINE",
-"256 416 LINE",
-"256 67 LINE",
-"250 52 LINE",
-"250 -111 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "452 -12 OFFCURVE",
 "524 38 OFFCURVE",
 "524 124 CURVE SMOOTH",
@@ -34797,6 +34899,23 @@ nodes = (
 "170 42 OFFCURVE",
 "240 -12 OFFCURVE",
 "348 -12 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"338 -111 LINE",
+"338 54 LINE",
+"332 67 LINE",
+"332 417 LINE",
+"338 431 LINE",
+"338 575 LINE",
+"250 575 LINE",
+"250 430 LINE",
+"256 416 LINE",
+"256 67 LINE",
+"250 52 LINE",
+"250 -111 LINE"
 );
 }
 );
@@ -42597,11 +42716,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
-    H,
-    O,
-    D,
-    "x.alt"
+    hbar
 );
 }
 );
