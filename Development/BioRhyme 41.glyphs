@@ -16262,7 +16262,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-11-09 00:18:08 +0000";
+lastChange = "2015-11-09 00:43:23 +0000";
 layers = (
 {
 anchors = (
@@ -16317,9 +16317,7 @@ closed = 1;
 nodes = (
 "222 0 LINE",
 "222 520 LINE",
-"15 520 LINE",
-"15 497 LINE",
-"197 497 LINE",
+"197 520 LINE",
 "197 0 LINE"
 );
 },
@@ -16337,8 +16335,17 @@ closed = 1;
 nodes = (
 "751 434 LINE",
 "751 456 LINE",
-"11 456 LINE",
-"11 434 LINE"
+"15 456 LINE",
+"15 434 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"15 520 LINE",
+"15 497 LINE",
+"209 497 LINE",
+"209 520 LINE"
 );
 }
 );
@@ -16395,12 +16402,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"112 0 LINE",
 "137 0 LINE",
 "137 520 LINE",
-"20 520 LINE",
-"20 497 LINE",
-"112 497 LINE",
-"112 0 LINE"
+"112 520 LINE"
 );
 },
 {
@@ -16419,6 +16424,15 @@ nodes = (
 "448 456 LINE",
 "38 456 LINE",
 "38 434 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"20 520 LINE",
+"20 497 LINE",
+"128 497 LINE",
+"128 520 LINE"
 );
 }
 );
@@ -16476,11 +16490,8 @@ nodes = (
 closed = 1;
 nodes = (
 "195 0 LINE",
-"195 530 LINE",
-"79 530 LINE",
-"79 530 LINE",
-"79 437 LINE",
-"79 437 LINE",
+"195 520 LINE",
+"79 520 LINE",
 "79 0 LINE"
 );
 },
@@ -16500,6 +16511,15 @@ nodes = (
 "317 474 LINE",
 "8 474 LINE",
 "8 401 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"79 520 LINE",
+"79 427 LINE",
+"192 427 LINE",
+"192 520 LINE"
 );
 }
 );
