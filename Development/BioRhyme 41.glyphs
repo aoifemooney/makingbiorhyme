@@ -95,6 +95,7 @@ name = ss04;
 fontMaster = (
 {
 alignmentZones = (
+"{775, 16}",
 "{630, 11}",
 "{560, 25}",
 "{520, 36}",
@@ -102,9 +103,10 @@ alignmentZones = (
 "{490, 27}",
 "{357, 20}",
 "{0, -11}",
-"{-165, -11}"
+"{-165, -11}",
+"{-225, -16}"
 );
-ascender = 520;
+ascender = 775;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -141,7 +143,7 @@ name = typoLineGap;
 value = "81";
 }
 );
-descender = -165;
+descender = -225;
 guideLines = (
 {
 position = "{727, 265}";
@@ -190,6 +192,7 @@ xHeight = 357;
 },
 {
 alignmentZones = (
+"{775, 16}",
 "{560, 11}",
 "{520, 36}",
 "{520, 11}",
@@ -198,9 +201,10 @@ alignmentZones = (
 "{333, 19}",
 "{0, -11}",
 "{-140, -11}",
-"{-165, -5}"
+"{-165, -5}",
+"{-225, -16}"
 );
-ascender = 520;
+ascender = 775;
 capHeight = 520;
 customParameters = (
 {
@@ -236,7 +240,7 @@ name = typoLineGap;
 value = "81";
 }
 );
-descender = -165;
+descender = -225;
 guideLines = (
 {
 position = "{102, -95}";
@@ -277,6 +281,7 @@ xHeight = 357;
 },
 {
 alignmentZones = (
+"{775, 16}",
 "{560, 11}",
 "{490, 31}",
 "{362, 21}",
@@ -286,7 +291,7 @@ alignmentZones = (
 "{0, -11}",
 "{-165, -16}"
 );
-ascender = 520;
+ascender = 775;
 capHeight = 520;
 customParameters = (
 {
@@ -322,7 +327,7 @@ name = typoLineGap;
 value = 81;
 }
 );
-descender = -165;
+descender = -225;
 horizontalStems = (
 96
 );
