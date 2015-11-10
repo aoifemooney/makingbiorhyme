@@ -58,7 +58,7 @@ A,
 /gravecomb/acutecomb/hungarumlautcomb,
 O,
 /gravecomb,
-DABCDHMS
+DAMBCDHMS
 );
 classes = (
 {
@@ -434,7 +434,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-10 18:32:32 +0000";
+lastChange = "2015-11-10 18:38:59 +0000";
 layers = (
 {
 anchors = (
@@ -683,23 +683,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"118 48 LINE",
-"328 467 LINE",
-"328 467 LINE",
-"538 48 LINE",
-"566 48 LINE",
-"331 509 LINE SMOOTH",
-"325 509 LINE",
-"93 48 LINE"
+"478 203 LINE",
+"461 226 LINE",
+"195 226 LINE",
+"177 203 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"478 203 LINE",
-"461 226 LINE",
-"195 226 LINE",
-"177 203 LINE"
+"309 509 LINE",
+"93 48 LINE",
+"118 48 LINE",
+"335 509 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"536 48 LINE",
+"564 48 LINE",
+"348 509 LINE",
+"319 509 LINE"
 );
 }
 );
@@ -6407,7 +6412,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2015-11-10 18:34:15 +0000";
+lastChange = "2015-11-10 18:40:01 +0000";
 layers = (
 {
 anchors = (
@@ -6869,41 +6874,37 @@ paths = (
 {
 closed = 1;
 nodes = (
-"422 29 LINE",
-"431 54 LINE",
-"160 509 LINE",
-"158 463 LINE",
-"417 29 LINE"
+"435 48 LINE",
+"190 520 LINE",
+"164 520 LINE",
+"408 48 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "179 35 LINE",
-"179 447 LINE",
-"160 509 LINE",
-"154 508 LINE",
+"180 520 LINE",
+"154 520 LINE",
 "154 35 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"423 29 LINE",
-"683 468 LINE",
-"680 509 LINE",
-"412 54 LINE",
-"418 29 LINE"
+"435 48 LINE",
+"674 509 LINE",
+"645 509 LINE",
+"408 48 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"686 35 LINE",
-"686 508 LINE",
-"680 509 LINE",
-"661 444 LINE",
-"661 35 LINE"
+"691 35 LINE",
+"691 509 LINE",
+"666 508 LINE",
+"666 35 LINE"
 );
 }
 );
