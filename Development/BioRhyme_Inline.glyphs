@@ -189,7 +189,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -428,6 +427,7 @@ id = "751C6B1B-F263-4325-91C2-F6642B60D73C";
 verticalStems = (
 25
 );
+visible = 1;
 weight = SemiLight;
 weightValue = 250;
 xHeight = 357;
@@ -436,7 +436,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-10 17:52:44 +0000";
+lastChange = "2015-11-10 17:55:23 +0000";
 layers = (
 {
 anchors = (
@@ -685,23 +685,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"125 13 LINE",
-"335 502 LINE",
-"335 502 LINE",
-"545 13 LINE",
-"573 13 LINE",
-"355 510 LINE SMOOTH",
-"315 510 LINE",
-"100 13 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"229 0 LINE",
-"229 23 LINE",
-"0 23 LINE",
-"0 0 LINE"
+"125 48 LINE",
+"335 467 LINE",
+"335 467 LINE",
+"545 48 LINE",
+"573 48 LINE",
+"355 475 LINE SMOOTH",
+"315 475 LINE",
+"100 48 LINE"
 );
 },
 {
@@ -711,24 +702,6 @@ nodes = (
 "468 221 LINE",
 "202 221 LINE",
 "184 198 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"672 0 LINE",
-"672 23 LINE",
-"444 23 LINE",
-"444 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"468 497 LINE",
-"468 520 LINE",
-"202 520 LINE",
-"202 497 LINE"
 );
 }
 );
@@ -2877,7 +2850,7 @@ unicode = 00C7;
 },
 {
 glyphname = D;
-lastChange = "2015-11-10 17:52:44 +0000";
+lastChange = "2015-11-10 17:54:40 +0000";
 layers = (
 {
 anchors = (
@@ -3059,33 +3032,33 @@ paths = (
 {
 closed = 1;
 nodes = (
-"278 0 LINE",
-"451 0 OFFCURVE",
-"563 99 OFFCURVE",
+"278 35 LINE",
+"451 35 OFFCURVE",
+"563 129 OFFCURVE",
 "563 260 CURVE",
-"563 421 OFFCURVE",
-"451 520 OFFCURVE",
-"278 520 CURVE",
-"30 520 LINE",
-"30 497 LINE",
-"278 497 LINE",
-"441 497 OFFCURVE",
-"538 404 OFFCURVE",
+"563 391 OFFCURVE",
+"451 485 OFFCURVE",
+"278 485 CURVE",
+"45 485 LINE",
+"45 462 LINE",
+"278 462 LINE",
+"441 462 OFFCURVE",
+"538 374 OFFCURVE",
 "538 260 CURVE",
-"538 116 OFFCURVE",
-"441 23 OFFCURVE",
-"278 23 CURVE",
-"30 23 LINE",
-"30 0 LINE"
+"538 146 OFFCURVE",
+"441 58 OFFCURVE",
+"278 58 CURVE",
+"45 58 LINE",
+"45 35 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"168 13 LINE",
-"168 507 LINE",
-"143 507 LINE",
-"143 13 LINE"
+"183 48 LINE",
+"183 472 LINE",
+"158 472 LINE",
+"158 48 LINE"
 );
 }
 );
