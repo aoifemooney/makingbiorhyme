@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-ABCSDHMS
+ABCSDHMS,
+ABCDHMAS
 );
 classes = (
 {
@@ -82,7 +83,7 @@ position = "{102, -95}";
 position = "{256, 29}";
 },
 {
-position = "{357, 500}";
+position = "{360, 511}";
 },
 {
 position = "{408, 357}";
@@ -111,7 +112,7 @@ glyphs = (
 {
 color = 4;
 glyphname = A;
-lastChange = "2015-11-10 19:37:11 +0000";
+lastChange = "2015-11-10 19:54:19 +0000";
 layers = (
 {
 anchors = (
@@ -217,21 +218,21 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"317 511 LINE",
-"541 29 LINE",
-"570 29 LINE",
-"340 521 LINE",
-"324 521 LINE"
+"317 491 LINE",
+"541 35 LINE",
+"570 35 LINE",
+"340 501 LINE",
+"324 501 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"337 521 LINE",
-"321 521 LINE",
-"91 29 LINE",
-"117 29 LINE",
-"343 512 LINE"
+"337 501 LINE",
+"321 501 LINE",
+"91 35 LINE",
+"117 35 LINE",
+"343 492 LINE"
 );
 }
 );
@@ -974,7 +975,7 @@ unicode = 0042;
 {
 color = 4;
 glyphname = C;
-lastChange = "2015-11-10 19:44:48 +0000";
+lastChange = "2015-11-10 19:55:05 +0000";
 layers = (
 {
 anchors = (
@@ -1055,13 +1056,13 @@ nodes = (
 "97 382 OFFCURVE",
 "187 478 OFFCURVE",
 "301 478 CURVE SMOOTH",
-"370 478 OFFCURVE",
-"415 461 OFFCURVE",
+"367 478 OFFCURVE",
+"418 459 OFFCURVE",
 "462 419 CURVE",
 "477 436 LINE",
-"433 478 OFFCURVE",
-"379 501 OFFCURVE",
-"301 501 CURVE SMOOTH",
+"434 476 OFFCURVE",
+"376 501 OFFCURVE",
+"306 501 CURVE SMOOTH",
 "173 501 OFFCURVE",
 "72 395 OFFCURVE",
 "72 260 CURVE SMOOTH",
@@ -1936,7 +1937,7 @@ unicode = 0047;
 {
 color = 4;
 glyphname = H;
-lastChange = "2015-11-10 19:29:05 +0000";
+lastChange = "2015-11-10 19:53:55 +0000";
 layers = (
 {
 anchors = (
@@ -2931,7 +2932,7 @@ unicode = 004C;
 {
 color = 4;
 glyphname = M;
-lastChange = "2015-11-10 19:37:27 +0000";
+lastChange = "2015-11-10 19:54:03 +0000";
 layers = (
 {
 anchors = (
@@ -3056,11 +3057,11 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"430 33 LINE",
+"430 34 LINE",
 "187 501 LINE",
 "161 499 LINE",
-"408 24 LINE",
-"424 24 LINE"
+"408 25 LINE",
+"424 25 LINE"
 );
 },
 {
@@ -3075,11 +3076,11 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"427 24 LINE",
+"427 25 LINE",
 "673 499 LINE",
 "648 501 LINE",
-"406 33 LINE",
-"411 24 LINE"
+"406 34 LINE",
+"411 25 LINE"
 );
 }
 );
@@ -4859,7 +4860,7 @@ rightKerningGroup = R.alt;
 {
 color = 4;
 glyphname = S;
-lastChange = "2015-11-10 19:43:15 +0000";
+lastChange = "2015-11-10 19:55:44 +0000";
 layers = (
 {
 anchors = (
