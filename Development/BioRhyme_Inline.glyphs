@@ -434,7 +434,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-10 19:05:13 +0000";
+lastChange = "2015-11-10 19:07:50 +0000";
 layers = (
 {
 anchors = (
@@ -6432,7 +6432,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2015-11-10 19:05:39 +0000";
+lastChange = "2015-11-10 19:10:09 +0000";
 layers = (
 {
 anchors = (
@@ -6934,27 +6934,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"178 35 LINE",
-"179 491 LINE",
-"154 491 LINE",
-"154 35 LINE"
+"188 35 LINE",
+"189 491 LINE",
+"163 491 LINE",
+"163 35 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"688 491 LINE",
-"661 491 LINE",
-"662 35 LINE",
-"688 35 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"433 39 LINE",
-"181 491 LINE",
-"152 491 LINE",
+"432 38 LINE",
+"189 491 LINE",
+"163 489 LINE",
 "410 29 LINE",
 "426 29 LINE"
 );
@@ -6962,11 +6953,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"413 29 LINE",
+"676 491 LINE",
+"650 491 LINE",
+"651 35 LINE",
+"676 35 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "429 29 LINE",
-"687 491 LINE",
-"661 491 LINE",
-"407 38 LINE"
+"675 489 LINE",
+"650 491 LINE",
+"408 38 LINE",
+"413 29 LINE"
 );
 }
 );
