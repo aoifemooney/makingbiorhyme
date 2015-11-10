@@ -57,7 +57,8 @@ A,
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb,
 /gravecomb/acutecomb/hungarumlautcomb,
 O,
-/gravecomb
+/gravecomb,
+DSC
 );
 classes = (
 {
@@ -1775,7 +1776,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2015-11-09 00:09:37 +0000";
+lastChange = "2015-11-10 20:03:08 +0000";
 layers = (
 {
 anchors = (
@@ -2135,19 +2136,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"397 -10 OFFCURVE",
-"496 33 OFFCURVE",
+"419 -10 OFFCURVE",
+"501 42 OFFCURVE",
 "554 123 CURVE",
 "476 188 LINE",
-"434 129 OFFCURVE",
-"380 90 OFFCURVE",
+"435 128 OFFCURVE",
+"390 90 OFFCURVE",
 "309 90 CURVE SMOOTH",
 "222 90 OFFCURVE",
 "153 164 OFFCURVE",
 "153 260 CURVE SMOOTH",
 "153 371 OFFCURVE",
-"229 435 OFFCURVE",
-"323 435 CURVE SMOOTH",
+"227 435 OFFCURVE",
+"312 435 CURVE SMOOTH",
 "394 435 OFFCURVE",
 "443 386 OFFCURVE",
 "469 331 CURVE",
@@ -2158,13 +2159,13 @@ nodes = (
 "495 399 LINE",
 "455 480 OFFCURVE",
 "390 530 OFFCURVE",
-"292 530 CURVE SMOOTH",
-"148 530 OFFCURVE",
-"25 410 OFFCURVE",
+"282 530 CURVE SMOOTH",
+"143 530 OFFCURVE",
+"25 420 OFFCURVE",
 "25 258 CURVE SMOOTH",
 "25 108 OFFCURVE",
-"145 -10 OFFCURVE",
-"297 -10 CURVE SMOOTH"
+"148 -10 OFFCURVE",
+"309 -10 CURVE SMOOTH"
 );
 }
 );
@@ -8440,7 +8441,7 @@ rightKerningGroup = R.alt;
 },
 {
 glyphname = S;
-lastChange = "2015-11-08 23:40:18 +0000";
+lastChange = "2015-11-10 20:02:21 +0000";
 layers = (
 {
 anchors = (
@@ -8675,10 +8676,10 @@ nodes = (
 "453 284 OFFCURVE",
 "338 315 CURVE SMOOTH",
 "232 344 OFFCURVE",
-"194 355 OFFCURVE",
-"194 383 CURVE SMOOTH",
+"194 358 OFFCURVE",
+"194 387 CURVE SMOOTH",
 "194 417 OFFCURVE",
-"220 434 OFFCURVE",
+"221 434 OFFCURVE",
 "264 434 CURVE SMOOTH",
 "337 434 OFFCURVE",
 "412 385 OFFCURVE",
@@ -8698,12 +8699,12 @@ nodes = (
 "116 237 OFFCURVE",
 "237 206 CURVE SMOOTH",
 "369 172 OFFCURVE",
-"416 158 OFFCURVE",
-"416 126 CURVE SMOOTH",
-"416 91 OFFCURVE",
-"384 84 OFFCURVE",
-"351 84 CURVE SMOOTH",
-"281 84 OFFCURVE",
+"416 155 OFFCURVE",
+"416 123 CURVE SMOOTH",
+"416 97 OFFCURVE",
+"392 84 OFFCURVE",
+"356 84 CURVE SMOOTH",
+"286 84 OFFCURVE",
 "196 128 OFFCURVE",
 "141 194 CURVE",
 "65 190 LINE",
