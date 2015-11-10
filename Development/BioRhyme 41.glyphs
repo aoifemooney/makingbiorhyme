@@ -52,7 +52,8 @@ Y,
 "\U00AB",
 "/z.alt \U00A5",
 K/k.alt,
-k
+k,
+A
 );
 classes = (
 {
@@ -343,7 +344,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-08 18:47:57 +0000";
+lastChange = "2015-11-10 03:05:49 +0000";
 layers = (
 {
 anchors = (
@@ -361,7 +362,7 @@ position = "{917, 10}";
 },
 {
 name = top;
-position = "{517, 490}";
+position = "{517, 520}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -807,7 +808,7 @@ rightKerningGroup = A.alt;
 },
 {
 glyphname = Aacute;
-lastChange = "2015-11-08 18:48:10 +0000";
+lastChange = "2015-11-10 03:05:51 +0000";
 layers = (
 {
 components = (
@@ -816,7 +817,7 @@ name = A;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 304, 69}";
+transform = "{1, 0, 0, 1, 304, 99}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -858,7 +859,7 @@ unicode = 00C1;
 },
 {
 glyphname = Acircumflex;
-lastChange = "2015-11-08 18:48:11 +0000";
+lastChange = "2015-11-10 03:05:51 +0000";
 layers = (
 {
 components = (
@@ -867,7 +868,7 @@ name = A;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 285, 69}";
+transform = "{1, 0, 0, 1, 285, 99}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -909,7 +910,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2015-11-08 18:48:11 +0000";
+lastChange = "2015-11-10 03:06:19 +0000";
 layers = (
 {
 components = (
@@ -918,11 +919,11 @@ name = A;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 285, 69}";
+transform = "{1, 0, 0, 1, 285, 99}";
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 430, 148}";
+transform = "{1, 0, 0, 1, 430, 178}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -970,7 +971,7 @@ unicode = 1EA8;
 },
 {
 glyphname = Adieresis;
-lastChange = "2015-11-08 18:48:12 +0000";
+lastChange = "2015-11-10 03:05:51 +0000";
 layers = (
 {
 components = (
@@ -979,7 +980,7 @@ name = A;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 272, 19}";
+transform = "{1, 0, 0, 1, 272, 49}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1021,7 +1022,7 @@ unicode = 00C4;
 },
 {
 glyphname = Agrave;
-lastChange = "2015-11-08 18:48:12 +0000";
+lastChange = "2015-11-10 03:05:51 +0000";
 layers = (
 {
 components = (
@@ -1030,7 +1031,7 @@ name = A;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 255, 69}";
+transform = "{1, 0, 0, 1, 255, 99}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1072,7 +1073,7 @@ unicode = 00C0;
 },
 {
 glyphname = Aring;
-lastChange = "2015-11-08 18:48:13 +0000";
+lastChange = "2015-11-10 03:05:51 +0000";
 layers = (
 {
 components = (
@@ -1081,7 +1082,7 @@ name = A;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 311, 99}";
+transform = "{1, 0, 0, 1, 311, 129}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1123,7 +1124,7 @@ unicode = 00C5;
 },
 {
 glyphname = Atilde;
-lastChange = "2015-11-08 18:48:13 +0000";
+lastChange = "2015-11-10 03:05:51 +0000";
 layers = (
 {
 components = (
@@ -1132,7 +1133,7 @@ name = A;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 226, 99}";
+transform = "{1, 0, 0, 1, 226, 129}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41381,13 +41382,13 @@ unicode = 0304;
 },
 {
 glyphname = hookabovecomb;
-lastChange = "2015-11-08 18:36:54 +0000";
+lastChange = "2015-11-10 03:06:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = _hook;
-position = "{178, 437}";
+position = "{178, 407}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
