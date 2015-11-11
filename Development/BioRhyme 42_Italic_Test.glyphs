@@ -42609,7 +42609,7 @@ value = (
 interpolationWeight = 800;
 isBold = 1;
 isItalic = 1;
-name = Bold;
+name = BoldItalic;
 },
 {
 customParameters = (
@@ -42621,7 +42621,7 @@ value = (
 }
 );
 interpolationWeight = 700;
-name = DemiBold;
+name = DemiBoldItalic;
 weightClass = DemiBold;
 },
 {
@@ -42634,7 +42634,7 @@ value = (
 }
 );
 interpolationWeight = 650;
-name = SemiBold;
+name = SemiBoldItalic;
 },
 {
 customParameters = (
@@ -42646,7 +42646,7 @@ value = (
 }
 );
 interpolationWeight = 550;
-name = Regular;
+name = RegularItalic;
 weightClass = Light;
 },
 {
@@ -42659,7 +42659,7 @@ value = (
 }
 );
 interpolationWeight = 350;
-name = Light;
+name = LightItalic;
 weightClass = Light;
 },
 {
@@ -42672,7 +42672,7 @@ value = (
 }
 );
 interpolationWeight = 250;
-name = Thin;
+name = ThinItalic;
 weightClass = Thin;
 },
 {
@@ -42687,7 +42687,7 @@ value = (
 interpolationCustom = 100;
 interpolationWeight = 250;
 interpolationWidth = 200;
-name = "Thin Expanded";
+name = "Thin ExpandedItalic";
 weightClass = Thin;
 },
 {
@@ -42702,7 +42702,7 @@ value = (
 interpolationCustom = 100;
 interpolationWeight = 350;
 interpolationWidth = 200;
-name = "Light Expanded";
+name = "Light ExpandedItalic";
 weightClass = Light;
 widthClass = Expanded;
 },
@@ -42718,7 +42718,7 @@ value = (
 interpolationCustom = 100;
 interpolationWeight = 550;
 interpolationWidth = 200;
-name = "Regular Expanded";
+name = "Regular ExpandedItalic";
 widthClass = Expanded;
 },
 {
@@ -42733,7 +42733,7 @@ value = (
 interpolationCustom = 100;
 interpolationWeight = 650;
 interpolationWidth = 200;
-name = "SemiBold Expanded";
+name = "SemiBold ExpandedItalic";
 weightClass = SemiBold;
 widthClass = Expanded;
 },
@@ -42751,7 +42751,7 @@ interpolationWeight = 700;
 interpolationWidth = 200;
 isBold = 1;
 linkStyle = "Light Extended";
-name = "DemiBold Expanded";
+name = "DemiBold ExpandedItalic";
 weightClass = DemiBold;
 widthClass = Expanded;
 },
@@ -42767,7 +42767,10 @@ value = (
 interpolationCustom = 100;
 interpolationWeight = 800;
 interpolationWidth = 200;
-name = "Bold Expanded";
+isBold = 1;
+isItalic = 1;
+linkStyle = "Regular Expanded";
+name = "Bold ExpandedItalic";
 weightClass = Bold;
 widthClass = Expanded;
 }
