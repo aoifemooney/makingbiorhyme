@@ -17543,7 +17543,7 @@ unicode = 0237;
 },
 {
 glyphname = k;
-lastChange = "2015-11-11 20:26:14 +0000";
+lastChange = "2015-11-11 20:29:49 +0000";
 layers = (
 {
 anchors = (
@@ -17576,7 +17576,7 @@ paths = (
 closed = 1;
 nodes = (
 "630 134 OFFCURVE",
-"740 181 OFFCURVE",
+"740 177 OFFCURVE",
 "740 263 CURVE SMOOTH",
 "740 328 OFFCURVE",
 "674 367 OFFCURVE",
@@ -17591,7 +17591,7 @@ nodes = (
 "656 344 OFFCURVE",
 "715 317 OFFCURVE",
 "715 262 CURVE SMOOTH",
-"715 192 OFFCURVE",
+"715 194 OFFCURVE",
 "608 157 OFFCURVE",
 "457 157 CURVE SMOOTH",
 "365 157 OFFCURVE",
@@ -17628,7 +17628,7 @@ nodes = (
 "801 31 OFFCURVE",
 "814 99 CURVE",
 "793 103 LINE",
-"782 34 OFFCURVE",
+"780 34 OFFCURVE",
 "728 2 OFFCURVE",
 "670 2 CURVE SMOOTH",
 "588 2 OFFCURVE",
@@ -17802,7 +17802,7 @@ nodes = (
 "445 -10 OFFCURVE",
 "473 12 OFFCURVE",
 "491 34 CURVE",
-"477 48 LINE",
+"476 46 LINE",
 "461 30 OFFCURVE",
 "441 12 OFFCURVE",
 "406 12 CURVE SMOOTH",
@@ -17844,52 +17844,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"250 0 LINE",
-"250 90 LINE",
-"8 90 LINE",
-"8 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"191 30 LINE",
-"191 520 LINE",
-"79 520 LINE",
-"79 30 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"481 -11 OFFCURVE",
-"511 12 OFFCURVE",
-"538 44 CURVE",
-"481 111 LINE",
-"468 97 OFFCURVE",
-"455 89 OFFCURVE",
-"433 89 CURVE SMOOTH",
-"409 89 OFFCURVE",
-"387 113 OFFCURVE",
-"382 149 CURVE",
-"283 149 LINE",
-"294 53 OFFCURVE",
-"349 -11 OFFCURVE",
-"428 -11 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"182 430 LINE",
-"182 520 LINE",
-"8 520 LINE",
-"8 430 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "388 131 OFFCURVE",
 "475 170 OFFCURVE",
 "476 251 CURVE SMOOTH",
@@ -17916,6 +17870,52 @@ nodes = (
 "213 148 OFFCURVE",
 "254 131 OFFCURVE",
 "316 131 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 0 LINE",
+"250 90 LINE",
+"8 90 LINE",
+"8 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"191 30 LINE",
+"191 520 LINE",
+"79 520 LINE",
+"79 30 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"481 -11 OFFCURVE",
+"511 12 OFFCURVE",
+"538 44 CURVE",
+"480 109 LINE",
+"468 97 OFFCURVE",
+"455 89 OFFCURVE",
+"433 89 CURVE SMOOTH",
+"409 89 OFFCURVE",
+"387 113 OFFCURVE",
+"382 149 CURVE",
+"283 149 LINE",
+"294 53 OFFCURVE",
+"349 -11 OFFCURVE",
+"428 -11 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"182 430 LINE",
+"182 520 LINE",
+"8 520 LINE",
+"8 430 LINE"
 );
 }
 );
@@ -42781,6 +42781,7 @@ customParameters = (
 name = "Instance Preview";
 value = (
     a,
+    k,
     d,
     h,
     e,
