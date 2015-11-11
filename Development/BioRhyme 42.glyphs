@@ -14292,7 +14292,7 @@ unicode = 00F0;
 },
 {
 glyphname = e;
-lastChange = "2015-11-11 20:07:48 +0000";
+lastChange = "2015-11-11 20:09:51 +0000";
 layers = (
 {
 anchors = (
@@ -14362,6 +14362,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"504 -10 OFFCURVE",
+"591 19 OFFCURVE",
+"668 65 CURVE",
 "657 84 LINE",
 "581 40 OFFCURVE",
 "500 12 OFFCURVE",
@@ -14396,10 +14399,7 @@ nodes = (
 "80 167 CURVE",
 "80 46 OFFCURVE",
 "234 -10 OFFCURVE",
-"383 -10 CURVE",
-"504 -10 OFFCURVE",
-"591 19 OFFCURVE",
-"668 65 CURVE"
+"383 -10 CURVE"
 );
 }
 );
@@ -14464,6 +14464,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"291 -10 OFFCURVE",
+"334 16 OFFCURVE",
+"372 49 CURVE",
 "358 67 LINE",
 "324 36 OFFCURVE",
 "287 14 OFFCURVE",
@@ -14498,10 +14501,7 @@ nodes = (
 "45 167 CURVE SMOOTH",
 "45 51 OFFCURVE",
 "137 -10 OFFCURVE",
-"228 -10 CURVE SMOOTH",
-"291 -10 OFFCURVE",
-"334 16 OFFCURVE",
-"372 49 CURVE"
+"228 -10 CURVE SMOOTH"
 );
 }
 );
@@ -14575,9 +14575,19 @@ paths = (
 {
 closed = 1;
 nodes = (
+"306 -11 OFFCURVE",
+"363 17 OFFCURVE",
+"408 56 CURVE",
+"362 126 LINE",
+"328 100 OFFCURVE",
+"293 81 OFFCURVE",
+"239 81 CURVE SMOOTH",
+"182 81 OFFCURVE",
+"124 117 OFFCURVE",
+"124 177 CURVE SMOOTH",
 "124 234 OFFCURVE",
-"175 278 OFFCURVE",
-"239 278 CURVE SMOOTH",
+"180 278 OFFCURVE",
+"236 278 CURVE SMOOTH",
 "263 278 OFFCURVE",
 "281 266 OFFCURVE",
 "281 250 CURVE SMOOTH",
@@ -14593,26 +14603,16 @@ nodes = (
 "247 140 CURVE SMOOTH",
 "323 140 OFFCURVE",
 "396 176 OFFCURVE",
-"396 245 CURVE SMOOTH",
+"396 250 CURVE SMOOTH",
 "396 321 OFFCURVE",
 "326 367 OFFCURVE",
 "227 367 CURVE",
-"126 367 OFFCURVE",
+"121 367 OFFCURVE",
 "15 293 OFFCURVE",
 "15 177 CURVE SMOOTH",
 "15 60 OFFCURVE",
 "123 -11 OFFCURVE",
-"229 -11 CURVE SMOOTH",
-"306 -11 OFFCURVE",
-"363 17 OFFCURVE",
-"408 56 CURVE",
-"362 125 LINE",
-"328 99 OFFCURVE",
-"293 80 OFFCURVE",
-"239 80 CURVE SMOOTH",
-"182 80 OFFCURVE",
-"124 117 OFFCURVE",
-"124 177 CURVE SMOOTH"
+"229 -11 CURVE SMOOTH"
 );
 }
 );
@@ -17543,7 +17543,7 @@ unicode = 0237;
 },
 {
 glyphname = k;
-lastChange = "2015-11-11 20:05:08 +0000";
+lastChange = "2015-11-11 20:08:13 +0000";
 layers = (
 {
 anchors = (
@@ -42609,11 +42609,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
     H,
     O,
-    D,
-    "x.alt"
+    D
 );
 }
 );
@@ -42626,11 +42632,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
     H,
     O,
-    D,
-    "x.alt"
+    D
 );
 }
 );
@@ -42643,11 +42655,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
     H,
     O,
-    D,
-    "x.alt"
+    D
 );
 }
 );
@@ -42660,11 +42678,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
     H,
     O,
-    D,
-    "x.alt"
+    D
 );
 }
 );
@@ -42679,11 +42703,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
     H,
     O,
-    D,
-    "x.alt"
+    D
 );
 }
 );
@@ -42699,11 +42729,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    M,
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
     H,
     O,
-    D,
-    "x.alt"
+    D
 );
 }
 );
@@ -42772,7 +42808,17 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar
+    a,
+    d,
+    h,
+    e,
+    s,
+    i,
+    o,
+    n,
+    H,
+    O,
+    D
 );
 }
 );
