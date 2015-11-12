@@ -14597,7 +14597,7 @@ unicode = 0061;
 {
 color = 0;
 glyphname = a.alt;
-lastChange = "2015-11-12 04:15:52 +0000";
+lastChange = "2015-11-12 04:16:52 +0000";
 layers = (
 {
 anchors = (
@@ -14942,7 +14942,7 @@ position = "{777, 9}";
 },
 {
 name = top;
-position = "{455, 355}";
+position = "{436, 369}";
 }
 );
 background = {
@@ -15019,9 +15019,20 @@ layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
 paths = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-"696 129 LINE",
+"798 -5 OFFCURVE",
+"833 56 OFFCURVE",
+"833 126 CURVE SMOOTH",
+"833 174 LINE",
+"774 174 LINE",
+"774 125 LINE SMOOTH",
+"774 93 OFFCURVE",
+"764 69 OFFCURVE",
+"736 69 CURVE SMOOTH",
+"704 69 OFFCURVE",
+"696 96 OFFCURVE",
+"696 132 CURVE",
 "696 174 LINE SMOOTH",
 "696 294 OFFCURVE",
 "597 369 OFFCURVE",
@@ -15036,7 +15047,10 @@ nodes = (
 "510 274 OFFCURVE",
 "586 239 OFFCURVE",
 "586 169 CURVE SMOOTH",
-"586 121 LINE"
+"586 134 LINE",
+"586 51 OFFCURVE",
+"619 -5 OFFCURVE",
+"710 -5 CURVE SMOOTH"
 );
 },
 {
@@ -15068,36 +15082,6 @@ nodes = (
 "71 25 OFFCURVE",
 "156 -8 OFFCURVE",
 "268 -8 CURVE SMOOTH"
-);
-},
-{
-closed = 0;
-nodes = (
-"767 134 LINE",
-"767 51 OFFCURVE",
-"805 -5 OFFCURVE",
-"896 -5 CURVE SMOOTH",
-"978 -5 OFFCURVE",
-"1019 56 OFFCURVE",
-"1019 126 CURVE SMOOTH",
-"1019 174 LINE",
-"960 174 LINE",
-"960 125 LINE SMOOTH",
-"960 93 OFFCURVE",
-"950 69 OFFCURVE",
-"923 69 CURVE SMOOTH",
-"890 69 OFFCURVE",
-"882 96 OFFCURVE",
-"882 132 CURVE"
-);
-},
-{
-closed = 0;
-nodes = (
-"882 132 LINE",
-"882 368 LINE",
-"767 368 LINE",
-"767 134 LINE"
 );
 }
 );
