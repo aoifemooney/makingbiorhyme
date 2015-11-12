@@ -14,7 +14,8 @@ W,
 "/a.alt2 dpbq",
 "a/a.alt2 bd/d.alt gg/g.alt kp\U00FEq",
 "a/a.alt2 bd/d.alt g/g.alt kep\U00FEq",
-"a/a.alt \U00E6oaekdnud/u.alt"
+"a/a.alt \U00E6oaekdnud/u.alt",
+/jdotless
 );
 classes = (
 {
@@ -14018,7 +14019,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-12 03:53:03 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -14595,9 +14596,9 @@ rightKerningGroup = n;
 unicode = 0061;
 },
 {
-color = 0;
+color = 4;
 glyphname = a.alt;
-lastChange = "2015-11-12 04:16:52 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -15049,8 +15050,8 @@ nodes = (
 "586 169 CURVE SMOOTH",
 "586 134 LINE",
 "586 51 OFFCURVE",
-"619 -5 OFFCURVE",
-"710 -5 CURVE SMOOTH"
+"624 -5 OFFCURVE",
+"715 -5 CURVE SMOOTH"
 );
 },
 {
@@ -15933,9 +15934,9 @@ rightKerningGroup = n;
 unicode = 00E3;
 },
 {
-color = 0;
+color = 4;
 glyphname = ae;
-lastChange = "2015-11-12 04:21:56 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -18245,9 +18246,9 @@ rightKerningGroup = eth;
 unicode = 00F0;
 },
 {
-color = 0;
+color = 4;
 glyphname = e;
-lastChange = "2015-11-12 04:06:40 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -22254,7 +22255,7 @@ unicode = 006A;
 {
 color = 0;
 glyphname = jdotless;
-lastChange = "2015-11-12 02:09:31 +0000";
+lastChange = "2015-11-12 04:25:28 +0000";
 layers = (
 {
 anchors = (
@@ -22415,10 +22416,10 @@ paths = (
 closed = 1;
 nodes = (
 "233 -210 OFFCURVE",
-"316 -132 OFFCURVE",
+"315 -132 OFFCURVE",
 "315 19 CURVE SMOOTH",
-"315 344 LINE",
-"202 344 LINE",
+"315 357 LINE",
+"202 357 LINE",
 "202 17 LINE SMOOTH",
 "202 -65 OFFCURVE",
 "169 -109 OFFCURVE",
@@ -22452,9 +22453,9 @@ rightMetricsKey = "=j";
 unicode = 0237;
 },
 {
-color = 0;
+color = 4;
 glyphname = k;
-lastChange = "2015-11-12 04:11:34 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -22930,32 +22931,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"664 133 OFFCURVE",
-"794 166 OFFCURVE",
-"795 261 CURVE SMOOTH",
-"796 338 OFFCURVE",
-"726 373 OFFCURVE",
-"617 373 CURVE SMOOTH",
-"502 373 OFFCURVE",
+"644 133 OFFCURVE",
+"774 166 OFFCURVE",
+"775 261 CURVE SMOOTH",
+"776 338 OFFCURVE",
+"706 373 OFFCURVE",
+"597 373 CURVE SMOOTH",
+"492 373 OFFCURVE",
 "377 338 OFFCURVE",
 "259 292 CURVE",
 "257 224 LINE",
 "379 262 OFFCURVE",
-"519 282 OFFCURVE",
-"588 282 CURVE SMOOTH",
-"646 282 OFFCURVE",
-"667 274 OFFCURVE",
-"667 252 CURVE SMOOTH",
-"667 226 OFFCURVE",
-"617 210 OFFCURVE",
-"507 210 CURVE SMOOTH",
+"509 282 OFFCURVE",
+"568 282 CURVE SMOOTH",
+"626 282 OFFCURVE",
+"647 274 OFFCURVE",
+"647 252 CURVE SMOOTH",
+"647 226 OFFCURVE",
+"597 210 OFFCURVE",
+"497 210 CURVE SMOOTH",
 "419 210 OFFCURVE",
 "332 214 OFFCURVE",
 "256 224 CURVE",
 "254 159 LINE",
 "327 146 OFFCURVE",
 "387 133 OFFCURVE",
-"529 133 CURVE SMOOTH"
+"519 133 CURVE SMOOTH"
 );
 },
 {
@@ -22980,18 +22981,18 @@ nodes = (
 closed = 1;
 nodes = (
 "781 137 LINE",
-"766 100 OFFCURVE",
+"766 102 OFFCURVE",
 "733 79 OFFCURVE",
-"697 79 CURVE SMOOTH",
+"687 79 CURVE SMOOTH",
 "631 79 OFFCURVE",
-"575 121 OFFCURVE",
+"595 100 OFFCURVE",
 "546 151 CURVE",
 "445 151 LINE",
-"500 70 OFFCURVE",
-"579 -21 OFFCURVE",
+"514 38 OFFCURVE",
+"600 -21 OFFCURVE",
 "690 -21 CURVE SMOOTH",
-"781 -21 OFFCURVE",
-"835 21 OFFCURVE",
+"780 -21 OFFCURVE",
+"836 24 OFFCURVE",
 "859 90 CURVE"
 );
 },
@@ -28344,9 +28345,9 @@ leftKerningGroup = t.alt;
 rightKerningGroup = t.alt;
 },
 {
-color = 0;
+color = 4;
 glyphname = u;
-lastChange = "2015-11-12 04:13:07 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -28763,9 +28764,9 @@ rightMetricsKey = "=d";
 unicode = 0075;
 },
 {
-color = 0;
+color = 4;
 glyphname = u.alt;
-lastChange = "2015-11-12 04:14:13 +0000";
+lastChange = "2015-11-12 04:25:07 +0000";
 layers = (
 {
 anchors = (
@@ -29181,8 +29182,8 @@ nodes = (
 "611 357 LINE",
 "611 123 LINE SMOOTH",
 "611 40 OFFCURVE",
-"649 -16 OFFCURVE",
-"740 -16 CURVE SMOOTH"
+"659 -16 OFFCURVE",
+"745 -16 CURVE SMOOTH"
 );
 }
 );
