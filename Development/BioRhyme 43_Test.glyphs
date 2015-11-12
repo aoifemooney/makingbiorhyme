@@ -20,7 +20,8 @@ W,
 "()",
 "&",
 "\U00B1",
-"\U00B5u"
+"\U00B5u",
+"\U00A2$/euro \U00A3\U00A5"
 );
 classes = (
 {
@@ -43676,7 +43677,7 @@ unicode = 000D;
 },
 {
 glyphname = cent;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:36:07 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -43863,10 +43864,10 @@ paths = (
 closed = 1;
 nodes = (
 "494 58 OFFCURVE",
-"595 95 OFFCURVE",
-"668 152 CURVE",
-"615 229 LINE",
-"553 180 OFFCURVE",
+"587 89 OFFCURVE",
+"664 130 CURVE",
+"623 208 LINE",
+"547 168 OFFCURVE",
 "465 145 OFFCURVE",
 "364 145 CURVE SMOOTH",
 "253 144 OFFCURVE",
@@ -43877,20 +43878,20 @@ nodes = (
 "372 325 CURVE SMOOTH",
 "448 324 OFFCURVE",
 "527 301 OFFCURVE",
-"595 259 CURVE",
-"646 260 LINE",
+"595 269 CURVE",
+"646 280 LINE",
 "646 403 LINE",
 "567 403 LINE",
-"567 324 LINE",
-"611 321 LINE",
+"567 334 LINE",
+"611 331 LINE",
 "550 368 OFFCURVE",
 "468 413 OFFCURVE",
 "350 413 CURVE SMOOTH",
 "222 413 OFFCURVE",
-"68 364 OFFCURVE",
+"68 359 OFFCURVE",
 "68 230 CURVE SMOOTH",
-"68 102 OFFCURVE",
-"215 56 OFFCURVE",
+"68 107 OFFCURVE",
+"220 56 OFFCURVE",
 "361 57 CURVE SMOOTH"
 );
 },
@@ -44681,7 +44682,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:34:29 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -44905,19 +44906,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"52 201 LINE",
-"52 136 LINE",
-"710 136 LINE",
-"710 201 LINE"
+"52 206 LINE",
+"52 141 LINE",
+"710 141 LINE",
+"710 206 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"52 316 LINE",
-"52 251 LINE",
-"710 251 LINE",
-"710 316 LINE"
+"52 311 LINE",
+"52 246 LINE",
+"710 246 LINE",
+"710 311 LINE"
 );
 }
 );
@@ -44930,7 +44931,7 @@ unicode = 20AC;
 },
 {
 glyphname = sterling;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:34:08 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -45236,10 +45237,10 @@ nodes = (
 "634 86 OFFCURVE",
 "562 86 CURVE SMOOTH",
 "489 86 OFFCURVE",
-"340 156 OFFCURVE",
+"370 116 OFFCURVE",
 "267 213 CURVE",
 "257 120 LINE",
-"331 62 OFFCURVE",
+"361 22 OFFCURVE",
 "479 -10 OFFCURVE",
 "561 -10 CURVE SMOOTH"
 );
@@ -45263,7 +45264,7 @@ unicode = 00A3;
 },
 {
 glyphname = yen;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:33:45 +0000";
 layers = (
 {
 background = {
@@ -45712,8 +45713,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"391 241 LINE",
-"391 299 LINE",
+"361 241 LINE",
+"361 299 LINE",
 "80 299 LINE",
 "80 241 LINE"
 );
@@ -45723,8 +45724,8 @@ closed = 1;
 nodes = (
 "829 241 LINE",
 "829 299 LINE",
-"512 299 LINE",
-"512 241 LINE"
+"542 299 LINE",
+"542 241 LINE"
 );
 },
 {
