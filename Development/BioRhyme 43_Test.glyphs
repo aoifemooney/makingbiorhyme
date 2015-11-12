@@ -38,7 +38,8 @@ y,
 w,
 /ydieresis,
 /oe,
-f
+f,
+/z.alt
 );
 classes = (
 {
@@ -29602,7 +29603,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-12 04:47:31 +0000";
+lastChange = "2015-11-12 04:53:25 +0000";
 layers = (
 {
 anchors = (
@@ -29783,6 +29784,16 @@ nodes = (
 width = 504;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{375, 0}";
+},
+{
+name = top;
+position = "{377, 347}";
+}
+);
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
 paths = (
@@ -29792,7 +29803,7 @@ nodes = (
 "418 -20 LINE",
 "684 304 LINE",
 "575 304 LINE",
-"399 105 LINE",
+"399 85 LINE",
 "223 305 LINE",
 "87 305 LINE",
 "354 -20 LINE"
@@ -29826,7 +29837,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-12 04:47:55 +0000";
+lastChange = "2015-11-12 04:53:42 +0000";
 layers = (
 {
 anchors = (
@@ -30147,6 +30158,16 @@ nodes = (
 width = 741;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{513, 0}";
+},
+{
+name = top;
+position = "{513, 357}";
+}
+);
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
 paths = (
@@ -30156,7 +30177,7 @@ nodes = (
 "377 -21 LINE",
 "632 325 LINE",
 "533 325 LINE",
-"360 102 LINE",
+"360 82 LINE",
 "215 303 LINE",
 "90 303 LINE",
 "314 -21 LINE"
@@ -30177,7 +30198,7 @@ nodes = (
 "710 -21 LINE",
 "941 298 LINE",
 "845 298 LINE",
-"687 102 LINE",
+"687 82 LINE",
 "539 310 LINE",
 "479 195 LINE",
 "646 -21 LINE"
@@ -31230,7 +31251,7 @@ rightKerningGroup = x.alt;
 },
 {
 glyphname = y;
-lastChange = "2015-11-12 04:48:18 +0000";
+lastChange = "2015-11-12 04:53:55 +0000";
 layers = (
 {
 anchors = (
@@ -31466,6 +31487,16 @@ nodes = (
 width = 515;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{364, 0}";
+},
+{
+name = top;
+position = "{364, 357}";
+}
+);
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
 paths = (
@@ -31527,7 +31558,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2015-11-12 04:48:22 +0000";
+lastChange = "2015-11-12 04:54:00 +0000";
 layers = (
 {
 components = (
@@ -31578,7 +31609,7 @@ name = y;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 94, -144}";
+transform = "{1, 0, 0, 1, 88, -144}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -31592,7 +31623,7 @@ unicode = 00FD;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2015-11-12 04:48:22 +0000";
+lastChange = "2015-11-12 04:54:00 +0000";
 layers = (
 {
 components = (
@@ -31643,7 +31674,7 @@ name = y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 144, -68}";
+transform = "{1, 0, 0, 1, 138, -68}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -31657,7 +31688,7 @@ unicode = 0177;
 },
 {
 glyphname = ydieresis;
-lastChange = "2015-11-12 04:48:22 +0000";
+lastChange = "2015-11-12 04:54:01 +0000";
 layers = (
 {
 components = (
@@ -31708,7 +31739,7 @@ name = y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 136, -64}";
+transform = "{1, 0, 0, 1, 130, -64}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -31722,7 +31753,7 @@ unicode = 00FF;
 },
 {
 glyphname = ygrave;
-lastChange = "2015-11-12 04:48:22 +0000";
+lastChange = "2015-11-12 04:54:01 +0000";
 layers = (
 {
 components = (
@@ -31773,7 +31804,7 @@ name = y;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 166, -124}";
+transform = "{1, 0, 0, 1, 160, -124}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -32185,7 +32216,7 @@ unicode = 007A;
 {
 color = 0;
 glyphname = z.alt;
-lastChange = "2015-11-12 02:09:31 +0000";
+lastChange = "2015-11-12 04:55:36 +0000";
 layers = (
 {
 anchors = (
@@ -32383,23 +32414,23 @@ paths = (
 closed = 1;
 nodes = (
 "662 0 LINE",
-"662 222 LINE",
-"566 222 LINE",
+"662 172 LINE",
+"566 172 LINE",
 "566 90 LINE",
-"298 90 LINE",
-"247 76 LINE",
-"246 79 LINE",
-"297 112 LINE",
+"318 90 LINE",
+"267 74 LINE",
+"266 77 LINE",
+"314 100 LINE",
 "663 293 LINE",
 "663 355 LINE",
 "85 355 LINE",
-"85 133 LINE",
-"181 133 LINE",
+"85 183 LINE",
+"181 183 LINE",
 "181 265 LINE",
-"440 265 LINE",
-"491 279 LINE",
-"492 276 LINE",
-"442 243 LINE",
+"420 265 LINE",
+"471 283 LINE",
+"472 280 LINE",
+"426 254 LINE",
 "79 62 LINE",
 "79 0 LINE"
 );
@@ -55014,7 +55045,10 @@ value = (
     n,
     H,
     O,
-    D
+    D,
+    w,
+    v,
+    y
 );
 }
 );
