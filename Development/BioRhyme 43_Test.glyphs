@@ -3,7 +3,9 @@ DisplayStrings = (
 o,
 "/a.alt2 bcd/d.alt aec/x.alt vwykeo/g.alt o/oe p\U00FEq/schwa",
 "{n}[n](n)\U00ABn\U00BB/guilsinglleft n/guilsinglright \012{H}[H](H)\U00ABH\U00BB/guilsinglleft H/guilsinglright",
-anhd
+anhd,
+C,
+CGQSO
 );
 classes = (
 {
@@ -2171,8 +2173,9 @@ rightKerningGroup = B;
 unicode = 0042;
 },
 {
+color = 0;
 glyphname = C;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -3904,8 +3907,9 @@ rightKerningGroup = F;
 unicode = 0046;
 },
 {
+color = 0;
 glyphname = G;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -5475,8 +5479,9 @@ rightKerningGroup = H;
 unicode = 00CC;
 },
 {
+color = 0;
 glyphname = J;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -5707,8 +5712,9 @@ rightMetricsKey = "=U";
 unicode = 004A;
 },
 {
+color = 0;
 glyphname = K;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -8848,7 +8854,7 @@ unicode = 00DE;
 },
 {
 glyphname = Q;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:11:55 +0000";
 layers = (
 {
 anchors = (
@@ -9162,30 +9168,30 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"836 -152 OFFCURVE",
+"836 -160 OFFCURVE",
 "905 -99 OFFCURVE",
 "922 -20 CURVE",
 "835 8 LINE",
 "824 -45 OFFCURVE",
-"783 -56 OFFCURVE",
-"740 -56 CURVE SMOOTH",
-"694 -56 OFFCURVE",
-"651 -43 OFFCURVE",
-"594 14 CURVE",
-"542 107 LINE",
-"461 191 OFFCURVE",
-"385 255 OFFCURVE",
-"231 255 CURVE SMOOTH",
-"179 255 LINE",
-"179 168 LINE",
-"231 168 LINE SMOOTH",
-"346 168 OFFCURVE",
-"385 103 OFFCURVE",
-"441 65 CURVE",
-"486 -16 LINE",
-"567 -109 OFFCURVE",
-"636 -152 OFFCURVE",
-"740 -152 CURVE SMOOTH"
+"783 -64 OFFCURVE",
+"736 -64 CURVE SMOOTH",
+"684 -64 OFFCURVE",
+"640 -22 OFFCURVE",
+"602 28 CURVE SMOOTH",
+"542 107 LINE SMOOTH",
+"450 228 OFFCURVE",
+"385 285 OFFCURVE",
+"231 285 CURVE SMOOTH",
+"149 285 LINE",
+"149 198 LINE",
+"231 198 LINE SMOOTH",
+"346 198 OFFCURVE",
+"387 134 OFFCURVE",
+"441 65 CURVE SMOOTH",
+"494 -2 LINE SMOOTH",
+"560 -86 OFFCURVE",
+"626 -160 OFFCURVE",
+"736 -160 CURVE SMOOTH"
 );
 },
 {
@@ -14625,8 +14631,9 @@ rightKerningGroup = n;
 unicode = 0061;
 },
 {
+color = 0;
 glyphname = a.alt;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -15051,8 +15058,9 @@ leftKerningGroup = a.alt;
 rightKerningGroup = a.alt;
 },
 {
+color = 0;
 glyphname = a.alt2;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -15835,8 +15843,9 @@ rightKerningGroup = n;
 unicode = 00E3;
 },
 {
+color = 0;
 glyphname = ae;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -16286,8 +16295,9 @@ rightMetricsKey = "=e";
 unicode = 00E6;
 },
 {
+color = 0;
 glyphname = b;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -16925,8 +16935,9 @@ rightKerningGroup = c;
 unicode = 00E7;
 },
 {
+color = 0;
 glyphname = d;
-lastChange = "2015-11-12 02:01:20 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -17379,8 +17390,9 @@ rightKerningGroup = l;
 unicode = 0064;
 },
 {
+color = 0;
 glyphname = d.alt;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -18050,8 +18062,9 @@ rightKerningGroup = eth;
 unicode = 00F0;
 },
 {
+color = 0;
 glyphname = e;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -19294,8 +19307,9 @@ leftMetricsKey = n;
 rightKerningGroup = f.alt;
 },
 {
+color = 0;
 glyphname = g;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -19860,8 +19874,9 @@ rightKerningGroup = g;
 unicode = 0067;
 },
 {
+color = 0;
 glyphname = g.alt;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -21916,8 +21931,9 @@ rightMetricsKey = g.alt;
 unicode = 006A;
 },
 {
+color = 0;
 glyphname = jdotless;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -22115,8 +22131,9 @@ rightMetricsKey = "=j";
 unicode = 0237;
 },
 {
+color = 0;
 glyphname = k;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -22595,8 +22612,9 @@ rightKerningGroup = k;
 unicode = 006B;
 },
 {
+color = 0;
 glyphname = k.alt;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -24068,8 +24086,9 @@ rightKerningGroup = n;
 unicode = 00F1;
 },
 {
+color = 0;
 glyphname = o;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -25234,8 +25253,9 @@ rightMetricsKey = "=e";
 unicode = 0153;
 },
 {
+color = 0;
 glyphname = p;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -25644,8 +25664,9 @@ rightMetricsKey = "=o";
 unicode = 0070;
 },
 {
+color = 0;
 glyphname = thorn;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25887,8 +25908,9 @@ rightMetricsKey = "=p";
 unicode = 00FE;
 },
 {
+color = 0;
 glyphname = q;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -26525,8 +26547,9 @@ rightKerningGroup = r;
 unicode = 0072;
 },
 {
+color = 0;
 glyphname = s;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -27877,8 +27900,9 @@ leftKerningGroup = t.alt;
 rightKerningGroup = t.alt;
 },
 {
+color = 0;
 glyphname = u;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -28295,8 +28319,9 @@ rightMetricsKey = "=d";
 unicode = 0075;
 },
 {
+color = 0;
 glyphname = u.alt;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -31433,8 +31458,9 @@ rightKerningGroup = z;
 unicode = 007A;
 },
 {
+color = 0;
 glyphname = z.alt;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 02:09:31 +0000";
 layers = (
 {
 anchors = (
