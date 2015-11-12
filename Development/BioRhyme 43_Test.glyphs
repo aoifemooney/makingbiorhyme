@@ -34,9 +34,11 @@ u,
 "\U00FB",
 a,
 /a.alt,
-v,
+y,
 w,
-/ydieresis
+/ydieresis,
+/oe,
+f
 );
 classes = (
 {
@@ -18972,7 +18974,7 @@ unicode = 00E8;
 },
 {
 glyphname = f;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:49:06 +0000";
 layers = (
 {
 anchors = (
@@ -19233,7 +19235,48 @@ width = 339;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 894;
+paths = (
+{
+closed = 1;
+nodes = (
+"66 0 LINE",
+"496 0 LINE",
+"496 90 LINE",
+"66 90 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 50 LINE",
+"318 50 LINE",
+"318 373 LINE",
+"318 407 OFFCURVE",
+"339 454 OFFCURVE",
+"429 454 CURVE SMOOTH",
+"487 454 OFFCURVE",
+"543 437 OFFCURVE",
+"608 407 CURVE",
+"647 501 LINE",
+"570 533 OFFCURVE",
+"500 555 OFFCURVE",
+"416 555 CURVE SMOOTH",
+"271 555 OFFCURVE",
+"205 473 OFFCURVE",
+"205 371 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"528 357 LINE",
+"66 357 LINE",
+"66 267 LINE",
+"528 267 LINE"
+);
+}
+);
+width = 613;
 }
 );
 leftKerningGroup = f;
@@ -25266,8 +25309,9 @@ rightKerningGroup = o;
 unicode = 00F5;
 },
 {
+color = 0;
 glyphname = oe;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:48 +0000";
 layers = (
 {
 anchors = (
@@ -25667,7 +25711,87 @@ width = 719;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 2014;
+paths = (
+{
+closed = 1;
+nodes = (
+"559 -21 OFFCURVE",
+"692 50 OFFCURVE",
+"692 179 CURVE",
+"692 312 OFFCURVE",
+"551 378 OFFCURVE",
+"375 377 CURVE",
+"203 377 OFFCURVE",
+"50 312 OFFCURVE",
+"50 179 CURVE",
+"50 50 OFFCURVE",
+"204 -21 OFFCURVE",
+"375 -20 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"275 76 OFFCURVE",
+"176 109 OFFCURVE",
+"176 179 CURVE",
+"176 252 OFFCURVE",
+"275 280 OFFCURVE",
+"380 281 CURVE",
+"488 281 OFFCURVE",
+"588 252 OFFCURVE",
+"588 179 CURVE",
+"588 109 OFFCURVE",
+"488 76 OFFCURVE",
+"380 76 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1182 146 LINE",
+"1102 101 OFFCURVE",
+"1002 73 OFFCURVE",
+"915 75 CURVE SMOOTH",
+"836 75 OFFCURVE",
+"714 107 OFFCURVE",
+"714 187 CURVE SMOOTH",
+"714 255 OFFCURVE",
+"840 291 OFFCURVE",
+"930 291 CURVE SMOOTH",
+"1006 291 OFFCURVE",
+"1082 276 OFFCURVE",
+"1082 246 CURVE SMOOTH",
+"1082 215 OFFCURVE",
+"1016 188 OFFCURVE",
+"928 188 CURVE SMOOTH",
+"865 188 OFFCURVE",
+"717 205 OFFCURVE",
+"631 260 CURVE",
+"629 198 LINE",
+"713 148 OFFCURVE",
+"865 110 OFFCURVE",
+"960 110 CURVE SMOOTH",
+"1060 110 OFFCURVE",
+"1206 145 OFFCURVE",
+"1206 244 CURVE SMOOTH",
+"1206 333 OFFCURVE",
+"1078 377 OFFCURVE",
+"934 377 CURVE SMOOTH",
+"762 377 OFFCURVE",
+"630 299 OFFCURVE",
+"620 199 CURVE",
+"621 175 LINE",
+"621 48 OFFCURVE",
+"758 -21 OFFCURVE",
+"905 -21 CURVE SMOOTH",
+"1020 -21 OFFCURVE",
+"1138 13 OFFCURVE",
+"1221 62 CURVE"
+);
+}
+);
+width = 1275;
 }
 );
 leftKerningGroup = o;
@@ -29478,7 +29602,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:47:31 +0000";
 layers = (
 {
 anchors = (
@@ -29661,7 +29785,39 @@ width = 504;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1257;
+paths = (
+{
+closed = 1;
+nodes = (
+"418 -20 LINE",
+"684 304 LINE",
+"575 304 LINE",
+"399 105 LINE",
+"223 305 LINE",
+"87 305 LINE",
+"354 -20 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"333 267 LINE",
+"333 357 LINE",
+"16 357 LINE",
+"16 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"754 267 LINE",
+"754 357 LINE",
+"469 357 LINE",
+"469 267 LINE"
+);
+}
+);
+width = 770;
 }
 );
 leftKerningGroup = v;
@@ -29670,7 +29826,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:47:55 +0000";
 layers = (
 {
 anchors = (
@@ -29993,7 +30149,60 @@ width = 741;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1766;
+paths = (
+{
+closed = 1;
+nodes = (
+"377 -21 LINE",
+"632 325 LINE",
+"533 325 LINE",
+"360 102 LINE",
+"215 303 LINE",
+"90 303 LINE",
+"314 -21 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"302 267 LINE",
+"302 357 LINE",
+"16 357 LINE",
+"16 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"710 -21 LINE",
+"941 298 LINE",
+"845 298 LINE",
+"687 102 LINE",
+"539 310 LINE",
+"479 195 LINE",
+"646 -21 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"643 268 LINE",
+"643 357 LINE",
+"412 357 LINE",
+"412 268 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1019 267 LINE",
+"1019 357 LINE",
+"761 357 LINE",
+"761 267 LINE"
+);
+}
+);
+width = 1035;
 }
 );
 leftKerningGroup = w;
@@ -30002,7 +30211,7 @@ unicode = 0077;
 },
 {
 glyphname = wacute;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:10 +0000";
 layers = (
 {
 components = (
@@ -30058,7 +30267,7 @@ transform = "{1, 0, 0, 1, 237, -144}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1766;
+width = 1035;
 }
 );
 leftKerningGroup = w;
@@ -30067,7 +30276,7 @@ unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:11 +0000";
 layers = (
 {
 components = (
@@ -30123,7 +30332,7 @@ transform = "{1, 0, 0, 1, 287, -68}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1766;
+width = 1035;
 }
 );
 leftKerningGroup = w;
@@ -30132,7 +30341,7 @@ unicode = 0175;
 },
 {
 glyphname = wdieresis;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:11 +0000";
 layers = (
 {
 components = (
@@ -30188,7 +30397,7 @@ transform = "{1, 0, 0, 1, 279, -64}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1766;
+width = 1035;
 }
 );
 leftKerningGroup = w;
@@ -30197,7 +30406,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:11 +0000";
 layers = (
 {
 components = (
@@ -30253,7 +30462,7 @@ transform = "{1, 0, 0, 1, 309, -124}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1766;
+width = 1035;
 }
 );
 leftKerningGroup = w;
@@ -31021,7 +31230,7 @@ rightKerningGroup = x.alt;
 },
 {
 glyphname = y;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:18 +0000";
 layers = (
 {
 anchors = (
@@ -31259,7 +31468,57 @@ width = 515;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1242;
+paths = (
+{
+closed = 1;
+nodes = (
+"291 -189 OFFCURVE",
+"362 -122 OFFCURVE",
+"431 -5 CURVE SMOOTH",
+"665 344 LINE",
+"559 344 LINE",
+"342 18 LINE SMOOTH",
+"297 -50 OFFCURVE",
+"258 -88 OFFCURVE",
+"187 -88 CURVE SMOOTH",
+"138 -88 OFFCURVE",
+"98 -75 OFFCURVE",
+"53 -58 CURVE",
+"14 -147 LINE",
+"79 -174 OFFCURVE",
+"118 -189 OFFCURVE",
+"186 -189 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"421 29 LINE",
+"197 343 LINE",
+"64 343 LINE",
+"351 -54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 267 LINE",
+"332 357 LINE",
+"21 357 LINE",
+"21 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"723 267 LINE",
+"723 357 LINE",
+"430 357 LINE",
+"430 267 LINE"
+);
+}
+);
+width = 739;
 }
 );
 leftKerningGroup = y;
@@ -31268,7 +31527,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:22 +0000";
 layers = (
 {
 components = (
@@ -31324,7 +31583,7 @@ transform = "{1, 0, 0, 1, 94, -144}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1242;
+width = 739;
 }
 );
 leftKerningGroup = y;
@@ -31333,7 +31592,7 @@ unicode = 00FD;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:22 +0000";
 layers = (
 {
 components = (
@@ -31389,7 +31648,7 @@ transform = "{1, 0, 0, 1, 144, -68}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1242;
+width = 739;
 }
 );
 leftKerningGroup = y;
@@ -31398,7 +31657,7 @@ unicode = 0177;
 },
 {
 glyphname = ydieresis;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:22 +0000";
 layers = (
 {
 components = (
@@ -31454,7 +31713,7 @@ transform = "{1, 0, 0, 1, 136, -64}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1242;
+width = 739;
 }
 );
 leftKerningGroup = y;
@@ -31463,7 +31722,7 @@ unicode = 00FF;
 },
 {
 glyphname = ygrave;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-12 04:48:22 +0000";
 layers = (
 {
 components = (
@@ -31519,7 +31778,7 @@ transform = "{1, 0, 0, 1, 166, -124}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1242;
+width = 739;
 }
 );
 leftKerningGroup = y;
