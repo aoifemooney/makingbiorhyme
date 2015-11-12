@@ -13,7 +13,8 @@ K,
 W,
 "/a.alt2 dpbq",
 "a/a.alt2 bd/d.alt gg/g.alt kp\U00FEq",
-"a/a.alt2 bd/d.alt g/g.alt kp\U00FEq"
+"a/a.alt2 bd/d.alt g/g.alt kep\U00FEq",
+"a/a.alt \U00E6oeku/u.alt"
 );
 classes = (
 {
@@ -144,7 +145,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -234,7 +234,6 @@ id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 xHeight = 357;
@@ -14017,8 +14016,9 @@ rightKerningGroup = Z;
 unicode = 005A;
 },
 {
+color = 4;
 glyphname = a;
-lastChange = "2015-11-12 02:04:31 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -15024,7 +15024,7 @@ rightKerningGroup = a.alt;
 {
 color = 4;
 glyphname = a.alt2;
-lastChange = "2015-11-12 03:44:59 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -16317,7 +16317,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-12 03:44:59 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -16957,7 +16957,7 @@ unicode = 00E7;
 {
 color = 4;
 glyphname = d;
-lastChange = "2015-11-12 03:44:59 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -17410,9 +17410,9 @@ rightKerningGroup = l;
 unicode = 0064;
 },
 {
-color = 0;
+color = 4;
 glyphname = d.alt;
-lastChange = "2015-11-12 03:51:01 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -18084,7 +18084,7 @@ unicode = 00F0;
 {
 color = 0;
 glyphname = e;
-lastChange = "2015-11-12 02:09:31 +0000";
+lastChange = "2015-11-12 03:53:43 +0000";
 layers = (
 {
 anchors = (
@@ -18432,6 +18432,44 @@ name = top;
 position = "{371, 347}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"577 -11 OFFCURVE",
+"731 60 OFFCURVE",
+"731 179 CURVE",
+"731 302 OFFCURVE",
+"569 368 OFFCURVE",
+"390 367 CURVE",
+"208 367 OFFCURVE",
+"50 302 OFFCURVE",
+"50 179 CURVE",
+"50 60 OFFCURVE",
+"208 -11 OFFCURVE",
+"390 -10 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"269 80 OFFCURVE",
+"169 113 OFFCURVE",
+"169 179 CURVE",
+"169 248 OFFCURVE",
+"269 276 OFFCURVE",
+"390 277 CURVE",
+"511 277 OFFCURVE",
+"612 248 OFFCURVE",
+"612 179 CURVE",
+"612 113 OFFCURVE",
+"511 80 OFFCURVE",
+"390 80 CURVE"
+);
+}
+);
+};
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
 paths = (
@@ -19327,9 +19365,9 @@ leftMetricsKey = n;
 rightKerningGroup = f.alt;
 },
 {
-color = 0;
+color = 4;
 glyphname = g;
-lastChange = "2015-11-12 03:50:33 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -19994,9 +20032,9 @@ rightKerningGroup = g;
 unicode = 0067;
 },
 {
-color = 0;
+color = 4;
 glyphname = g.alt;
-lastChange = "2015-11-12 03:45:45 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -22251,9 +22289,9 @@ rightMetricsKey = "=j";
 unicode = 0237;
 },
 {
-color = 0;
+color = 4;
 glyphname = k;
-lastChange = "2015-11-12 02:09:31 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -25375,7 +25413,7 @@ unicode = 0153;
 {
 color = 4;
 glyphname = p;
-lastChange = "2015-11-12 03:44:59 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -25784,9 +25822,9 @@ rightMetricsKey = "=o";
 unicode = 0070;
 },
 {
-color = 0;
+color = 4;
 glyphname = thorn;
-lastChange = "2015-11-12 03:52:20 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -25795,6 +25833,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"629 -10 OFFCURVE",
+"769 67 OFFCURVE",
+"769 195 CURVE",
+"769 303 OFFCURVE",
+"674 367 OFFCURVE",
+"531 367 CURVE",
 "401 367 OFFCURVE",
 "279 303 OFFCURVE",
 "163 219 CURVE",
@@ -25814,13 +25858,7 @@ nodes = (
 "160 73 LINE",
 "232 32 OFFCURVE",
 "337 -10 OFFCURVE",
-"466 -10 CURVE",
-"629 -10 OFFCURVE",
-"769 67 OFFCURVE",
-"769 195 CURVE",
-"769 303 OFFCURVE",
-"674 367 OFFCURVE",
-"531 367 CURVE"
+"466 -10 CURVE"
 );
 },
 {
@@ -25835,12 +25873,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"177 -151 LINE",
+"177 520 LINE",
 "-30 520 LINE",
 "-30 497 LINE",
 "152 497 LINE",
-"152 -151 LINE",
-"177 -151 LINE",
-"177 520 LINE"
+"152 -151 LINE"
 );
 }
 );
@@ -25853,6 +25891,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"351 -10 OFFCURVE",
+"435 67 OFFCURVE",
+"435 187 CURVE SMOOTH",
+"435 298 OFFCURVE",
+"360 367 OFFCURVE",
+"269 367 CURVE SMOOTH",
 "200 367 OFFCURVE",
 "145 326 OFFCURVE",
 "108 290 CURVE",
@@ -25872,13 +25916,7 @@ nodes = (
 "101 66 LINE",
 "142 24 OFFCURVE",
 "190 -10 OFFCURVE",
-"257 -10 CURVE SMOOTH",
-"351 -10 OFFCURVE",
-"435 67 OFFCURVE",
-"435 187 CURVE SMOOTH",
-"435 298 OFFCURVE",
-"360 367 OFFCURVE",
-"269 367 CURVE SMOOTH"
+"257 -10 CURVE SMOOTH"
 );
 },
 {
@@ -25893,12 +25931,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"121 -164 LINE",
+"121 520 LINE",
 "5 520 LINE",
 "5 497 LINE",
 "97 497 LINE",
-"97 -164 LINE",
-"121 -164 LINE",
-"121 520 LINE"
+"97 -164 LINE"
 );
 }
 );
@@ -26030,7 +26068,7 @@ unicode = 00FE;
 {
 color = 4;
 glyphname = q;
-lastChange = "2015-11-12 03:44:59 +0000";
+lastChange = "2015-11-12 03:53:03 +0000";
 layers = (
 {
 anchors = (
