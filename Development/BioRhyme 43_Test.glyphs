@@ -22462,7 +22462,7 @@ unicode = 0237;
 {
 color = 4;
 glyphname = k;
-lastChange = "2015-11-12 04:39:37 +0000";
+lastChange = "2015-11-12 04:39:45 +0000";
 layers = (
 {
 anchors = (
@@ -22987,15 +22987,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"267 430 LINE",
-"267 520 LINE",
-"3 520 LINE",
-"3 430 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "780 -21 OFFCURVE",
 "836 24 OFFCURVE",
 "859 90 CURVE",
@@ -23010,6 +23001,15 @@ nodes = (
 "514 38 OFFCURVE",
 "600 -21 OFFCURVE",
 "690 -21 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"267 430 LINE",
+"267 520 LINE",
+"3 520 LINE",
+"3 430 LINE"
 );
 }
 );
@@ -54652,6 +54652,7 @@ customParameters = (
 name = "Instance Preview";
 value = (
     a,
+    k,
     d,
     h,
     e,
@@ -54677,6 +54678,7 @@ customParameters = (
 name = "Instance Preview";
 value = (
     a,
+    k,
     d,
     h,
     e,
@@ -54703,6 +54705,7 @@ customParameters = (
 name = "Instance Preview";
 value = (
     a,
+    k,
     d,
     h,
     e,
@@ -54728,6 +54731,7 @@ customParameters = (
 name = "Instance Preview";
 value = (
     a,
+    k,
     d,
     h,
     e,
