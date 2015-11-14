@@ -45,7 +45,7 @@ f,
 "/k.alt n",
 "/k.alt vw/x.alt",
 /k.alt,
-"Aiorhyme H HVHYH/x.alt ZHALHPomOPegranatek\012adhesion"
+"Aiorhyme H HVHYH/x.alt ZHALHPomOPegranatekR\012adhesion"
 );
 classes = (
 {
@@ -241,7 +241,7 @@ position = "{258, -10}";
 },
 {
 angle = 90;
-position = "{333, 250}";
+position = "{305, 250}";
 },
 {
 angle = 90;
@@ -9533,7 +9533,7 @@ rightKerningGroup = Q.alt;
 {
 color = 4;
 glyphname = R;
-lastChange = "2015-11-14 17:48:07 +0000";
+lastChange = "2015-11-14 18:05:33 +0000";
 layers = (
 {
 anchors = (
@@ -9707,6 +9707,74 @@ name = top;
 position = "{295, 520}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"352 241 LINE SMOOTH",
+"466 241 OFFCURVE",
+"525 309 OFFCURVE",
+"525 378 CURVE SMOOTH",
+"525 457 OFFCURVE",
+"465 520 OFFCURVE",
+"352 520 CURVE SMOOTH",
+"30 520 LINE",
+"30 497 LINE",
+"352 497 LINE SMOOTH",
+"451 497 OFFCURVE",
+"500 441 OFFCURVE",
+"500 378 CURVE SMOOTH",
+"500 317 OFFCURVE",
+"448 262 OFFCURVE",
+"352 262 CURVE SMOOTH",
+"163 262 LINE",
+"163 241 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"281 0 LINE",
+"281 23 LINE",
+"30 22 LINE",
+"30 -1 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"168 13 LINE",
+"168 507 LINE",
+"143 507 LINE",
+"143 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"563 -10 OFFCURVE",
+"597 44 OFFCURVE",
+"597 95 CURVE SMOOTH",
+"597 116 LINE",
+"572 116 LINE",
+"572 95 LINE SMOOTH",
+"572 55 OFFCURVE",
+"549 13 OFFCURVE",
+"495 13 CURVE SMOOTH",
+"440 13 OFFCURVE",
+"408 60 OFFCURVE",
+"368 164 CURVE SMOOTH",
+"334 253 LINE",
+"310 249 LINE",
+"344 160 LINE SMOOTH",
+"387 47 OFFCURVE",
+"427 -10 OFFCURVE",
+"495 -10 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
