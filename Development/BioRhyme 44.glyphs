@@ -12899,7 +12899,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-14 17:52:47 +0000";
+lastChange = "2015-11-14 17:53:32 +0000";
 layers = (
 {
 anchors = (
@@ -13148,24 +13148,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"624 0 LINE",
-"624 96 LINE",
-"355 96 LINE",
-"355 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"281 0 LINE",
-"281 96 LINE",
-"12 96 LINE",
-"12 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "595 79 LINE",
 "373 292 LINE",
 "360 292 LINE",
@@ -13212,12 +13194,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"304 280 LINE",
-"34 280 LINE",
-"34 184 LINE",
-"109 184 LINE",
-"109 194 LINE",
-"304 194 LINE"
+"87 86 LINE",
+"87 96 LINE",
+"12 96 LINE",
+"12 0 LINE",
+"282 0 LINE",
+"282 86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 0 LINE",
+"624 0 LINE",
+"624 96 LINE",
+"549 96 LINE",
+"549 86 LINE",
+"354 86 LINE"
 );
 }
 );
