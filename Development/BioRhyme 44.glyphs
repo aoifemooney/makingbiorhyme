@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"HOHWTHOHTWT\012HOHWJHOH\012HOHWSHOH\012HOHVTHOH\012HOHVJHOH\012HOHVSHOH\012HOHYTHOH\012HOHYJHOH\012HOHYSHOH\012HOHZTHOH\012HOHZJHOH\012HOHZSHOHSZ\012HOHXTHOHXTX\012HOHXJHOH\012HOHXSHOH\012HOHATHOHATA\012HOHAJHOH\012HOHASHOH\012HOHKTHOH HKTXHHO\012HKJHOH \012HKJXHHO\012HKSHOH HKSXHHO\012HRTHOH HRTXHHO\012HRJHOH \012HRJXHHO\012HRSHOH \012HRSXH"
+"HOHCWHOH\012HOHCYHOH\012HOHCVHOH\012HOHCZHOH\012HOHCXHOH\012HOHCAHOH\012HOHSWHOH HSWSHHO\012HSYHOH HSYSHHO\012HSVHOH HSVSHHO\012HSZHOH HSZSHHO\012HSXHOH HSXSHHO\012HSAHOH HSASHHO\012HEWHOH\012HOHEYHO\012HHOHEVHO\012HHOHEZHO\012HHOHEXHO\012HHOHEAHO\012HHOHFWHO\012HHOHFYHO\012HHOHFVHO\012HHOHFZHO\012HHOHFXHO\012HHOHFAHO\012HHOHLWHO\012HHOHLYHO\012HHOHLVHO\012HHOHLZHO\012HHOHLXHO\012HHOHLAHO\012HHOHTWHO\012HHTWTHHO\012HTYHOH HTYTHHO\012HTVHOH HTVTHHO\012HTZHOH \012HTZTHHO\012HTXHOH HTXTHHO\012HTAHOH HTATHHO\012HZWHOH HZWZHHO\012HZYHOH HZYZHHO\012HZVHOH HZVZHHO\012HZZHOH \012HZZZHHO\012HZXHOH HZXZHHO\012HZAHOH \012HZAZH"
 );
 classes = (
 {
@@ -408,7 +408,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-15 20:59:34 +0000";
+lastChange = "2015-11-15 21:02:52 +0000";
 layers = (
 {
 anchors = (
@@ -12511,7 +12511,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-11-15 20:57:55 +0000";
+lastChange = "2015-11-15 21:03:02 +0000";
 layers = (
 {
 anchors = (
@@ -13114,7 +13114,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-15 20:59:00 +0000";
+lastChange = "2015-11-15 21:02:27 +0000";
 layers = (
 {
 anchors = (
@@ -13520,7 +13520,7 @@ unicode = 0058;
 {
 color = 0;
 glyphname = Y;
-lastChange = "2015-11-15 20:33:51 +0000";
+lastChange = "2015-11-15 21:02:18 +0000";
 layers = (
 {
 anchors = (
@@ -56230,6 +56230,7 @@ N = {
 "@MMK_R_T" = -5;
 "@MMK_R_J" = -5;
 "@MMK_R_Z" = -5;
+"@MMK_R_A" = -15;
 };
 "@MMK_L_R" = {
 "@MMK_R_U" = -15;
@@ -56315,6 +56316,8 @@ N = {
 "@MMK_R_T" = -10;
 "@MMK_R_J" = -15;
 "@MMK_R_Z" = -10;
+"@MMK_R_V" = -20;
+"@MMK_R_A" = -20;
 };
 "@MMK_L_G" = {
 "@MMK_R_U" = -5;
@@ -56331,6 +56334,9 @@ N = {
 "@MMK_R_T" = -5;
 "@MMK_R_J" = -5;
 "@MMK_R_Z" = -10;
+"@MMK_R_V" = -15;
+"@MMK_R_X" = -5;
+"@MMK_R_A" = -15;
 };
 "@MMK_L_F" = {
 "@MMK_R_U" = -5;
@@ -56338,6 +56344,7 @@ N = {
 "@MMK_R_S" = -5;
 "@MMK_R_J" = -30;
 "@MMK_R_Z" = -5;
+"@MMK_R_A" = -25;
 };
 "@MMK_L_L" = {
 "@MMK_R_U" = -25;
@@ -56346,6 +56353,7 @@ N = {
 "@MMK_R_T" = -70;
 "@MMK_R_J" = -10;
 "@MMK_R_Z" = -10;
+"@MMK_R_V" = -60;
 };
 "@MMK_L_Z" = {
 "@MMK_R_O" = -5;
