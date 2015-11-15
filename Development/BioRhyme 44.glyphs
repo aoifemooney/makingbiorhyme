@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"noncfnonon\012nonctnonon\012noncsnonon\012nontfnonon\012nonttnonon\012nontsnonon\012nonffnonon\012nonftnonon\012nonfsnonon\012nonrfnonon\012nonrtnonon\012nonrsnonon\012nonefnonon\012nonetnonon\012nonesnonon"
+"HOHHHHOH\012HOHHMHOH\012HOHHNHOH\012HOHHUHOH\012HOHHIHOH\012HOHHKHOH\012HOHHLHOH\012HOHHHHOH\012HOHHMHOH\012HOHHNHOH\012HOHHUHOH\012HOHHIHOH\012HOHHKHOH\012HOHHLHOH\012HOHMHHOH\012HOHMMHOH\012HOHMNHOH\012HOHMUHOH\012HOHMIHOH\012HOHMKHOH\012HOHMLHOH\012HOHNHHOH\012HOHNMHOH\012HOHNNHOH\012HOHNUHUHOH\012HOHNIHOH\012HOHNKHOH\012HOHNLHOH\012HOHUHHOH\012HOHUMHOH\012HOHUNHOH\012HOHUUHOH\012HOHUIHOH\012HOHUKHOH\012HOHULHOH\012HOHIHHOH\012HOHIMHOH\012HOHINHOH\012HOHIUHOH\012HOHIIHOH\012HOHIKHOH\012HOHILHOH\012HOHJHHOH\012HOHJMHOH\012HOHJNHOH\012HOHJUHOH\012HOHJIHOH\012HOHJKHOH\012HOHJLTHOH"
 );
 classes = (
 {
@@ -5648,7 +5648,7 @@ unicode = 004A;
 {
 color = 0;
 glyphname = K;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-15 18:58:15 +0000";
 layers = (
 {
 anchors = (
@@ -5747,8 +5747,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"583 507 LINE",
-"550 507 LINE",
+"573 507 LINE",
+"540 507 LINE",
 "155 168 LINE",
 "155 140 LINE"
 );
@@ -5774,19 +5774,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"647 0 LINE SMOOTH",
-"647 23 LINE SMOOTH",
-"425 23 LINE SMOOTH",
-"425 0 LINE SMOOTH"
+"637 0 LINE SMOOTH",
+"637 23 LINE SMOOTH",
+"415 23 LINE SMOOTH",
+"415 0 LINE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"569 10 LINE",
+"559 10 LINE",
 "326 294 LINE",
 "310 278 LINE",
-"540 10 LINE"
+"530 10 LINE"
 );
 },
 {
@@ -5801,14 +5801,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"647 497 LINE SMOOTH",
-"647 520 LINE SMOOTH",
-"425 520 LINE SMOOTH",
-"425 497 LINE SMOOTH"
+"637 497 LINE SMOOTH",
+"637 520 LINE SMOOTH",
+"415 520 LINE SMOOTH",
+"415 497 LINE SMOOTH"
 );
 }
 );
-width = 647;
+width = 637;
 },
 {
 anchors = (
@@ -5978,7 +5978,7 @@ unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2015-11-14 17:31:27 +0000";
+lastChange = "2015-11-15 18:57:49 +0000";
 layers = (
 {
 anchors = (
@@ -6086,7 +6086,7 @@ nodes = (
 );
 }
 );
-width = 522;
+width = 537;
 },
 {
 anchors = (
@@ -6755,7 +6755,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-15 18:59:03 +0000";
 layers = (
 {
 anchors = (
@@ -11647,7 +11647,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-15 19:00:28 +0000";
 layers = (
 {
 anchors = (
@@ -56184,6 +56184,15 @@ b = -10;
 };
 "@MMK_L_g" = {
 "@MMK_R_v" = -10;
+};
+"@MMK_L_H" = {
+"@MMK_R_U" = 0;
+};
+N = {
+"@MMK_R_U" = -5;
+};
+"@MMK_L_U" = {
+"@MMK_R_U" = -10;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
