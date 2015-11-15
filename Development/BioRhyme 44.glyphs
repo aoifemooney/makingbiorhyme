@@ -12317,7 +12317,7 @@ unicode = 00D9;
 {
 color = 0;
 glyphname = V;
-lastChange = "2015-11-14 17:49:33 +0000";
+lastChange = "2015-11-15 19:17:14 +0000";
 layers = (
 {
 anchors = (
@@ -12515,7 +12515,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-11-15 19:15:58 +0000";
+lastChange = "2015-11-15 19:17:33 +0000";
 layers = (
 {
 anchors = (
@@ -12642,18 +12642,18 @@ width = 1266;
 anchors = (
 {
 name = bottom;
-position = "{459, 0}";
+position = "{444, 0}";
 },
 {
 name = top;
-position = "{459, 520}";
+position = "{444, 520}";
 }
 );
 background = {
 anchors = (
 {
 name = top;
-position = "{462, 520}";
+position = "{447, 520}";
 }
 );
 };
@@ -12663,56 +12663,56 @@ paths = (
 {
 closed = 1;
 nodes = (
-"307 -10 LINE",
-"572 507 LINE",
-"546 507 LINE",
-"307 40 LINE",
-"144 507 LINE",
-"115 507 LINE",
-"299 -10 LINE"
+"292 -10 LINE",
+"557 507 LINE",
+"531 507 LINE",
+"292 40 LINE",
+"129 507 LINE",
+"100 507 LINE",
+"284 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"247 497 LINE",
-"247 520 LINE",
-"20 520 LINE",
-"20 497 LINE"
+"232 497 LINE",
+"232 520 LINE",
+"5 520 LINE",
+"5 497 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"612 -10 LINE",
-"797 507 LINE",
-"770 507 LINE",
-"607 40 LINE",
-"369 507 LINE",
-"340 507 LINE",
-"604 -10 LINE"
+"597 -10 LINE",
+"782 507 LINE",
+"755 507 LINE",
+"592 40 LINE",
+"354 507 LINE",
+"325 507 LINE",
+"589 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"631 497 LINE",
-"631 520 LINE",
-"275 520 LINE",
-"275 497 LINE"
+"616 497 LINE",
+"616 520 LINE",
+"260 520 LINE",
+"260 497 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"891 497 LINE",
-"891 520 LINE",
-"654 520 LINE",
-"654 497 LINE"
+"876 497 LINE",
+"876 520 LINE",
+"639 520 LINE",
+"639 497 LINE"
 );
 }
 );
-width = 911;
+width = 881;
 },
 {
 anchors = (
@@ -56199,7 +56199,7 @@ N = {
 "@MMK_R_S" = -5;
 "@MMK_R_A" = -15;
 "@MMK_R_Z" = -5;
-"@MMK_R_V" = -40;
+"@MMK_R_V" = -15;
 };
 "@MMK_L_U" = {
 "@MMK_R_U" = -10;
@@ -56209,7 +56209,7 @@ N = {
 "@MMK_R_X" = -10;
 "@MMK_R_Z" = -10;
 "@MMK_R_Y" = -20;
-"@MMK_R_V" = -20;
+"@MMK_R_V" = -25;
 };
 "@MMK_L_O" = {
 "@MMK_R_U" = -10;
