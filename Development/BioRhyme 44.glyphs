@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"HOHRWHOHRWX\012HOHRVHOH\012HOHRYHOH\012HOHRZHOH\012HOHRXHOH\012HOHRAHOH\012HOHR\U00C6HOH\012HOHBWHOH\012HOHBVHOH\012HOHBYHOH\012HOHBZHOH\012HOHBXHOH\012HOHBAHOH\012HOHB\U00C6HOH\012HOHPWHOH\012HOHPVHOH\012HOHPYHOH\012HOHPZHOH\012HOHPXHOH\012HOHPAHOH\012HOHP\U00C6HOH"
+"HOHWSHOHSWS\012HOHVSHOH\012HOHYSHOH\012HOHZSHOH ZSZ\012HOHXSHOH SXS\012HOHASHOH\012HOHKSHOH\012HOHRSHOH"
 );
 classes = (
 {
@@ -10755,7 +10755,7 @@ rightKerningGroup = R.alt;
 {
 color = 4;
 glyphname = S;
-lastChange = "2015-11-15 20:07:28 +0000";
+lastChange = "2015-11-15 20:37:10 +0000";
 layers = (
 {
 anchors = (
@@ -12511,7 +12511,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-11-15 20:31:41 +0000";
+lastChange = "2015-11-15 20:34:48 +0000";
 layers = (
 {
 anchors = (
@@ -13114,7 +13114,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-15 20:33:27 +0000";
+lastChange = "2015-11-15 20:37:15 +0000";
 layers = (
 {
 anchors = (
@@ -13284,14 +13284,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"509 12 LINE",
-"314 263 LINE",
-"310 263 LINE",
-"119 507 LINE",
-"82 507 LINE",
-"291 240 LINE",
-"295 240 LINE",
-"472 12 LINE"
+"506 12 LINE",
+"311 263 LINE",
+"307 263 LINE",
+"116 507 LINE",
+"85 507 LINE",
+"294 240 LINE",
+"298 240 LINE",
+"475 12 LINE"
 );
 },
 {
@@ -13315,14 +13315,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"133 12 LINE",
-"312 239 LINE",
-"316 245 LINE",
-"523 507 LINE",
-"488 507 LINE",
-"296 264 LINE",
-"292 258 LINE",
-"98 12 LINE"
+"129 12 LINE",
+"308 239 LINE",
+"312 245 LINE",
+"519 507 LINE",
+"492 507 LINE",
+"300 264 LINE",
+"296 258 LINE",
+"102 12 LINE"
 );
 },
 {
@@ -56224,6 +56224,8 @@ N = {
 "@MMK_L_S" = {
 "@MMK_R_U" = -10;
 "@MMK_R_O" = 0;
+"@MMK_R_V" = -25;
+"@MMK_R_X" = -5;
 };
 "@MMK_L_R" = {
 "@MMK_R_U" = -15;
@@ -56261,10 +56263,12 @@ N = {
 "@MMK_L_X" = {
 "@MMK_R_U" = -10;
 "@MMK_R_O" = -10;
+"@MMK_R_S" = -5;
 };
 "@MMK_L_V" = {
 "@MMK_R_U" = -25;
 "@MMK_R_O" = -35;
+"@MMK_R_S" = -25;
 };
 "@MMK_L_T" = {
 "@MMK_R_U" = -5;
