@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"HOHCUHOH\012HOHCHHOH\012HOHGUHOH\012HOHGHHOH\012HOHSUHOH\012HOHSHHOH\012HOHEUHOH\012HOHEHHOH\012HOHFUHOHFH\012HOHFHHOH\012HOHLUHOH\012HOHLHHOH\012HOHTUHOH\012HOHTHHOH\012HOHZUHOH\012HOHZHHOH"
+"HOHDSHOHOSOH\012HOHOSHOH\012HOHQSHOH"
 );
 classes = (
 {
@@ -7173,7 +7173,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-11-15 19:05:56 +0000";
+lastChange = "2015-11-15 19:25:08 +0000";
 layers = (
 {
 anchors = (
@@ -10759,7 +10759,7 @@ rightKerningGroup = R.alt;
 {
 color = 4;
 glyphname = S;
-lastChange = "2015-11-15 19:08:41 +0000";
+lastChange = "2015-11-15 19:24:52 +0000";
 layers = (
 {
 anchors = (
@@ -56217,9 +56217,11 @@ N = {
 };
 "@MMK_L_O" = {
 "@MMK_R_U" = -10;
+"@MMK_R_S" = -10;
 };
 "@MMK_L_S" = {
 "@MMK_R_U" = -10;
+"@MMK_R_O" = -5;
 };
 "@MMK_L_R" = {
 "@MMK_R_U" = -15;
