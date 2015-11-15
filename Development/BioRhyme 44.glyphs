@@ -56,7 +56,9 @@ $,
 "\U00BE",
 /three.numr,
 /fraction/four.dnom/three.numr/fraction/four.dnom/three.numr,
-"\U00C6"
+"\U00C6",
+"/ringcomb \U00C5",
+/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod
 );
 classes = (
 {
@@ -408,7 +410,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-14 17:30:34 +0000";
+lastChange = "2015-11-15 15:29:06 +0000";
 layers = (
 {
 anchors = (
@@ -1007,7 +1009,7 @@ rightKerningGroup = A.alt;
 },
 {
 glyphname = Aacute;
-lastChange = "2015-11-15 13:37:25 +0000";
+lastChange = "2015-11-15 15:29:24 +0000";
 layers = (
 {
 components = (
@@ -1346,7 +1348,7 @@ unicode = 00C0;
 },
 {
 glyphname = Aring;
-lastChange = "2015-11-15 13:37:25 +0000";
+lastChange = "2015-11-15 15:29:53 +0000";
 layers = (
 {
 components = (
@@ -1369,7 +1371,7 @@ name = A;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 171, 99}";
+transform = "{1, 0, 0, 1, 171, 17}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -16059,7 +16061,7 @@ unicode = 00E0;
 },
 {
 glyphname = aring;
-lastChange = "2015-11-12 04:43:28 +0000";
+lastChange = "2015-11-15 15:29:57 +0000";
 layers = (
 {
 components = (
@@ -16082,7 +16084,7 @@ name = a;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 61, -14}";
+transform = "{1, 0, 0, 1, 61, -96}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -52254,7 +52256,7 @@ unicode = 2120;
 },
 {
 glyphname = dieresiscomb;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-15 15:30:13 +0000";
 layers = (
 {
 anchors = (
@@ -52307,7 +52309,7 @@ width = 482;
 anchors = (
 {
 name = _top;
-position = "{226, 467}";
+position = "{226, 590}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -52451,7 +52453,7 @@ unicode = 0308;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-15 15:30:16 +0000";
 layers = (
 {
 anchors = (
@@ -52487,7 +52489,7 @@ width = 254;
 anchors = (
 {
 name = _top;
-position = "{99, 445}";
+position = "{99, 557}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -53306,7 +53308,7 @@ unicode = 0306;
 },
 {
 glyphname = ringcomb;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-15 15:29:54 +0000";
 layers = (
 {
 anchors = (
@@ -53359,7 +53361,7 @@ width = 411;
 anchors = (
 {
 name = _top;
-position = "{163, 391}";
+position = "{163, 473}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
