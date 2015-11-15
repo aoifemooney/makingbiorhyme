@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"nonCanonononSsnonononSanonononEsnonononEanonononFsnonononFanonono\012nLsnonononLanonononTsunamionono\012nTanonononZsnonononZadienono\012nonWvnonononWwnonononWynonononWznonononWxnonononVvnonononVwnonononVynonononVznonononVxnonononYvnonononYwnonononYynonononYznonononYxnonononZvnonononZwnonononZynonononZznonononZxnonononXvnonononXwnonononXynonononXznonononXxnonononAvnonononAwnonononAynonononAznonononAxnonononKvnonononKwnonononKynonononKznonononKxnonononRvnonononRwnonononRynonononRznonononRxnonovoid>open(WVYZXAKR)R L(fts)nonWfnonononWtnonononWsnonononVfnonononVtnonononVsnonononYfnonononYtnonononYsnonononZfnonononZtnonononZsnonononXfnonononXtnonononXsnonononAfnonononAtnonononAsnonononKfnonononKtnonononKsnonononRfnonononRtnonononRsnono"
+"nonCanonononSsnonononSanonononEsnonononEanonononFsnonononFanonono\012nLsnonononLanonononTsunamionono\012nTanonononZsnonononZadienono\012nonWvnonononWwnonononWynonononnnonWznonononWxnonononVvnonononVwnonononVynonononnonVznonononVxnonononYvnonononYwnonononYynonono\012nonYznonononYxnonononZvnonononZwnonononZynonononZznonononZxnonononXvnonononXwnonononvXynonononXznonononXxnono\012nonAvnonononAwnonononAynono\012nonAznonononAxnonononKvnonononKwnonononKynonononKznonononKxnonononRvnonononRwnonononRynonononRznonononRxnonovoid>open(WVYZXAKR)R L(fts)nonWfnonononWtnonononWsnonononVfnonononVtnonononVsnonononYfnonononYtnonononYsnonononZfnonononZtnonononZsnonononXfnonononXtnonononXsnonononAfnonononAtnonononAsnonononKfnonononKtnonononKsnonononRfnonononRtnonononRsnono"
 );
 classes = (
 {
@@ -13118,7 +13118,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-15 22:56:17 +0000";
+lastChange = "2015-11-15 23:14:52 +0000";
 layers = (
 {
 anchors = (
@@ -29995,7 +29995,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-15 23:13:24 +0000";
+lastChange = "2015-11-15 23:15:19 +0000";
 layers = (
 {
 anchors = (
@@ -30229,7 +30229,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-15 23:02:52 +0000";
+lastChange = "2015-11-15 23:14:29 +0000";
 layers = (
 {
 anchors = (
@@ -30884,7 +30884,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2015-11-15 23:04:49 +0000";
+lastChange = "2015-11-15 23:15:38 +0000";
 layers = (
 {
 anchors = (
@@ -32210,7 +32210,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2015-11-15 23:04:42 +0000";
+lastChange = "2015-11-15 23:15:30 +0000";
 layers = (
 {
 anchors = (
@@ -56068,6 +56068,7 @@ b = -10;
 "@MMK_R_v" = -35;
 "@MMK_R_x" = -10;
 "@MMK_R_t" = -5;
+"@MMK_R_X" = -15;
 };
 "@MMK_L_k" = {
 "@MMK_R_u" = -10;
@@ -56360,6 +56361,9 @@ N = {
 "@MMK_R_g" = -45;
 "@MMK_R_a" = -30;
 "@MMK_R_s" = -40;
+"@MMK_R_v" = -60;
+"@MMK_R_z" = -20;
+"@MMK_R_x" = -30;
 };
 "@MMK_L_X" = {
 "@MMK_R_U" = -10;
@@ -56376,6 +56380,8 @@ N = {
 "@MMK_R_g" = -10;
 "@MMK_R_a" = -10;
 "@MMK_R_s" = -10;
+"@MMK_R_v" = -15;
+"@MMK_R_x" = -10;
 };
 "@MMK_L_V" = {
 "@MMK_R_U" = -25;
@@ -56397,6 +56403,8 @@ N = {
 "@MMK_R_a" = -55;
 "@MMK_R_s" = -55;
 "@MMK_R_v" = -50;
+"@MMK_R_z" = -40;
+"@MMK_R_x" = -40;
 };
 "@MMK_L_T" = {
 "@MMK_R_U" = -5;
@@ -56515,6 +56523,7 @@ N = {
 "@MMK_R_o" = -10;
 "@MMK_R_g" = -5;
 "@MMK_R_s" = -5;
+"@MMK_R_v" = -20;
 };
 W = {
 "@MMK_R_p" = -45;
