@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"nonkvnovonon\012nonkwnonon\012nonkynonon\012nonkznonon\012nonkxnonon\012nonvvnonon\012nonvwnonon\012nonvynonon\012nonvznonon\012nonvxnonon\012nonwvnonon\012nonwwnonon\012nonwynonon\012nonwznonon\012nonwxnonon\012nonyvnonon\012nonywnonon\012nonyynonon\012nonyznonon\012nonyxnonon\012nonzvnonon\012nonzwnonon\012nonzynonon\012nonzznonon\012nonzxnonon\012nonxvnonon\012nonxwnonon\012nonxynonon\012nonxznonon\012nonxxnonon"
+"nonkvnovonon\012nonkwnonon\012nonkynonon\012nonkznonon\012nonkxnonon\012nonvvnonon\012nonvwnonon\012nonvynonon\012nonvznonon\012nonvxnonon\012nonwvnonon\012nonwwnonon\012nonwynonon\012nonwznonon\012nonwxnonon\012nonyvnonon\012nonywnonon\012nonyynonon\012nonyznonon\012nonyxnonon\012nonzvnononvzv\012nonzwnonon\012nonzynonon\012nonzznonon\012nonzxnonon\012nonxvnonon\012nonxwnonon\012nonxynonon\012nonxznonon\012nonxxnonon"
 );
 classes = (
 {
@@ -29995,7 +29995,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-15 18:47:13 +0000";
+lastChange = "2015-11-15 18:49:30 +0000";
 layers = (
 {
 anchors = (
@@ -30229,7 +30229,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-15 18:32:26 +0000";
+lastChange = "2015-11-15 18:49:58 +0000";
 layers = (
 {
 anchors = (
@@ -30884,7 +30884,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2015-11-15 18:31:39 +0000";
+lastChange = "2015-11-15 18:49:19 +0000";
 layers = (
 {
 anchors = (
@@ -31643,7 +31643,7 @@ rightKerningGroup = x.alt;
 },
 {
 glyphname = y;
-lastChange = "2015-11-15 18:36:28 +0000";
+lastChange = "2015-11-15 18:50:11 +0000";
 layers = (
 {
 anchors = (
@@ -32210,7 +32210,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2015-11-15 18:47:24 +0000";
+lastChange = "2015-11-15 18:49:13 +0000";
 layers = (
 {
 anchors = (
@@ -56073,6 +56073,8 @@ b = -10;
 "@MMK_R_g" = -25;
 "@MMK_R_s" = -15;
 "@MMK_R_a" = -15;
+"@MMK_R_v" = -35;
+"@MMK_R_x" = -10;
 };
 "@MMK_L_k" = {
 "@MMK_R_u" = -10;
@@ -56092,6 +56094,9 @@ b = -15;
 "@MMK_R_g" = -15;
 "@MMK_R_s" = -15;
 "@MMK_R_a" = -10;
+"@MMK_R_v" = -15;
+"@MMK_R_z" = -10;
+"@MMK_R_x" = -10;
 };
 "@MMK_L_c" = {
 "@MMK_R_u" = -5;
@@ -56153,6 +56158,7 @@ b = -10;
 "@MMK_R_o" = -10;
 "@MMK_R_g" = -5;
 "@MMK_R_s" = -5;
+"@MMK_R_v" = -20;
 };
 "@MMK_L_g" = {
 "@MMK_R_v" = -10;
