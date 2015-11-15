@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"nonkonono\012nonvonono\012nonwoonon\012nonyonon\012nonzononon\012nonxononon\012nonkonono\012nonvdnono\012nonwdonon\012nonydonon\012nonzdnonon\012nonxdnonon\012nonkgnono\012nonovgvnono\012nonwgwownon\012nonygonon\012nonzgnonon\012nonxgnonon"
+"nonofnono\012nonpfonon\012nonbfnono\012nonotnono\012nonptonon\012nonbtnono\012nonosnono\012nonpsonon\012nonbsnono"
 );
 classes = (
 {
@@ -16739,7 +16739,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-15 18:00:15 +0000";
+lastChange = "2015-11-15 18:27:14 +0000";
 layers = (
 {
 anchors = (
@@ -17042,7 +17042,7 @@ width = 850;
 }
 );
 leftKerningGroup = b;
-rightKerningGroup = p;
+rightKerningGroup = o;
 rightMetricsKey = "=o";
 unicode = 0062;
 },
@@ -26141,7 +26141,7 @@ unicode = 0153;
 {
 color = 4;
 glyphname = p;
-lastChange = "2015-11-15 18:00:09 +0000";
+lastChange = "2015-11-15 18:27:18 +0000";
 layers = (
 {
 anchors = (
@@ -26545,7 +26545,7 @@ width = 926;
 );
 leftKerningGroup = p;
 leftMetricsKey = "=l";
-rightKerningGroup = p;
+rightKerningGroup = o;
 rightMetricsKey = "=o";
 unicode = 0070;
 },
@@ -27477,7 +27477,7 @@ unicode = 0072;
 {
 color = 4;
 glyphname = s;
-lastChange = "2015-11-15 17:56:59 +0000";
+lastChange = "2015-11-15 18:27:08 +0000";
 layers = (
 {
 anchors = (
@@ -28357,7 +28357,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2015-11-15 17:41:53 +0000";
+lastChange = "2015-11-15 18:26:56 +0000";
 layers = (
 {
 anchors = (
@@ -56107,11 +56107,13 @@ b = -10;
 "@MMK_R_v" = -20;
 "@MMK_R_z" = -5;
 "@MMK_R_x" = -10;
+"@MMK_R_t" = -15;
 };
 "@MMK_L_p" = {
 "@MMK_R_v" = -20;
 "@MMK_R_z" = -5;
 "@MMK_R_x" = -5;
+"@MMK_R_s" = -10;
 };
 "@MMK_L_x" = {
 "@MMK_R_o" = -10;
