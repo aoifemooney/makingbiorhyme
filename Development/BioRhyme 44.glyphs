@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"nonoHononononpHnonononbHnono\012nonoUononononpUnonononbUnonostraight>small nonnSnonononqSnononoisniSnono\012nonjSnojsnonusonuSnononoasnaSnono(s)R L(HMNUIKLPRBEF)nonsHsnonononsUnonostraight>void(udlijgqhmna)R L(WVYZXA)nonnWnonononqWnonono\012niWnonononjWnonononuWnonononaWnonononnVnonononqVnonononiVnonononjVnonononuVnonononaVnonononnYnonononqYnonononiYnonononjYnonononuYnonononaYnonononnZnonononqZnonononiZnonononjZnonononuZnonononaZnonononnXnonononqXnonononiXnonononjXnonononuXnonononaXnonononnAnonononqAnonononiAnonononjAnonononuAnonononaAnono(kvwyzx)R L(HMNUIKLPRBEF)nonkHnonononkUnonononvHnonononvUnonononwHnonononwUnonononyHnonononyUnonononzHnonononzUnonononxHnonononxUnonostraight>open(udlijgqhmna)R L(TJS)nonnTnonononqTnonononiTnonononjTnonononuTnonononaTnonononnJnonononqJnonononiJnonononjJnonononuJnonononaJnonononnSnonononqSnonononiSnonononjSnonononuSnonononaSnono(ctfr) R L(HMNUIKLPRBEF)noncHnonononcUnonononfHnonononfUnononontHnononontUnonononrHnonononrUnono"
+"nonoHononononpHnonononbHnono\012nonoUononononpUnonononbUnonostraight>small nonnSnonononqSnononoisniSnono\012nonjSnojsnonusonuSnononoasnaSnono(s)R L(HMNUIKLPRBEF)nonsHsnonononsUnonostraight>void(udlijgqhmna)R L(WVYZXA)nonnWnonononqWnonono\012niWnonononjWnonononuWnononvoavwnaWnonononnVnonononqVnonononiVnonononjVnonononuVnonononaVnonononnYnonononqYnonononiYnonononjYnonononuYnonononaYnonononnZnonononqZnonononiZnonononjZnonononuZnonononaZnonononnXnonononqXnonononiXnonononjXnonononuXnonononaXnonononnAnonononqAnonononiAnonononjAnonononuAnonononaAnono(kvwyzx)R L(HMNUIKLPRBEF)nonkHnonononkUnonononvHnonononvUnonononwHnonononwUnonononyHnonononyUnonononzHnonononzUnonononxHnonononxUnonostraight>open(udlijgqhmna)R L(TJS)nonnTnonononqTnonononiTnonononjTnonononuTnonononaTnonononnJnonononqJnonononiJnonononjJnonononuJnonononaJnonononnSnonononqSnonononiSnonononjSnonononuSnonononaSnono(ctfr) R L(HMNUIKLPRBEF)noncHnonononcUnonononfHnonononfUnononontHnononontUnonononrHnonononrUnono"
 );
 classes = (
 {
@@ -12515,7 +12515,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-11-15 23:33:17 +0000";
+lastChange = "2015-11-15 23:34:00 +0000";
 layers = (
 {
 anchors = (
@@ -14277,7 +14277,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-15 23:12:21 +0000";
+lastChange = "2015-11-15 23:34:43 +0000";
 layers = (
 {
 anchors = (
@@ -14850,7 +14850,7 @@ width = 828;
 }
 );
 leftKerningGroup = a;
-rightKerningGroup = a;
+rightKerningGroup = n;
 unicode = 0061;
 },
 {
@@ -29995,7 +29995,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-15 23:22:47 +0000";
+lastChange = "2015-11-15 23:34:26 +0000";
 layers = (
 {
 anchors = (
@@ -56005,6 +56005,7 @@ b = -15;
 "@MMK_R_x" = -10;
 "@MMK_R_t" = -15;
 "@MMK_R_S" = -25;
+"@MMK_R_V" = -60;
 };
 "@MMK_L_q" = {
 "@MMK_R_u" = -10;
@@ -56034,7 +56035,7 @@ y = -20;
 "@MMK_R_z" = -10;
 "@MMK_R_t" = -15;
 "@MMK_R_S" = -25;
-"@MMK_R_V" = -35;
+"@MMK_R_V" = -55;
 };
 a = {
 "@MMK_R_u" = -15;
@@ -56046,7 +56047,7 @@ b = -20;
 b = -5;
 "@MMK_R_p" = 0;
 "@MMK_R_S" = -10;
-"@MMK_R_V" = -35;
+"@MMK_R_V" = -45;
 };
 "@MMK_L_a" = {
 "@MMK_R_g" = -10;
@@ -56054,6 +56055,8 @@ b = -5;
 "@MMK_R_s" = -15;
 "@MMK_R_O" = -15;
 "@MMK_R_S" = -25;
+"@MMK_R_V" = -60;
+"@MMK_R_v" = 0;
 };
 "@MMK_L_s" = {
 "@MMK_R_u" = -20;
