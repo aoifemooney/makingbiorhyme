@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"nonWononononWdnonononWgnonononVononononVdnonononVgnonononYononononYdnonononYgnonononZononononZdnonononZgnonononZononononZdnonononZgnonononoXononononXdnonononXgnonono\012noAoifenonononAdnonononAgnonono\012nKononononKdnonononKgnonononRononononRdnonononRgnonofull>open(DOQ)R L(fts)nonDfnonononDtnonononDsnonononOfnonononOtnonononOsnonononQfnonononQtnonononQsnono"
+"nonCononononCdnonononCgnonononSononononSdnonono\012nSgnonononEononononEdnonononEgnonononFononononFdnonononFgnonononLononononLdnonononLgnonononTononononTdnonononTgnonono\012nZononononZdnonononZgnonosmall>small(RBPG)R L(as)nonRanonono\012nRsnonononBanonononBsnonononPanonononPsnonononGanonononGsnono"
 );
 classes = (
 {
@@ -14277,7 +14277,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-15 22:52:38 +0000";
+lastChange = "2015-11-15 23:00:32 +0000";
 layers = (
 {
 anchors = (
@@ -19830,7 +19830,7 @@ rightKerningGroup = f.alt;
 {
 color = 4;
 glyphname = g;
-lastChange = "2015-11-15 22:57:13 +0000";
+lastChange = "2015-11-15 22:59:57 +0000";
 layers = (
 {
 anchors = (
@@ -24790,7 +24790,7 @@ unicode = 00F1;
 {
 color = 4;
 glyphname = o;
-lastChange = "2015-11-15 22:56:45 +0000";
+lastChange = "2015-11-15 22:59:51 +0000";
 layers = (
 {
 anchors = (
@@ -27477,7 +27477,7 @@ unicode = 0072;
 {
 color = 4;
 glyphname = s;
-lastChange = "2015-11-15 22:52:46 +0000";
+lastChange = "2015-11-15 23:00:38 +0000";
 layers = (
 {
 anchors = (
@@ -56273,6 +56273,8 @@ N = {
 "@MMK_R_u" = -5;
 "@MMK_R_b" = -10;
 "@MMK_R_p" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_g" = -10;
 };
 "@MMK_L_R" = {
 "@MMK_R_U" = -15;
@@ -56291,6 +56293,8 @@ N = {
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -10;
 "@MMK_R_g" = -35;
+"@MMK_R_a" = -15;
+"@MMK_R_s" = -25;
 };
 "@MMK_L_B" = {
 "@MMK_R_U" = -10;
@@ -56305,6 +56309,8 @@ N = {
 "@MMK_R_b" = -10;
 "@MMK_R_o" = -5;
 "@MMK_R_g" = -10;
+"@MMK_R_a" = -5;
+"@MMK_R_s" = -5;
 };
 "@MMK_L_P" = {
 "@MMK_R_U" = 0;
@@ -56385,6 +56391,8 @@ N = {
 "@MMK_R_b" = -10;
 "@MMK_R_p" = -20;
 "@MMK_R_n" = -10;
+"@MMK_R_o" = -40;
+"@MMK_R_g" = -50;
 };
 "@MMK_L_C" = {
 "@MMK_R_U" = -10;
@@ -56398,6 +56406,8 @@ N = {
 "@MMK_R_u" = -10;
 "@MMK_R_b" = -10;
 "@MMK_R_p" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_g" = -15;
 };
 "@MMK_L_G" = {
 "@MMK_R_U" = -5;
@@ -56424,6 +56434,8 @@ N = {
 "@MMK_R_b" = -10;
 "@MMK_R_p" = -5;
 "@MMK_R_n" = -5;
+"@MMK_R_o" = -20;
+"@MMK_R_g" = -25;
 };
 "@MMK_L_F" = {
 "@MMK_R_U" = -5;
@@ -56436,6 +56448,8 @@ N = {
 "@MMK_R_b" = -5;
 "@MMK_R_p" = -15;
 "@MMK_R_n" = -10;
+"@MMK_R_o" = -50;
+"@MMK_R_g" = -55;
 };
 "@MMK_L_L" = {
 "@MMK_R_U" = -25;
@@ -56449,6 +56463,8 @@ N = {
 "@MMK_R_b" = -15;
 "@MMK_R_p" = -10;
 "@MMK_R_n" = -5;
+"@MMK_R_o" = -10;
+"@MMK_R_g" = -15;
 };
 "@MMK_L_Z" = {
 "@MMK_R_O" = -5;
