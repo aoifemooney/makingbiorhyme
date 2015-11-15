@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"nonovnononvnovo\012nonpvonon\012nonbvnono\012nonownono\012nonpwonon\012nonbwnono\012nonoynono\012nonpyonon\012nonbynono\012nonoznono\012nonpzonon\012nonbznono\012nonoxnono\012nonpxonon\012nonbxnono"
+"nonovnononvnovo\012nonpvonon\012nonbvnono\012nonownonovdvqv/g.alt \012nonpwonon\012nonbwnono\012nonoynono\012nonpyonon\012nonbynono\012nonoznono\012nonpzonon\012nonbznono\012nonoxnono\012nonpxonon\012nonbxnono"
 );
 classes = (
 {
@@ -17379,7 +17379,7 @@ unicode = 00E7;
 {
 color = 4;
 glyphname = d;
-lastChange = "2015-11-12 03:53:03 +0000";
+lastChange = "2015-11-15 18:01:24 +0000";
 layers = (
 {
 anchors = (
@@ -17826,7 +17826,7 @@ nodes = (
 width = 866;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = d;
 leftMetricsKey = "=o";
 rightKerningGroup = l;
 unicode = 0064;
@@ -26796,7 +26796,7 @@ unicode = 00FE;
 {
 color = 4;
 glyphname = q;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-15 18:01:12 +0000";
 layers = (
 {
 anchors = (
@@ -27194,7 +27194,7 @@ nodes = (
 width = 904;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = d;
 leftMetricsKey = "=o";
 rightKerningGroup = q;
 unicode = 0071;
@@ -29995,7 +29995,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-15 17:59:37 +0000";
+lastChange = "2015-11-15 18:00:38 +0000";
 layers = (
 {
 anchors = (
@@ -30229,7 +30229,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-15 17:28:23 +0000";
+lastChange = "2015-11-15 18:01:50 +0000";
 layers = (
 {
 anchors = (
@@ -56061,6 +56061,7 @@ b = -20;
 b = -10;
 "@MMK_R_p" = -15;
 "@MMK_R_o" = -25;
+"@MMK_R_d" = -20;
 };
 "@MMK_L_k" = {
 "@MMK_R_u" = -10;
@@ -56097,6 +56098,9 @@ b = -10;
 "@MMK_L_o" = {
 "@MMK_R_a" = -5;
 "@MMK_R_s" = -10;
+"@MMK_R_v" = -30;
+};
+"@MMK_L_p" = {
 "@MMK_R_v" = -25;
 };
 };
