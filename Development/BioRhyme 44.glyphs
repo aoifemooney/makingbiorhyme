@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"nonoj?nonononon?nonononoa?nonoonon?unonoonon?bnonoonon?nononnonou\U00BFnonononoq\U00BFnonononoj\U00BFnonononon\U00BFnonononoa\U00BFnonoonon\U00BFunonoonon\U00BFbnonoonon\U00BFnonon\012nonoun/guilsinglright nono\012nonoq/guilsinglright nono\012nonoj/guilsinglright nonononon/guilsinglright nonononoa/guilsinglright nonoonon/guilsinglright unonoonon/guilsinglright bnonoonon/guilsinglright nononnonou/guilsinglleft nonononoq/guilsinglleft nonononoj/guilsinglleft nonononon/guilsinglleft nono\012nonoa/guilsinglleft nonoonon/guilsinglleft unonoonon/guilsinglleft bnonoonon/guilsinglleft nononno\012nou{nonononoq{nonononoj{nonononon{nonononoa{nonoonon{unonoonon{bnonoonon{nononnonou}nonononoq}nonononoj}nonononon}nonononoa}nonoonon}unonoonon}bnonoonon}nononnonou(nonononoq(nonononoj(nonononon(nonononoa(nonoonon(unonoonon(bnonoonon(nononnonou)nonononoq)nonononoj)nonononon)nonononoa)nonoonon)unonoonon)bnonoonon)nonon",
+"small round onon.anonoonon.snonoonons.nonoonon,anonoonon,snonoonons,nonoonon/quoteright anonoonon/quoteright snonoonons/quoteright nonoonon/quoteleft n/quotedblleft anonoonon/quoteleft snonoonons/quotedblleft n/quoteleft nonoonon/quotereversed anonoonon/quotereversed snonoonons/quotereversed nonoonon/quotedblbase anonoonon/quotedblbase snonoonons/quotedblbase nonoonon/quotedblright anonoonon/quotedblright snonoonons/quotedblright nonoonon/quotedblleft anonoonon/quotedblleft snonoonons/quotedblleft nonoonon/ellipsis anonoonon/ellipsis snonoonons/ellipsis nonoonon:anonoonon:snonoonons:nonoonon;anonoonon;snonoonons;nonoonon!anonoonon!snonoonons!nonoonon\U00A1anonoonon\U00A1snonoonons\U00A1nonoonon?anonoo\012non?snonoonons?nonoonon\U00BFanonoonon\U00BFsnonoonons\U00BFnonoo\012non/guilsinglright anonoonon/guilsinglright snonoonons/guilsinglright nonoonon/guilsinglleft anono",
 "/a.alt2 bcd/d.alt aec/x.alt vwykeo/g.alt o/oe p\U00FEq/schwa",
 "{n}[n](n)\U00ABn\U00BB/guilsinglleft n/guilsinglright \012{H}[H](H)\U00ABH\U00BB/guilsinglleft H/guilsinglright",
 anhd,
@@ -14281,7 +14281,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-15 23:34:43 +0000";
+lastChange = "2015-11-16 00:55:22 +0000";
 layers = (
 {
 anchors = (
@@ -27481,7 +27481,7 @@ unicode = 0072;
 {
 color = 4;
 glyphname = s;
-lastChange = "2015-11-15 23:46:45 +0000";
+lastChange = "2015-11-16 00:55:26 +0000";
 layers = (
 {
 anchors = (
@@ -40093,7 +40093,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2015-11-16 00:31:10 +0000";
+lastChange = "2015-11-16 00:53:06 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -40198,7 +40198,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2015-11-16 00:46:42 +0000";
+lastChange = "2015-11-16 00:55:18 +0000";
 layers = (
 {
 background = {
@@ -40699,7 +40699,7 @@ unicode = 0027;
 },
 {
 glyphname = semicolon;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-16 00:54:36 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -56121,6 +56121,9 @@ b = -20;
 "@MMK_R_A" = -30;
 "@MMK_R_T" = -25;
 "@MMK_R_J" = -15;
+"@MMK_R_period" = -10;
+"@MMK_R_colon" = -5;
+"@MMK_R_question" = -5;
 };
 "@MMK_L_v" = {
 b = -10;
@@ -56769,9 +56772,13 @@ W = {
 "@MMK_L_period" = {
 "@MMK_R_b" = -30;
 "@MMK_R_u" = -25;
+"@MMK_R_a" = -5;
+"@MMK_R_s" = -5;
 };
 "@MMK_L_quotedblleft" = {
 "@MMK_R_b" = 30;
+"@MMK_R_a" = -25;
+"@MMK_R_s" = -20;
 };
 "@MMK_L_colon" = {
 "@MMK_R_b" = -15;
@@ -56785,12 +56792,18 @@ exclam = {
 };
 "@MMK_L_question" = {
 "@MMK_R_b" = 10;
+"@MMK_R_a" = -5;
+"@MMK_R_s" = -5;
 };
 "@MMK_L_guillemotleft" = {
 "@MMK_R_b" = -10;
 };
 "@MMK_L_guillemotright" = {
 "@MMK_R_b" = -15;
+};
+"@MMK_L_questiondown" = {
+"@MMK_R_a" = 5;
+"@MMK_R_s" = 5;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
