@@ -60,7 +60,7 @@ $,
 "/ringcomb \U00C5",
 /dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/slashshortcomb/slashlongcomb/commaturnedmod,
 "&",
-"noncOncononono\012nfOnononontOnonononrOnonosmall>small(s)R L(S)nonsSsnonosmall>void(s)R L(WVYZXA)nonsWsnonononsVsnonononsYnonononsZsnonononsXsnonononsAsnono(kvwyzx)R L(S)nonkSsnonono\012nvSvnonononwSnonononySnonononzSznonononxSxnonosmall>open(s)R L(TJS)nonsTsnonononsJnonononsSsnono(ctfr) R L(S)noncSononono\012ntStnonononfSnonononrSnonovoid>void(kvwyzx)R L(WVYZXA)\012nonkWsnono\012nonvWvnono\012nonwWwnonono\012nyWynono\012nonzWznono\012nonxWxnono\012nonkVxnonononvVnonononwVnonononyVnonononzVznonononxVnonononkYnonononvYnonononwYnonononyYnonononzYnonononxYnonononkZnonononvZvnonononwZnonononyZnonononzZznonononxZnonononkXnono\012nonvXvnonononwXnonononyXnono\012nonzXznonononxXnonononkAsnonononvAnonononwAwnonononyAnonononzAznonononxAxnonovoid>open(kvwyzx)R L(TJS)nonkTsnonononvTvnonononwTwnonononyTvnono\012nonzTznonononxTxnonononkJsnonononvJvnonononwJnonononyJnonononzJnonononxJnonononkSsnonononvSvnonononwSnonononySnonononzSnonononxSnono(ctfr) R L(WVYZXA)noncWnononontWnono\012nonfWnonononrWnonononcVnononontVnonononfVnonononrVnonononcYnononontYnonononfYnonononrYnonononcZonononontZtnonononfZnonononrZpnonononcXnononontXnonononfXnonononrXnono\012noncAnononontAnonononfAnono\012nonrAnono"
+"open>open(ctfr) R L(TJS)noncTonono\012nontTnonononfTnonononrTnonononcJnononontJnonononfJnonononrJnonnoncSnononontSnonononfSnonononrSnono"
 );
 classes = (
 {
@@ -5415,7 +5415,7 @@ unicode = 00CC;
 {
 color = 4;
 glyphname = J;
-lastChange = "2015-11-15 23:57:03 +0000";
+lastChange = "2015-11-16 00:01:46 +0000";
 layers = (
 {
 anchors = (
@@ -11430,7 +11430,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-11-15 23:56:21 +0000";
+lastChange = "2015-11-16 00:01:16 +0000";
 layers = (
 {
 anchors = (
@@ -56180,6 +56180,8 @@ b = -15;
 "@MMK_R_Z" = -20;
 "@MMK_R_X" = -40;
 "@MMK_R_A" = -30;
+"@MMK_R_T" = -40;
+"@MMK_R_J" = -30;
 };
 "@MMK_L_t" = {
 "@MMK_R_u" = -5;
@@ -56201,6 +56203,8 @@ b = -15;
 "@MMK_R_Z" = -20;
 "@MMK_R_X" = -25;
 "@MMK_R_A" = -30;
+"@MMK_R_T" = -35;
+"@MMK_R_J" = -10;
 };
 "@MMK_L_f" = {
 "@MMK_R_b" = 10;
@@ -56216,6 +56220,8 @@ b = -10;
 "@MMK_R_Z" = 20;
 "@MMK_R_X" = 20;
 "@MMK_R_A" = -30;
+"@MMK_R_T" = 30;
+"@MMK_R_J" = -30;
 };
 "@MMK_L_r" = {
 "@MMK_R_u" = -10;
@@ -56236,6 +56242,8 @@ b = -10;
 "@MMK_R_Z" = -10;
 "@MMK_R_X" = -20;
 "@MMK_R_A" = -40;
+"@MMK_R_T" = -15;
+"@MMK_R_J" = -40;
 };
 "@MMK_L_e" = {
 "@MMK_R_u" = -10;
