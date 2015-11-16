@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"open ononc.nonoonont.nonoononf.nonoo\012nonr.nonoonone.nonoonon.anonoonon.snonoononc,nonoonont,nonoononf,nonoononr,nonoonone,nonoonon,anonoonon,snonoononc/quoteright n/quoteright onoonont/quoteright nonoononf/quoteright nonoononr/quoteright nonoonone/quoteright n/quoteleft o/quoteright noonon/quoteright anono",
+"onon/quoteright snonoononc/quoteleft nonoonont/quoteleft nonoononf/quoteleft nonoononr/quoteleft nonoonone/quoteleft nonoonon/quoteleft anonoonon/quoteleft snonoononc/quotereversed nonoonont/quotereversed nonoononf/quotereversed nonoononr/quotereversed nonoo\012none/quotereversed nonoonon/quotereversed anonoonoo/quotereversed snonoononc/quotedblbase nonoonont/quotedblbase nonoononf/quotedblbase nonoononr/quotedblbase nonoonone/quotedblbase nonoonon/quotedblbase anonoonon/quotedblbase snonoononc/quotedblright nonoonont/quotedblright nonoononf/quotedblright nonoononr/quotedblright nonoonone/quotedblright nonoonon/quotedblright anonoonon/quotedblright snonoononc/quotedblleft nonoonont/quotedblleft nonoononf/quotedblleft nonoononr/quotedblleft nonoonone/quotedblleft nonoonon/quotedblleft anonoonon/quotedblleft snonoononc:nonoonont:nonoononf:nonoononr:nonoonone:nonoonon:anonoonon:snonoononc;nonoonont;nonoononf;nonoononr;nonoonone;nonoonon;anonoonon;snonoononc!nonoo\012nont!nonoononf!nonoononr!nonoonone!nonoonon!anonoonon!snonoononc\U00A1nonoonont\U00A1nonoononf\U00A1nonoononr\U00A1nonoonone\U00A1nonoonon\U00A1anonoonon\U00A1snonoononc?nonoonont?nonoononf?nonoononr?nonoonone?nonoonon?anonoonon?snonoononc\U00BFnonoonont\U00BFnonoononf\U00BFnonoononr\U00BFnonoonone\U00BFnonoonon\U00BFanonoonon\U00BFsnonoononc/guilsinglleft nonoonont/guilsinglleft nonoononf/guilsinglleft nonoononr/guilsinglleft nonoonone/guilsinglleft nonoonon/guilsinglleft anonoonon/guilsinglleft snonoononc/guilsinglright nonoonont/guilsinglright nonoononf/guilsinglright nonoononr/guilsinglright nonoonone/guilsinglright nonoonon/guilsinglright anonoonon/guilsinglright snonoononc{nonoonont{nonoononf{nonoononr{nonoonone{nonoonon{anonoonon{snonoononc}nonoonont}nonoononf}nonoononr}nonoonone}nonoonon}anonoonon}snonoononc(nonoonont(nonoononf(nonoononr(nonoonone(nonoonon(anono",
 "/a.alt2 bcd/d.alt aec/x.alt vwykeo/g.alt o/oe p\U00FEq/schwa",
 "{n}[n](n)\U00ABn\U00BB/guilsinglleft n/guilsinglright \012{H}[H](H)\U00ABH\U00BB/guilsinglleft H/guilsinglright",
 anhd,
@@ -14281,7 +14281,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-16 01:11:07 +0000";
+lastChange = "2015-11-16 01:13:35 +0000";
 layers = (
 {
 anchors = (
@@ -39668,7 +39668,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2015-11-16 01:06:07 +0000";
+lastChange = "2015-11-16 01:16:00 +0000";
 layers = (
 {
 guideLines = (
@@ -43149,7 +43149,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-16 01:15:15 +0000";
 layers = (
 {
 background = {
@@ -43705,7 +43705,7 @@ unicode = 201D;
 },
 {
 glyphname = quoteleft;
-lastChange = "2015-11-16 01:01:05 +0000";
+lastChange = "2015-11-16 01:13:55 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -43838,7 +43838,7 @@ unicode = 2018;
 },
 {
 glyphname = quotereversed;
-lastChange = "2015-11-16 01:02:35 +0000";
+lastChange = "2015-11-16 01:14:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -56226,6 +56226,7 @@ b = -15;
 "@MMK_R_T" = -40;
 "@MMK_R_J" = -30;
 "@MMK_R_period" = -20;
+"@MMK_R_quotedblleft" = 0;
 };
 "@MMK_L_t" = {
 "@MMK_R_u" = -5;
@@ -56269,7 +56270,7 @@ b = -10;
 "@MMK_R_T" = 30;
 "@MMK_R_J" = -30;
 "@MMK_R_period" = -20;
-"@MMK_R_quotedblleft" = 30;
+"@MMK_R_quotedblleft" = 40;
 };
 "@MMK_L_r" = {
 "@MMK_R_u" = -10;
@@ -56293,6 +56294,7 @@ b = -10;
 "@MMK_R_T" = -15;
 "@MMK_R_J" = -40;
 "@MMK_R_period" = -35;
+"@MMK_R_quotedblleft" = 0;
 };
 "@MMK_L_e" = {
 "@MMK_R_u" = -10;
@@ -56810,7 +56812,7 @@ W = {
 };
 "@MMK_L_quotedblleft" = {
 "@MMK_R_b" = 30;
-"@MMK_R_a" = -25;
+"@MMK_R_a" = -35;
 "@MMK_R_s" = -20;
 "@MMK_R_x" = -15;
 "@MMK_R_v" = 15;
@@ -56886,6 +56888,26 @@ braceleft = {
 "@MMK_L_braceright" = {
 "@MMK_R_v" = -10;
 "@MMK_R_x" = 0;
+};
+c = {
+"@MMK_R_quotedblleft" = -10;
+"@MMK_R_period" = 0;
+};
+f = {
+"@MMK_R_quotedblleft" = 60;
+"@MMK_R_period" = 30;
+};
+t = {
+"@MMK_R_quotedblleft" = -40;
+};
+o = {
+"@MMK_R_quotedblleft" = -30;
+};
+e = {
+"@MMK_R_quotedblleft" = -20;
+};
+r = {
+"@MMK_R_period" = 0;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
