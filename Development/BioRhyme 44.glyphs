@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"nonou.nonononoq.nonononoj.nonononon.nonononoa.nonoonon.unonoonon.bnonoonon.nononnonou,nonononoq,nonononoj,nonononon,nonononoa,nonoonon,unonoonon,bnonoonon,nononnonou/quoteright nonononoq/quoteright nonononoj/quoteright nonononon/quoteright nonononoa/quoteright nonoonon/quoteright unonoonon/quoteright bnonoonon/quoteright nononnonou/quoteleft nonononoq/quoteleft nonononoj/quoteleft nonononon/quoteleft nonononoa/quoteleft nonoonon/quoteleft unonoonon/quoteleft bnonoonon/quoteleft nononnonou/quotereversed nonononoq/quotereversed nonononoj/quotereversed nonononon/quotereversed nonononoa/quotereversed nonoonon/quotereversed unonoonon/quotereversed bnonoonon/quotereversed n/quoteright ononnonou/quotedblbase nonononoq/quotedblbase nonononoj/quotedblbase nonononon/quotedblbase nonononoa/quotedblbase nonoonon/quotedblbase unonoonon/quotedblbase bnonoonon/quotedblbase nononnonou/quotedblright nonononoq/quotedblright nonononoj/quotedblright nonononon/quotedblright nonononoa/quotedblright nonoonon/quotedblright unonoonon/quotedblright bnonoonon/quotedblright nononnonou/quotedblleft nonononoq/quotedblleft nonononoj/quotedblleft nonononon/quotedblleft nonononoa/quotedblleft nonoonon/quotedblleft unonoonon/quotedblleft bnonoonon/quotedblleft nononnonou/quotedblleft nonononoq/quotedblleft nonononoj/quotedblleft nonononon/quotedblleft nonononoa/quotedblleft nonoonon/quotedblleft unonoonon/quotedblleft bnonoonon/quotedblleft nonon",
+"nonou/ellipsis nonononoq/ellipsis nonononoj/ellipsis nonononon/ellipsis nonononoa/ellipsis nonoonon/ellipsis unonoonon/ellipsis bnonoonon/ellipsis nononnonou:n:onononoq:nonononoj:nonononon:nonononoa:nonoonon:unonoonon:bnonoonon:nononnonou;nonononoq;nonononoj;nonononon;nonononoa;nonoonon;unonoonon;bnonoonon;nononnonou!nonononoq!nonononoj!nj.nonononon!nonononoa!nonoonon!unonoonon!bnonoonon!nononnonou\U00A1nonononoq\U00A1nonooj\U00A1njionononon\U00A1nonononoa\U00A1nonoonon\U00A1unonoonon\U00A1bnonoonon\U00A1nononnonou?nonononoq?nono",
 "/a.alt2 bcd/d.alt aec/x.alt vwykeo/g.alt o/oe p\U00FEq/schwa",
 "{n}[n](n)\U00ABn\U00BB/guilsinglleft n/guilsinglright \012{H}[H](H)\U00ABH\U00BB/guilsinglleft H/guilsinglright",
 anhd,
@@ -16740,7 +16740,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-16 00:34:46 +0000";
+lastChange = "2015-11-16 00:44:47 +0000";
 layers = (
 {
 anchors = (
@@ -28886,7 +28886,7 @@ rightKerningGroup = t.alt;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-16 00:32:05 +0000";
+lastChange = "2015-11-16 00:45:04 +0000";
 layers = (
 {
 anchors = (
@@ -39090,7 +39090,7 @@ unicode = 2022;
 },
 {
 glyphname = colon;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-16 00:43:39 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -39665,7 +39665,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-16 00:44:39 +0000";
 layers = (
 {
 guideLines = (
@@ -39850,13 +39850,13 @@ nodes = (
 width = 311;
 }
 );
-leftKerningGroup = exclam;
-rightKerningGroup = exclam;
+leftKerningGroup = period;
+rightKerningGroup = period;
 unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-16 00:45:36 +0000";
 layers = (
 {
 components = (
@@ -40195,7 +40195,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-16 00:45:50 +0000";
 layers = (
 {
 background = {
@@ -55997,6 +55997,7 @@ b = -15;
 "@MMK_R_T" = -45;
 "@MMK_R_J" = -20;
 "@MMK_R_quotedblleft" = -50;
+"@MMK_R_exclamdown" = -5;
 };
 "@MMK_L_u" = {
 "@MMK_R_n" = 0;
@@ -56016,6 +56017,8 @@ b = -15;
 "@MMK_R_J" = -20;
 "@MMK_R_quotedblleft" = -40;
 "@MMK_R_quotereversed" = -20;
+"@MMK_R_colon" = -5;
+"@MMK_R_question" = -20;
 };
 "@MMK_L_q" = {
 "@MMK_R_u" = -10;
@@ -56037,6 +56040,7 @@ y = -10;
 "@MMK_R_J" = -30;
 "@MMK_R_period" = -10;
 "@MMK_R_quotedblleft" = -30;
+"@MMK_R_colon" = -10;
 };
 "@MMK_L_j" = {
 "@MMK_R_u" = -5;
@@ -56060,6 +56064,8 @@ y = -20;
 "@MMK_R_J" = -20;
 "@MMK_R_period" = -20;
 "@MMK_R_quotedblleft" = -20;
+"@MMK_R_colon" = -15;
+"@MMK_R_exclamdown" = -5;
 };
 a = {
 "@MMK_R_u" = -15;
@@ -56759,6 +56765,13 @@ W = {
 };
 "@MMK_L_quotedblleft" = {
 "@MMK_R_b" = 30;
+};
+"@MMK_L_colon" = {
+"@MMK_R_b" = -15;
+};
+exclam = {
+"@MMK_R_b" = 0;
+"@MMK_R_u" = 0;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
