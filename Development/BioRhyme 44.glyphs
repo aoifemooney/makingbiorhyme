@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"& symbolstraightno\012noun&nonono\012noq&nonono\012noj&nonononon&nonononoa&nonoonon&unonoonon&bnonoonon&nononsmall roundonon&anonoonon&snonoonons&nonovoidonon&v&nonoonon&ynonoonon&znonoonon&xnonoononk&nonoononv&nonoononw&nonoonony&nonoononz&nonoononx&nonoopenononc&nonoonont&nonoono\012nf&nonoononr&nonoonone&nonoonon&anonoonon&snonofull roundonono&nonoononb&nonoononp&nonoonong&nonoonon&ononoonon&cnonoonon&enonoonon&dnonoonon&qnonoonon&gnonoUPPERCASE @straightOHOH&HOHOHON&HOHOHOU&HOHOHO&UHOHsmall round OHOS&HOHHO\012HR&HOHHOHB&HOHHOHP&HOHHO\012H&SHOHvoidHO\012H&WHOHHOH&VHOHHOH&YHOHHOH&ZHOHHOH&XHOHHOH&AHOHHOHW&HOHHOHV&HOHHOHY&HOHHOHZ&HOHHOHX&HOHHOHA&HOHHOHK&HOHHOHR&HOHopenHOHC&HOHHOHG&HOHHOHS&HOHHOHE&HOHHOHF&HOHHOHL&HOHHOHT&HOHHOHZ&HOHHOH&THOHHOH&JHOHHOH&SHOHfull-round HOHD&HOHHOHO&HOHHOHQ&HOHHOH&CHOHHOH&GHOHHOH&QHOH",
+"& symbolstraightno\012noun&nonono\012noq&nonono\012noj&nonononon&nonononoa&nonoonon&unonoonon&bnonoonon&nononsmall roundonon&anonoonon&snonoonons&nonovoidonon&v&nonoonon&ynonoonon&znonoonon&xnonoononk&nonoononv&nonoononw&nonoonony&nonoononz&nonoononx&nonoopenononc&nonoonont&nonoono\012nf&nonoononr&nonoonone&nonoonon&anonoonon&snonofull roundonono&nonoononb&nonoononp&nonoonong&nonoonon&ononoonon&cnonoonon&enonoonon&dnonoonon&qnonoonon&gnonoUPPERCASE @straightOHOH&HOHOHON&HOHOHOU&HOHOHO&UHOHsmall round OHOS&HOHHO\012HR&HOHHOHB&HOHHOHP&HOHHO\012H&SHOHvoidHO\012H&WHOHHOH&VHOHHOH&YHOHHOH&ZHOHHOH&XHOHHOH&AHOHHOHW&HOHHOHV&HOHHOHY&HOHHOHZ&HOHHOHX&HOHHOHA&HOHHOHK&HOHHOHR&HOHopenHOHC&HOHHOHG&HOHHOHS&HOHHOHE&HOH\012HOHF&HOH\012HOHL&HOH\012HOHT&HOH\012HOHZ&HOH\012HOH&THOH\012HOH&JHOH\012HOH&SHOH\012full-round HOHD&HOH\012HOHO&HO\012HHOHQ&HOH\012HOH&CHOH\012HOH&GHOH\012HOH&QHOH",
 "/a.alt2 bcd/d.alt aec/x.alt vwykeo/g.alt o/oe p\U00FEq/schwa",
 "{n}[n](n)\U00ABn\U00BB/guilsinglleft n/guilsinglright \012{H}[H](H)\U00ABH\U00BB/guilsinglleft H/guilsinglright",
 anhd,
@@ -2233,7 +2233,7 @@ unicode = 0042;
 {
 color = 4;
 glyphname = C;
-lastChange = "2015-11-16 02:04:58 +0000";
+lastChange = "2015-11-16 04:13:01 +0000";
 layers = (
 {
 anchors = (
@@ -5419,7 +5419,7 @@ unicode = 00CC;
 {
 color = 4;
 glyphname = J;
-lastChange = "2015-11-16 04:06:10 +0000";
+lastChange = "2015-11-16 04:12:38 +0000";
 layers = (
 {
 anchors = (
@@ -11434,7 +11434,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-11-16 03:57:36 +0000";
+lastChange = "2015-11-16 04:12:33 +0000";
 layers = (
 {
 anchors = (
@@ -49275,7 +49275,7 @@ unicode = 0040;
 },
 {
 glyphname = ampersand;
-lastChange = "2015-11-16 04:11:03 +0000";
+lastChange = "2015-11-16 04:12:23 +0000";
 layers = (
 {
 background = {
@@ -56824,6 +56824,7 @@ exclam = 0;
 "@MMK_R_asterisk" = 20;
 "@MMK_R_section" = -20;
 "@MMK_R_paragraph" = -30;
+"@MMK_R_ampersand" = -45;
 };
 "@MMK_L_T" = {
 "@MMK_R_U" = -5;
@@ -56860,6 +56861,7 @@ exclamdown = 10;
 "@MMK_R_slash" = -30;
 "@MMK_R_at" = -20;
 "@MMK_R_section" = -20;
+"@MMK_R_ampersand" = -20;
 };
 "@MMK_L_C" = {
 "@MMK_R_U" = -10;
@@ -56890,6 +56892,7 @@ exclamdown = -10;
 "@MMK_R_questiondown" = 20;
 "@MMK_R_backslash" = 20;
 "@MMK_R_registered" = -5;
+"@MMK_R_ampersand" = -5;
 };
 "@MMK_L_G" = {
 "@MMK_R_U" = -5;
@@ -56917,6 +56920,7 @@ exclamdown = -25;
 "@MMK_R_asterisk" = -15;
 "@MMK_R_section" = -10;
 "@MMK_R_paragraph" = -20;
+"@MMK_R_ampersand" = -10;
 };
 "@MMK_L_E" = {
 "@MMK_R_U" = -5;
@@ -56945,6 +56949,7 @@ exclamdown = -25;
 "@MMK_R_registered" = -5;
 "@MMK_R_asterisk" = -5;
 "@MMK_R_paragraph" = -15;
+"@MMK_R_ampersand" = -5;
 };
 "@MMK_L_F" = {
 "@MMK_R_U" = -5;
@@ -56979,6 +56984,7 @@ exclamdown = 10;
 "@MMK_R_section" = -10;
 "@MMK_R_paragraph" = -10;
 "@MMK_R_servicemark" = 20;
+"@MMK_R_ampersand" = -35;
 };
 "@MMK_L_L" = {
 "@MMK_R_U" = -25;
@@ -57012,6 +57018,7 @@ exclamdown = 10;
 "@MMK_R_section" = -10;
 "@MMK_R_paragraph" = -40;
 "@MMK_R_servicemark" = -50;
+"@MMK_R_ampersand" = -5;
 };
 "@MMK_L_Z" = {
 "@MMK_R_O" = -5;
@@ -57495,6 +57502,9 @@ g = 30;
 "@MMK_R_V" = -50;
 "@MMK_R_Z" = -10;
 "@MMK_R_A" = -30;
+"@MMK_R_T" = -30;
+"@MMK_R_J" = -20;
+"@MMK_R_O" = -5;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
