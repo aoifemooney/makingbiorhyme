@@ -5419,7 +5419,7 @@ unicode = 00CC;
 {
 color = 4;
 glyphname = J;
-lastChange = "2015-11-16 02:02:13 +0000";
+lastChange = "2015-11-16 02:02:51 +0000";
 layers = (
 {
 anchors = (
@@ -40198,7 +40198,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2015-11-16 01:44:31 +0000";
+lastChange = "2015-11-16 02:02:45 +0000";
 layers = (
 {
 background = {
@@ -40464,7 +40464,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-11-16 02:02:31 +0000";
+lastChange = "2015-11-16 02:02:55 +0000";
 layers = (
 {
 components = (
@@ -56700,6 +56700,7 @@ exclam = 0;
 exclamdown = 10;
 "@MMK_R_guillemotleft" = -20;
 "@MMK_R_questiondown" = -20;
+"@MMK_R_question" = 20;
 };
 "@MMK_L_C" = {
 "@MMK_R_U" = -10;
@@ -56727,6 +56728,7 @@ exclamdown = 10;
 "@MMK_R_colon" = -10;
 exclam = 0;
 exclamdown = -10;
+"@MMK_R_questiondown" = 20;
 };
 "@MMK_L_G" = {
 "@MMK_R_U" = -5;
@@ -56828,6 +56830,7 @@ exclamdown = 10;
 "@MMK_R_colon" = -10;
 "@MMK_R_parenright" = -10;
 "@MMK_R_questiondown" = 10;
+"@MMK_R_question" = -20;
 };
 "@MMK_L_Z" = {
 "@MMK_R_O" = -5;
@@ -56979,6 +56982,7 @@ exclam = {
 "@MMK_R_v" = 20;
 "@MMK_R_o" = -10;
 "@MMK_R_A" = -40;
+"@MMK_R_J" = -30;
 };
 "@MMK_L_guillemotleft" = {
 "@MMK_R_b" = -10;
