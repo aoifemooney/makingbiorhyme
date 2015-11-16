@@ -39859,7 +39859,7 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2015-11-16 01:57:38 +0000";
+lastChange = "2015-11-16 01:58:09 +0000";
 layers = (
 {
 components = (
@@ -56720,10 +56720,11 @@ exclamdown = 10;
 "@MMK_R_f" = 0;
 "@MMK_R_t" = -10;
 "@MMK_R_s" = -15;
-"@MMK_R_period" = -25;
+"@MMK_R_period" = -20;
 "@MMK_R_quotedblleft" = 15;
 "@MMK_R_colon" = -10;
 exclam = 0;
+exclamdown = -10;
 };
 "@MMK_L_G" = {
 "@MMK_R_U" = -5;
@@ -56744,6 +56745,7 @@ exclam = 0;
 "@MMK_R_quotedblleft" = -10;
 "@MMK_R_colon" = -10;
 exclam = -10;
+exclamdown = -25;
 };
 "@MMK_L_E" = {
 "@MMK_R_U" = -5;
