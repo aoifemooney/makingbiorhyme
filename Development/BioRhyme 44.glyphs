@@ -71,7 +71,9 @@ b,
 /d.alt,
 p,
 q,
-v
+v,
+")",
+"\U00B5"
 );
 classes = (
 {
@@ -41783,7 +41785,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2015-11-16 03:16:17 +0000";
+lastChange = "2015-11-16 15:15:29 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41844,6 +41846,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"112 -73 OFFCURVE",
+"240 47 OFFCURVE",
+"240 255 CURVE SMOOTH",
+"240 463 OFFCURVE",
+"99 595 OFFCURVE",
+"1 640 CURVE",
 "-25 602 LINE",
 "19 564 OFFCURVE",
 "129 442 OFFCURVE",
@@ -41851,13 +41859,7 @@ nodes = (
 "129 68 OFFCURVE",
 "31 -41 OFFCURVE",
 "-25 -90 CURVE",
-"1 -130 LINE",
-"112 -73 OFFCURVE",
-"240 47 OFFCURVE",
-"240 255 CURVE SMOOTH",
-"240 463 OFFCURVE",
-"99 595 OFFCURVE",
-"1 640 CURVE"
+"1 -130 LINE"
 );
 }
 );
@@ -47027,7 +47029,7 @@ unicode = 00AC;
 },
 {
 glyphname = micro;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-16 15:16:02 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
