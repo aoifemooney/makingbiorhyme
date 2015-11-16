@@ -25532,7 +25532,7 @@ unicode = 00F5;
 {
 color = 4;
 glyphname = oe;
-lastChange = "2015-11-16 15:09:34 +0000";
+lastChange = "2015-11-16 15:10:58 +0000";
 layers = (
 {
 anchors = (
@@ -25933,23 +25933,23 @@ width = 711;
 anchors = (
 {
 name = bottom;
-position = "{390, 2}";
+position = "{666, 2}";
 },
 {
 name = center;
-position = "{390, 179}";
+position = "{666, 179}";
 },
 {
 name = ogonek;
-position = "{391, -12}";
+position = "{1267, 66}";
 },
 {
 name = top;
-position = "{390, 343}";
+position = "{666, 357}";
 },
 {
 name = topright;
-position = "{998, 357}";
+position = "{1171, 357}";
 }
 );
 background = {
@@ -26106,9 +26106,10 @@ nodes = (
 "1242 324 OFFCURVE",
 "1131 367 OFFCURVE",
 "960 367 CURVE SMOOTH",
-"752 367 OFFCURVE",
-"625 286 OFFCURVE",
-"625 176 CURVE SMOOTH",
+"760 367 OFFCURVE",
+"624 282 OFFCURVE",
+"625 179 CURVE",
+"625 176 LINE",
 "625 51 OFFCURVE",
 "779 -11 OFFCURVE",
 "955 -11 CURVE SMOOTH"
