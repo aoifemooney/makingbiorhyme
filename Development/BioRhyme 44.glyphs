@@ -86,7 +86,7 @@ Queens,
 "\U00AE",
 "@",
 "7/two.alt/seven.alt s ",
-"f/f.alt h/hbar ni/idotless j/jdotless k/k.alt lmnp\U00FEqrtu/u.alt vwx/x.alt/z.alt"
+"f/f.alt h/hbar ni/idotless j/jdotless k/k.alt l\012mnnp\U00FEqrtu/u.alt vwx/x.alt/z.alt"
 );
 classes = (
 {
@@ -19579,7 +19579,7 @@ unicode = 00E8;
 },
 {
 glyphname = f;
-lastChange = "2015-11-16 15:09:22 +0000";
+lastChange = "2015-11-17 14:39:43 +0000";
 layers = (
 {
 background = {
@@ -19835,19 +19835,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"496 0 LINE",
-"496 90 LINE",
-"66 90 LINE",
-"66 0 LINE"
+"474 0 LINE",
+"474 90 LINE",
+"88 90 LINE",
+"88 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"528 267 LINE",
-"528 357 LINE",
-"66 357 LINE",
-"66 267 LINE"
+"506 267 LINE",
+"506 357 LINE",
+"88 357 LINE",
+"88 267 LINE"
 );
 }
 );
@@ -19861,7 +19861,7 @@ unicode = 0066;
 },
 {
 glyphname = f.alt;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-17 14:39:29 +0000";
 layers = (
 {
 anchors = (
@@ -20144,19 +20144,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"66 357 LINE",
-"66 267 LINE",
-"495 267 LINE",
-"495 357 LINE"
+"88 357 LINE",
+"88 267 LINE",
+"473 267 LINE",
+"473 357 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"66 0 LINE",
-"515 0 LINE",
-"515 90 LINE",
-"66 90 LINE"
+"88 0 LINE",
+"493 0 LINE",
+"493 90 LINE",
+"88 90 LINE"
 );
 }
 );
@@ -21160,7 +21160,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = h;
-lastChange = "2015-11-14 17:00:55 +0000";
+lastChange = "2015-11-17 14:39:04 +0000";
 layers = (
 {
 anchors = (
@@ -21451,8 +21451,7 @@ name = top;
 position = "{450, 343}";
 }
 );
-layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
-name = "Bold Extended";
+background = {
 paths = (
 {
 closed = 1;
@@ -21487,10 +21486,54 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"918 0 LINE",
+"918 93 LINE",
+"560 93 LINE",
+"560 0 LINE"
+);
+}
+);
+};
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"791 0 LINE",
+"791 120 LINE SMOOTH",
+"791 239 OFFCURVE",
+"741 366 OFFCURVE",
+"563 366 CURVE SMOOTH",
+"429 366 OFFCURVE",
+"320 269 OFFCURVE",
+"240 184 CURVE",
+"240 94 LINE",
+"302 162 OFFCURVE",
+"418 263 OFFCURVE",
+"540 263 CURVE SMOOTH",
+"650 263 OFFCURVE",
+"676 196 OFFCURVE",
+"676 130 CURVE SMOOTH",
+"676 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"393 0 LINE",
+"393 93 LINE",
+"25 93 LINE",
+"25 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "280 0 LINE",
 "280 520 LINE",
-"23 520 LINE",
-"23 427 LINE",
+"25 520 LINE",
+"25 427 LINE",
 "164 427 LINE",
 "164 0 LINE"
 );
@@ -21498,10 +21541,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"918 0 LINE",
-"918 93 LINE",
-"560 93 LINE",
-"560 0 LINE"
+"921 0 LINE",
+"921 93 LINE",
+"563 93 LINE",
+"563 0 LINE"
 );
 }
 );
@@ -23164,7 +23207,7 @@ unicode = 0237;
 {
 color = 4;
 glyphname = k;
-lastChange = "2015-11-15 17:35:57 +0000";
+lastChange = "2015-11-17 14:40:12 +0000";
 layers = (
 {
 anchors = (
@@ -23671,10 +23714,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"445 0 LINE",
-"445 90 LINE",
-"23 90 LINE",
-"23 0 LINE"
+"409 0 LINE",
+"409 90 LINE",
+"45 90 LINE",
+"45 0 LINE"
 );
 },
 {
@@ -23710,8 +23753,8 @@ closed = 1;
 nodes = (
 "287 430 LINE",
 "287 520 LINE",
-"23 520 LINE",
-"23 430 LINE"
+"45 520 LINE",
+"45 430 LINE"
 );
 }
 );
@@ -23726,7 +23769,7 @@ unicode = 006B;
 {
 color = 4;
 glyphname = k.alt;
-lastChange = "2015-11-15 13:37:22 +0000";
+lastChange = "2015-11-17 14:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -24061,10 +24104,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"393 0 LINE",
-"393 90 LINE",
-"23 90 LINE",
-"23 0 LINE"
+"392 0 LINE",
+"392 90 LINE",
+"45 90 LINE",
+"45 0 LINE"
 );
 },
 {
@@ -24099,8 +24142,8 @@ closed = 1;
 nodes = (
 "271 430 LINE",
 "271 520 LINE",
-"23 520 LINE",
-"23 430 LINE"
+"45 520 LINE",
+"45 430 LINE"
 );
 },
 {
@@ -24122,7 +24165,7 @@ rightKerningGroup = k.alt;
 },
 {
 glyphname = l;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-17 14:40:54 +0000";
 layers = (
 {
 anchors = (
@@ -24314,10 +24357,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"461 0 LINE",
-"461 90 LINE",
-"23 90 LINE",
-"23 0 LINE"
+"431 0 LINE",
+"431 90 LINE",
+"45 90 LINE",
+"45 0 LINE"
 );
 },
 {
@@ -24325,8 +24368,8 @@ closed = 1;
 nodes = (
 "291 430 LINE",
 "291 520 LINE",
-"23 520 LINE",
-"23 430 LINE"
+"45 520 LINE",
+"45 430 LINE"
 );
 }
 );
@@ -24341,7 +24384,7 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2015-11-14 17:01:06 +0000";
+lastChange = "2015-11-17 14:42:22 +0000";
 layers = (
 {
 anchors = (
@@ -24674,8 +24717,8 @@ closed = 1;
 nodes = (
 "304 267 LINE",
 "304 357 LINE",
-"66 357 LINE",
-"66 267 LINE"
+"88 357 LINE",
+"88 267 LINE"
 );
 },
 {
@@ -24690,17 +24733,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"459 0 LINE",
-"459 90 LINE",
-"66 90 LINE",
-"66 0 LINE"
+"455 0 LINE",
+"455 90 LINE",
+"88 90 LINE",
+"88 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "746 30 LINE",
-"746 111 LINE SMOOTH",
+"746 131 LINE SMOOTH",
 "746 260 OFFCURVE",
 "700 366 OFFCURVE",
 "556 366 CURVE SMOOTH",
@@ -24709,28 +24752,28 @@ nodes = (
 "303 184 CURVE",
 "303 94 LINE",
 "365 190 OFFCURVE",
-"421 258 OFFCURVE",
-"518 258 CURVE SMOOTH",
-"615 258 OFFCURVE",
-"631 182 OFFCURVE",
-"631 116 CURVE SMOOTH",
+"441 268 OFFCURVE",
+"538 268 CURVE SMOOTH",
+"605 268 OFFCURVE",
+"631 217 OFFCURVE",
+"631 151 CURVE SMOOTH",
 "631 30 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"863 0 LINE",
-"863 90 LINE",
-"515 90 LINE",
-"515 0 LINE"
+"859 0 LINE",
+"859 90 LINE",
+"518 90 LINE",
+"518 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "1150 30 LINE",
-"1150 111 LINE SMOOTH",
+"1150 131 LINE SMOOTH",
 "1150 260 OFFCURVE",
 "1103 366 OFFCURVE",
 "959 366 CURVE SMOOTH",
@@ -24739,21 +24782,21 @@ nodes = (
 "706 184 CURVE",
 "706 94 LINE",
 "768 190 OFFCURVE",
-"824 258 OFFCURVE",
-"921 258 CURVE SMOOTH",
-"1019 258 OFFCURVE",
-"1034 182 OFFCURVE",
-"1034 116 CURVE SMOOTH",
+"844 268 OFFCURVE",
+"941 268 CURVE SMOOTH",
+"1009 268 OFFCURVE",
+"1034 217 OFFCURVE",
+"1034 151 CURVE SMOOTH",
 "1034 30 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"1311 0 LINE",
-"1311 90 LINE",
-"918 90 LINE",
-"918 0 LINE"
+"1281 0 LINE",
+"1281 90 LINE",
+"921 90 LINE",
+"921 0 LINE"
 );
 }
 );
