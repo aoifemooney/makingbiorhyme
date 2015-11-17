@@ -95,7 +95,7 @@ w,
 "nonunvanonononuynonononuznonononu/x.alt nonononqvnonononqwnonononqynonononqznonononq/x.alt nonononjvnonononjynonononjznonononj/x.alt nonononvnonononynonononznononon/x.alt nono",
 "/Acircumflexhookabove pgyj",
 "/Q.alt/R.alt \U00E7g/g.alt j/jdotless p\U00FEqy{}/ampersand.001 \U00B6",
-/hookabovecomb/hookabovecomb/circumflexcomb/circumflexcomb/Acircumflexhookabove
+/hookabovecomb/hookabovecomb/circumflexcomb/circumflexcomb/hookabovecomb/circumflexcomb/hookabovecomb/Acircumflexhookabove
 );
 classes = (
 {
@@ -148,7 +148,7 @@ alignmentZones = (
 "{-165, -11}",
 "{-225, -16}"
 );
-ascender = 820;
+ascender = 800;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -185,7 +185,7 @@ name = typoLineGap;
 value = "81";
 }
 );
-descender = -180;
+descender = -200;
 guideLines = (
 {
 position = "{727, 265}";
@@ -243,7 +243,7 @@ alignmentZones = (
 "{-165, -5}",
 "{-225, -16}"
 );
-ascender = 820;
+ascender = 800;
 capHeight = 520;
 customParameters = (
 {
@@ -279,7 +279,7 @@ name = typoLineGap;
 value = "81";
 }
 );
-descender = -180;
+descender = -200;
 guideLines = (
 {
 position = "{102, -95}";
@@ -323,7 +323,7 @@ alignmentZones = (
 "{0, -11}",
 "{-165, -16}"
 );
-ascender = 820;
+ascender = 800;
 capHeight = 520;
 customParameters = (
 {
@@ -359,7 +359,7 @@ name = typoLineGap;
 value = 81;
 }
 );
-descender = -180;
+descender = -200;
 guideLines = (
 {
 position = "{262, -180}";
@@ -388,7 +388,7 @@ alignmentZones = (
 "{0, -11}",
 "{-190, -16}"
 );
-ascender = 820;
+ascender = 800;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -425,7 +425,7 @@ name = typoLineGap;
 value = 81;
 }
 );
-descender = -180;
+descender = -200;
 horizontalStems = (
 96
 );
@@ -1171,7 +1171,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2015-11-17 18:44:50 +0000";
+lastChange = "2015-11-17 18:47:55 +0000";
 layers = (
 {
 components = (
@@ -1202,7 +1202,7 @@ transform = "{1, 0, 0, 1, 167, 49}";
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 231, 119}";
+transform = "{1, 0, 0, 1, 236, 119}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -54904,7 +54904,7 @@ unicode = 030B;
 },
 {
 glyphname = circumflexcomb;
-lastChange = "2015-11-17 18:46:08 +0000";
+lastChange = "2015-11-17 18:47:36 +0000";
 layers = (
 {
 anchors = (
@@ -54944,13 +54944,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"167 641 LINE",
-"288 522 LINE",
-"299 533 LINE",
-"177 669 LINE",
-"157 669 LINE",
-"35 533 LINE",
-"46 522 LINE"
+"167 626 LINE",
+"288 507 LINE",
+"299 518 LINE",
+"177 654 LINE",
+"157 654 LINE",
+"35 518 LINE",
+"46 507 LINE"
 );
 }
 );
@@ -54969,13 +54969,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"160 559 LINE",
-"264 485 LINE",
-"299 517 LINE",
-"189 648 LINE",
-"133 648 LINE",
-"23 517 LINE",
-"58 485 LINE"
+"160 552 LINE",
+"264 478 LINE",
+"299 510 LINE",
+"189 641 LINE",
+"133 641 LINE",
+"23 510 LINE",
+"58 478 LINE"
 );
 }
 );
@@ -55746,7 +55746,7 @@ unicode = 0304;
 },
 {
 glyphname = hookabovecomb;
-lastChange = "2015-11-17 18:45:04 +0000";
+lastChange = "2015-11-17 18:47:55 +0000";
 layers = (
 {
 anchors = (
@@ -55790,7 +55790,7 @@ width = 383;
 anchors = (
 {
 name = _hook;
-position = "{179, 461}";
+position = "{174, 461}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -55799,26 +55799,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"233 530 LINE",
-"266 563 OFFCURVE",
-"288 590 OFFCURVE",
-"288 627 CURVE SMOOTH",
-"288 672 OFFCURVE",
-"249 702 OFFCURVE",
-"199 702 CURVE SMOOTH",
-"159 702 OFFCURVE",
-"127 685 OFFCURVE",
-"102 668 CURVE",
-"113 650 LINE",
-"139 665 OFFCURVE",
-"166 679 OFFCURVE",
-"199 679 CURVE SMOOTH",
-"238 679 OFFCURVE",
-"263 658 OFFCURVE",
-"263 624 CURVE SMOOTH",
-"263 590 OFFCURVE",
-"240 567 OFFCURVE",
-"223 539 CURVE"
+"233 505 LINE",
+"266 538 OFFCURVE",
+"288 565 OFFCURVE",
+"288 602 CURVE SMOOTH",
+"288 647 OFFCURVE",
+"249 677 OFFCURVE",
+"199 677 CURVE SMOOTH",
+"159 677 OFFCURVE",
+"127 660 OFFCURVE",
+"102 643 CURVE",
+"113 625 LINE",
+"139 640 OFFCURVE",
+"166 654 OFFCURVE",
+"199 654 CURVE SMOOTH",
+"238 654 OFFCURVE",
+"263 633 OFFCURVE",
+"263 599 CURVE SMOOTH",
+"263 565 OFFCURVE",
+"240 542 OFFCURVE",
+"223 514 CURVE"
 );
 }
 );
