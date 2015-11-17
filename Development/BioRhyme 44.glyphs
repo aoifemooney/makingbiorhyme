@@ -93,7 +93,8 @@ homely,
 /hbar,
 w,
 "nonunvanonononuynonononuznonononu/x.alt nonononqvnonononqwnonononqynonononqznonononq/x.alt nonononjvnonononjynonononjznonononj/x.alt nonononvnonononynonononznononon/x.alt nono",
-/Acircumflexhookabove
+"/Acircumflexhookabove pgyj",
+"/Q.alt/R.alt \U00E7g/g.alt j/jdotless p\U00FEqy{}/ampersand.001 \U00B6"
 );
 classes = (
 {
@@ -146,7 +147,7 @@ alignmentZones = (
 "{-165, -11}",
 "{-225, -16}"
 );
-ascender = 775;
+ascender = 820;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -183,7 +184,7 @@ name = typoLineGap;
 value = "81";
 }
 );
-descender = -225;
+descender = -180;
 guideLines = (
 {
 position = "{727, 265}";
@@ -241,7 +242,7 @@ alignmentZones = (
 "{-165, -5}",
 "{-225, -16}"
 );
-ascender = 775;
+ascender = 820;
 capHeight = 520;
 customParameters = (
 {
@@ -277,7 +278,7 @@ name = typoLineGap;
 value = "81";
 }
 );
-descender = -225;
+descender = -180;
 guideLines = (
 {
 position = "{102, -95}";
@@ -321,7 +322,7 @@ alignmentZones = (
 "{0, -11}",
 "{-165, -16}"
 );
-ascender = 775;
+ascender = 820;
 capHeight = 520;
 customParameters = (
 {
@@ -357,7 +358,12 @@ name = typoLineGap;
 value = 81;
 }
 );
-descender = -225;
+descender = -180;
+guideLines = (
+{
+position = "{262, -180}";
+}
+);
 horizontalStems = (
 96
 );
@@ -381,7 +387,7 @@ alignmentZones = (
 "{0, -11}",
 "{-190, -16}"
 );
-ascender = 775;
+ascender = 820;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -418,7 +424,7 @@ name = typoLineGap;
 value = 81;
 }
 );
-descender = -225;
+descender = -180;
 horizontalStems = (
 96
 );
@@ -17764,7 +17770,7 @@ unicode = 0063;
 },
 {
 glyphname = ccedilla;
-lastChange = "2015-11-12 01:48:18 +0000";
+lastChange = "2015-11-17 18:42:25 +0000";
 layers = (
 {
 components = (
@@ -20918,7 +20924,7 @@ unicode = 0067;
 {
 color = 4;
 glyphname = g.alt;
-lastChange = "2015-11-17 14:47:25 +0000";
+lastChange = "2015-11-17 18:42:33 +0000";
 layers = (
 {
 anchors = (
@@ -21113,22 +21119,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"319 -190 OFFCURVE",
-"426 -134 OFFCURVE",
+"319 -180 OFFCURVE",
+"426 -124 OFFCURVE",
 "426 -8 CURVE SMOOTH",
 "426 372 LINE",
 "311 350 LINE",
 "311 -7 LINE SMOOTH",
-"311 -65 OFFCURVE",
-"260 -89 OFFCURVE",
-"218 -89 CURVE SMOOTH",
-"169 -89 OFFCURVE",
-"125 -72 OFFCURVE",
-"80 -46 CURVE",
-"39 -138 LINE",
-"96 -167 OFFCURVE",
-"152 -190 OFFCURVE",
-"230 -190 CURVE SMOOTH"
+"311 -55 OFFCURVE",
+"260 -79 OFFCURVE",
+"218 -79 CURVE SMOOTH",
+"169 -79 OFFCURVE",
+"125 -62 OFFCURVE",
+"80 -36 CURVE",
+"39 -128 LINE",
+"96 -157 OFFCURVE",
+"152 -180 OFFCURVE",
+"230 -180 CURVE SMOOTH"
 );
 },
 {
@@ -23081,7 +23087,7 @@ unicode = 00EC;
 },
 {
 glyphname = j;
-lastChange = "2015-11-17 14:36:42 +0000";
+lastChange = "2015-11-17 18:40:59 +0000";
 layers = (
 {
 anchors = (
@@ -23228,22 +23234,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"136 -190 OFFCURVE",
-"209 -128 OFFCURVE",
-"209 -7 CURVE SMOOTH",
+"136 -180 OFFCURVE",
+"209 -118 OFFCURVE",
+"209 3 CURVE SMOOTH",
 "209 357 LINE",
 "96 357 LINE",
-"96 -9 LINE SMOOTH",
-"96 -61 OFFCURVE",
-"72 -89 OFFCURVE",
-"35 -89 CURVE SMOOTH",
-"11 -89 OFFCURVE",
-"-4 -84 OFFCURVE",
-"-32 -75 CURVE",
-"-60 -170 LINE",
-"-33 -178 OFFCURVE",
-"-10 -190 OFFCURVE",
-"40 -190 CURVE SMOOTH"
+"96 1 LINE SMOOTH",
+"96 -51 OFFCURVE",
+"72 -79 OFFCURVE",
+"35 -79 CURVE SMOOTH",
+"11 -79 OFFCURVE",
+"-4 -74 OFFCURVE",
+"-32 -65 CURVE",
+"-60 -160 LINE",
+"-33 -168 OFFCURVE",
+"-10 -180 OFFCURVE",
+"40 -180 CURVE SMOOTH"
 );
 },
 {
@@ -32938,7 +32944,7 @@ rightKerningGroup = x;
 },
 {
 glyphname = y;
-lastChange = "2015-11-17 05:16:29 +0000";
+lastChange = "2015-11-17 18:41:06 +0000";
 layers = (
 {
 anchors = (
@@ -33125,22 +33131,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"208 -189 OFFCURVE",
+"208 -180 OFFCURVE",
 "263 -130 OFFCURVE",
 "317 -20 CURVE SMOOTH",
 "496 344 LINE",
 "391 344 LINE",
 "229 3 LINE SMOOTH",
 "200 -58 OFFCURVE",
-"171 -88 OFFCURVE",
-"128 -88 CURVE SMOOTH",
-"101 -88 OFFCURVE",
-"77 -76 OFFCURVE",
-"59 -65 CURVE",
-"15 -152 LINE",
-"51 -174 OFFCURVE",
-"82 -189 OFFCURVE",
-"128 -189 CURVE SMOOTH"
+"171 -79 OFFCURVE",
+"128 -79 CURVE SMOOTH",
+"101 -79 OFFCURVE",
+"77 -67 OFFCURVE",
+"59 -56 CURVE",
+"15 -143 LINE",
+"51 -165 OFFCURVE",
+"82 -180 OFFCURVE",
+"128 -180 CURVE SMOOTH"
 );
 },
 {
