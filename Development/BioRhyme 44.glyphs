@@ -74,7 +74,8 @@ q,
 v,
 ")",
 "\U00B5Q",
-QOo
+QOo,
+QO
 );
 classes = (
 {
@@ -8798,7 +8799,7 @@ unicode = 00DE;
 {
 color = 4;
 glyphname = Q;
-lastChange = "2015-11-17 03:40:57 +0000";
+lastChange = "2015-11-17 03:45:42 +0000";
 layers = (
 {
 anchors = (
@@ -8919,44 +8920,6 @@ nodes = (
 width = 912;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"174 14 OFFCURVE",
-"74 107 OFFCURVE",
-"74 260 CURVE",
-"74 413 OFFCURVE",
-"174 506 OFFCURVE",
-"303 506 CURVE",
-"431 506 OFFCURVE",
-"532 413 OFFCURVE",
-"532 260 CURVE",
-"532 107 OFFCURVE",
-"431 14 OFFCURVE",
-"303 14 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"441 -10 OFFCURVE",
-"556 89 OFFCURVE",
-"556 260 CURVE",
-"556 431 OFFCURVE",
-"441 530 OFFCURVE",
-"303 530 CURVE",
-"164 530 OFFCURVE",
-"50 431 OFFCURVE",
-"50 260 CURVE",
-"50 89 OFFCURVE",
-"164 -10 OFFCURVE",
-"303 -10 CURVE"
-);
-}
-);
-};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
 paths = (
@@ -9027,44 +8990,6 @@ nodes = (
 width = 608;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"207 81 OFFCURVE",
-"150 162 OFFCURVE",
-"150 260 CURVE",
-"150 357 OFFCURVE",
-"207 439 OFFCURVE",
-"308 439 CURVE",
-"409 439 OFFCURVE",
-"466 358 OFFCURVE",
-"466 260 CURVE",
-"466 163 OFFCURVE",
-"409 81 OFFCURVE",
-"308 81 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"472 -10 OFFCURVE",
-"592 110 OFFCURVE",
-"592 260 CURVE",
-"592 410 OFFCURVE",
-"472 530 OFFCURVE",
-"309 530 CURVE",
-"145 530 OFFCURVE",
-"25 410 OFFCURVE",
-"25 260 CURVE",
-"25 110 OFFCURVE",
-"145 -10 OFFCURVE",
-"309 -10 CURVE"
-);
-}
-);
-};
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
 paths = (
