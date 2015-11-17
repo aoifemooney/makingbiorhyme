@@ -30657,7 +30657,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-17 05:42:22 +0000";
+lastChange = "2015-11-17 05:43:15 +0000";
 layers = (
 {
 anchors = (
@@ -31013,60 +31013,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"5 357 LINE",
-"5 334 LINE",
-"257 334 LINE",
-"257 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"344 357 LINE",
-"344 335 LINE",
-"681 335 LINE",
-"681 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"767 357 LINE",
-"767 334 LINE",
-"1020 334 LINE",
-"1020 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"626 348 LINE",
-"599 348 LINE",
-"359 9 LINE",
-"147 348 LINE",
-"118 348 LINE",
-"356 -31 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"876 348 LINE",
-"664 9 LINE",
-"429 348 LINE",
-"401 348 LINE",
-"664 -31 LINE",
-"902 348 LINE"
-);
-}
-);
-};
-layerId = "044EEB5F-3CB3-4B53-A0FA-CBD2CD83E026";
-name = "Light Extended [400]";
-paths = (
-{
-closed = 1;
-nodes = (
 "359 -11 LINE",
 "626 348 LINE",
 "599 348 LINE",
@@ -31116,6 +31062,62 @@ nodes = (
 );
 }
 );
+};
+layerId = "044EEB5F-3CB3-4B53-A0FA-CBD2CD83E026";
+name = "Light Extended [400]";
+paths = (
+{
+closed = 1;
+nodes = (
+"359 -11 LINE",
+"626 348 LINE",
+"599 348 LINE",
+"359 20 LINE",
+"147 348 LINE",
+"118 348 LINE",
+"353 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 334 LINE",
+"257 357 LINE",
+"5 357 LINE",
+"5 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"667 -11 LINE",
+"902 348 LINE",
+"876 348 LINE",
+"664 20 LINE",
+"515 228 LINE",
+"501 209 LINE",
+"661 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"681 335 LINE",
+"681 357 LINE",
+"344 357 LINE",
+"344 335 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1020 334 LINE",
+"1020 357 LINE",
+"767 357 LINE",
+"767 334 LINE"
+);
+}
+);
 width = 1025;
 },
 {
@@ -31130,8 +31132,7 @@ position = "{369, 357}";
 }
 );
 associatedMasterId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-layerId = "4F4DA2D3-3A18-4EFF-B375-ADE921216D41";
-name = "Light [400]";
+background = {
 paths = (
 {
 closed = 1;
@@ -31142,6 +31143,68 @@ nodes = (
 "480 31 LINE",
 "299 348 LINE",
 "272 348 LINE",
+"476 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"247 -10 LINE",
+"450 348 LINE",
+"427 348 LINE",
+"246 31 LINE",
+"94 348 LINE",
+"67 348 LINE",
+"241 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83.008 334 LINE",
+"93 334 LINE",
+"176 334 LINE",
+"176 357 LINE",
+"5 357 LINE",
+"5 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 334 LINE",
+"429 334 LINE",
+"508 334 LINE",
+"508 357 LINE",
+"220 357 LINE",
+"220 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"633 334 LINE",
+"639 334 LINE",
+"717 334 LINE",
+"717 357 LINE",
+"549 357 LINE",
+"549 334 LINE"
+);
+}
+);
+};
+layerId = "4F4DA2D3-3A18-4EFF-B375-ADE921216D41";
+name = "Light [400]";
+paths = (
+{
+closed = 1;
+nodes = (
+"482 -10 LINE",
+"655 348 LINE",
+"631 348 LINE",
+"480 31 LINE",
+"365 232 LINE",
+"351 209 LINE",
 "476 -10 LINE"
 );
 },
