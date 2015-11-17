@@ -35,7 +35,7 @@ u,
 a,
 /a.alt,
 y,
-Ww,
+"W;:w",
 /ydieresis,
 /oe,
 f,
@@ -213,6 +213,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -420,6 +421,7 @@ id = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 verticalStems = (
 115
 );
+visible = 1;
 weight = Bold;
 weightValue = 800;
 width = Extended;
@@ -41537,7 +41539,7 @@ unicode = 0027;
 },
 {
 glyphname = semicolon;
-lastChange = "2015-11-16 01:25:32 +0000";
+lastChange = "2015-11-17 06:00:39 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41678,6 +41680,40 @@ nodes = (
 "44 261 OFFCURVE",
 "80 234 OFFCURVE",
 "124 234 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 234 OFFCURVE",
+"204 261 OFFCURVE",
+"204 298 CURVE",
+"204 337 OFFCURVE",
+"171 365 OFFCURVE",
+"124 365 CURVE",
+"80 365 OFFCURVE",
+"44 337 OFFCURVE",
+"44 298 CURVE",
+"44 261 OFFCURVE",
+"80 234 OFFCURVE",
+"124 234 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 -10 OFFCURVE",
+"204 17 OFFCURVE",
+"204 54 CURVE",
+"204 94 OFFCURVE",
+"171 121 OFFCURVE",
+"124 121 CURVE",
+"80 121 OFFCURVE",
+"44 94 OFFCURVE",
+"44 54 CURVE",
+"44 17 OFFCURVE",
+"80 -10 OFFCURVE",
+"124 -10 CURVE"
 );
 }
 );
