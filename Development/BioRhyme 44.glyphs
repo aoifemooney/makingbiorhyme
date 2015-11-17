@@ -35,7 +35,7 @@ u,
 a,
 /a.alt,
 y,
-"W;:w",
+"W;,.:w",
 /ydieresis,
 /oe,
 f,
@@ -41539,7 +41539,7 @@ unicode = 0027;
 },
 {
 glyphname = semicolon;
-lastChange = "2015-11-17 06:01:49 +0000";
+lastChange = "2015-11-17 06:05:01 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41638,6 +41638,27 @@ nodes = (
 width = 209;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"171 -10 OFFCURVE",
+"204 17 OFFCURVE",
+"204 54 CURVE",
+"204 94 OFFCURVE",
+"171 121 OFFCURVE",
+"124 121 CURVE",
+"80 121 OFFCURVE",
+"44 94 OFFCURVE",
+"44 54 CURVE",
+"44 17 OFFCURVE",
+"80 -10 OFFCURVE",
+"124 -10 CURVE"
+);
+}
+);
+};
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
 paths = (
@@ -41645,21 +41666,21 @@ paths = (
 closed = 1;
 nodes = (
 "157 -97 OFFCURVE",
-"204 -41 OFFCURVE",
-"204 14 CURVE SMOOTH",
-"204 69 OFFCURVE",
-"171 100 OFFCURVE",
-"121 100 CURVE SMOOTH",
-"78 100 OFFCURVE",
-"44 79 OFFCURVE",
-"44 44 CURVE SMOOTH",
-"44 13 OFFCURVE",
-"72 -10 OFFCURVE",
-"109 -10 CURVE SMOOTH",
-"122 -10 OFFCURVE",
-"135 -8 OFFCURVE",
-"143 -5 CURVE",
-"142 -43 OFFCURVE",
+"207 -39 OFFCURVE",
+"207 26 CURVE SMOOTH",
+"207 78 OFFCURVE",
+"172 120 OFFCURVE",
+"120 120 CURVE SMOOTH",
+"77 120 OFFCURVE",
+"44 91 OFFCURVE",
+"44 53 CURVE SMOOTH",
+"44 15 OFFCURVE",
+"74 -9 OFFCURVE",
+"112 -9 CURVE SMOOTH",
+"126 -9 OFFCURVE",
+"140 -7 OFFCURVE",
+"148 -4 CURVE",
+"138 -42 OFFCURVE",
 "108 -79 OFFCURVE",
 "69 -120 CURVE",
 "98 -149 LINE"
