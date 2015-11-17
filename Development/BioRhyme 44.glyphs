@@ -75,7 +75,8 @@ v,
 ")",
 "\U00B5Q",
 QOo,
-"Queenie-i-oh!\012Queenie-i-oh!\012Queenie-i-oh!\012Queenie-i-oh!"
+"Queenie-i-oh!\012Queenie-i-oh!\012Queenie-i-oh!\012Queenie-i-oh!",
+"\U00B5"
 );
 classes = (
 {
@@ -179,9 +180,6 @@ position = "{474, 151}";
 },
 {
 position = "{585, -280}";
-},
-{
-position = "{414, 530}";
 },
 {
 position = "{532, 478}";
@@ -25380,17 +25378,17 @@ unicode = 00F5;
 {
 color = 4;
 glyphname = oe;
-lastChange = "2015-11-17 04:25:54 +0000";
+lastChange = "2015-11-17 04:28:44 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{681, -10}";
+position = "{666, 2}";
 },
 {
 name = center;
-position = "{670, 179}";
+position = "{666, 179}";
 },
 {
 name = ogonek;
@@ -25398,7 +25396,11 @@ position = "{1205, 55}";
 },
 {
 name = top;
-position = "{672, 367}";
+position = "{666, 357}";
+},
+{
+name = topright;
+position = "{1171, 357}";
 }
 );
 background = {
