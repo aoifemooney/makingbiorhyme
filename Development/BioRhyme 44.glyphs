@@ -89,7 +89,10 @@ Queens,
 "f/f.alt h/hbar ni/idotless j/jdotless k/k.alt l\012mnnp\U00FEqrtu/u.alt vwx/x.alt/z.alt",
 homely,
 "/hbar/oe w\U00B5",
-"/hbar W"
+"/hbar W",
+/hbar,
+w,
+EFLT
 );
 classes = (
 {
@@ -2934,7 +2937,7 @@ unicode = 00D0;
 },
 {
 glyphname = E;
-lastChange = "2015-11-17 15:06:43 +0000";
+lastChange = "2015-11-17 15:40:36 +0000";
 layers = (
 {
 anchors = (
@@ -3279,8 +3282,8 @@ paths = (
 closed = 1;
 nodes = (
 "907 0 LINE",
-"907 240 LINE",
-"799 240 LINE",
+"907 210 LINE",
+"799 210 LINE",
 "799 96 LINE",
 "51 96 LINE",
 "51 0 LINE"
@@ -3307,21 +3310,21 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"634 126 LINE",
-"634 382 LINE",
-"538 382 LINE",
-"538 126 LINE"
+"634 146 LINE",
+"634 362 LINE",
+"538 362 LINE",
+"538 146 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"907 280 LINE",
+"907 310 LINE",
 "907 520 LINE",
 "51 520 LINE",
 "51 424 LINE",
 "799 424 LINE",
-"799 280 LINE"
+"799 310 LINE"
 );
 }
 );
@@ -3595,7 +3598,7 @@ unicode = 00C8;
 },
 {
 glyphname = F;
-lastChange = "2015-11-17 14:47:25 +0000";
+lastChange = "2015-11-17 15:41:03 +0000";
 layers = (
 {
 anchors = (
@@ -3806,12 +3809,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"881 273 LINE",
+"881 310 LINE",
 "881 520 LINE",
 "51 520 LINE",
 "51 424 LINE",
 "774 424 LINE",
-"774 273 LINE"
+"774 310 LINE"
 );
 },
 {
@@ -3844,10 +3847,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"627 123 LINE",
-"627 380 LINE",
-"532 380 LINE",
-"532 123 LINE"
+"627 143 LINE",
+"627 360 LINE",
+"532 360 LINE",
+"532 143 LINE"
 );
 }
 );
@@ -5997,7 +6000,7 @@ unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2015-11-17 14:47:25 +0000";
+lastChange = "2015-11-17 15:41:33 +0000";
 layers = (
 {
 anchors = (
@@ -6187,8 +6190,8 @@ paths = (
 closed = 1;
 nodes = (
 "801 0 LINE",
-"801 265 LINE",
-"684 265 LINE",
+"801 226 LINE",
+"684 226 LINE",
 "684 96 LINE",
 "51 96 LINE",
 "51 0 LINE"
@@ -11367,7 +11370,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-11-16 04:12:33 +0000";
+lastChange = "2015-11-17 15:41:30 +0000";
 layers = (
 {
 anchors = (
@@ -11546,14 +11549,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"156 273 LINE",
+"156 294 LINE",
 "156 424 LINE",
 "740 424 LINE",
-"740 273 LINE",
-"848 273 LINE",
+"740 294 LINE",
+"848 294 LINE",
 "848 520 LINE",
 "48 520 LINE",
-"48 273 LINE"
+"48 294 LINE"
 );
 },
 {
