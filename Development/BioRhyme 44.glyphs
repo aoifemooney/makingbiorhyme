@@ -35,7 +35,7 @@ u,
 a,
 /a.alt,
 y,
-"Queenie\012nconone",
+"Queenie\012nceonone",
 /ydieresis,
 /oe,
 f,
@@ -85,7 +85,8 @@ Queens,
 "\U00A7y",
 "\U00AE",
 "@",
-"7/two.alt/seven.alt s "
+"7/two.alt/seven.alt s ",
+"f/f.alt h/hbar i/idotless j/jdotless k/k.alt lmnp\U00FEqrtu/u.alt vwx/x.alt/z.alt"
 );
 classes = (
 {
@@ -17417,7 +17418,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2015-11-17 14:30:05 +0000";
+lastChange = "2015-11-17 14:33:52 +0000";
 layers = (
 {
 anchors = (
@@ -17640,30 +17641,30 @@ paths = (
 closed = 1;
 nodes = (
 "474 -8 OFFCURVE",
-"589 24 OFFCURVE",
-"677 96 CURVE",
-"624 175 LINE",
-"547 122 OFFCURVE",
+"580 14 OFFCURVE",
+"672 66 CURVE",
+"631 149 LINE",
+"550 110 OFFCURVE",
 "460 91 OFFCURVE",
 "358 91 CURVE SMOOTH",
 "240 91 OFFCURVE",
 "170 129 OFFCURVE",
 "170 177 CURVE SMOOTH",
 "170 251 OFFCURVE",
-"283 272 OFFCURVE",
+"283 271 OFFCURVE",
 "372 271 CURVE SMOOTH",
-"451 271 OFFCURVE",
-"541 247 OFFCURVE",
-"605 207 CURVE",
-"655 210 LINE",
+"461 271 OFFCURVE",
+"556 252 OFFCURVE",
+"605 212 CURVE",
+"655 215 LINE",
 "655 357 LINE",
 "576 357 LINE",
 "576 274 LINE",
-"617 272 LINE",
-"556 319 OFFCURVE",
-"467 368 OFFCURVE",
+"617 277 LINE",
+"566 319 OFFCURVE",
+"477 368 OFFCURVE",
 "344 367 CURVE SMOOTH",
-"218 367 OFFCURVE",
+"218 366 OFFCURVE",
 "50 310 OFFCURVE",
 "50 177 CURVE SMOOTH",
 "50 73 OFFCURVE",
@@ -18875,7 +18876,7 @@ unicode = 00F0;
 {
 color = 4;
 glyphname = e;
-lastChange = "2015-11-17 14:30:46 +0000";
+lastChange = "2015-11-17 14:33:42 +0000";
 layers = (
 {
 anchors = (
@@ -19275,9 +19276,9 @@ nodes = (
 "500 78 OFFCURVE",
 "381 80 CURVE SMOOTH",
 "253 82 OFFCURVE",
-"164 117 OFFCURVE",
-"164 176 CURVE SMOOTH",
-"164 247 OFFCURVE",
+"164 120 OFFCURVE",
+"164 179 CURVE SMOOTH",
+"164 250 OFFCURVE",
 "287 279 OFFCURVE",
 "410 279 CURVE SMOOTH",
 "507 279 OFFCURVE",
@@ -19513,7 +19514,7 @@ unicode = 00EB;
 },
 {
 glyphname = egrave;
-lastChange = "2015-11-16 00:35:55 +0000";
+lastChange = "2015-11-17 14:34:09 +0000";
 layers = (
 {
 components = (
@@ -19527,7 +19528,7 @@ transform = "{1, 0, 0, 1, 124, -74}";
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 758;
+width = 741;
 },
 {
 components = (
@@ -30161,7 +30162,7 @@ rightMetricsKey = "=d.alt";
 },
 {
 glyphname = uacute;
-lastChange = "2015-11-16 00:41:53 +0000";
+lastChange = "2015-11-17 14:34:09 +0000";
 layers = (
 {
 components = (
@@ -30170,12 +30171,12 @@ name = u;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 128, -104}";
+transform = "{1, 0, 0, 1, 138, -104}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 852;
+width = 862;
 },
 {
 components = (
@@ -30291,7 +30292,7 @@ unicode = 00FB;
 },
 {
 glyphname = udieresis;
-lastChange = "2015-11-16 00:41:53 +0000";
+lastChange = "2015-11-17 14:34:09 +0000";
 layers = (
 {
 components = (
@@ -30300,12 +30301,12 @@ name = u;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 136, -114}";
+transform = "{1, 0, 0, 1, 146, -114}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 852;
+width = 862;
 },
 {
 components = (
@@ -30356,7 +30357,7 @@ unicode = 00FC;
 },
 {
 glyphname = ugrave;
-lastChange = "2015-11-16 00:41:53 +0000";
+lastChange = "2015-11-17 14:34:09 +0000";
 layers = (
 {
 components = (
@@ -30365,12 +30366,12 @@ name = u;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 129, -94}";
+transform = "{1, 0, 0, 1, 139, -94}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 852;
+width = 862;
 },
 {
 components = (
