@@ -291,9 +291,6 @@ position = "{369, -9}";
 {
 angle = 90;
 position = "{268, -10}";
-},
-{
-position = "{486, 467}";
 }
 );
 horizontalStems = (
@@ -21633,7 +21630,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-11-17 15:24:41 +0000";
+lastChange = "2015-11-17 15:29:48 +0000";
 layers = (
 {
 anchors = (
@@ -21782,19 +21779,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"514 0 LINE",
-"514 23 LINE",
-"332 23 LINE",
-"332 0 LINE"
+"128 497 LINE",
+"128 520 LINE",
+"20 520 LINE",
+"20 497 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"20 520 LINE",
-"20 497 LINE",
-"128 497 LINE",
-"128 520 LINE"
+"514 0 LINE",
+"514 23 LINE",
+"332 23 LINE",
+"332 0 LINE"
 );
 },
 {
@@ -21869,19 +21866,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"543 0 LINE",
-"543 93 LINE",
-"310 93 LINE",
-"310 0 LINE"
+"192 427 LINE",
+"192 520 LINE",
+"8 520 LINE",
+"8 427 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"8 520 LINE",
-"8 427 LINE",
-"192 427 LINE",
-"192 520 LINE"
+"543 0 LINE",
+"543 93 LINE",
+"310 93 LINE",
+"310 0 LINE"
 );
 },
 {
@@ -22088,7 +22085,7 @@ position = "{288, 363}";
 );
 associatedMasterId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 layerId = "803C8A21-2E46-4DF8-8154-C8CB1FF5D66A";
-name = "Bold Nov [400]";
+name = "Bold [400]";
 paths = (
 {
 closed = 1;
@@ -22132,19 +22129,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"543 0 LINE",
-"543 93 LINE",
-"310 93 LINE",
-"310 0 LINE"
+"79 520 LINE",
+"79 427 LINE",
+"192 427 LINE",
+"192 520 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"79 520 LINE",
-"79 427 LINE",
-"192 427 LINE",
-"192 520 LINE"
+"543 0 LINE",
+"543 93 LINE",
+"310 93 LINE",
+"310 0 LINE"
 );
 },
 {
@@ -22220,15 +22217,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"514 0 LINE",
-"514 23 LINE",
-"332 23 LINE",
-"332 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "120 520 LINE",
 "120 497 LINE",
 "128 497 LINE",
@@ -22238,8 +22226,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"448 419 LINE",
-"448 441 LINE",
+"514 0 LINE",
+"514 23 LINE",
+"332 23 LINE",
+"332 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"288 419 LINE",
+"288 441 LINE",
 "18 441 LINE",
 "18 419 LINE"
 );
