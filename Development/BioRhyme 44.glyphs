@@ -30657,7 +30657,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-17 05:43:15 +0000";
+lastChange = "2015-11-17 05:44:11 +0000";
 layers = (
 {
 anchors = (
@@ -30939,8 +30939,7 @@ name = top;
 position = "{513, 357}";
 }
 );
-layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
-name = "Bold Extended";
+background = {
 paths = (
 {
 closed = 1;
@@ -30972,6 +30971,62 @@ nodes = (
 "702 82 LINE",
 "539 310 LINE",
 "481 205 LINE",
+"656 -21 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"643 268 LINE",
+"643 357 LINE",
+"412 357 LINE",
+"412 268 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1019 267 LINE",
+"1019 357 LINE",
+"761 357 LINE",
+"761 267 LINE"
+);
+}
+);
+};
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"367 -21 LINE",
+"632 325 LINE",
+"533 325 LINE",
+"355 82 LINE",
+"215 303 LINE",
+"85 303 LINE",
+"304 -21 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"302 267 LINE",
+"302 357 LINE",
+"16 357 LINE",
+"16 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"720 -21 LINE",
+"941 298 LINE",
+"845 298 LINE",
+"702 82 LINE",
+"550 294 LINE",
+"412 294 LINE",
 "656 -21 LINE"
 );
 },
@@ -31268,8 +31323,7 @@ position = "{374, 357}";
 }
 );
 associatedMasterId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
-layerId = "9B9BC3D2-C452-4347-BA7B-508DABB2094C";
-name = "Bold [400]";
+background = {
 paths = (
 {
 closed = 1;
@@ -31280,6 +31334,68 @@ nodes = (
 "514 112 LINE",
 "417 305 LINE",
 "345 199 LINE",
+"469 -20 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"276 -20 LINE",
+"460 304 LINE",
+"354 304 LINE",
+"257 112 LINE",
+"165 305 LINE",
+"37 305 LINE",
+"212 -20 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"92 267 LINE",
+"92 277 LINE",
+"227 277 LINE",
+"227 357 LINE",
+"15 357 LINE",
+"15 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"365 277 LINE",
+"404 277 LINE",
+"484 277 LINE",
+"484 357 LINE",
+"291 357 LINE",
+"291 277 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"651 277 LINE",
+"651 267 LINE",
+"726 267 LINE",
+"726 357 LINE",
+"548 357 LINE",
+"548 277 LINE"
+);
+}
+);
+};
+layerId = "9B9BC3D2-C452-4347-BA7B-508DABB2094C";
+name = "Bold [400]";
+paths = (
+{
+closed = 1;
+nodes = (
+"533 -20 LINE",
+"707 304 LINE",
+"606 304 LINE",
+"514 112 LINE",
+"422 288 LINE",
+"295 288 LINE",
 "469 -20 LINE"
 );
 },
@@ -56690,7 +56806,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W
+    w
 );
 }
 );
