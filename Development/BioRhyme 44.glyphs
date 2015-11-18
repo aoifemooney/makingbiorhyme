@@ -17110,7 +17110,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-18 02:34:03 +0000";
+lastChange = "2015-11-18 02:36:00 +0000";
 layers = (
 {
 anchors = (
@@ -17283,11 +17283,11 @@ width = 480;
 anchors = (
 {
 name = bottom;
-position = "{305, -12}";
+position = "{296, -12}";
 },
 {
 name = top;
-position = "{305, 365}";
+position = "{296, 365}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -17296,54 +17296,54 @@ paths = (
 {
 closed = 1;
 nodes = (
-"167 430 LINE",
-"167 520 LINE",
-"0 520 LINE",
-"0 430 LINE"
+"158 430 LINE",
+"158 520 LINE",
+"-20 520 LINE",
+"-20 430 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"235 367 OFFCURVE",
-"150 292 OFFCURVE",
-"115 173 CURVE",
-"115 89 LINE",
-"148 197 OFFCURVE",
-"219 268 OFFCURVE",
-"272 269 CURVE SMOOTH",
-"325 270 OFFCURVE",
-"358 231 OFFCURVE",
-"358 179 CURVE SMOOTH",
-"358 124 OFFCURVE",
-"320 84 OFFCURVE",
-"257 84 CURVE SMOOTH",
-"204 84 OFFCURVE",
-"149 130 OFFCURVE",
-"117 173 CURVE",
-"117 97 LINE",
-"148 55 OFFCURVE",
-"196 -11 OFFCURVE",
-"287 -11 CURVE SMOOTH",
-"398 -11 OFFCURVE",
-"478 71 OFFCURVE",
-"478 178 CURVE SMOOTH",
-"478 287 OFFCURVE",
-"401 367 OFFCURVE",
-"313 367 CURVE SMOOTH"
+"226 367 OFFCURVE",
+"141 292 OFFCURVE",
+"106 173 CURVE",
+"106 89 LINE",
+"139 197 OFFCURVE",
+"210 268 OFFCURVE",
+"263 269 CURVE SMOOTH",
+"316 270 OFFCURVE",
+"349 231 OFFCURVE",
+"349 179 CURVE SMOOTH",
+"349 124 OFFCURVE",
+"311 84 OFFCURVE",
+"248 84 CURVE SMOOTH",
+"195 84 OFFCURVE",
+"140 130 OFFCURVE",
+"108 173 CURVE",
+"108 97 LINE",
+"139 55 OFFCURVE",
+"187 -11 OFFCURVE",
+"278 -11 CURVE SMOOTH",
+"389 -11 OFFCURVE",
+"469 71 OFFCURVE",
+"469 178 CURVE SMOOTH",
+"469 287 OFFCURVE",
+"392 367 OFFCURVE",
+"304 367 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"177 -13 LINE",
-"177 520 LINE",
-"61 520 LINE",
-"61 -13 LINE"
+"168 -13 LINE",
+"168 520 LINE",
+"52 520 LINE",
+"52 -13 LINE"
 );
 }
 );
-width = 493;
+width = 484;
 },
 {
 anchors = (
@@ -60348,7 +60348,7 @@ exclamdown = -25;
 "@MMK_R_ampersand" = 0;
 "@MMK_R_asterisk" = 0;
 "@MMK_R_at" = 0;
-"@MMK_R_b" = -15;
+"@MMK_R_b" = 0;
 "@MMK_R_backslash" = 10;
 "@MMK_R_colon" = -20;
 "@MMK_R_f" = 0;
@@ -60573,7 +60573,7 @@ exclamdown = 10;
 "@MMK_R_ampersand" = -15;
 "@MMK_R_asterisk" = 20;
 "@MMK_R_at" = -10;
-"@MMK_R_b" = -15;
+"@MMK_R_b" = 0;
 "@MMK_R_colon" = -30;
 "@MMK_R_f" = -15;
 "@MMK_R_n" = -15;
