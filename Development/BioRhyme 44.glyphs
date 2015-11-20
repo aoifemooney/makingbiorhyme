@@ -8737,7 +8737,7 @@ unicode = 00DE;
 {
 color = 4;
 glyphname = Q;
-lastChange = "2015-11-20 23:40:56 +0000";
+lastChange = "2015-11-20 23:43:11 +0000";
 layers = (
 {
 anchors = (
@@ -41714,7 +41714,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-11-20 23:39:32 +0000";
+lastChange = "2015-11-20 23:43:33 +0000";
 layers = (
 {
 components = (
@@ -57586,6 +57586,7 @@ exclam = 0;
 exclamdown = 0;
 "@MMK_R_n" = 5;
 "@MMK_R_o" = 10;
+"@MMK_R_questiondown" = 0;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -20;
@@ -58429,6 +58430,7 @@ y = 0;
 g = 0;
 "@MMK_R_T" = -30;
 "@MMK_R_S" = -10;
+"@MMK_R_O" = -10;
 };
 "@MMK_L_quotedblleft" = {
 "@MMK_R_A" = -80;
@@ -58787,6 +58789,7 @@ Q = {
 "@MMK_R_p" = 10;
 "@MMK_R_period" = 30;
 "@MMK_R_colon" = 10;
+"@MMK_R_questiondown" = 20;
 };
 R = {
 "@MMK_R_quotedblleft" = -40;
