@@ -3,7 +3,7 @@ DisplayStrings = (
 HOCZHOH,
 /hbar,
 "HOH1#HOHHOH#1HOHfull roundHOH0#HOHHOH9#HOHHOH#0HOHHOH#6HOHsmall roundHOH#8HOHHOH#9HOHHOH3#HOHHOH5#HOHHOH6#HOHvoidHOH#4HOHHOH#7HOHHOH7#HOHHOH2#HOHHOH4#HOHopenHOH#2HOHHOH#3HOHHOH#9HOHHOH6#HOHHOH5#HOHHOH4#HOHFIGURESstraight\012HOH1%HOHHOH%1HOHfull roundHOH0%HOHHOH9%HOHHOH%0HOHHOH%6HOHsmall roundHOH%8HOHHOH%9HOHHOH3%HOHHOH5%HOHHOH6%HOHvoidHOH%4HOHHOH%7HOHHOH7%HOHHOH2%HOHHOH4%HOHopenHOH%2HOHHOH%3HOHHOH%9HOHHOH6%HOHHOH5%HOHHOH4%HOH",
-"/OE \U00DE/a.alt/a.alt2/d.alt/g.alt \U00F0/f.alt/k.alt \U00FE/schwa/t.alt z/z.alt"
+"/OE \U00DEv/a.alt v/a.alt2/d.alt/g.alt \U00F0/f.alt/k.alt \U00FE/schwa/t.alt z/z.alt"
 );
 classes = (
 {
@@ -15257,7 +15257,7 @@ unicode = 0061;
 {
 color = 4;
 glyphname = a.alt;
-lastChange = "2015-11-19 21:28:24 +0000";
+lastChange = "2015-11-21 01:04:56 +0000";
 layers = (
 {
 anchors = (
@@ -15749,7 +15749,7 @@ width = 835;
 }
 );
 leftKerningGroup = a;
-rightKerningGroup = a.alt;
+rightKerningGroup = n;
 },
 {
 color = 4;
@@ -18235,7 +18235,7 @@ unicode = 0064;
 {
 color = 4;
 glyphname = d.alt;
-lastChange = "2015-11-21 01:02:31 +0000";
+lastChange = "2015-11-21 01:04:59 +0000";
 layers = (
 {
 anchors = (
@@ -18680,7 +18680,7 @@ width = 879;
 );
 leftKerningGroup = o;
 leftMetricsKey = "=d";
-rightKerningGroup = d.alt;
+rightKerningGroup = n;
 rightMetricsKey = a.alt;
 },
 {
@@ -30826,7 +30826,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-21 00:23:00 +0000";
+lastChange = "2015-11-21 01:05:13 +0000";
 layers = (
 {
 anchors = (
@@ -30881,7 +30881,7 @@ nodes = (
 "377 -10 LINE",
 "635 348 LINE",
 "608 348 LINE",
-"375 21 LINE",
+"375 23 LINE",
 "142 348 LINE",
 "112 348 LINE",
 "371 -10 LINE"
