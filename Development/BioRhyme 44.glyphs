@@ -9,7 +9,7 @@ w,
 "\U00B5",
 n,
 "bd/d.alt f/f.alt h/hbar i/idotless j/jdotless k/k.alt lmnp\U00FEqru/u.alt",
-"nn/OE Y enn"
+"nn/OE Y /k.alt nn"
 );
 classes = (
 {
@@ -18868,7 +18868,7 @@ unicode = 00F0;
 {
 color = 4;
 glyphname = e;
-lastChange = "2015-11-20 23:17:56 +0000";
+lastChange = "2015-11-21 17:34:22 +0000";
 layers = (
 {
 anchors = (
@@ -19209,7 +19209,7 @@ position = "{379, -1}";
 },
 {
 name = ogonek;
-position = "{702, 76}";
+position = "{702, 66}";
 },
 {
 name = top;
@@ -19853,7 +19853,7 @@ unicode = 0066;
 },
 {
 glyphname = f.alt;
-lastChange = "2015-11-21 17:10:48 +0000";
+lastChange = "2015-11-21 17:34:35 +0000";
 layers = (
 {
 anchors = (
@@ -20138,8 +20138,8 @@ closed = 1;
 nodes = (
 "66 357 LINE",
 "66 267 LINE",
-"441 267 LINE",
-"441 357 LINE"
+"452 267 LINE",
+"452 357 LINE"
 );
 },
 {
@@ -20162,7 +20162,7 @@ rightKerningGroup = f;
 {
 color = 4;
 glyphname = g;
-lastChange = "2015-11-20 23:20:45 +0000";
+lastChange = "2015-11-21 17:37:03 +0000";
 layers = (
 {
 anchors = (
@@ -20725,50 +20725,50 @@ paths = (
 {
 closed = 1;
 nodes = (
-"591 -173 OFFCURVE",
-"692 -116 OFFCURVE",
+"561 -173 OFFCURVE",
+"692 -119 OFFCURVE",
 "692 -24 CURVE SMOOTH",
-"692 47 OFFCURVE",
-"629 84 OFFCURVE",
+"692 45 OFFCURVE",
+"638 84 OFFCURVE",
 "543 84 CURVE SMOOTH",
 "452 84 OFFCURVE",
-"326 74 OFFCURVE",
-"261 74 CURVE SMOOTH",
-"197 74 OFFCURVE",
-"159 87 OFFCURVE",
+"386 74 OFFCURVE",
+"301 74 CURVE SMOOTH",
+"210 74 OFFCURVE",
+"159 89 OFFCURVE",
 "159 115 CURVE SMOOTH",
 "159 143 OFFCURVE",
 "205 155 OFFCURVE",
 "219 158 CURVE",
 "171 189 LINE",
-"128 183 OFFCURVE",
-"62 151 OFFCURVE",
+"110 180 OFFCURVE",
+"62 137 OFFCURVE",
 "62 91 CURVE SMOOTH",
-"62 19 OFFCURVE",
-"129 -14 OFFCURVE",
-"235 -14 CURVE SMOOTH",
-"316 -14 OFFCURVE",
+"62 24 OFFCURVE",
+"139 -14 OFFCURVE",
+"275 -14 CURVE SMOOTH",
+"376 -14 OFFCURVE",
 "465 -4 OFFCURVE",
 "533 -4 CURVE SMOOTH",
-"570 -4 OFFCURVE",
-"589 -11 OFFCURVE",
+"569 -4 OFFCURVE",
+"589 -14 OFFCURVE",
 "589 -31 CURVE SMOOTH",
-"589 -61 OFFCURVE",
-"498 -81 OFFCURVE",
-"339 -81 CURVE SMOOTH",
-"210 -81 OFFCURVE",
+"589 -63 OFFCURVE",
+"499 -81 OFFCURVE",
+"354 -81 CURVE SMOOTH",
+"215 -81 OFFCURVE",
 "146 -61 OFFCURVE",
 "146 -25 CURVE SMOOTH",
-"146 0 OFFCURVE",
-"161 13 OFFCURVE",
+"146 -6 OFFCURVE",
+"155 10 OFFCURVE",
 "172 19 CURVE",
 "116 43 LINE",
-"83 24 OFFCURVE",
-"49 -9 OFFCURVE",
+"73 18 OFFCURVE",
+"49 -15 OFFCURVE",
 "49 -50 CURVE SMOOTH",
-"49 -128 OFFCURVE",
-"133 -173 OFFCURVE",
-"328 -173 CURVE SMOOTH"
+"49 -129 OFFCURVE",
+"149 -173 OFFCURVE",
+"343 -173 CURVE SMOOTH"
 );
 },
 {
@@ -22261,7 +22261,7 @@ unicode = 0127;
 },
 {
 glyphname = i;
-lastChange = "2015-11-21 17:11:40 +0000";
+lastChange = "2015-11-21 17:37:32 +0000";
 layers = (
 {
 anchors = (
@@ -22466,7 +22466,7 @@ position = "{227, 0}";
 },
 {
 name = ogonek;
-position = "{455, 10}";
+position = "{451, 0}";
 },
 {
 name = top;
