@@ -5,7 +5,8 @@ HOCZHOH,
 "HOH1#HOHHOH#1HOHfull roundHOH0#HOHHOH9#HOHHOH#0HOHHOH#6HOHsmall roundHOH#8HOHHOH#9HOHHOH3#HOHHOH5#HOHHOH6#HOHvoidHOH#4HOHHOH#7HOHHOH7#HOHHOH2#HOHHOH4#HOHopenHOH#2HOHHOH#3HOHHOH#9HOHHOH6#HOHHOH5#HOHHOH4#HOHFIGURESstraight\012HOH1%HOHHOH%1HOHfull roundHOH0%HOHHOH9%HOHHOH%0HOHHOH%6HOHsmall roundHOH%8HOHHOH%9HOHHOH3%HOHHOH5%HOHHOH6%HOHvoidHOH%4HOHHOH%7HOHHOH7%HOHHOH2%HOHHOH4%HOHopenHOH%2HOHHOH%3HOHHOH%9HOHHOH6%HOHHOH5%HOHHOH4%HOH",
 "/OE \U00DEv/a.alt v/a.alt2/d.alt/g.alt \U00F0/f.alt/k.alt \U00FE/schwa/t.alt z/z.alt",
 /oe,
-w
+w,
+"\U00B5"
 );
 classes = (
 {
@@ -31070,7 +31071,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-21 17:03:29 +0000";
+lastChange = "2015-11-21 17:05:01 +0000";
 layers = (
 {
 anchors = (
@@ -31425,7 +31426,6 @@ nodes = (
 "359 -11 LINE",
 "626 348 LINE",
 "599 348 LINE",
-"592 339 LINE",
 "359 20 LINE",
 "147 348 LINE",
 "118 348 LINE",
@@ -31458,6 +31458,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"404 335 LINE",
 "608 335 LINE",
 "681 335 LINE",
 "681 357 LINE",
@@ -48457,7 +48458,7 @@ unicode = 00AC;
 },
 {
 glyphname = micro;
-lastChange = "2015-11-21 01:02:35 +0000";
+lastChange = "2015-11-21 17:05:44 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -48815,15 +48816,6 @@ nodes = (
 "663 34 OFFCURVE",
 "719 -9 OFFCURVE",
 "789 -9 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"765 267 LINE",
-"765 357 LINE",
-"522 357 LINE",
-"522 267 LINE"
 );
 }
 );
