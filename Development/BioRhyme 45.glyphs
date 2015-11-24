@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-non_uon
+non_aon
 );
 classes = (
 {
@@ -14661,7 +14661,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-24 02:55:36 +0000";
+lastChange = "2015-11-24 03:08:43 +0000";
 layers = (
 {
 anchors = (
@@ -29798,7 +29798,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-24 03:07:56 +0000";
+lastChange = "2015-11-24 03:09:13 +0000";
 layers = (
 {
 anchors = (
@@ -42204,7 +42204,7 @@ unicode = 002F;
 },
 {
 glyphname = underscore;
-lastChange = "2015-11-24 03:03:17 +0000";
+lastChange = "2015-11-24 03:08:29 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -42213,14 +42213,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-35 -67 LINE",
-"-35 -91 LINE",
-"385 -91 LINE",
-"385 -67 LINE"
+"-10 -67 LINE",
+"-10 -91 LINE",
+"410 -91 LINE",
+"410 -67 LINE"
 );
 }
 );
-width = 350;
+width = 400;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -58902,7 +58902,8 @@ z = {
 "@MMK_R_O" = 10;
 };
 "@MMK_L_underscore" = {
-"@MMK_R_u" = -20;
+"@MMK_R_u" = -60;
+"@MMK_R_a" = -20;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
