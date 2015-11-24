@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"HOHNCHOH\012HOHOUHHGUOUKUDHOHOHHFUHUTUO\012HOHOLOFOHBAHB\012HAW\U00C6HAWAXHOHPAHOHBJHOH\012HOHPZHOHLTHOHKS\012HOHZZHOHXZHOH\012HAZARDHOHWSHOH\012HOHXSHOHXSXH\012HOHpnnUpnUionHOHEXHOHNhnnoHonH\U00F0nN\U00F0n\U00DExounon\U00F0HpUonPnPuQjOjnonKononRanonRsnon\012nGunonGbOvOznonOanonoXononoAononAgnon\012nonUsnonBunonBbnon\012nnXunonXjnonRunon\012nonNfnonUtnonUsnon\012nonEjnonFunonLunon\012nonZjnonOznonGanon\012nnRznonRxnonXanon\012nonXsnonAsnonKanon\012nonRsnonRfnonPsnon\012nonGtnonGsnonOsnon\012nonCanonSanonTsnon\012nonZznonvAvnonKvnon\012nonKxnonRvnonRznon\012nonZtnonKsnonRsnon\012nonCznonCxnonEznon\012nonFvnonFznonLznon\012nnFtnonuOnonaO\012nonoaWnonaAnjAn"
+"HOHNCHOH\012HOHOUHHGUOUKUDHOHOHHFUHUTUO\012HOHOLOFOHBAHB\012HAW\U00C6HAWAXHOHPAHOHBJHOH\012HOHPZHOHLTHOHKS\012HOHZZHOHXZHOH\012HAZARDHOHWSHOH\012HOHXSHOHXSXH\012HOHpnnUpnUionHOHEXHOHNhnnoHonH\U00F0nN\U00F0n\U00DExounon\U00F0ZoZononHpUonPnPuQjOjnonKononRanonRsnon\012nGunonGbOvOznonOanonoXononoAononAgnon\012nonUsnonBunonBbnon\012nnXunonXjnonRunon\012nonNfnonUtnonUsnon\012nonEjnonFunonLunon\012nonZjnonOznonGanon\012nnRznonRxnonXanon\012nonXsnonAsnonKanon\012nonRsnonRfnonPsnon\012nonGtnonGsnonOsnon\012nonCanonSanonTsnon\012nonZznonvAvnonKvnon\012nonKxnonRvnonRznon\012nonZtnonKsnonRsnon\012nonCznonCxnonEznon\012nonFvnonFznonLznon\012nnFtnonuOnonaO\012nonx\U00D0nonxDnon\012nonoaWnonaAnjAn\012nonTnonuTnonaTn\012nonuSnonfUnon\012nonrHnonrUnon"
 );
 classes = (
 {
@@ -2577,7 +2577,7 @@ unicode = 00C7;
 },
 {
 glyphname = D;
-lastChange = "2015-11-24 20:45:05 +0000";
+lastChange = "2015-11-24 20:47:38 +0000";
 layers = (
 {
 anchors = (
@@ -2800,7 +2800,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2015-11-24 20:45:10 +0000";
+lastChange = "2015-11-24 20:48:00 +0000";
 layers = (
 {
 components = (
@@ -10581,7 +10581,7 @@ rightKerningGroup = R.alt;
 {
 color = 4;
 glyphname = S;
-lastChange = "2015-11-24 20:18:16 +0000";
+lastChange = "2015-11-24 20:49:05 +0000";
 layers = (
 {
 anchors = (
@@ -11252,7 +11252,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-11-24 20:07:27 +0000";
+lastChange = "2015-11-24 20:48:27 +0000";
 layers = (
 {
 anchors = (
@@ -11469,7 +11469,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2015-11-24 20:44:26 +0000";
+lastChange = "2015-11-24 20:49:32 +0000";
 layers = (
 {
 anchors = (
@@ -14426,7 +14426,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Z;
-lastChange = "2015-11-24 20:07:00 +0000";
+lastChange = "2015-11-24 20:50:23 +0000";
 layers = (
 {
 anchors = (
@@ -59767,7 +59767,7 @@ g = 30;
 "@MMK_R_O" = 20;
 "@MMK_R_S" = 10;
 "@MMK_R_T" = 30;
-"@MMK_R_U" = -10;
+"@MMK_R_U" = 0;
 "@MMK_R_V" = 10;
 "@MMK_R_X" = 20;
 "@MMK_R_Z" = 20;
@@ -59905,7 +59905,7 @@ y = -20;
 };
 "@MMK_L_k" = {
 "@MMK_R_A" = -40;
-"@MMK_R_H" = -40;
+"@MMK_R_H" = -20;
 "@MMK_R_J" = -40;
 "@MMK_R_S" = -15;
 "@MMK_R_T" = -40;
@@ -59935,6 +59935,7 @@ y = -20;
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -20;
 "@MMK_R_z" = 0;
+Eth = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = -20;
@@ -59942,7 +59943,7 @@ y = -20;
 "@MMK_R_J" = -20;
 "@MMK_R_O" = -10;
 "@MMK_R_S" = -5;
-"@MMK_R_T" = -45;
+"@MMK_R_T" = -35;
 "@MMK_R_U" = -30;
 "@MMK_R_V" = -60;
 "@MMK_R_X" = -30;
@@ -59977,7 +59978,7 @@ u = -15;
 "@MMK_R_U" = -25;
 "@MMK_R_V" = -65;
 "@MMK_R_X" = -5;
-"@MMK_R_Z" = -20;
+"@MMK_R_Z" = -15;
 "@MMK_R_a" = -5;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_at" = -5;
@@ -60137,7 +60138,7 @@ y = -10;
 "@MMK_R_O" = 10;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -15;
-"@MMK_R_U" = -20;
+"@MMK_R_U" = -15;
 "@MMK_R_V" = -35;
 "@MMK_R_X" = -20;
 "@MMK_R_Z" = -10;
@@ -60317,8 +60318,8 @@ quoteleft = -20;
 "@MMK_L_u" = {
 "@MMK_R_A" = -40;
 "@MMK_R_J" = -20;
-"@MMK_R_S" = -25;
-"@MMK_R_T" = -20;
+"@MMK_R_S" = -5;
+"@MMK_R_T" = -25;
 "@MMK_R_V" = -65;
 "@MMK_R_X" = -25;
 "@MMK_R_Z" = -10;
@@ -60387,6 +60388,7 @@ quoteleft = -20;
 "@MMK_R_v" = -20;
 g = -5;
 "@MMK_R_a" = -5;
+Eth = 0;
 };
 "@MMK_L_z" = {
 "@MMK_R_A" = -30;
@@ -60540,6 +60542,9 @@ Eth = 15;
 "@MMK_R_o" = 10;
 "@MMK_R_v" = 10;
 "@MMK_R_x" = 5;
+};
+eth = {
+"@MMK_R_Z" = -5;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
