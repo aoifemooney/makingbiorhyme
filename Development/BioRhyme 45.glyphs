@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-noa//n//v/backslash
+"noa//k//g///x.alt \012//o_o_g_Q_O_"
 );
 classes = (
 {
@@ -20278,7 +20278,7 @@ rightKerningGroup = f;
 {
 color = 4;
 glyphname = g;
-lastChange = "2015-11-24 03:09:42 +0000";
+lastChange = "2015-11-24 03:17:32 +0000";
 layers = (
 {
 anchors = (
@@ -32060,7 +32060,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2015-11-24 02:17:30 +0000";
+lastChange = "2015-11-24 03:15:21 +0000";
 layers = (
 {
 anchors = (
@@ -32487,7 +32487,7 @@ unicode = 0078;
 },
 {
 glyphname = x.alt;
-lastChange = "2015-11-17 18:37:14 +0000";
+lastChange = "2015-11-24 03:16:03 +0000";
 layers = (
 {
 anchors = (
@@ -42131,7 +42131,7 @@ unicode = 003B;
 },
 {
 glyphname = slash;
-lastChange = "2015-11-24 03:13:52 +0000";
+lastChange = "2015-11-24 03:16:49 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -42204,7 +42204,7 @@ unicode = 002F;
 },
 {
 glyphname = underscore;
-lastChange = "2015-11-24 03:13:01 +0000";
+lastChange = "2015-11-24 03:17:24 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -58231,6 +58231,7 @@ y = -10;
 "@MMK_R_z" = -15;
 y = -5;
 "@MMK_R_questiondown" = 20;
+"@MMK_R_slash" = 20;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = -50;
@@ -58311,6 +58312,7 @@ quoteleft = 20;
 quotereversed = 0;
 quoteright = 0;
 "@MMK_R_underscore" = -40;
+"@MMK_R_slash" = 0;
 };
 "@MMK_L_one" = {
 "@MMK_R_colon" = -10;
@@ -58632,6 +58634,8 @@ exclam = 0;
 "@MMK_R_four" = -20;
 "@MMK_R_a" = -40;
 "@MMK_R_v" = 15;
+"@MMK_R_x" = 0;
+x.alt = -25;
 };
 "@MMK_L_sterling" = {
 "@MMK_R_eight" = -10;
@@ -58787,6 +58791,7 @@ servicemark = 80;
 "@MMK_R_z" = -5;
 servicemark = 50;
 "@MMK_R_quotedblleft" = 30;
+"@MMK_R_slash" = 0;
 };
 "@MMK_L_yen" = {
 "@MMK_R_seven" = 20;
@@ -58883,6 +58888,8 @@ g = {
 "@MMK_R_period" = 0;
 "@MMK_R_v" = -10;
 "@MMK_R_x" = 0;
+"@MMK_R_slash" = 20;
+"@MMK_R_underscore" = 30;
 };
 guilsinglleft = {
 "@MMK_R_v" = 20;
@@ -58922,6 +58929,10 @@ z = {
 "@MMK_R_U" = -75;
 "@MMK_R_V" = -80;
 "@MMK_R_two" = 20;
+g = 35;
+};
+x.alt = {
+"@MMK_R_slash" = 30;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
