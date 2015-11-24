@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"HOHFUHHGHC\U00D0UH"
+"HOH\U00DEOHPOHGHC\U00D0UH"
 );
 classes = (
 {
@@ -7122,7 +7122,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-11-24 03:33:09 +0000";
+lastChange = "2015-11-24 16:29:59 +0000";
 layers = (
 {
 anchors = (
@@ -11878,7 +11878,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2015-11-21 01:01:26 +0000";
+lastChange = "2015-11-24 16:29:25 +0000";
 layers = (
 {
 components = (
@@ -11887,12 +11887,12 @@ name = U;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 258, 39}";
+transform = "{1, 0, 0, 1, 248, 39}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1021;
+width = 1001;
 },
 {
 components = (
@@ -11943,7 +11943,7 @@ unicode = 00DA;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2015-11-21 01:01:26 +0000";
+lastChange = "2015-11-24 16:29:25 +0000";
 layers = (
 {
 components = (
@@ -11952,12 +11952,12 @@ name = U;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 279, 69}";
+transform = "{1, 0, 0, 1, 269, 69}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1021;
+width = 1001;
 },
 {
 components = (
@@ -12008,7 +12008,7 @@ unicode = 00DB;
 },
 {
 glyphname = Udieresis;
-lastChange = "2015-11-21 01:01:26 +0000";
+lastChange = "2015-11-24 16:29:25 +0000";
 layers = (
 {
 components = (
@@ -12017,12 +12017,12 @@ name = U;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 266, 29}";
+transform = "{1, 0, 0, 1, 256, 29}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1021;
+width = 1001;
 },
 {
 components = (
@@ -12073,7 +12073,7 @@ unicode = 00DC;
 },
 {
 glyphname = Ugrave;
-lastChange = "2015-11-21 01:01:26 +0000";
+lastChange = "2015-11-24 16:29:25 +0000";
 layers = (
 {
 components = (
@@ -12082,12 +12082,12 @@ name = U;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 259, 49}";
+transform = "{1, 0, 0, 1, 249, 49}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1021;
+width = 1001;
 },
 {
 components = (
@@ -58952,6 +58952,9 @@ y = {
 a = {
 "@MMK_R_z" = -10;
 "@MMK_R_o" = -10;
+};
+"@MMK_L_Thorn" = {
+"@MMK_R_O" = 40;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
