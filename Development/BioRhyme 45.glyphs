@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"noH//7/backslash Q///backslash O//A///backslash g///x.alt \012//o_o_g_Q_O_"
+"noH//2//u/backslash nQ///backslash O//A///backslash g///x.alt \012//o_o_g_Q_O_"
 );
 classes = (
 {
@@ -40020,7 +40020,7 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2015-11-24 03:20:07 +0000";
+lastChange = "2015-11-24 03:21:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -58619,6 +58619,7 @@ y = 0;
 "@MMK_R_two" = -15;
 "@MMK_R_yen" = 40;
 "@MMK_R_zero" = -10;
+"@MMK_R_backslash" = 10;
 };
 "@MMK_L_six" = {
 "@MMK_R_eight" = -10;
@@ -58746,6 +58747,7 @@ quoteleft = -20;
 "@MMK_R_x" = -20;
 "@MMK_R_z" = -25;
 servicemark = -30;
+"@MMK_R_backslash" = -50;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -60;
