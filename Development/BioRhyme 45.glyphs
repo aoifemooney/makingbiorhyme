@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"HOHNCHOH\012HOHOUHHGUOUKUDHOHOHHFUHUTUO\012HOHOLOFOHBAHB\012HAW\U00C6HAWAXHOHPAHOHBJHOH\012HOHPZHOHLTHOHKS\012HOHZZHOHXZHOH\012HAZARDHOHWSHOH\012HOHXSHOHXSXH\012HOHpnnUpnUionHOHEXHOHNhnnoHonH\U00F0nN\U00F0n\U00DEounon\U00DE\U00F0nPnPuQjOj\012nGunonGbObnonOanon\012nonUsnonBunonBbnon\012nnXunonXjnonRunon\012nonNfnonUtnonUsnon\012nonEjnonFunonLunon\012nonZjnon"
+"HOHNCHOH\012HOHOUHHGUOUKUDHOHOHHFUHUTUO\012HOHOLOFOHBAHB\012HAW\U00C6HAWAXHOHPAHOHBJHOH\012HOHPZHOHLTHOHKS\012HOHZZHOHXZHOH\012HAZARDHOHWSHOH\012HOHXSHOHXSXH\012HOHpnnUpnUionHOHEXHOHNhnnoHonH\U00F0nN\U00F0n\U00DExounon\U00DEF\U00F0nPnPuQjOjnonKononFononLonon\012nGunonGbOvOznonOanonoXononoAononAgnon\012nonUsnonBunonBbnon\012nnXunonXjnonRunon\012nonNfnonUtnonUsnon\012nonEjnonFunonLunon\012nonZjnonOznon"
 );
 classes = (
 {
@@ -350,7 +350,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-24 20:16:52 +0000";
+lastChange = "2015-11-24 20:32:08 +0000";
 layers = (
 {
 anchors = (
@@ -13437,7 +13437,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-24 20:17:27 +0000";
+lastChange = "2015-11-24 20:31:42 +0000";
 layers = (
 {
 anchors = (
@@ -25698,7 +25698,7 @@ unicode = 00F1;
 {
 color = 4;
 glyphname = o;
-lastChange = "2015-11-24 20:29:41 +0000";
+lastChange = "2015-11-24 20:33:13 +0000";
 layers = (
 {
 anchors = (
@@ -30993,7 +30993,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-24 18:20:01 +0000";
+lastChange = "2015-11-24 20:31:11 +0000";
 layers = (
 {
 anchors = (
@@ -32145,7 +32145,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2015-11-24 19:26:36 +0000";
+lastChange = "2015-11-24 20:30:57 +0000";
 layers = (
 {
 anchors = (
@@ -33509,7 +33509,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2015-11-24 19:26:19 +0000";
+lastChange = "2015-11-24 20:30:34 +0000";
 layers = (
 {
 anchors = (
@@ -59094,7 +59094,7 @@ eth = {
 "@MMK_R_guillemotleft" = -20;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_n" = -20;
-"@MMK_R_o" = -35;
+"@MMK_R_o" = -25;
 "@MMK_R_p" = -20;
 "@MMK_R_paragraph" = -50;
 "@MMK_R_parenright" = -30;
@@ -59212,7 +59212,7 @@ Eth = 5;
 "@MMK_R_guillemotleft" = -20;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_n" = -10;
-"@MMK_R_o" = -50;
+"@MMK_R_o" = -30;
 "@MMK_R_p" = -15;
 "@MMK_R_paragraph" = -10;
 "@MMK_R_period" = -60;
@@ -59300,7 +59300,7 @@ exclamdown = -25;
 "@MMK_R_colon" = -10;
 "@MMK_R_f" = -5;
 "@MMK_R_n" = -5;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = 0;
 "@MMK_R_p" = -10;
 "@MMK_R_paragraph" = -40;
 "@MMK_R_parenright" = -10;
@@ -59340,9 +59340,9 @@ exclamdown = -25;
 "@MMK_R_s" = -10;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -5;
-"@MMK_R_v" = -10;
+"@MMK_R_v" = 0;
 "@MMK_R_x" = -5;
-"@MMK_R_z" = -10;
+"@MMK_R_z" = 0;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -20;
@@ -59559,7 +59559,7 @@ exclamdown = 10;
 "@MMK_R_f" = -5;
 "@MMK_R_guillemotleft" = -10;
 "@MMK_R_hyphen" = -20;
-"@MMK_R_o" = -15;
+"@MMK_R_o" = -5;
 "@MMK_R_p" = 0;
 "@MMK_R_paragraph" = -10;
 "@MMK_R_parenright" = 20;
@@ -59967,14 +59967,14 @@ u = -15;
 "@MMK_R_seven" = 20;
 };
 "@MMK_L_o" = {
-"@MMK_R_A" = -35;
+"@MMK_R_A" = -25;
 "@MMK_R_H" = -15;
 "@MMK_R_J" = -20;
 "@MMK_R_S" = -25;
 "@MMK_R_T" = -40;
 "@MMK_R_U" = -30;
 "@MMK_R_V" = -65;
-"@MMK_R_X" = -15;
+"@MMK_R_X" = -5;
 "@MMK_R_Z" = -20;
 "@MMK_R_a" = -5;
 "@MMK_R_asterisk" = -20;
@@ -60534,6 +60534,8 @@ Eth = 15;
 "@MMK_R_Z" = -5;
 "@MMK_R_u" = 15;
 "@MMK_R_o" = 10;
+"@MMK_R_v" = 10;
+"@MMK_R_x" = 5;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
