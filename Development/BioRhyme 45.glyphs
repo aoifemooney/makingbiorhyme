@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"onon.unono\012onon.bnono"
+"onon/quoteright unono\012onon/quoteright bnono"
 );
 classes = (
 {
@@ -17217,7 +17217,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-24 01:54:23 +0000";
+lastChange = "2015-11-24 01:55:40 +0000";
 layers = (
 {
 anchors = (
@@ -29798,7 +29798,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-24 01:54:04 +0000";
+lastChange = "2015-11-24 01:55:31 +0000";
 layers = (
 {
 anchors = (
@@ -58353,7 +58353,7 @@ y = 20;
 "@MMK_R_z" = -30;
 "@MMK_R_zero" = -35;
 C = -30;
-b = 0;
+b = -20;
 g = 0;
 v = 20;
 y = 20;
@@ -58432,7 +58432,7 @@ g = 0;
 "@MMK_R_X" = 10;
 "@MMK_R_Z" = -20;
 "@MMK_R_a" = -25;
-"@MMK_R_b" = 80;
+"@MMK_R_b" = 110;
 "@MMK_R_eight" = -15;
 "@MMK_R_four" = -25;
 "@MMK_R_nine" = -15;
@@ -58444,6 +58444,7 @@ g = 0;
 "@MMK_R_z" = -5;
 "@MMK_R_zero" = -30;
 g = -50;
+"@MMK_R_u" = 40;
 };
 "@MMK_L_r" = {
 "@MMK_R_A" = -45;
