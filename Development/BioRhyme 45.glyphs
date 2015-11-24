@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"nnUpuUhn\012nHonNonNgnn\U00DEun\U00DEj\012nDuDbDn\012nnRunnOj"
+"nnUpuUhn\012nHonNonNgnn\U00DEun\U00DEj\012nDuDbDn\012nnRnuBoBnbunOjnnPjbPunnGunGbnOb"
 );
 classes = (
 {
@@ -17218,7 +17218,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-24 17:02:31 +0000";
+lastChange = "2015-11-24 17:06:31 +0000";
 layers = (
 {
 anchors = (
@@ -25216,7 +25216,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2015-11-24 17:02:02 +0000";
+lastChange = "2015-11-24 17:04:33 +0000";
 layers = (
 {
 anchors = (
@@ -29833,7 +29833,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-24 17:02:55 +0000";
+lastChange = "2015-11-24 17:06:11 +0000";
 layers = (
 {
 anchors = (
@@ -57345,7 +57345,7 @@ kerning = {
 "@MMK_R_a" = -10;
 "@MMK_R_ampersand" = 10;
 "@MMK_R_asterisk" = -15;
-"@MMK_R_b" = -10;
+"@MMK_R_b" = 0;
 "@MMK_R_backslash" = -15;
 "@MMK_R_f" = -5;
 "@MMK_R_hyphen" = 15;
@@ -57357,6 +57357,7 @@ kerning = {
 "@MMK_R_v" = -5;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = -10;
+"@MMK_R_u" = 5;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = -30;
@@ -57468,7 +57469,7 @@ kerning = {
 "@MMK_R_ampersand" = -10;
 "@MMK_R_asterisk" = 0;
 "@MMK_R_at" = 0;
-"@MMK_R_b" = -5;
+"@MMK_R_b" = 10;
 "@MMK_R_backslash" = 30;
 "@MMK_R_braceleft" = 20;
 "@MMK_R_colon" = 10;
@@ -57487,7 +57488,7 @@ kerning = {
 "@MMK_R_s" = 5;
 "@MMK_R_section" = 0;
 "@MMK_R_t" = 25;
-"@MMK_R_u" = 20;
+"@MMK_R_u" = 30;
 "@MMK_R_v" = 40;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
@@ -57615,7 +57616,7 @@ J = 5;
 "@MMK_R_ampersand" = -20;
 "@MMK_R_asterisk" = 5;
 "@MMK_R_at" = 0;
-"@MMK_R_b" = 0;
+"@MMK_R_b" = 20;
 "@MMK_R_backslash" = 10;
 "@MMK_R_exclam" = 20;
 "@MMK_R_hyphen" = 0;
@@ -57625,7 +57626,7 @@ J = 5;
 "@MMK_R_period" = -30;
 "@MMK_R_s" = 0;
 "@MMK_R_section" = 0;
-"@MMK_R_u" = 15;
+"@MMK_R_u" = 25;
 "@MMK_R_underscore" = -40;
 "@MMK_R_v" = 30;
 "@MMK_R_z" = -10;
@@ -57653,7 +57654,7 @@ J = 5;
 "@MMK_R_guillemotleft" = 40;
 "@MMK_R_guillemotright" = 20;
 "@MMK_R_hyphen" = 30;
-"@MMK_R_n" = 0;
+"@MMK_R_n" = 20;
 "@MMK_R_o" = -5;
 "@MMK_R_p" = -5;
 "@MMK_R_paragraph" = 5;
@@ -57667,7 +57668,7 @@ J = 5;
 "@MMK_R_section" = -10;
 "@MMK_R_slash" = 25;
 "@MMK_R_t" = -5;
-"@MMK_R_u" = 0;
+"@MMK_R_u" = 10;
 "@MMK_R_underscore" = 20;
 "@MMK_R_v" = -5;
 "@MMK_R_x" = -10;
