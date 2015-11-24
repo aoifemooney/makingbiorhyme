@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"ono@QE\U00AEOoH4HO@OHaono"
+"ono@QE\U00AEOoH4HO@OHaon\012G*O*unon*bf*ng*n"
 );
 classes = (
 {
@@ -7121,7 +7121,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-11-24 03:00:28 +0000";
+lastChange = "2015-11-24 03:33:09 +0000";
 layers = (
 {
 anchors = (
@@ -17217,7 +17217,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-24 03:22:15 +0000";
+lastChange = "2015-11-24 03:32:09 +0000";
 layers = (
 {
 anchors = (
@@ -29798,7 +29798,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-24 03:09:13 +0000";
+lastChange = "2015-11-24 03:31:57 +0000";
 layers = (
 {
 anchors = (
@@ -39583,7 +39583,7 @@ rightKerningGroup = three.numr;
 },
 {
 glyphname = asterisk;
-lastChange = "2015-11-21 00:14:20 +0000";
+lastChange = "2015-11-24 03:33:04 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -57542,7 +57542,7 @@ servicemark = -50;
 "@MMK_R_Z" = -10;
 "@MMK_R_a" = 0;
 "@MMK_R_ampersand" = 10;
-"@MMK_R_asterisk" = -20;
+"@MMK_R_asterisk" = -10;
 "@MMK_R_at" = 5;
 "@MMK_R_b" = 0;
 "@MMK_R_colon" = -5;
@@ -57888,13 +57888,13 @@ servicemark = 20;
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -70;
 "@MMK_R_J" = -50;
-"@MMK_R_O" = -20;
+"@MMK_R_O" = -10;
 "@MMK_R_S" = -5;
 "@MMK_R_U" = 30;
 "@MMK_R_V" = 30;
 "@MMK_R_X" = 10;
 "@MMK_R_a" = -10;
-"@MMK_R_b" = 50;
+"@MMK_R_b" = 80;
 "@MMK_R_four" = -30;
 "@MMK_R_o" = -20;
 "@MMK_R_s" = -10;
@@ -57902,6 +57902,7 @@ servicemark = 20;
 "@MMK_R_two" = -10;
 "@MMK_R_v" = 30;
 "@MMK_R_z" = 10;
+"@MMK_R_u" = 35;
 };
 "@MMK_L_at" = {
 "@MMK_R_A" = -40;
@@ -58057,7 +58058,7 @@ y = 0;
 "@MMK_R_Z" = 20;
 "@MMK_R_a" = -5;
 "@MMK_R_ampersand" = -10;
-"@MMK_R_asterisk" = 40;
+"@MMK_R_asterisk" = 60;
 "@MMK_R_at" = -5;
 "@MMK_R_b" = 10;
 "@MMK_R_backslash" = 70;
@@ -58910,7 +58911,7 @@ braceright = {
 "@MMK_R_v" = 0;
 };
 g = {
-"@MMK_R_asterisk" = 0;
+"@MMK_R_asterisk" = 20;
 "@MMK_R_parenright" = 10;
 "@MMK_R_period" = 0;
 "@MMK_R_v" = -10;
@@ -58961,6 +58962,9 @@ g = 35;
 };
 x.alt = {
 "@MMK_R_slash" = 30;
+};
+G = {
+"@MMK_R_asterisk" = 15;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
