@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"HO/quoteleft E/quotedblleft/quotedblleft S/quotedblleft .S.C/quotedblleft .HHFS\U00BBG)C)/guilsinglright JHL:HL."
+"HO/quoteleft E/quotedblleft/quotedblleft S/quotedblleft .S.C/quotedblleft .HHFS\U00BBQ/guilsinglleft/guilsinglright O/guilsinglleft JHL:HL."
 );
 classes = (
 {
@@ -7121,7 +7121,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-11-24 02:40:34 +0000";
+lastChange = "2015-11-24 02:49:22 +0000";
 layers = (
 {
 anchors = (
@@ -8737,7 +8737,7 @@ unicode = 00DE;
 {
 color = 4;
 glyphname = Q;
-lastChange = "2015-11-21 22:07:01 +0000";
+lastChange = "2015-11-24 02:49:01 +0000";
 layers = (
 {
 anchors = (
@@ -44113,7 +44113,7 @@ unicode = 00BB;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2015-11-24 02:46:12 +0000";
+lastChange = "2015-11-24 02:48:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -57558,6 +57558,7 @@ servicemark = -50;
 "@MMK_R_v" = 10;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = -10;
+"@MMK_R_guillemotleft" = 10;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -20;
@@ -58119,6 +58120,7 @@ servicemark = 30;
 "@MMK_R_x" = 20;
 "@MMK_R_z" = 10;
 Y = -60;
+"@MMK_R_O" = 10;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_A" = -20;
@@ -58885,6 +58887,7 @@ z = {
 "@MMK_R_V" = -60;
 "@MMK_R_A" = -20;
 "@MMK_R_X" = -10;
+"@MMK_R_O" = 10;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
