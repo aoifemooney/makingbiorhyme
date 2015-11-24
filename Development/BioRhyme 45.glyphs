@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"ononsbnslnono\012ononuznaznononjvnvnaxn"
+"ononsbnslnono\012ononunznaznononjvnvnaxn\012nonrlnon\012nonrbnon\012"
 );
 classes = (
 {
@@ -17218,7 +17218,7 @@ unicode = 00E6;
 {
 color = 4;
 glyphname = b;
-lastChange = "2015-11-24 15:32:59 +0000";
+lastChange = "2015-11-24 15:47:33 +0000";
 layers = (
 {
 anchors = (
@@ -33459,7 +33459,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2015-11-24 15:36:36 +0000";
+lastChange = "2015-11-24 15:47:09 +0000";
 layers = (
 {
 anchors = (
@@ -33582,7 +33582,7 @@ nodes = (
 );
 }
 );
-width = 760;
+width = 765;
 },
 {
 anchors = (
@@ -58299,7 +58299,7 @@ y = -10;
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -15;
 "@MMK_R_x" = -25;
-"@MMK_R_z" = -10;
+"@MMK_R_z" = -15;
 };
 "@MMK_L_numbersign" = {
 "@MMK_R_seven" = 20;
@@ -58515,7 +58515,7 @@ g = 0;
 "@MMK_R_a" = -10;
 "@MMK_R_ampersand" = -15;
 "@MMK_R_at" = -5;
-"@MMK_R_b" = -10;
+"@MMK_R_b" = -5;
 "@MMK_R_backslash" = -10;
 "@MMK_R_guillemotright" = -10;
 "@MMK_R_o" = -10;
@@ -58940,6 +58940,9 @@ y = {
 };
 z = {
 "@MMK_R_o" = 0;
+};
+a = {
+"@MMK_R_z" = -10;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
