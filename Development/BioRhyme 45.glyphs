@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"nonq.non.bji/quotereversed nu/quotedblleft/quoteright/quotedblleft x/quoteright on\012n:;n.nf\U00A1bn?anuH?uHnuf\U00BFn\012nnq/guilsinglleft vf/guilsinglright W\U00ABnon.as.mw/quotedblbase w.wy:n\012nnf/quotedblleft SF/quoteright 7/quotedblleft C/quoteright o/quotedblleft 2/quoteright \U00F0?3/quoteleft .nr.t/quotedblleft nf/quotedblleft f!nf.e!nr?n\012no.ong{g}gnHO?HN.H\012K:U?UG3.0OJR6\U00BF5\U00BFH.Y.HT:JHk-nz-ne-n-Q-oZ56-JH"
+"nonq.non.bji/quotereversed nu/quotedblleft/quoteright/quotedblleft x/quoteright on\012n:;n.nf\U00A1bn?anuH?uHnuf\U00BFn\012nnq/guilsinglleft vf/guilsinglright W\U00ABnon.as.mw/quotedblbase w.wy:n\012nnf/quotedblleft SF/quoteright 7/quotedblleft C/quoteright o/quotedblleft 2/quoteright \U00F0?3/quoteleft .nr.t/quotedblleft nf/quotedblleft f!nf.e!nr?n\012no.ong{g}gnHO?HN.H\012K:U?UG3.0OJR6\U00BF5\U00BFH.Y.HT:JHk-nz-ne-n-Q-oZ56-JHn_H_Q_O_"
 );
 classes = (
 {
@@ -12337,7 +12337,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-11-24 21:28:45 +0000";
+lastChange = "2015-11-24 21:54:53 +0000";
 layers = (
 {
 anchors = (
@@ -20329,7 +20329,7 @@ rightKerningGroup = f;
 {
 color = 4;
 glyphname = g;
-lastChange = "2015-11-24 19:19:01 +0000";
+lastChange = "2015-11-24 21:54:14 +0000";
 layers = (
 {
 anchors = (
@@ -25698,7 +25698,7 @@ unicode = 00F1;
 {
 color = 4;
 glyphname = o;
-lastChange = "2015-11-24 21:50:32 +0000";
+lastChange = "2015-11-24 21:54:29 +0000";
 layers = (
 {
 anchors = (
@@ -29883,7 +29883,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-24 21:13:46 +0000";
+lastChange = "2015-11-24 21:52:51 +0000";
 layers = (
 {
 anchors = (
@@ -42331,7 +42331,7 @@ unicode = 002F;
 },
 {
 glyphname = underscore;
-lastChange = "2015-11-24 03:17:24 +0000";
+lastChange = "2015-11-24 21:55:21 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -42356,14 +42356,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-35 -67 LINE",
-"-35 -91 LINE",
-"265 -91 LINE",
-"265 -67 LINE"
+"-10 -67 LINE",
+"-10 -91 LINE",
+"290 -91 LINE",
+"290 -67 LINE"
 );
 }
 );
-width = 230;
+width = 280;
 },
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -42372,14 +42372,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-35 -68 LINE",
-"-35 -164 LINE",
-"314 -164 LINE",
-"314 -68 LINE"
+"-10 -68 LINE",
+"-10 -164 LINE",
+"339 -164 LINE",
+"339 -68 LINE"
 );
 }
 );
-width = 279;
+width = 329;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -42388,14 +42388,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-35 -68 LINE",
-"-35 -164 LINE",
-"434 -164 LINE",
-"434 -68 LINE"
+"-10 -68 LINE",
+"-10 -164 LINE",
+"459 -164 LINE",
+"459 -68 LINE"
 );
 }
 );
-width = 399;
+width = 449;
 }
 );
 leftKerningGroup = underscore;
@@ -59346,6 +59346,7 @@ exclamdown = -25;
 "@MMK_R_v" = 0;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = 0;
+"@MMK_R_underscore" = 0;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -20;
@@ -59549,6 +59550,7 @@ exclamdown = 10;
 "@MMK_R_x" = -40;
 "@MMK_R_z" = -40;
 "@MMK_R_guillemetleft" = -30;
+"@MMK_R_underscore" = -80;
 };
 "@MMK_L_X" = {
 "@MMK_R_A" = -30;
@@ -60013,6 +60015,7 @@ u = -15;
 Eth = 0;
 quoteleft = 0;
 "@MMK_R_hyphen" = 15;
+"@MMK_R_underscore" = -40;
 };
 "@MMK_L_one" = {
 "@MMK_R_colon" = -10;
@@ -60475,6 +60478,7 @@ Q = {
 "@MMK_R_parenright" = 0;
 "@MMK_R_period" = 0;
 "@MMK_R_p" = 0;
+"@MMK_R_underscore" = 30;
 };
 R = {
 "@MMK_R_quotedblleft" = -40;
@@ -60520,6 +60524,7 @@ g = {
 "@MMK_R_z" = 0;
 "@MMK_R_x" = -5;
 "@MMK_R_T" = -5;
+"@MMK_R_underscore" = 50;
 };
 period = {
 "@MMK_R_o" = 0;
@@ -60564,6 +60569,12 @@ Eth = 15;
 eth = {
 "@MMK_R_Z" = -5;
 "@MMK_R_T" = -5;
+};
+"@MMK_L_underscore" = {
+"@MMK_R_u" = -60;
+"@MMK_R_o" = -40;
+g = 50;
+"@MMK_R_V" = -80;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
