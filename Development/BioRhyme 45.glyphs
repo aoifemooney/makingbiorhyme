@@ -4,7 +4,7 @@ w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
 "nonq.non.bji/quotereversed nu/quotedblleft/quoteright/quotedblleft x/quoteright on\012n:;n.nf\U00A1bn?anuH?uHnuf\U00BFn\012nnq/guilsinglleft vf/guilsinglright W\U00ABnon.as.mw/quotedblbase w.wy:n\012nnf/quotedblleft SF/quoteright 7/quotedblleft C/quoteright o/quotedblleft 2/quoteright \U00F0?3/quoteleft .nr.t/quotedblleft nf/quotedblleft f!nf.e!nr?n\012no.ong{g}gnHO?HN.H\012K:U?UG3.0OJR6\U00BF5\U00BFH.Y.HT:JHk-nz-ne-n-Q-oZ56-JHn_H_Q_O_n//6///backslash 3//Z/backslash// Z\012nnf/backslash UnnrRZG09u@U\U00AE4UanOva*n/endash nbn*xEYFT\012\012xOFX7\U00B6nJg\012nwCT*w\U00AAn\U00BAw/trademark wn\U00B0nfC/servicemark nswefogG3765&93Sgon&vs",
-"nonainijgnoiou/g.alt bnh\012nonqasnajsnunouin/g.alt noj\U00F0onjoninazanonsuzunsbnsnuxunxbmjnqvnqzizrlnrjnusnqfnqtncuntun\012nontjnontlnobebeunogonagbobaonovowozokghonzezonofr\U00F0onforonaxan\012nonszsnonstnonnksnonnnbnontanontsnonfanonfsnonkzwznonvovxvnzvxxnvnrwneznoznttnn\012nnrfnonN\U00DEDN\U00DER\U00D0RDH\012HSUHUAUHSHRUWUH"
+"nonainijgnoiou/g.alt bnh\012nonqasnajsnunouin/g.alt noj\U00F0onjoninazanonsuzunsbnsnuxunxbmjnqvnqzizrlnrjnusnqfnqtncuntun\012nontjnontlnobebeunogonagbobaonovowozokghonzezonofr\U00F0onforonaxan\012nonszsnonstnonnksnonnnbnontanontsnonfanonfsnonkzwznonvovxvnzvxxnvnrwneznoznttnn\012nnrfnonN\U00DEDN\U00DEG\U00D0RDH\012HSUHUAUHNSHSRUWUHG\U00D0OE\U00D0ODGD"
 );
 classes = (
 {
@@ -2578,7 +2578,7 @@ unicode = 00C7;
 },
 {
 glyphname = D;
-lastChange = "2015-11-24 23:31:33 +0000";
+lastChange = "2015-11-24 23:34:40 +0000";
 layers = (
 {
 anchors = (
@@ -2801,7 +2801,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2015-11-24 23:31:28 +0000";
+lastChange = "2015-11-24 23:34:35 +0000";
 layers = (
 {
 components = (
@@ -10582,7 +10582,7 @@ rightKerningGroup = R.alt;
 {
 color = 4;
 glyphname = S;
-lastChange = "2015-11-24 23:30:44 +0000";
+lastChange = "2015-11-24 23:33:27 +0000";
 layers = (
 {
 anchors = (
@@ -60817,6 +60817,8 @@ g = -55;
 "@MMK_R_v" = -10;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = 0;
+"@MMK_R_H" = 0;
+Eth = 10;
 };
 "@MMK_L_H" = {
 "@MMK_R_A" = 0;
@@ -60923,6 +60925,8 @@ Eth = 10;
 "@MMK_R_z" = 0;
 g = -10;
 j = 10;
+"@MMK_R_H" = 0;
+Eth = 10;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -25;
@@ -62280,6 +62284,7 @@ N = {
 "@MMK_R_v" = -35;
 "@MMK_R_x" = -20;
 "@MMK_R_z" = -10;
+"@MMK_R_S" = -15;
 };
 P = {
 "@MMK_R_period" = -10;
