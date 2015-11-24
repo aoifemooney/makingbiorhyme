@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"ono@QU\U00AEUoH4HO@OHaono"
+"ono@QE\U00AEOoH4HO@OHaono"
 );
 classes = (
 {
@@ -5363,7 +5363,7 @@ unicode = 00CC;
 {
 color = 4;
 glyphname = J;
-lastChange = "2015-11-24 03:01:09 +0000";
+lastChange = "2015-11-24 03:31:15 +0000";
 layers = (
 {
 anchors = (
@@ -51814,7 +51814,7 @@ unicode = 00A9;
 },
 {
 glyphname = registered;
-lastChange = "2015-11-24 03:30:48 +0000";
+lastChange = "2015-11-24 03:31:33 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -57379,7 +57379,7 @@ exclamdown = -10;
 "@MMK_R_paragraph" = -15;
 "@MMK_R_parenright" = -5;
 "@MMK_R_quotedblleft" = -5;
-"@MMK_R_registered" = -5;
+"@MMK_R_registered" = 0;
 "@MMK_R_s" = -5;
 "@MMK_R_t" = 0;
 "@MMK_R_u" = 0;
@@ -57458,6 +57458,7 @@ g = -15;
 "@MMK_R_guillemotleft" = 30;
 "@MMK_R_guillemetright" = 15;
 "@MMK_R_backslash" = 30;
+"@MMK_R_registered" = 10;
 };
 "@MMK_L_H" = {
 "@MMK_R_A" = -20;
@@ -58541,6 +58542,7 @@ y = 0;
 "@MMK_R_z" = -15;
 "@MMK_R_a" = -5;
 "@MMK_R_U" = -10;
+"@MMK_R_J" = 10;
 };
 "@MMK_L_s" = {
 "@MMK_R_A" = -25;
