@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"HOH\U00BFA?\U00BFH"
+"HOK\U00BFR/guilsinglleft H"
 );
 classes = (
 {
@@ -41674,7 +41674,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-11-24 02:33:59 +0000";
+lastChange = "2015-11-24 02:37:35 +0000";
 layers = (
 {
 components = (
@@ -44113,7 +44113,7 @@ unicode = 00BB;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2015-11-24 02:29:57 +0000";
+lastChange = "2015-11-24 02:38:10 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -57294,6 +57294,7 @@ kerning = {
 "@MMK_R_v" = -65;
 "@MMK_R_x" = -35;
 "@MMK_R_z" = -20;
+"@MMK_R_questiondown" = 10;
 };
 "@MMK_L_B" = {
 "@MMK_R_A" = -5;
@@ -57603,7 +57604,7 @@ servicemark = -50;
 "@MMK_R_backslash" = -25;
 "@MMK_R_colon" = 10;
 "@MMK_R_exclam" = 20;
-"@MMK_R_guillemotleft" = 20;
+"@MMK_R_guillemotleft" = 40;
 "@MMK_R_guillemotright" = 20;
 "@MMK_R_hyphen" = 10;
 "@MMK_R_n" = 0;
