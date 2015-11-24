@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 w,
-"\U00E6"
+"\U00E6",
+Z
 );
 classes = (
 {
@@ -14424,7 +14425,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Z;
-lastChange = "2015-11-21 23:56:06 +0000";
+lastChange = "2015-11-24 01:33:51 +0000";
 layers = (
 {
 anchors = (
@@ -14627,11 +14628,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"607 431 LINE",
-"608 425 LINE",
-"560 406 LINE SMOOTH",
-"98 86 LINE",
-"98 0 LINE",
 "799 0 LINE",
 "799 247 LINE",
 "691 247 LINE",
@@ -14646,7 +14642,12 @@ nodes = (
 "95 273 LINE",
 "203 273 LINE",
 "203 424 LINE",
-"554 424 LINE"
+"554 424 LINE",
+"607 431 LINE",
+"608 425 LINE",
+"560 406 LINE SMOOTH",
+"98 86 LINE",
+"98 0 LINE"
 );
 }
 );
