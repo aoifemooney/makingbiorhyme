@@ -2,8 +2,8 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n",
-"anskUKGnu\012H/servicemark H*F2\U00B6buzC*uHf\U00B0|mHuUgsn|RYRVL*EoC\012VgVoXgYnbnnevXnynn/quotedblleft o/quotedblright .?v/quotedblright v*u&n&bD&HXCcsz&n05\U00A374OH2H"
+"ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\U00B0n",
+"anskUKGnu\012H/servicemark H*F2\U00B6buzC*uHf\U00B0|mHuUgsn|RYRVL*EoC\012VgVoXgYnbnnevXnynn/quotedblleft o/quotedblright .?v/quotedblright v*u&n&bD&HXCcsz&n05\U00A374OH\U00F9H"
 );
 classes = (
 {
@@ -23378,7 +23378,7 @@ unicode = 006A;
 {
 color = 4;
 glyphname = jdotless;
-lastChange = "2015-11-24 02:55:25 +0000";
+lastChange = "2015-11-24 04:07:10 +0000";
 layers = (
 {
 anchors = (
@@ -23391,8 +23391,7 @@ name = top;
 position = "{211, 357}";
 }
 );
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-name = "Light Extended";
+background = {
 paths = (
 {
 closed = 1;
@@ -23413,6 +23412,41 @@ nodes = (
 "27 -198 OFFCURVE",
 "73 -210 OFFCURVE",
 "125 -210 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"269 334 LINE",
+"269 357 LINE",
+"62 357 LINE",
+"62 334 LINE"
+);
+}
+);
+};
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"219 -190 OFFCURVE",
+"269 -129 OFFCURVE",
+"269 -32 CURVE SMOOTH",
+"269 344 LINE",
+"244 344 LINE",
+"244 -33 LINE SMOOTH",
+"244 -121 OFFCURVE",
+"202 -167 OFFCURVE",
+"126 -167 CURVE SMOOTH",
+"79 -167 OFFCURVE",
+"34 -156 OFFCURVE",
+"-8 -143 CURVE",
+"-15 -165 LINE",
+"27 -178 OFFCURVE",
+"73 -190 OFFCURVE",
+"125 -190 CURVE SMOOTH"
 );
 },
 {
