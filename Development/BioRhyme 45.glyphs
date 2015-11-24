@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"onon/quotedblleft a/quotedblright g:n/quoteright \012nn.o.g.o"
+"HOHU/quotedblleft H/quotedblleft OH"
 );
 classes = (
 {
@@ -11468,7 +11468,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2015-11-21 23:42:21 +0000";
+lastChange = "2015-11-24 02:31:14 +0000";
 layers = (
 {
 anchors = (
@@ -25613,7 +25613,7 @@ unicode = 00F1;
 {
 color = 4;
 glyphname = o;
-lastChange = "2015-11-21 23:23:20 +0000";
+lastChange = "2015-11-24 02:29:52 +0000";
 layers = (
 {
 anchors = (
@@ -41303,7 +41303,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2015-11-24 02:15:14 +0000";
+lastChange = "2015-11-24 02:31:09 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -44113,7 +44113,7 @@ unicode = 00BB;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2015-11-24 02:26:26 +0000";
+lastChange = "2015-11-24 02:29:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -44600,7 +44600,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-11-24 02:16:08 +0000";
+lastChange = "2015-11-24 02:32:06 +0000";
 layers = (
 {
 background = {
@@ -58107,7 +58107,7 @@ servicemark = 30;
 "@MMK_R_X" = -10;
 "@MMK_R_b" = -15;
 "@MMK_R_four" = 30;
-"@MMK_R_o" = 10;
+"@MMK_R_o" = 20;
 "@MMK_R_seven" = -15;
 "@MMK_R_v" = -10;
 "@MMK_R_x" = 20;
@@ -58266,7 +58266,7 @@ y = -5;
 "@MMK_R_backslash" = -30;
 "@MMK_R_braceleft" = 0;
 "@MMK_R_colon" = -10;
-"@MMK_R_guillemotleft" = 10;
+"@MMK_R_guillemotleft" = 20;
 "@MMK_R_guillemotright" = 15;
 "@MMK_R_hyphen" = 10;
 "@MMK_R_parenright" = -10;
@@ -58359,6 +58359,7 @@ b = -20;
 g = 25;
 v = -40;
 y = 20;
+"@MMK_R_U" = -30;
 };
 "@MMK_L_q" = {
 "@MMK_R_A" = -45;
@@ -58809,6 +58810,8 @@ N = {
 "@MMK_R_s" = -10;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -25;
+"@MMK_R_period" = -20;
+"@MMK_R_quotedblleft" = 35;
 };
 Q = {
 "@MMK_R_A" = 0;
@@ -58825,7 +58828,8 @@ R = {
 "@MMK_R_quotedblleft" = -40;
 };
 U = {
-"@MMK_R_period" = 20;
+"@MMK_R_period" = -30;
+"@MMK_R_quotedblleft" = 35;
 };
 W = {
 "@MMK_R_p" = -45;
