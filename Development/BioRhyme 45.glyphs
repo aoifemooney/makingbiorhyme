@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-nonq_non
+non_uon
 );
 classes = (
 {
@@ -29798,7 +29798,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-24 02:55:07 +0000";
+lastChange = "2015-11-24 03:07:56 +0000";
 layers = (
 {
 anchors = (
@@ -58900,6 +58900,9 @@ z = {
 "@MMK_R_A" = -20;
 "@MMK_R_X" = -10;
 "@MMK_R_O" = 10;
+};
+"@MMK_L_underscore" = {
+"@MMK_R_u" = -20;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
