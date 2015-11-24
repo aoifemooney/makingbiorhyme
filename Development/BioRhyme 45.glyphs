@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"HOHG\U00D0HC\U00D0UH"
+"HOHG\U00D0GHC\U00D0UH"
 );
 classes = (
 {
@@ -2800,7 +2800,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2015-11-21 23:39:32 +0000";
+lastChange = "2015-11-24 16:27:27 +0000";
 layers = (
 {
 components = (
@@ -4105,7 +4105,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2015-11-24 16:24:56 +0000";
+lastChange = "2015-11-24 16:27:23 +0000";
 layers = (
 {
 anchors = (
@@ -57491,6 +57491,8 @@ kerning = {
 "@MMK_R_v" = 40;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
+"@MMK_R_H" = 0;
+Eth = 10;
 };
 "@MMK_L_H" = {
 "@MMK_R_A" = -20;
