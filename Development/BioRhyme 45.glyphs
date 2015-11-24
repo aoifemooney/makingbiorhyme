@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"onon.x.n/quotedblleft v/quoteright v:vono"
+"onon/quotedblleft x/quoteright/quotedblleft n/quoteright v/quoteright v:vono"
 );
 classes = (
 {
@@ -32060,7 +32060,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2015-11-21 23:28:26 +0000";
+lastChange = "2015-11-24 02:17:30 +0000";
 layers = (
 {
 anchors = (
@@ -44600,7 +44600,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-11-20 23:16:34 +0000";
+lastChange = "2015-11-24 02:16:08 +0000";
 layers = (
 {
 background = {
@@ -45422,7 +45422,7 @@ unicode = 201B;
 },
 {
 glyphname = quoteright;
-lastChange = "2015-11-20 23:14:55 +0000";
+lastChange = "2015-11-24 02:17:26 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -58198,7 +58198,7 @@ y = -10;
 "@MMK_R_p" = -5;
 "@MMK_R_paragraph" = -40;
 "@MMK_R_question" = -10;
-"@MMK_R_quotedblleft" = -40;
+"@MMK_R_quotedblleft" = -20;
 "@MMK_R_s" = -5;
 "@MMK_R_section" = -10;
 "@MMK_R_servicemark" = -30;
@@ -58441,7 +58441,7 @@ g = 0;
 "@MMK_R_s" = -20;
 "@MMK_R_three" = -10;
 "@MMK_R_v" = 50;
-"@MMK_R_x" = -15;
+"@MMK_R_x" = 10;
 "@MMK_R_z" = -5;
 "@MMK_R_zero" = -30;
 g = -50;
@@ -58749,6 +58749,7 @@ servicemark = 80;
 "@MMK_R_v" = -20;
 "@MMK_R_z" = -5;
 servicemark = 50;
+"@MMK_R_quotedblleft" = 30;
 };
 "@MMK_L_yen" = {
 "@MMK_R_seven" = 20;
