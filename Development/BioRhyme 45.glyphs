@@ -2,7 +2,7 @@
 DisplayStrings = (
 w,
 "\U00E6",
-"HOHU/quotedblleft H/quotedblleft OH"
+HOH.W.A.H
 );
 classes = (
 {
@@ -349,7 +349,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-21 23:56:47 +0000";
+lastChange = "2015-11-24 02:34:42 +0000";
 layers = (
 {
 anchors = (
@@ -11468,7 +11468,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2015-11-24 02:31:14 +0000";
+lastChange = "2015-11-24 02:33:13 +0000";
 layers = (
 {
 anchors = (
@@ -12336,7 +12336,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-11-21 23:55:47 +0000";
+lastChange = "2015-11-24 02:34:17 +0000";
 layers = (
 {
 anchors = (
@@ -41303,7 +41303,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2015-11-24 02:31:09 +0000";
+lastChange = "2015-11-24 02:34:46 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41408,7 +41408,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2015-11-24 02:02:45 +0000";
+lastChange = "2015-11-24 02:33:50 +0000";
 layers = (
 {
 background = {
@@ -41674,7 +41674,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-11-24 02:24:54 +0000";
+lastChange = "2015-11-24 02:33:59 +0000";
 layers = (
 {
 components = (
@@ -43289,7 +43289,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2015-11-20 23:34:33 +0000";
+lastChange = "2015-11-24 02:33:16 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -57282,7 +57282,7 @@ kerning = {
 "@MMK_R_p" = -15;
 "@MMK_R_paragraph" = -50;
 "@MMK_R_parenright" = 0;
-"@MMK_R_period" = 0;
+"@MMK_R_period" = 40;
 "@MMK_R_question" = -20;
 "@MMK_R_quotedblleft" = -80;
 "@MMK_R_registered" = -20;
@@ -57483,6 +57483,7 @@ g = -15;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = -15;
 servicemark = 30;
+"@MMK_R_parenright" = 20;
 };
 "@MMK_L_L" = {
 "@MMK_R_J" = -5;
@@ -57610,9 +57611,9 @@ servicemark = -50;
 "@MMK_R_p" = -5;
 "@MMK_R_paragraph" = -20;
 "@MMK_R_parenright" = 0;
-"@MMK_R_period" = -10;
-"@MMK_R_question" = -10;
-"@MMK_R_questiondown" = 15;
+"@MMK_R_period" = 10;
+"@MMK_R_question" = 0;
+"@MMK_R_questiondown" = 25;
 "@MMK_R_quotedblleft" = -30;
 "@MMK_R_registered" = 10;
 "@MMK_R_s" = 0;
@@ -57725,6 +57726,7 @@ Y = -30;
 "@MMK_R_x" = -25;
 "@MMK_R_z" = -30;
 servicemark = 30;
+"@MMK_R_parenright" = 20;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -70;
@@ -57755,7 +57757,7 @@ servicemark = 30;
 "@MMK_R_p" = -10;
 "@MMK_R_paragraph" = 0;
 "@MMK_R_parenright" = -10;
-"@MMK_R_period" = -55;
+"@MMK_R_period" = -75;
 "@MMK_R_question" = 30;
 "@MMK_R_questiondown" = -30;
 "@MMK_R_quotedblleft" = 20;
@@ -58328,17 +58330,18 @@ quoteright = 0;
 g = 20;
 y = 20;
 "@MMK_R_b" = 30;
+"@MMK_R_U" = 20;
 };
 "@MMK_L_percent" = {
 "@MMK_R_seven" = -10;
 };
 "@MMK_L_period" = {
-"@MMK_R_A" = 0;
+"@MMK_R_A" = 40;
 "@MMK_R_J" = 20;
 "@MMK_R_O" = -35;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -65;
-"@MMK_R_V" = -55;
+"@MMK_R_V" = -75;
 "@MMK_R_X" = 10;
 "@MMK_R_Z" = -10;
 "@MMK_R_a" = -35;
@@ -58448,6 +58451,7 @@ g = 0;
 "@MMK_R_zero" = -30;
 g = -50;
 "@MMK_R_u" = 40;
+"@MMK_R_U" = 35;
 };
 "@MMK_L_r" = {
 "@MMK_R_A" = -45;
