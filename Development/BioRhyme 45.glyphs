@@ -3,7 +3,7 @@ DisplayStrings = (
 w,
 "\U00E6",
 "ono@QE\U00AEOoH4HO@OHaon\012G*O*unon5*bf*ng*n\"2n",
-"HHLTHTTHBTHOHCZHZHJHCJKOHPOAOVH\012HEHOHFH"
+"HHLTHTTHBTHOHCAOHZHJHCJKOHPOAOVH\012HEHOHFH"
 );
 classes = (
 {
@@ -350,7 +350,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-24 16:49:40 +0000";
+lastChange = "2015-11-24 16:54:22 +0000";
 layers = (
 {
 anchors = (
@@ -13437,7 +13437,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-24 16:33:11 +0000";
+lastChange = "2015-11-24 16:54:10 +0000";
 layers = (
 {
 anchors = (
@@ -14426,7 +14426,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Z;
-lastChange = "2015-11-24 16:53:08 +0000";
+lastChange = "2015-11-24 16:54:01 +0000";
 layers = (
 {
 anchors = (
@@ -57359,14 +57359,14 @@ kerning = {
 "@MMK_R_z" = -10;
 };
 "@MMK_L_C" = {
-"@MMK_R_A" = -20;
+"@MMK_R_A" = -25;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = 0;
 "@MMK_R_S" = -5;
 "@MMK_R_T" = -15;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -20;
-"@MMK_R_Z" = -10;
+"@MMK_R_Z" = -15;
 "@MMK_R_a" = -15;
 "@MMK_R_ampersand" = -5;
 "@MMK_R_b" = -5;
@@ -57389,6 +57389,7 @@ kerning = {
 "@MMK_R_v" = -5;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -25;
+"@MMK_R_X" = -5;
 };
 "@MMK_L_E" = {
 "@MMK_R_A" = -15;
