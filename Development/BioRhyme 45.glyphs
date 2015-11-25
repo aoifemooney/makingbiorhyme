@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 w,
-"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft nf!n\012nopenr\U00BFe\U00BFsanng/quoteleft non",
+"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft nf!n\012nopenr\U00BFe\U00BFsanng:non/quoteright \U00F0/quoteright o:n",
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright"
 );
 classes = (
@@ -18787,7 +18787,7 @@ rightMetricsKey = a.alt;
 },
 {
 glyphname = eth;
-lastChange = "2015-11-24 23:17:45 +0000";
+lastChange = "2015-11-25 15:46:31 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -40454,7 +40454,7 @@ unicode = 2022;
 },
 {
 glyphname = colon;
-lastChange = "2015-11-25 15:39:05 +0000";
+lastChange = "2015-11-25 15:47:00 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -63703,7 +63703,7 @@ g = 0;
 "@MMK_R_eight" = -15;
 "@MMK_R_four" = -25;
 "@MMK_R_nine" = -15;
-"@MMK_R_o" = -15;
+"@MMK_R_o" = -35;
 "@MMK_R_s" = -20;
 "@MMK_R_three" = -10;
 "@MMK_R_v" = 30;
@@ -64098,6 +64098,7 @@ g = {
 "@MMK_R_period" = 0;
 "@MMK_R_v" = -10;
 "@MMK_R_x" = 0;
+"@MMK_R_colon" = 0;
 };
 j = {
 "@MMK_R_V" = -20;
