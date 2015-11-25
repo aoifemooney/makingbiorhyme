@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-w,
+nHOo,
 "nontUnon\012nonsAonon\012nonpVonon\012noncSnon\012nonfSnon\012nonzVnon\012nonkZnon\012nonkJnon\012nonkSnon\012nonxSnon\012nontVnon\012noncZnon\012nonrZnon\012nonfAnon\012nonrAnon\012nonrTnon\012nonfJnon\01200106090560\012004007900\012002902800\0120082007400\0120024007200\0120079002200",
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright",
 "@\U00A9LKqRO\U00AEOT@U@zbn4H",
@@ -4133,7 +4133,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2015-11-25 20:18:58 +0000";
+lastChange = "2015-11-25 21:19:12 +0000";
 layers = (
 {
 anchors = (
@@ -4307,10 +4307,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"558 252 LINE",
-"558 275 LINE",
-"162 275 LINE",
-"162 252 LINE"
+"557 252 LINE",
+"557 275 LINE",
+"163 275 LINE",
+"163 252 LINE"
 );
 },
 {
@@ -4325,8 +4325,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"167 13 LINE",
-"167 509 LINE",
+"168 13 LINE",
+"168 509 LINE",
 "143 509 LINE",
 "143 13 LINE"
 );
@@ -4354,8 +4354,8 @@ closed = 1;
 nodes = (
 "577 13 LINE",
 "577 509 LINE",
-"552 509 LINE",
-"552 13 LINE"
+"551 509 LINE",
+"551 13 LINE"
 );
 },
 {
@@ -7150,7 +7150,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-11-25 20:56:11 +0000";
+lastChange = "2015-11-25 21:20:03 +0000";
 layers = (
 {
 anchors = (
@@ -7299,18 +7299,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"174 14 OFFCURVE",
-"74 107 OFFCURVE",
-"74 260 CURVE",
-"74 413 OFFCURVE",
-"174 506 OFFCURVE",
-"303 506 CURVE",
-"431 506 OFFCURVE",
-"532 413 OFFCURVE",
-"532 260 CURVE",
-"532 107 OFFCURVE",
-"431 14 OFFCURVE",
-"303 14 CURVE"
+"175 13 OFFCURVE",
+"75 106 OFFCURVE",
+"75 260 CURVE",
+"75 414 OFFCURVE",
+"175 507 OFFCURVE",
+"303 507 CURVE",
+"430 507 OFFCURVE",
+"531 414 OFFCURVE",
+"531 260 CURVE",
+"531 106 OFFCURVE",
+"430 13 OFFCURVE",
+"303 13 CURVE"
 );
 }
 );
@@ -64223,7 +64223,15 @@ unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
-HV = " ";
+HH = 23;
+HV = "25 ";
+OH = 23;
+OV = 25;
+nV = 25;
+nd = 23;
+oH = 23;
+oV = 25;
+tH = 23;
 };
 "B29C398E-974A-40D0-A0A0-00935056D4B4" = {
 HH = 23;
@@ -64235,6 +64243,27 @@ nd = 23;
 oH = 23;
 oV = 25;
 tH = 23;
+};
+"C70E3B11-AF58-44B6-92D7-58C9185F522D" = {
+HH = 96;
+HV = 123;
+OH = 98;
+OV = 134;
+nV = 115;
+nd = 103;
+oH = 90;
+oV = 121;
+};
+"EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
+HH = 90;
+HV = 123;
+OH = 99;
+OV = 129;
+nV = 115;
+nd = 108;
+oH = 90;
+oV = 121;
+tH = 90;
 };
 "FA480B27-EBBD-4830-9868-98507D39050C" = {
 nV = 99;
