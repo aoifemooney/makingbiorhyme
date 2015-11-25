@@ -20,7 +20,7 @@ X,
 "\U00DE-HP-H",
 "|\U00F0|o|/schwa |e|",
 o,
-"|v\U00F0vov|e|o|/schwa |"
+"|v\U00F0tuvotuv|e|o|/schwa |"
 );
 classes = (
 {
@@ -37054,7 +37054,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2015-11-25 21:34:41 +0000";
+lastChange = "2015-11-25 22:15:14 +0000";
 layers = (
 {
 anchors = (
@@ -37992,7 +37992,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-25 21:34:41 +0000";
+lastChange = "2015-11-25 22:14:52 +0000";
 layers = (
 {
 anchors = (
@@ -70753,6 +70753,7 @@ u = -15;
 "@MMK_R_z" = -5;
 Eth = 0;
 quoteleft = 0;
+"@MMK_R_u" = 0;
 };
 "@MMK_L_one" = {
 "@MMK_R_colon" = -10;
@@ -71279,6 +71280,8 @@ eth = {
 "@MMK_R_T" = -5;
 "@MMK_R_Z" = -5;
 "@MMK_R_v" = 5;
+"@MMK_R_u" = 5;
+"@MMK_R_t" = 0;
 };
 f = {
 "@MMK_R_quotedblleft" = 80;
@@ -73089,6 +73092,7 @@ eth = {
 "@MMK_R_T" = -20;
 "@MMK_R_V" = -40;
 "@MMK_R_v" = -5;
+"@MMK_R_u" = 5;
 };
 exclamdown = {
 "@MMK_R_T" = -15;
@@ -74804,6 +74808,7 @@ eth = {
 "@MMK_R_V" = -30;
 Eth = 20;
 "@MMK_R_v" = 5;
+"@MMK_R_u" = 5;
 };
 g = {
 "@MMK_R_V" = 0;
