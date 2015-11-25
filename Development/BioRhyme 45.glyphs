@@ -9,7 +9,7 @@ w,
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright",
 "HW4\U00A7WSxHSH",
 "Hg\U00B6gHH",
-"|*|/trademark |\U00B0|/servicemark |",
+"g*g/trademark g\U00B0g/servicemark g\012o*o/trademark o\U00B0o/servicemark o",
 "@\U00A9\U00AE"
 );
 classes = (
@@ -51551,7 +51551,7 @@ unicode = 00B6;
 },
 {
 glyphname = copyright;
-lastChange = "2015-11-19 21:34:15 +0000";
+lastChange = "2015-11-25 03:11:38 +0000";
 layers = (
 {
 background = {
@@ -51950,8 +51950,8 @@ nodes = (
 width = 954;
 }
 );
-leftKerningGroup = registered;
-rightKerningGroup = registered;
+leftKerningGroup = at;
+rightKerningGroup = at;
 unicode = 00A9;
 },
 {
@@ -52802,7 +52802,7 @@ unicode = 00A7;
 },
 {
 glyphname = trademark;
-lastChange = "2015-11-25 03:10:26 +0000";
+lastChange = "2015-11-25 03:12:32 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -62364,7 +62364,7 @@ exclamdown = {
 "@MMK_R_T" = -15;
 };
 g = {
-"@MMK_R_asterisk" = 25;
+"@MMK_R_asterisk" = 30;
 "@MMK_R_backslash" = 0;
 "@MMK_R_hyphen" = 0;
 "@MMK_R_paragraph" = 20;
