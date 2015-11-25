@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 w,
-"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn.v.vn.znk.n.",
+"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v?vn.z\012nk.nnk:nn",
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright"
 );
 classes = (
@@ -23686,7 +23686,7 @@ unicode = 0237;
 {
 color = 4;
 glyphname = k;
-lastChange = "2015-11-24 23:22:51 +0000";
+lastChange = "2015-11-25 15:39:30 +0000";
 layers = (
 {
 anchors = (
@@ -31017,7 +31017,7 @@ unicode = 00F9;
 },
 {
 glyphname = v;
-lastChange = "2015-11-25 02:52:05 +0000";
+lastChange = "2015-11-25 15:39:50 +0000";
 layers = (
 {
 anchors = (
@@ -40454,7 +40454,7 @@ unicode = 2022;
 },
 {
 glyphname = colon;
-lastChange = "2015-11-25 15:25:35 +0000";
+lastChange = "2015-11-25 15:39:05 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -45573,7 +45573,7 @@ unicode = 201B;
 },
 {
 glyphname = quoteright;
-lastChange = "2015-11-25 02:42:50 +0000";
+lastChange = "2015-11-25 15:38:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -60086,6 +60086,7 @@ Eth = 0;
 "@MMK_R_v" = -25;
 "@MMK_R_x" = -20;
 u = -15;
+"@MMK_R_h" = -15;
 };
 "@MMK_L_numbersign" = {
 "@MMK_R_seven" = 20;
@@ -63441,7 +63442,7 @@ quotedblleft = -20;
 "@MMK_R_b" = 0;
 "@MMK_R_backslash" = -40;
 "@MMK_R_braceleft" = -10;
-"@MMK_R_colon" = -20;
+"@MMK_R_colon" = 0;
 "@MMK_R_f" = 0;
 "@MMK_R_guillemotleft" = -5;
 "@MMK_R_guillemotright" = -10;
@@ -63497,6 +63498,7 @@ y = -5;
 b = -5;
 servicemark = -15;
 u = -30;
+"@MMK_R_h" = -15;
 };
 "@MMK_L_numbersign" = {
 "@MMK_R_seven" = 20;
@@ -63662,7 +63664,7 @@ y = 0;
 "@MMK_R_seven" = 20;
 "@MMK_R_three" = 10;
 "@MMK_R_u" = 30;
-"@MMK_R_v" = 20;
+"@MMK_R_v" = 30;
 };
 "@MMK_L_questiondown" = {
 "@MMK_R_A" = 20;
@@ -63701,7 +63703,7 @@ g = 0;
 "@MMK_R_o" = -15;
 "@MMK_R_s" = -20;
 "@MMK_R_three" = -10;
-"@MMK_R_v" = 50;
+"@MMK_R_v" = 30;
 "@MMK_R_x" = -15;
 "@MMK_R_z" = -5;
 "@MMK_R_zero" = -30;
@@ -63960,7 +63962,7 @@ servicemark = -30;
 "@MMK_R_parenright" = -10;
 "@MMK_R_period" = -55;
 "@MMK_R_questiondown" = -10;
-"@MMK_R_quotedblleft" = 50;
+"@MMK_R_quotedblleft" = 30;
 "@MMK_R_s" = -15;
 "@MMK_R_section" = -5;
 "@MMK_R_t" = -5;
