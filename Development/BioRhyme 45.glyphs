@@ -21,7 +21,7 @@ X,
 "|\U00F0|o|/schwa |e|",
 o,
 "|v\U00F0tuvotuv|e|o|/schwa |",
-"x\U00F0xexox/schwa"
+"nonopx\U00F0popxox/schwa"
 );
 classes = (
 {
@@ -33637,7 +33637,7 @@ unicode = 0153;
 {
 color = 4;
 glyphname = p;
-lastChange = "2015-11-25 21:34:40 +0000";
+lastChange = "2015-11-25 22:21:58 +0000";
 layers = (
 {
 anchors = (
@@ -69147,6 +69147,7 @@ y = -10;
 "@MMK_R_v" = -5;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -15;
+"@MMK_R_p" = -10;
 };
 "@MMK_L_one" = {
 "@MMK_R_colon" = -10;
@@ -69741,6 +69742,7 @@ eth = {
 "@MMK_R_v" = 15;
 "@MMK_R_t" = 15;
 "@MMK_R_x" = 0;
+"@MMK_R_p" = 5;
 };
 g = {
 "@MMK_R_asterisk" = 20;
@@ -70757,6 +70759,7 @@ u = -15;
 Eth = 0;
 quoteleft = 0;
 "@MMK_R_u" = 0;
+"@MMK_R_p" = -10;
 };
 "@MMK_L_one" = {
 "@MMK_R_colon" = -10;
@@ -71286,6 +71289,7 @@ eth = {
 "@MMK_R_u" = 5;
 "@MMK_R_t" = 0;
 "@MMK_R_x" = 0;
+"@MMK_R_p" = 5;
 };
 f = {
 "@MMK_R_quotedblleft" = 80;
@@ -72460,6 +72464,7 @@ Eth = -5;
 Y = -70;
 parenleft = 15;
 servicemark = 0;
+"@MMK_R_p" = -10;
 };
 "@MMK_L_one" = {
 "@MMK_R_asterisk" = -20;
@@ -73098,6 +73103,7 @@ eth = {
 "@MMK_R_v" = -5;
 "@MMK_R_u" = 5;
 "@MMK_R_x" = 0;
+"@MMK_R_p" = 0;
 };
 exclamdown = {
 "@MMK_R_T" = -15;
@@ -74815,6 +74821,7 @@ Eth = 20;
 "@MMK_R_v" = 5;
 "@MMK_R_u" = 5;
 "@MMK_R_x" = 0;
+"@MMK_R_p" = 0;
 };
 g = {
 "@MMK_R_V" = 0;
