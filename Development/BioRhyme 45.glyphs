@@ -18,7 +18,7 @@ ndlhHOo,
 X,
 "\U00C6",
 "\U00DE-HP-H",
-"|\U00F0|o|/schwa |"
+"|\U00F0|o|/schwa |e|"
 );
 classes = (
 {
@@ -21065,7 +21065,7 @@ unicode = 00F0;
 {
 color = 4;
 glyphname = e;
-lastChange = "2015-11-25 21:34:41 +0000";
+lastChange = "2015-11-25 21:59:32 +0000";
 layers = (
 {
 anchors = (
@@ -21190,7 +21190,7 @@ nodes = (
 );
 }
 );
-width = 761;
+width = 756;
 },
 {
 anchors = (
@@ -36967,7 +36967,7 @@ unicode = 00DF;
 },
 {
 glyphname = schwa;
-lastChange = "2015-11-25 21:34:41 +0000";
+lastChange = "2015-11-25 21:59:32 +0000";
 layers = (
 {
 background = {
@@ -36981,12 +36981,12 @@ transform = "{-1, 0, 0, -1, 761, 357}";
 components = (
 {
 name = e;
-transform = "{-1, 0, 0, -1, 761, 357}";
+transform = "{-1, 0, 0, -1, 756, 357}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 761;
+width = 756;
 },
 {
 background = {
@@ -67857,8 +67857,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67870,8 +67873,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67883,8 +67889,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67897,8 +67906,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67911,8 +67923,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67925,8 +67940,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67941,8 +67959,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67958,8 +67979,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67974,8 +67998,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
@@ -67991,8 +68018,11 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    hbar,
-    w
+    v,
+    eth,
+    v,
+    o,
+    v
 );
 }
 );
