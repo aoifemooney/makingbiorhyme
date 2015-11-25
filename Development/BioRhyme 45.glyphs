@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 w,
-"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft nf!n\012nopenr\U00BFe\U00BFsanng:non/quoteright \U00F0?o:n\012nn{n}n\012HHN!H.\012HU\U00BFUH?HR.H\012HP.HP?H\U00BFS\U00BFH\012H.W.H.A.HW?\012HZ?HR\U00BFHS\012G!HC!HL\U00BFJH/quotedblleft A?",
+"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft nf!n\012nopenr\U00BFe\U00BFsanng:non/quoteright \U00F0?o:n\012nn{n}n\012HHN!H.\012HU\U00BFUH?HR.H\012HP.HP?H\U00BFS\U00BFH\012H.W.H.A.HW?\012HZ?HR\U00BFHS\012G!HC!HL\U00BFJH/quotedblleft A?\012nn2\U00BF7?!nn",
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright"
 );
 classes = (
@@ -36823,7 +36823,7 @@ unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2015-11-25 03:18:04 +0000";
+lastChange = "2015-11-25 15:56:31 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -37463,7 +37463,7 @@ unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2015-11-25 03:17:37 +0000";
+lastChange = "2015-11-25 15:56:14 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41029,7 +41029,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2015-11-25 15:44:08 +0000";
+lastChange = "2015-11-25 15:56:03 +0000";
 layers = (
 {
 guideLines = (
@@ -41454,7 +41454,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2015-11-25 15:51:49 +0000";
+lastChange = "2015-11-25 15:55:38 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -41825,7 +41825,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-11-25 15:54:46 +0000";
+lastChange = "2015-11-25 15:56:41 +0000";
 layers = (
 {
 components = (
@@ -63268,6 +63268,7 @@ y = 0;
 "@MMK_R_two" = 20;
 "@MMK_R_u" = 25;
 "@MMK_R_v" = 0;
+"@MMK_R_four" = 20;
 };
 "@MMK_L_f" = {
 "@MMK_R_A" = -30;
@@ -63668,7 +63669,7 @@ y = 0;
 "@MMK_R_n" = 0;
 "@MMK_R_o" = -10;
 "@MMK_R_s" = -15;
-"@MMK_R_seven" = 20;
+"@MMK_R_seven" = 30;
 "@MMK_R_three" = 10;
 "@MMK_R_u" = 30;
 "@MMK_R_v" = 30;
@@ -63691,6 +63692,7 @@ y = 0;
 "@MMK_R_z" = -15;
 g = 0;
 "@MMK_R_Z" = -10;
+"@MMK_R_four" = 20;
 };
 "@MMK_L_quotedbl" = {
 "@MMK_R_four" = -40;
@@ -63815,7 +63817,7 @@ g = -15;
 "@MMK_R_colon" = -15;
 "@MMK_R_dollar" = -20;
 "@MMK_R_eight" = -20;
-"@MMK_R_exclam" = 0;
+"@MMK_R_exclam" = 20;
 "@MMK_R_four" = -40;
 "@MMK_R_guillemotleft" = -10;
 "@MMK_R_hyphen" = -15;
@@ -63823,7 +63825,7 @@ g = -15;
 "@MMK_R_o" = -20;
 "@MMK_R_one" = -10;
 "@MMK_R_parenright" = -15;
-"@MMK_R_period" = -75;
+"@MMK_R_period" = -55;
 "@MMK_R_questiondown" = -30;
 "@MMK_R_quotedblleft" = 40;
 "@MMK_R_registered" = -15;
@@ -63920,6 +63922,7 @@ y = -10;
 "@MMK_R_two" = -15;
 "@MMK_R_zero" = -10;
 quoteleft = -20;
+"@MMK_R_questiondown" = 30;
 };
 "@MMK_L_u" = {
 "@MMK_R_A" = -20;
