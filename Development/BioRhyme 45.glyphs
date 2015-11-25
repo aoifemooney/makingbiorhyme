@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 w,
-"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft \012nopentr/quotedblleft/quotedblright n/quotedblleft/quoteright",
+"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft nf!n\012nopenr\U00BFe?ann",
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright"
 );
 classes = (
@@ -41029,7 +41029,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2015-11-25 15:26:02 +0000";
+lastChange = "2015-11-25 15:44:08 +0000";
 layers = (
 {
 guideLines = (
@@ -41825,7 +41825,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-11-25 15:40:48 +0000";
+lastChange = "2015-11-25 15:44:58 +0000";
 layers = (
 {
 components = (
@@ -44751,7 +44751,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-11-25 15:43:33 +0000";
+lastChange = "2015-11-25 15:43:52 +0000";
 layers = (
 {
 background = {
@@ -63281,7 +63281,7 @@ y = 0;
 "@MMK_R_b" = 10;
 "@MMK_R_backslash" = 50;
 "@MMK_R_braceleft" = 30;
-"@MMK_R_exclam" = 0;
+"@MMK_R_exclam" = 30;
 "@MMK_R_guillemotleft" = -10;
 "@MMK_R_h" = 10;
 "@MMK_R_hyphen" = -10;
@@ -63734,8 +63734,8 @@ g = -50;
 "@MMK_R_p" = -15;
 "@MMK_R_parenright" = -20;
 "@MMK_R_period" = -35;
-"@MMK_R_questiondown" = -5;
-"@MMK_R_quotedblleft" = -20;
+"@MMK_R_questiondown" = -15;
+"@MMK_R_quotedblleft" = -10;
 "@MMK_R_s" = -45;
 "@MMK_R_section" = -5;
 "@MMK_R_t" = -5;
@@ -63886,6 +63886,7 @@ exclam = 0;
 "@MMK_R_x" = -15;
 "@MMK_R_z" = -5;
 y = -10;
+"@MMK_R_questiondown" = 20;
 };
 "@MMK_L_three.numr" = {
 "@MMK_R_fraction" = 0;
