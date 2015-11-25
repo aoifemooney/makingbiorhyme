@@ -5,7 +5,7 @@ w,
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright",
 "@\U00A9LKqRO\U00AEOT@U@zbn4H",
 "|\U00AA|\U00BA|*|/trademark |\U00B0|/servicemark |\012ng*nf*n*o*\012HN*H*U*\012P*H",
-"HSH\U00A7HSH"
+"HSHnzf\012nng\U00A7nunsaHSH"
 );
 classes = (
 {
@@ -14689,7 +14689,7 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-11-25 16:09:55 +0000";
+lastChange = "2015-11-25 16:30:40 +0000";
 layers = (
 {
 anchors = (
@@ -28502,7 +28502,7 @@ unicode = 0072;
 {
 color = 4;
 glyphname = s;
-lastChange = "2015-11-25 16:09:32 +0000";
+lastChange = "2015-11-25 16:30:49 +0000";
 layers = (
 {
 anchors = (
@@ -29910,7 +29910,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = u;
-lastChange = "2015-11-25 16:09:00 +0000";
+lastChange = "2015-11-25 16:31:10 +0000";
 layers = (
 {
 anchors = (
@@ -52411,7 +52411,7 @@ unicode = 00AE;
 },
 {
 glyphname = section;
-lastChange = "2015-11-25 16:30:25 +0000";
+lastChange = "2015-11-25 16:31:39 +0000";
 layers = (
 {
 background = {
@@ -63830,11 +63830,12 @@ g = -15;
 "@MMK_R_T" = -30;
 "@MMK_R_U" = -30;
 "@MMK_R_V" = -40;
-"@MMK_R_a" = -10;
+"@MMK_R_a" = -20;
 "@MMK_R_nine" = -5;
-"@MMK_R_s" = -10;
+"@MMK_R_s" = -15;
 "@MMK_R_v" = -15;
 "@MMK_R_z" = -10;
+"@MMK_R_u" = -5;
 };
 "@MMK_L_seven" = {
 "@MMK_R_ampersand" = -30;
@@ -63986,7 +63987,7 @@ quoteleft = -20;
 "@MMK_R_quotedblleft" = -40;
 "@MMK_R_registered" = -10;
 "@MMK_R_s" = -10;
-"@MMK_R_section" = -10;
+"@MMK_R_section" = -5;
 "@MMK_R_t" = -10;
 "@MMK_R_v" = -10;
 "@MMK_R_x" = -20;
@@ -64081,6 +64082,7 @@ servicemark = 50;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
 Eth = 10;
+"@MMK_R_section" = -5;
 };
 "@MMK_L_zero" = {
 "@MMK_R_eight" = -15;
