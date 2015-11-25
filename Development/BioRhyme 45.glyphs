@@ -12,7 +12,9 @@ ndlhHOo,
 "\U00DA\U00DB\U00DC\U00D9/Wacute/circumflexcomb/Wcircumflex/Wdieresis/Wgrave \U00DD/Ycircumflex",
 /circumflexcomb/caroncomb,
 "bd/d.alt f/f.alt h/hbar i/idotless j/jdotless k/k.alt lmnp\U00FEqrt/t.alt u/u.alt vwx/x.alt y/z.alt EFHO",
-"\U00F0"
+"\U00F0",
+"\U00DF",
+"]"
 );
 classes = (
 {
@@ -53748,7 +53750,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2015-11-17 14:48:38 +0000";
+lastChange = "2015-11-25 21:49:35 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -53825,28 +53827,28 @@ paths = (
 {
 closed = 1;
 nodes = (
+"195 -131 LINE",
 "195 649 LINE",
 "91 649 LINE",
-"91 -131 LINE",
-"195 -131 LINE"
+"91 -131 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
+"163 -131 LINE",
 "163 -35 LINE",
 "9 -35 LINE",
-"9 -131 LINE",
-"163 -131 LINE"
+"9 -131 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
+"163 553 LINE",
 "163 649 LINE",
 "9 649 LINE",
-"9 553 LINE",
-"163 553 LINE"
+"9 553 LINE"
 );
 }
 );
@@ -53859,28 +53861,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"166 649 LINE",
-"166 -131 LINE",
 "270 -131 LINE",
-"270 649 LINE"
+"270 649 LINE",
+"166 649 LINE",
+"166 -131 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-16 649 LINE",
-"-16 553 LINE",
-"238 553 LINE",
-"238 649 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-16 -35 LINE",
-"-16 -131 LINE",
 "238 -131 LINE",
-"238 -35 LINE"
+"238 -35 LINE",
+"-16 -35 LINE",
+"-16 -131 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"238 553 LINE",
+"238 649 LINE",
+"-16 649 LINE",
+"-16 553 LINE"
 );
 }
 );
