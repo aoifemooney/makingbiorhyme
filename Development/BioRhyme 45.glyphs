@@ -67853,21 +67853,7 @@ value = (
 );
 }
 );
-interpolationWeight = 700;
-name = DemiBold;
-weightClass = DemiBold;
-},
-{
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-    hbar,
-    w
-);
-}
-);
-interpolationWeight = 650;
+interpolationWeight = 675;
 name = SemiBold;
 },
 {
@@ -67972,29 +67958,10 @@ value = (
 }
 );
 interpolationCustom = 100;
-interpolationWeight = 650;
+interpolationWeight = 675;
 interpolationWidth = 200;
 name = "SemiBold Expanded";
 weightClass = SemiBold;
-widthClass = Expanded;
-},
-{
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-    hbar,
-    w
-);
-}
-);
-interpolationCustom = 100;
-interpolationWeight = 700;
-interpolationWidth = 200;
-isBold = 1;
-linkStyle = "Light Extended";
-name = "DemiBold Expanded";
-weightClass = DemiBold;
 widthClass = Expanded;
 },
 {
