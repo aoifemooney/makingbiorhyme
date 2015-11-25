@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 w,
-"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft \012nopen",
+"ononj/quotedblleft nj/quoteright on\012non:noq:nb\012n.b!\U00A1u!nn?snanbun\U00BFn?n.bn\012HH?H\U00BFHbn  n{n}n.anon(n)\012nn./quotedblleft v/quoteright .v\U00BFvn\U00BFz\012nk.nnk:nk\U00BFx\U00BFn\012nnt.nr.nf/quoteleft \012nopentr/quotedblleft/quotedblright n/quotedblleft/quoteright",
 "\U00ABn\U00BB/guilsinglleft n/guilsinglright"
 );
 classes = (
@@ -44751,7 +44751,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-11-25 15:20:17 +0000";
+lastChange = "2015-11-25 15:43:33 +0000";
 layers = (
 {
 background = {
@@ -63735,7 +63735,7 @@ g = -50;
 "@MMK_R_parenright" = -20;
 "@MMK_R_period" = -35;
 "@MMK_R_questiondown" = -5;
-"@MMK_R_quotedblleft" = 0;
+"@MMK_R_quotedblleft" = -20;
 "@MMK_R_s" = -45;
 "@MMK_R_section" = -5;
 "@MMK_R_t" = -5;
