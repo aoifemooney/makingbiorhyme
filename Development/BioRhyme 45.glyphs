@@ -41111,7 +41111,7 @@ unicode = 0077;
 },
 {
 glyphname = w.001;
-lastChange = "2015-11-26 15:18:56 +0000";
+lastChange = "2015-11-26 15:21:50 +0000";
 layers = (
 {
 anchors = (
@@ -41418,78 +41418,6 @@ position = "{336, 357}";
 }
 );
 background = {
-anchors = (
-{
-name = bottom;
-position = "{325, 0}";
-},
-{
-name = top;
-position = "{336, 357}";
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"227 -10 LINE",
-"411 304 LINE",
-"305 304 LINE",
-"208 117 LINE",
-"116 305 LINE",
-"-12 305 LINE",
-"163 -10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"484 -10 LINE",
-"658 304 LINE",
-"557 304 LINE",
-"465 117 LINE",
-"373 288 LINE",
-"246 288 LINE",
-"420 -10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"43 267 LINE",
-"43 277 LINE",
-"178 277 LINE",
-"178 357 LINE",
-"-34 357 LINE",
-"-34 267 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"316 277 LINE",
-"355 277 LINE",
-"435 277 LINE",
-"435 357 LINE",
-"242 357 LINE",
-"242 277 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"602 277 LINE",
-"602 267 LINE",
-"677 267 LINE",
-"677 357 LINE",
-"499 357 LINE",
-"499 277 LINE"
-);
-}
-);
-};
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
-name = Bold;
 paths = (
 {
 closed = 1;
@@ -41551,6 +41479,76 @@ nodes = (
 "90 267 LINE",
 "90 277 LINE",
 "228 277 LINE"
+);
+}
+);
+};
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"482 -10 LINE",
+"511 50 LINE",
+"381 347 LINE",
+"330 347 LINE",
+"301 250 LINE",
+"423 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"219 -10 LINE",
+"248 50 LINE",
+"138 347 LINE",
+"77 347 LINE",
+"44 284 LINE",
+"160 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"90 267 LINE",
+"90 277 LINE",
+"228 277 LINE",
+"228 357 LINE",
+"15 357 LINE",
+"15 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"234 -10 LINE",
+"356 250 LINE",
+"342 347 LINE",
+"319 347 LINE",
+"187 50 LINE",
+"210 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"497 -10 LINE",
+"623 304 LINE",
+"542 304 LINE",
+"446 50 LINE",
+"472 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"642 267 LINE",
+"642 357 LINE",
+"464 357 LINE",
+"464 277 LINE",
+"567 277 LINE",
+"567 267 LINE"
 );
 }
 );
