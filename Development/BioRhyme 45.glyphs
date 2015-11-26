@@ -24,7 +24,8 @@ o,
 "nonopx\U00F0popxox/schwa",
 "n/w.alt olf-likex\012nvolf-likex",
 "nonwnvnon  ",
-"H/am H"
+"H/am H",
+w/w.alt
 );
 classes = (
 {
@@ -40198,7 +40199,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2015-11-26 15:31:37 +0000";
+lastChange = "2015-11-26 18:40:30 +0000";
 layers = (
 {
 anchors = (
@@ -40604,6 +40605,288 @@ nodes = (
 "550 294 LINE",
 "412 294 LINE",
 "656 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"173 267 LINE",
+"173 277 LINE",
+"302 277 LINE",
+"302 357 LINE",
+"16 357 LINE",
+"16 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 278 LINE",
+"557 278 LINE",
+"643 278 LINE",
+"643 357 LINE",
+"412 357 LINE",
+"412 278 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"860 277 LINE",
+"860 267 LINE",
+"1019 267 LINE",
+"1019 357 LINE",
+"761 357 LINE",
+"761 277 LINE"
+);
+}
+);
+width = 1035;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{513, 0}";
+},
+{
+name = top;
+position = "{513, 357}";
+}
+);
+associatedMasterId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+background = {
+anchors = (
+{
+name = bottom;
+position = "{513, 0}";
+},
+{
+name = top;
+position = "{513, 357}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"359 -11 LINE",
+"626 348 LINE",
+"599 348 LINE",
+"359 20 LINE",
+"147 348 LINE",
+"118 348 LINE",
+"353 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"667 -11 LINE",
+"902 348 LINE",
+"876 348 LINE",
+"664 20 LINE",
+"429 348 LINE",
+"401 348 LINE",
+"661 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 334 LINE",
+"144.004 334 LINE",
+"257 334 LINE",
+"257 357 LINE",
+"5 357 LINE",
+"5 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"425 335 LINE",
+"601 335 LINE",
+"681 335 LINE",
+"681 357 LINE",
+"344 357 LINE",
+"344 335 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"874 334 LINE",
+"885 334 LINE",
+"1020 334 LINE",
+"1020 357 LINE",
+"767 357 LINE",
+"767 334 LINE"
+);
+}
+);
+};
+layerId = "82529724-F8FA-436B-8B00-B95FEBEEC617";
+name = "Light Extended [400]";
+paths = (
+{
+closed = 1;
+nodes = (
+"359 -11 LINE",
+"626 348 LINE",
+"599 348 LINE",
+"359 20 LINE",
+"147 348 LINE",
+"118 348 LINE",
+"353 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"667 -11 LINE",
+"902 348 LINE",
+"876 348 LINE",
+"664 20 LINE",
+"515 228 LINE",
+"501 209 LINE",
+"661 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"134 334 LINE",
+"145 334 LINE",
+"257 334 LINE",
+"257 357 LINE",
+"5 357 LINE",
+"5 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"404 335 LINE",
+"608 335 LINE",
+"681 335 LINE",
+"681 357 LINE",
+"344 357 LINE",
+"344 335 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"874 334 LINE",
+"886 334 LINE",
+"1020 334 LINE",
+"1020 357 LINE",
+"767 357 LINE",
+"767 334 LINE"
+);
+}
+);
+width = 1025;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{513, 0}";
+},
+{
+name = top;
+position = "{528, 357}";
+}
+);
+associatedMasterId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"367 -11 LINE",
+"632 325 LINE",
+"533 325 LINE",
+"360 87 LINE",
+"215 303 LINE",
+"85 303 LINE",
+"304 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"720 -11 LINE",
+"941 298 LINE",
+"845 298 LINE",
+"707 87 LINE",
+"550 294 LINE",
+"412 294 LINE",
+"656 -11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"173 267 LINE",
+"173 277 LINE",
+"302 277 LINE",
+"302 357 LINE",
+"16 357 LINE",
+"16 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 278 LINE",
+"557 278 LINE",
+"643 278 LINE",
+"643 357 LINE",
+"412 357 LINE",
+"412 278 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"860 277 LINE",
+"860 267 LINE",
+"1019 267 LINE",
+"1019 357 LINE",
+"761 357 LINE",
+"761 277 LINE"
+);
+}
+);
+};
+layerId = "67B5B7EA-C9AF-4F4A-BBDF-57153C3321B0";
+name = "Bold Extended [400]";
+paths = (
+{
+closed = 1;
+nodes = (
+"367 -10 LINE",
+"632 325 LINE",
+"533 325 LINE",
+"360 87 LINE",
+"215 303 LINE",
+"85 303 LINE",
+"304 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"720 -10 LINE",
+"941 298 LINE",
+"845 298 LINE",
+"707 87 LINE",
+"550 294 LINE",
+"481 205 LINE",
+"656 -10 LINE"
 );
 },
 {
@@ -71178,15 +71461,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
-    eth,
-    v,
-    o,
-    v,
-    schwa,
-    v,
-    e,
-    v
+    w
 );
 }
 );
