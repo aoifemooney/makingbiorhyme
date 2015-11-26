@@ -67900,15 +67900,14 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    v,
-    eth,
-    v,
-    o,
-    v,
-    schwa,
-    v,
+    a,
+    d,
+    h,
     e,
-    v
+    s,
+    i,
+    o,
+    n
 );
 }
 );
@@ -68072,6 +68071,12 @@ value = (
 interpolationCustom = 100;
 interpolationWeight = 800;
 name = "Bold Extended";
+},
+{
+interpolationWeight = 550;
+interpolationWidth = 150;
+name = Middlewidth;
+widthClass = "Semi Expanded";
 }
 );
 kerning = {
