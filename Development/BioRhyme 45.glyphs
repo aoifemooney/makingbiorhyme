@@ -22,7 +22,7 @@ X,
 o,
 "|v\U00F0tuvotuv|e|o|/schwa |",
 "nonopx\U00F0popxox/schwa w",
-/w.001
+"n/w.001 x"
 );
 classes = (
 {
@@ -41111,7 +41111,7 @@ unicode = 0077;
 },
 {
 glyphname = w.001;
-lastChange = "2015-11-26 14:43:26 +0000";
+lastChange = "2015-11-26 14:45:37 +0000";
 layers = (
 {
 anchors = (
@@ -41491,25 +41491,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"256 -10 LINE",
-"388 316 LINE",
-"325 347 LINE",
-"237 117 LINE",
-"145 305 LINE",
-"37 305 LINE",
-"192 -10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "513 -10 LINE",
 "667 304 LINE",
-"586 304 LINE",
-"494 117 LINE",
+"591 304 LINE",
+"500 107 LINE",
 "395 347 LINE",
-"325 347 LINE",
-"315 286 LINE",
+"349 347 LINE",
+"316 284 LINE",
 "449 -10 LINE"
 );
 },
@@ -41533,6 +41521,19 @@ nodes = (
 "686 357 LINE",
 "508 357 LINE",
 "508 277 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"247 -10 LINE",
+"401 304 LINE",
+"330 304 LINE",
+"239 107 LINE",
+"134 347 LINE",
+"59 347 LINE",
+"49 286 LINE",
+"183 -10 LINE"
 );
 }
 );
