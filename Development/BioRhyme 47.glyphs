@@ -1,7 +1,9 @@
 {
 DisplayStrings = (
 "(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) (t) (u) (v) (w) (x) (y) (z) (A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (X) (Y) (Z)\012\012{a} {b} {c} {d} {e} {f} {g} {h} {i} {j} {k} {l} {m} {n} {o} {p} {q} {r} {s} {t} {u} {v} {w} {x} {y} {z} {A} {B} {C} {D} {E} {F} {G} {H} {I} {J} {K} {L} {M} {N} {O} {P} {Q} {R} {S} {T} {U} {V} {W} {X} {Y} {Z}",
-"n/eng j"
+"n/eng j",
+/dcroat,
+/tbar
 );
 classes = (
 {
@@ -23990,6 +23992,7 @@ unicode = 010F;
 },
 {
 glyphname = dcroat;
+lastChange = "2015-12-04 19:15:05 +0000";
 layers = (
 {
 components = (
@@ -24024,6 +24027,7 @@ name = d;
 },
 {
 name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 108, 204}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
