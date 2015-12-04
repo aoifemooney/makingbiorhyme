@@ -3,7 +3,8 @@ DisplayStrings = (
 "(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) (t) (u) (v) (w) (x) (y) (z) (A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (X) (Y) (Z)\012\012{a} {b} {c} {d} {e} {f} {g} {h} {i} {j} {k} {l} {m} {n} {o} {p} {q} {r} {s} {t} {u} {v} {w} {x} {y} {z} {A} {B} {C} {D} {E} {F} {G} {H} {I} {J} {K} {L} {M} {N} {O} {P} {Q} {R} {S} {T} {U} {V} {W} {X} {Y} {Z}",
 "n/eng j",
 /dcroat,
-/tbar
+/tbar,
+"N/Eng jJ"
 );
 classes = (
 {
@@ -4106,7 +4107,7 @@ unicode = 0112;
 },
 {
 glyphname = Eng;
-lastChange = "2015-12-04 19:05:27 +0000";
+lastChange = "2015-12-04 19:17:01 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -4119,9 +4120,90 @@ name = Light;
 width = 600;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{370, 0}";
+},
+{
+name = top;
+position = "{370, 520}";
+}
+);
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"619 23 LINE",
+"619 507 LINE",
+"507 507 LINE",
+"507 201 LINE",
+"228 520 LINE",
+"77 520 LINE",
+"553 -5 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"318 0 LINE",
+"318 96 LINE",
+"25 96 LINE",
+"25 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"228 12 LINE",
+"228 520 LINE",
+"110 520 LINE",
+"110 12 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 424 LINE",
+"228 520 LINE",
+"25 520 LINE",
+"25 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"699 424 LINE",
+"699 520 LINE",
+"422 520 LINE",
+"422 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"537 -175 OFFCURVE",
+"619 -111 OFFCURVE",
+"619 4 CURVE SMOOTH",
+"619 303 LINE",
+"507 303 LINE",
+"508 12 LINE SMOOTH",
+"508 -50 OFFCURVE",
+"479 -71 OFFCURVE",
+"437 -74 CURVE SMOOTH",
+"403 -76 OFFCURVE",
+"366 -55 OFFCURVE",
+"341 -37 CURVE",
+"291 -122 LINE",
+"321 -151 OFFCURVE",
+"378 -175 OFFCURVE",
+"443 -175 CURVE SMOOTH"
+);
+}
+);
+width = 714;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -42671,6 +42753,7 @@ rightKerningGroup = t;
 },
 {
 glyphname = tbar;
+lastChange = "2015-12-04 19:15:30 +0000";
 layers = (
 {
 components = (
@@ -42705,6 +42788,7 @@ name = t;
 },
 {
 name = strokeshortcomb;
+transform = "{1, 0, 0, 1, -28, 144}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
