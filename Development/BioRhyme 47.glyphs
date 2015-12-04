@@ -5,7 +5,8 @@ DisplayStrings = (
 /dcroat,
 /tbar,
 "N/Eng jJ",
-/Lslash
+/Lslash,
+"/ogonekcomb A/Aogonek"
 );
 classes = (
 {
@@ -312,7 +313,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-11-25 21:06:42 +0000";
+lastChange = "2015-12-04 19:21:25 +0000";
 layers = (
 {
 anchors = (
@@ -474,7 +475,7 @@ position = "{373, 638}";
 },
 {
 name = ogonek;
-position = "{621, 9}";
+position = "{611, 0}";
 },
 {
 name = top;
@@ -1402,6 +1403,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
+lastChange = "2015-12-04 19:21:25 +0000";
 layers = (
 {
 components = (
@@ -1438,7 +1440,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 450, 16}";
+transform = "{1, 0, 0, 1, 440, 7}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
