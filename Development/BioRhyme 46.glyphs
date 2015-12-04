@@ -12355,7 +12355,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-12-04 15:45:00 +0000";
+lastChange = "2015-12-04 15:48:04 +0000";
 layers = (
 {
 anchors = (
@@ -12907,13 +12907,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"292 -10 LINE",
-"547 507 LINE",
-"521 507 LINE",
-"292 40 LINE",
 "129 507 LINE",
 "100 507 LINE",
-"284 -10 LINE"
+"264 -10 LINE",
+"270 -10 LINE",
+"278 23 LINE"
 );
 },
 {
@@ -12932,18 +12930,9 @@ nodes = (
 "782 507 LINE",
 "755 507 LINE",
 "592 40 LINE",
-"364 507 LINE",
-"335 507 LINE",
+"454 507 LINE",
+"425 507 LINE",
 "589 -10 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"616 497 LINE",
-"616 520 LINE",
-"260 520 LINE",
-"260 497 LINE"
 );
 },
 {
@@ -12953,6 +12942,17 @@ nodes = (
 "876 520 LINE",
 "639 520 LINE",
 "639 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 483 LINE",
+"446 507 LINE",
+"431 507 LINE",
+"264 24 LINE",
+"268 -10 LINE",
+"272 -10 LINE"
 );
 }
 );
