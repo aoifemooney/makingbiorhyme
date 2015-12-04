@@ -12352,7 +12352,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-12-04 16:00:43 +0000";
+lastChange = "2015-12-04 16:03:37 +0000";
 layers = (
 {
 anchors = (
@@ -12510,13 +12510,15 @@ nodes = (
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
 "292 -10 LINE",
-"284 -10 LINE",
-"100 507 LINE",
+"557 507 LINE",
+"531 507 LINE",
+"292 40 LINE",
 "129 507 LINE",
-"292 40 LINE"
+"100 507 LINE",
+"284 -10 LINE"
 );
 },
 {
@@ -12526,15 +12528,6 @@ nodes = (
 "232 520 LINE",
 "5 520 LINE",
 "5 497 LINE"
-);
-},
-{
-closed = 0;
-nodes = (
-"292 -10 LINE",
-"557 507 LINE",
-"531 507 LINE",
-"292 40 LINE"
 );
 },
 {
