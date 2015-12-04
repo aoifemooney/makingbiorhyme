@@ -25188,17 +25188,161 @@ unicode = 0113;
 },
 {
 glyphname = eng;
-lastChange = "2015-12-04 19:07:53 +0000";
+lastChange = "2015-12-04 19:14:44 +0000";
 layers = (
 {
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-name = "Light Extended";
-width = 600;
+anchors = (
+{
+name = bottom;
+position = "{509, 0}";
 },
 {
+name = top;
+position = "{519, 367}";
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"417 0 LINE",
+"417 23 LINE",
+"50 23 LINE",
+"50 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 0 LINE",
+"257 357 LINE",
+"232 357 LINE",
+"232 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 334 LINE",
+"257 357 LINE",
+"50 357 LINE",
+"50 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"747 -23 LINE SMOOTH",
+"747 -111 OFFCURVE",
+"705 -157 OFFCURVE",
+"629 -157 CURVE SMOOTH",
+"582 -157 OFFCURVE",
+"537 -146 OFFCURVE",
+"495 -133 CURVE",
+"488 -155 LINE",
+"530 -168 OFFCURVE",
+"576 -180 OFFCURVE",
+"628 -180 CURVE SMOOTH",
+"722 -180 OFFCURVE",
+"772 -119 OFFCURVE",
+"772 -22 CURVE SMOOTH",
+"772 135 LINE SMOOTH",
+"772 257 OFFCURVE",
+"723 367 OFFCURVE",
+"567 367 CURVE SMOOTH",
+"431 367 OFFCURVE",
+"308 263 OFFCURVE",
+"244 211 CURVE",
+"244 188 LINE",
+"308 239 OFFCURVE",
+"431 344 OFFCURVE",
+"567 344 CURVE SMOOTH",
+"713 344 OFFCURVE",
+"747 237 OFFCURVE",
+"747 135 CURVE SMOOTH"
+);
+}
+);
+width = 922;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{279, 0}";
+},
+{
+name = top;
+position = "{274, 367}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"217 0 LINE",
+"217 23 LINE",
+"25 23 LINE",
+"25 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"142 0 LINE",
+"142 357 LINE",
+"117 357 LINE",
+"117 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"142 334 LINE",
+"142 357 LINE",
+"25 357 LINE",
+"25 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 -69 LINE SMOOTH",
+"412 -127 OFFCURVE",
+"379 -157 OFFCURVE",
+"334 -157 CURVE SMOOTH",
+"301 -157 OFFCURVE",
+"270 -146 OFFCURVE",
+"251 -136 CURVE",
+"244 -158 LINE",
+"263 -167 OFFCURVE",
+"295 -180 OFFCURVE",
+"333 -180 CURVE SMOOTH",
+"396 -180 OFFCURVE",
+"437 -135 OFFCURVE",
+"437 -68 CURVE SMOOTH",
+"437 234 LINE SMOOTH",
+"437 324 OFFCURVE",
+"390 367 OFFCURVE",
+"321 367 CURVE SMOOTH",
+"247 367 OFFCURVE",
+"183 315 OFFCURVE",
+"128 254 CURVE",
+"128 231 LINE",
+"184 294 OFFCURVE",
+"253 344 OFFCURVE",
+"316 344 CURVE SMOOTH",
+"380 344 OFFCURVE",
+"412 304 OFFCURVE",
+"412 229 CURVE SMOOTH"
+);
+}
+);
+width = 522;
 },
 {
 anchors = (
@@ -25294,8 +25438,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"832 0 LINE",
-"832 120 LINE SMOOTH",
 "832 239 OFFCURVE",
 "782 366 OFFCURVE",
 "604 366 CURVE SMOOTH",
@@ -25309,7 +25451,21 @@ nodes = (
 "691 263 OFFCURVE",
 "717 196 OFFCURVE",
 "717 130 CURVE SMOOTH",
-"717 0 LINE"
+"717 47 LINE SMOOTH",
+"717 -35 OFFCURVE",
+"684 -79 OFFCURVE",
+"632 -79 CURVE SMOOTH",
+"598 -79 OFFCURVE",
+"559 -69 OFFCURVE",
+"528 -57 CURVE",
+"500 -152 LINE",
+"530 -164 OFFCURVE",
+"577 -180 OFFCURVE",
+"637 -180 CURVE SMOOTH",
+"748 -180 OFFCURVE",
+"832 -102 OFFCURVE",
+"832 49 CURVE SMOOTH",
+"832 120 LINE SMOOTH"
 );
 },
 {
@@ -25338,30 +25494,9 @@ nodes = (
 "66 357 LINE",
 "66 267 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"749 -180 OFFCURVE",
-"831 -102 OFFCURVE",
-"831 49 CURVE SMOOTH",
-"831 137 LINE",
-"718 137 LINE",
-"718 47 LINE SMOOTH",
-"718 -35 OFFCURVE",
-"685 -79 OFFCURVE",
-"633 -79 CURVE SMOOTH",
-"599 -79 OFFCURVE",
-"560 -69 OFFCURVE",
-"529 -57 CURVE",
-"501 -152 LINE",
-"531 -164 OFFCURVE",
-"578 -180 OFFCURVE",
-"638 -180 CURVE SMOOTH"
-);
 }
 );
-width = 972;
+width = 913;
 }
 );
 leftMetricsKey = n;
@@ -54473,7 +54608,7 @@ unicode = 00BD;
 },
 {
 glyphname = onequarter;
-lastChange = "2015-12-04 18:10:41 +0000";
+lastChange = "2015-12-04 19:13:00 +0000";
 layers = (
 {
 components = (
@@ -54509,7 +54644,7 @@ transform = "{1, 0, 0, 1, 337, 0}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 654;
+width = 644;
 },
 {
 components = (
