@@ -71611,7 +71611,9 @@ value = (
 },
 {
 name = "Rename Glyphs";
-value = "New Value";
+value = (
+    "W=W.bold"
+);
 }
 );
 interpolationCustom = 100;
