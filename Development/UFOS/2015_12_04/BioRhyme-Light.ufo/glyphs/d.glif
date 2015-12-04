@@ -56,7 +56,7 @@
       <point x="267" y="497" type="line"/>
     </contour>
     <contour>
-      <point x="209" y="-20" type="move" name="bottom"/>
+      <point x="209" y="179" type="move" name="center"/>
     </contour>
     <contour>
       <point x="209" y="377" type="move" name="top"/>
@@ -65,7 +65,7 @@
       <point x="373" y="357" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="209" y="179" type="move" name="center"/>
+      <point x="209" y="-20" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -82,11 +82,11 @@
           <array>
             <dict>
               <key>name</key>
-              <string>bottom</string>
+              <string>center</string>
               <key>x</key>
               <integer>209</integer>
               <key>y</key>
-              <integer>-20</integer>
+              <integer>179</integer>
             </dict>
             <dict>
               <key>name</key>
@@ -106,11 +106,11 @@
             </dict>
             <dict>
               <key>name</key>
-              <string>center</string>
+              <string>bottom</string>
               <key>x</key>
               <integer>209</integer>
               <key>y</key>
-              <integer>179</integer>
+              <integer>-20</integer>
             </dict>
           </array>
           <key>components</key>

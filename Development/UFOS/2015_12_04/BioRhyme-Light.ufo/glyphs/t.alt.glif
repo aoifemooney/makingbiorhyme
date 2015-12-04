@@ -35,7 +35,7 @@
       <point x="295" y="15" type="curve"/>
     </contour>
     <contour>
-      <point x="201" y="-10" type="move" name="bottom"/>
+      <point x="161" y="179" type="move" name="center"/>
     </contour>
     <contour>
       <point x="161" y="456" type="move" name="top"/>
@@ -44,7 +44,7 @@
       <point x="254" y="419" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="161" y="179" type="move" name="center"/>
+      <point x="201" y="-10" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -57,11 +57,11 @@
           <array>
             <dict>
               <key>name</key>
-              <string>bottom</string>
+              <string>center</string>
               <key>x</key>
-              <integer>201</integer>
+              <integer>161</integer>
               <key>y</key>
-              <integer>-10</integer>
+              <integer>179</integer>
             </dict>
             <dict>
               <key>name</key>
@@ -81,11 +81,11 @@
             </dict>
             <dict>
               <key>name</key>
-              <string>center</string>
+              <string>bottom</string>
               <key>x</key>
-              <integer>161</integer>
+              <integer>201</integer>
               <key>y</key>
-              <integer>179</integer>
+              <integer>-10</integer>
             </dict>
           </array>
           <key>components</key>
