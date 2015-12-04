@@ -12351,7 +12351,7 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2015-12-04 16:13:33 +0000";
+lastChange = "2015-12-04 16:16:41 +0000";
 layers = (
 {
 anchors = (
@@ -12992,60 +12992,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"752 477 LINE",
-"444 13 LINE",
-"176 477 LINE",
-"147 477 LINE",
-"441 -31 LINE",
-"779 477 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-10 490 LINE",
-"-10 468 LINE",
-"313 468 LINE",
-"313 490 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"387 490 LINE",
-"387 468 LINE",
-"857 468 LINE",
-"857 490 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1074 477 LINE",
-"805 13 LINE",
-"497 477 LINE",
-"469 477 LINE",
-"805 -31 LINE",
-"1099 477 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"933 490 LINE",
-"933 468 LINE",
-"1256 468 LINE",
-"1256 490 LINE"
-);
-}
-);
-};
-layerId = "26C6FA22-EAB1-4D6E-9FDA-0BC7E30F15AB";
-name = "Light Extended [400]";
-paths = (
-{
-closed = 1;
-nodes = (
 "450 -10 LINE",
 "784 507 LINE",
 "757 507 LINE",
@@ -13095,17 +13041,82 @@ nodes = (
 );
 }
 );
+};
+layerId = "26C6FA22-EAB1-4D6E-9FDA-0BC7E30F15AB";
+name = "Light Extended [400]";
+paths = (
+{
+closed = 1;
+nodes = (
+"395 -10 LINE",
+"403 26 LINE",
+"204 507 LINE",
+"175 507 LINE",
+"389 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"397 -10 LINE",
+"642 471 LINE",
+"631 507 LINE",
+"627 507 LINE",
+"386 26 LINE",
+"393 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"865 -10 LINE",
+"873 26 LINE",
+"635 507 LINE",
+"629 507 LINE",
+"619 473 LINE",
+"861 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"868 -10 LINE",
+"1084 507 LINE",
+"1055 507 LINE",
+"857 26 LINE",
+"864 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"904 520 LINE",
+"904 497 LINE",
+"1241 497 LINE",
+"1241 520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"19 497 LINE",
+"356 497 LINE",
+"356 520 LINE",
+"19 520 LINE"
+);
+}
+);
 width = 1256;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{637, 0}";
+position = "{664, 0}";
 },
 {
 name = top;
-position = "{642, 520}";
+position = "{669, 520}";
 }
 );
 associatedMasterId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -13114,52 +13125,52 @@ paths = (
 {
 closed = 1;
 nodes = (
-"453 -10 LINE",
-"791 507 LINE",
-"676 507 LINE",
-"439 127 LINE",
-"214 507 LINE",
-"72 507 LINE",
-"389 -10 LINE"
+"480 -10 LINE",
+"818 507 LINE",
+"703 507 LINE",
+"466 127 LINE",
+"241 507 LINE",
+"99 507 LINE",
+"416 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"347 424 LINE",
-"347 520 LINE",
-"0 520 LINE",
-"0 424 LINE"
+"374 424 LINE",
+"374 520 LINE",
+"27 520 LINE",
+"27 424 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"825 424 LINE",
-"825 520 LINE",
-"464 520 LINE",
-"464 424 LINE"
+"852 424 LINE",
+"852 520 LINE",
+"491 520 LINE",
+"491 424 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"873 -10 LINE",
-"1205 507 LINE",
-"1093 507 LINE",
-"862 127 LINE",
-"655 452 LINE",
-"600 314 LINE",
-"810 -10 LINE"
+"900 -10 LINE",
+"1232 507 LINE",
+"1120 507 LINE",
+"889 127 LINE",
+"682 452 LINE",
+"627 314 LINE",
+"837 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"1288 424 LINE",
-"1288 520 LINE",
-"928 520 LINE",
-"928 424 LINE"
+"1315 424 LINE",
+"1315 520 LINE",
+"955 520 LINE",
+"955 424 LINE"
 );
 }
 );
@@ -13170,65 +13181,65 @@ paths = (
 {
 closed = 1;
 nodes = (
-"393 -10 LINE",
-"430 89 LINE",
-"214 461 LINE",
-"86 461 LINE",
-"349 -10 LINE"
+"420 -10 LINE",
+"457 89 LINE",
+"241 461 LINE",
+"113 461 LINE",
+"376 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"413 -10 LINE",
-"661 411 LINE",
-"642 510 LINE",
-"602 510 LINE",
-"343 42 LINE",
-"366 -10 LINE"
+"440 -10 LINE",
+"688 411 LINE",
+"669 510 LINE",
+"629 510 LINE",
+"370 42 LINE",
+"393 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"890 -10 LINE",
-"925 89 LINE",
-"666 510 LINE",
-"622 510 LINE",
-"580 403 LINE",
-"846 -10 LINE"
+"917 -10 LINE",
+"952 89 LINE",
+"693 510 LINE",
+"649 510 LINE",
+"607 403 LINE",
+"873 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"910 -10 LINE",
-"1160 461 LINE",
-"1050 461 LINE",
-"840 42 LINE",
-"863 -10 LINE"
+"937 -10 LINE",
+"1187 461 LINE",
+"1077 461 LINE",
+"867 42 LINE",
+"890 -10 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"930 523 LINE",
-"930 427 LINE",
-"1284 427 LINE",
-"1284 523 LINE"
+"957 520 LINE",
+"957 424 LINE",
+"1311 424 LINE",
+"1311 520 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-27 427 LINE",
-"327 427 LINE",
-"327 523 LINE",
-"-27 523 LINE"
+"0 424 LINE",
+"354 424 LINE",
+"354 520 LINE",
+"0 520 LINE"
 );
 }
 );
-width = 1288;
+width = 1311;
 }
 );
 leftKerningGroup = V;
