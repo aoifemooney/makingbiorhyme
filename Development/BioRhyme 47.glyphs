@@ -24,7 +24,7 @@ L/Lcaron,
 /ccaron,
 /caroncomb.alt.001,
 /caroncomb.alt/primemod,
-/lcaron/tcaron/caroncomb.alt/primemod
+"l/lcaron t/tcaron/caroncomb.alt/primemod d,"
 );
 classes = (
 {
@@ -34573,7 +34573,7 @@ unicode = 0137;
 },
 {
 glyphname = l;
-lastChange = "2015-12-05 02:46:16 +0000";
+lastChange = "2015-12-05 16:07:47 +0000";
 layers = (
 {
 anchors = (
@@ -34894,7 +34894,7 @@ position = "{215, 471}";
 },
 {
 name = topright;
-position = "{384, 357}";
+position = "{313, 417}";
 }
 );
 background = {
@@ -35025,7 +35025,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2015-12-05 03:34:13 +0000";
+lastChange = "2015-12-05 16:07:46 +0000";
 layers = (
 {
 components = (
@@ -35077,6 +35077,7 @@ name = l;
 },
 {
 name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 252, -103}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -43012,7 +43013,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2015-12-05 02:50:02 +0000";
+lastChange = "2015-12-05 16:05:44 +0000";
 layers = (
 {
 anchors = (
@@ -43244,7 +43245,7 @@ position = "{169, 456}";
 },
 {
 name = topright;
-position = "{204, 483}";
+position = "{205, 447}";
 }
 );
 background = {
@@ -44213,7 +44214,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2015-12-05 02:50:01 +0000";
+lastChange = "2015-12-05 16:06:49 +0000";
 layers = (
 {
 components = (
@@ -44248,7 +44249,7 @@ name = t;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 143, -37}";
+transform = "{1, 0, 0, 1, 144, -73}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -44262,6 +44263,7 @@ name = t;
 },
 {
 name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 287, -101}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -74333,7 +74335,7 @@ unicode = 0338;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2015-12-05 16:05:16 +0000";
+lastChange = "2015-12-05 16:08:54 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -74378,14 +74380,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"102 582 OFFCURVE",
-"94 540 OFFCURVE",
-"73 489 CURVE",
-"123 477 LINE",
-"161 517 OFFCURVE",
-"188 560 OFFCURVE",
-"190 625 CURVE",
-"100 635 LINE"
+"94 590 OFFCURVE",
+"87 544 OFFCURVE",
+"69 497 CURVE",
+"115 485 LINE",
+"148 522 OFFCURVE",
+"177 568 OFFCURVE",
+"179 623 CURVE",
+"92 633 LINE"
 );
 }
 );
@@ -74397,9 +74399,30 @@ name = Light;
 width = 600;
 },
 {
+anchors = (
+{
+name = _topright;
+position = "{61, 520}";
+}
+);
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"142 590 OFFCURVE",
+"109 545 OFFCURVE",
+"57 507 CURVE",
+"80 474 LINE",
+"169 506 OFFCURVE",
+"225 569 OFFCURVE",
+"226 624 CURVE",
+"139 633 LINE"
+);
+}
+);
+width = 248;
 }
 );
 },
