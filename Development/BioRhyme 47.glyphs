@@ -17,7 +17,9 @@ L/Lcaron,
 "/caroncomb.alt/Lcaron d/dcaron l/lcaron tfhH/tcaron",
 "/Lcaron/dcaron/lcaron/caroncomb.alt t/tcaron",
 /hungarumlautcomb/ohungarumlaut,
-/strokeshortcomb/dcroat/hbar/tbar
+/strokeshortcomb/dcroat/hbar/tbar,
+/lcaron,
+/caroncomb.alt
 );
 classes = (
 {
@@ -34951,12 +34953,15 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2015-12-05 02:48:30 +0000";
+lastChange = "2015-12-05 03:34:13 +0000";
 layers = (
 {
 components = (
 {
 name = l;
+},
+{
+name = caroncomb.alt;
 },
 {
 name = caroncomb.alt;
@@ -55937,7 +55942,7 @@ unicode = 2044;
 },
 {
 glyphname = onehalf;
-lastChange = "2015-12-04 17:49:44 +0000";
+lastChange = "2015-12-05 03:34:18 +0000";
 layers = (
 {
 components = (
@@ -55955,7 +55960,7 @@ transform = "{1, 0, 0, 1, 533, 0}";
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 946;
+width = 971;
 },
 {
 components = (
@@ -56020,7 +56025,7 @@ unicode = 00BD;
 },
 {
 glyphname = onequarter;
-lastChange = "2015-12-04 19:13:00 +0000";
+lastChange = "2015-12-05 03:34:18 +0000";
 layers = (
 {
 components = (
@@ -56038,7 +56043,7 @@ transform = "{1, 0, 0, 1, 483, 0}";
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 910;
+width = 890;
 },
 {
 components = (
@@ -56103,7 +56108,7 @@ unicode = 00BC;
 },
 {
 glyphname = threequarters;
-lastChange = "2015-12-04 18:10:41 +0000";
+lastChange = "2015-12-05 03:34:18 +0000";
 layers = (
 {
 components = (
@@ -56121,7 +56126,7 @@ transform = "{1, 0, 0, 1, 586, 0}";
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1033;
+width = 993;
 },
 {
 components = (
