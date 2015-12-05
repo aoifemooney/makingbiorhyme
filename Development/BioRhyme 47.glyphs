@@ -7601,19 +7601,27 @@ unicode = 013B;
 {
 color = 0;
 glyphname = Lslash;
-lastChange = "2015-12-05 15:48:44 +0000";
+lastChange = "2015-12-05 15:53:35 +0000";
 layers = (
 {
 components = (
 {
 name = L;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"444 283 LINE",
+"444 308 LINE",
+"57 185 LINE",
+"57 160 LINE"
+);
+}
+);
 width = 869;
 },
 {
@@ -13682,19 +13690,27 @@ unicode = 0054;
 },
 {
 glyphname = Tbar;
-lastChange = "2015-12-05 15:47:21 +0000";
+lastChange = "2015-12-05 15:52:21 +0000";
 layers = (
 {
 components = (
 {
 name = T;
-},
-{
-name = strokeshortcomb;
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"684 218 LINE",
+"684 240 LINE",
+"237 240 LINE",
+"237 218 LINE"
+);
+}
+);
 width = 921;
 },
 {
@@ -13730,10 +13746,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"521 193 LINE",
-"521 267 LINE",
-"77 267 LINE",
-"77 193 LINE"
+"471 193 LINE",
+"471 267 LINE",
+"127 267 LINE",
+"127 193 LINE"
 );
 }
 );
