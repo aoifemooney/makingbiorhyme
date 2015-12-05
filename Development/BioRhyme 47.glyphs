@@ -7601,7 +7601,7 @@ unicode = 013B;
 {
 color = 0;
 glyphname = Lslash;
-lastChange = "2015-12-05 15:53:56 +0000";
+lastChange = "2015-12-05 15:59:08 +0000";
 layers = (
 {
 components = (
@@ -7670,13 +7670,21 @@ width = 554;
 components = (
 {
 name = L;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"479 272 LINE",
+"479 347 LINE",
+"51 233 LINE",
+"51 158 LINE"
+);
+}
+);
 width = 855;
 }
 );
@@ -13690,7 +13698,7 @@ unicode = 0054;
 },
 {
 glyphname = Tbar;
-lastChange = "2015-12-05 15:56:06 +0000";
+lastChange = "2015-12-05 15:59:34 +0000";
 layers = (
 {
 components = (
@@ -35138,7 +35146,7 @@ unicode = 013C;
 },
 {
 glyphname = lslash;
-lastChange = "2015-12-05 15:54:38 +0000";
+lastChange = "2015-12-05 16:00:42 +0000";
 layers = (
 {
 components = (
@@ -35207,13 +35215,21 @@ width = 275;
 components = (
 {
 name = l;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"415 285 LINE",
+"415 360 LINE",
+"32 226 LINE",
+"32 151 LINE"
+);
+}
+);
 width = 459;
 }
 );
