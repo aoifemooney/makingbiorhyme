@@ -20,7 +20,11 @@ L/Lcaron,
 /strokeshortcomb/dcroat/hbar/tbar,
 /lcaron,
 /caroncomb.alt,
-"/Hbar/Lslash T/Tbar/lslash/caroncomb.alt"
+"/Hbar/Lslash T/Tbar/lslash/caroncomb.alt",
+/ccaron,
+/caroncomb.alt.001,
+/caroncomb.alt/primemod,
+/lcaron/tcaron/caroncomb.alt/primemod
 );
 classes = (
 {
@@ -74329,7 +74333,7 @@ unicode = 0338;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2015-12-05 02:49:54 +0000";
+lastChange = "2015-12-05 16:05:04 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -74343,8 +74347,7 @@ name = _topright;
 position = "{61, 520}";
 }
 );
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
-name = Bold;
+background = {
 paths = (
 {
 closed = 1;
@@ -74365,6 +74368,24 @@ nodes = (
 "91 480 OFFCURVE",
 "74 452 CURVE",
 "109 432 LINE"
+);
+}
+);
+};
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"102 582 OFFCURVE",
+"95 539 OFFCURVE",
+"73 489 CURVE",
+"126 477 LINE",
+"161 519 OFFCURVE",
+"188 560 OFFCURVE",
+"190 625 CURVE",
+"100 635 LINE"
 );
 }
 );
