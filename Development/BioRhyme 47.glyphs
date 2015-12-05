@@ -3,7 +3,7 @@ DisplayStrings = (
 "(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) (t) (u) (v) (w) (x) (y) (z) (A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (X) (Y) (Z)\012\012{a} {b} {c} {d} {e} {f} {g} {h} {i} {j} {k} {l} {m} {n} {o} {p} {q} {r} {s} {t} {u} {v} {w} {x} {y} {z} {A} {B} {C} {D} {E} {F} {G} {H} {I} {J} {K} {L} {M} {N} {O} {P} {Q} {R} {S} {T} {U} {V} {W} {X} {Y} {Z}",
 "n/eng j",
 /dcroat,
-/tbar,
+"/tbar t",
 "N/Eng jJ",
 /Lslash,
 "/ogonekcomb A/Aogonek",
@@ -76,7 +76,8 @@ N,
 /circumflexcomb/Acircumflexhookabove,
 "/circumflexcomb \U00C2/caroncomb/Ccaron",
 "/circumflexcomb \U00C2/caroncomb/Ccaron",
-"/acutecomb \U00F3/gravecomb \U00F2"
+"/acutecomb \U00F3/gravecomb \U00F2",
+/tcedilla
 );
 classes = (
 {
@@ -44074,7 +44075,7 @@ rightKerningGroup = t;
 {
 color = 0;
 glyphname = tbar;
-lastChange = "2015-12-05 03:33:00 +0000";
+lastChange = "2015-12-05 19:08:07 +0000";
 layers = (
 {
 anchors = (
@@ -44314,18 +44315,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"438 284 LINE",
+"438 279 LINE",
 "438 357 LINE",
 "15 357 LINE",
-"15 284 LINE"
+"15 279 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "376 180 LINE",
-"376 253 LINE",
-"15 253 LINE",
+"376 248 LINE",
+"15 248 LINE",
 "15 180 LINE"
 );
 }
