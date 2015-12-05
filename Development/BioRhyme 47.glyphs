@@ -75,7 +75,8 @@ N,
 "/Sacute T/Tcaron \U00DB/Ycircumflex \U00E1/emacron \U00FA\U00FB\012/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb",
 /circumflexcomb/Acircumflexhookabove,
 "/circumflexcomb \U00C2/caroncomb/Ccaron",
-"/circumflexcomb \U00C2/caroncomb/Ccaron"
+"/circumflexcomb \U00C2/caroncomb/Ccaron",
+"/acutecomb \U00F3/gravecomb \U00F2"
 );
 classes = (
 {
@@ -37906,7 +37907,7 @@ unicode = 00F6;
 },
 {
 glyphname = ograve;
-lastChange = "2015-12-05 16:58:26 +0000";
+lastChange = "2015-12-05 17:14:50 +0000";
 layers = (
 {
 background = {
@@ -72147,7 +72148,7 @@ unicode = 0307;
 },
 {
 glyphname = gravecomb;
-lastChange = "2015-12-05 17:09:21 +0000";
+lastChange = "2015-12-05 17:14:52 +0000";
 layers = (
 {
 anchors = (
@@ -72229,8 +72230,8 @@ paths = (
 closed = 1;
 nodes = (
 "309 553 LINE",
-"67 717 LINE",
-"134 791 LINE",
+"87 717 LINE",
+"154 791 LINE",
 "349 592 LINE"
 );
 }
@@ -72244,7 +72245,7 @@ unicode = 0300;
 },
 {
 glyphname = acutecomb;
-lastChange = "2015-12-05 17:09:03 +0000";
+lastChange = "2015-12-05 17:14:30 +0000";
 layers = (
 {
 anchors = (
@@ -72364,8 +72365,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"363 791 LINE",
-"430 717 LINE",
+"343 791 LINE",
+"410 717 LINE",
 "188 553 LINE",
 "148 592 LINE"
 );
