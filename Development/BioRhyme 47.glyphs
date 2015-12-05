@@ -73,7 +73,9 @@ N,
 "S/Sacute U/circumflexcomb \U00DBY/Ycircumflex a\U00E1/macroncomb e/emacron u\U00FAu\U00FB",
 "/Sacute \U00DB/Ycircumflex \U00E1/emacron \U00FA\U00FB/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb",
 "/Sacute T/Tcaron \U00DB/Ycircumflex \U00E1/emacron \U00FA\U00FB\012/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb",
-/Acircumflexhookabove
+/circumflexcomb/Acircumflexhookabove,
+"/circumflexcomb \U00C2/caroncomb/Ccaron",
+"/circumflexcomb \U00C2/caroncomb/Ccaron"
 );
 classes = (
 {
@@ -1252,15 +1254,17 @@ name = Bold;
 width = 611;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{511, 520}";
-}
-);
 components = (
 {
 name = A;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 285, 0}";
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 500, 123}";
 }
 );
 guideLines = (
@@ -1270,45 +1274,6 @@ position = "{284, 800}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-paths = (
-{
-closed = 1;
-nodes = (
-"510 615 LINE",
-"665 553 LINE",
-"688 584 LINE",
-"539 701 LINE",
-"483 701 LINE",
-"334 584 LINE",
-"357 553 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"681 643 LINE",
-"706 669 OFFCURVE",
-"727 696 OFFCURVE",
-"727 734 CURVE SMOOTH",
-"727 776 OFFCURVE",
-"685 803 OFFCURVE",
-"630 803 CURVE SMOOTH",
-"584 803 OFFCURVE",
-"551 792 OFFCURVE",
-"525 777 CURVE",
-"545 716 LINE",
-"564 728 OFFCURVE",
-"589 737 OFFCURVE",
-"616 737 CURVE SMOOTH",
-"645 737 OFFCURVE",
-"659 723 OFFCURVE",
-"659 708 CURVE SMOOTH",
-"659 690 OFFCURVE",
-"650 675 OFFCURVE",
-"639 657 CURVE"
-);
-}
-);
 width = 1019;
 }
 );
@@ -72592,7 +72557,7 @@ unicode = 030B;
 },
 {
 glyphname = circumflexcomb;
-lastChange = "2015-12-05 17:08:48 +0000";
+lastChange = "2015-12-05 17:13:23 +0000";
 layers = (
 {
 anchors = (
@@ -72682,13 +72647,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"225 652 LINE",
-"374 570 LINE",
-"409 604 LINE",
-"254 741 LINE",
-"198 741 LINE",
-"43 604 LINE",
-"78 570 LINE"
+"225 622 LINE",
+"379 555 LINE",
+"399 589 LINE",
+"259 696 LINE",
+"193 696 LINE",
+"53 589 LINE",
+"73 555 LINE"
 );
 }
 );
@@ -72701,7 +72666,7 @@ unicode = 0302;
 },
 {
 glyphname = caroncomb;
-lastChange = "2015-12-05 17:03:46 +0000";
+lastChange = "2015-12-05 17:13:31 +0000";
 layers = (
 {
 anchors = (
@@ -72791,13 +72756,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"227 660 LINE",
-"78 742 LINE",
-"43 708 LINE",
-"198 571 LINE",
-"254 571 LINE",
-"409 708 LINE",
-"374 742 LINE"
+"227 651 LINE",
+"73 718 LINE",
+"53 684 LINE",
+"193 577 LINE",
+"259 577 LINE",
+"399 684 LINE",
+"379 718 LINE"
 );
 }
 );
