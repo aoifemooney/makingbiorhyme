@@ -10,7 +10,7 @@ DisplayStrings = (
 /Wacute,
 /tcaron,
 /hungarumlautcomb,
-/caroncomb.alt/dcaron
+"/caroncomb.alt '/dcaron"
 );
 classes = (
 {
@@ -73170,7 +73170,7 @@ unicode = 0338;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2015-12-05 02:40:14 +0000";
+lastChange = "2015-12-05 02:42:51 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -73178,28 +73178,34 @@ name = "Light Extended";
 width = 600;
 },
 {
+anchors = (
+{
+name = "new anchor";
+position = "{136, 204}";
+}
+);
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"157 -97 OFFCURVE",
-"207 -29 OFFCURVE",
-"207 36 CURVE SMOOTH",
-"207 88 OFFCURVE",
-"172 120 OFFCURVE",
-"140 120 CURVE SMOOTH",
-"99 120 OFFCURVE",
-"76 102 OFFCURVE",
-"76 74 CURVE SMOOTH",
-"76 36 OFFCURVE",
-"120 26 OFFCURVE",
-"120 -12 CURVE SMOOTH",
-"120 -49 OFFCURVE",
-"108 -79 OFFCURVE",
-"69 -120 CURVE",
-"98 -149 LINE"
+"133 -94 OFFCURVE",
+"184 -19 OFFCURVE",
+"184 46 CURVE SMOOTH",
+"184 93 OFFCURVE",
+"158 119 OFFCURVE",
+"128 119 CURVE SMOOTH",
+"100 119 OFFCURVE",
+"81 97 OFFCURVE",
+"81 70 CURVE SMOOTH",
+"81 42 OFFCURVE",
+"100 26 OFFCURVE",
+"100 -12 CURVE SMOOTH",
+"100 -39 OFFCURVE",
+"85 -79 OFFCURVE",
+"59 -120 CURVE",
+"91 -141 LINE"
 );
 }
 );
