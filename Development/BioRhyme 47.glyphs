@@ -14,7 +14,8 @@ DisplayStrings = (
 "/lacute l",
 /lacute,
 L/Lcaron,
-"/Lcaron d/dcaron l/lcaron/tcaron"
+"/caroncomb.alt/Lcaron d/dcaron l/lcaron tfhH/tcaron",
+"/Lcaron/dcaron/lcaron/caroncomb.alt t/tcaron"
 );
 classes = (
 {
@@ -7470,7 +7471,7 @@ unicode = 0139;
 },
 {
 glyphname = Lcaron;
-lastChange = "2015-12-05 02:44:50 +0000";
+lastChange = "2015-12-05 02:48:30 +0000";
 layers = (
 {
 components = (
@@ -7505,7 +7506,7 @@ name = L;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 319, -110}";
+transform = "{1, 0, 0, 1, 298, -110}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -24340,7 +24341,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2015-12-05 02:46:01 +0000";
+lastChange = "2015-12-05 02:48:30 +0000";
 layers = (
 {
 components = (
@@ -24375,7 +24376,7 @@ name = d;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 415, -105}";
+transform = "{1, 0, 0, 1, 394, -105}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -34237,7 +34238,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2015-12-05 02:46:16 +0000";
+lastChange = "2015-12-05 02:48:30 +0000";
 layers = (
 {
 components = (
@@ -34272,7 +34273,7 @@ name = l;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 185, -105}";
+transform = "{1, 0, 0, 1, 164, -105}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -42188,7 +42189,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2015-11-25 22:15:52 +0000";
+lastChange = "2015-12-05 02:50:02 +0000";
 layers = (
 {
 anchors = (
@@ -42420,7 +42421,7 @@ position = "{169, 456}";
 },
 {
 name = topright;
-position = "{262, 419}";
+position = "{204, 483}";
 }
 );
 background = {
@@ -43186,6 +43187,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
+lastChange = "2015-12-05 02:50:01 +0000";
 layers = (
 {
 components = (
@@ -43220,7 +43222,7 @@ name = t;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 222, -101}";
+transform = "{1, 0, 0, 1, 143, -37}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -73305,7 +73307,7 @@ unicode = 0338;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2015-12-05 02:43:15 +0000";
+lastChange = "2015-12-05 02:49:54 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -73316,7 +73318,7 @@ width = 600;
 anchors = (
 {
 name = _topright;
-position = "{40, 520}";
+position = "{61, 520}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -73325,22 +73327,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"133 503 OFFCURVE",
-"184 578 OFFCURVE",
-"184 643 CURVE SMOOTH",
-"184 690 OFFCURVE",
-"158 716 OFFCURVE",
-"128 716 CURVE SMOOTH",
-"100 716 OFFCURVE",
-"81 694 OFFCURVE",
-"81 667 CURVE SMOOTH",
-"81 639 OFFCURVE",
-"100 623 OFFCURVE",
-"100 585 CURVE SMOOTH",
-"100 558 OFFCURVE",
-"85 518 OFFCURVE",
-"59 477 CURVE",
-"91 456 LINE"
+"145 481 OFFCURVE",
+"181 541 OFFCURVE",
+"181 588 CURVE SMOOTH",
+"181 630 OFFCURVE",
+"158 656 OFFCURVE",
+"128 656 CURVE SMOOTH",
+"100 656 OFFCURVE",
+"81 636 OFFCURVE",
+"81 609 CURVE SMOOTH",
+"81 581 OFFCURVE",
+"100 564 OFFCURVE",
+"100 533 CURVE SMOOTH",
+"100 510 OFFCURVE",
+"91 480 OFFCURVE",
+"74 452 CURVE",
+"109 432 LINE"
 );
 }
 );
