@@ -43840,7 +43840,7 @@ rightKerningGroup = t;
 {
 color = 0;
 glyphname = tbar;
-lastChange = "2015-12-05 03:32:20 +0000";
+lastChange = "2015-12-05 03:33:00 +0000";
 layers = (
 {
 anchors = (
@@ -44080,10 +44080,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"438 267 LINE",
+"438 284 LINE",
 "438 357 LINE",
 "15 357 LINE",
-"15 267 LINE"
+"15 284 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"376 180 LINE",
+"376 253 LINE",
+"15 253 LINE",
+"15 180 LINE"
 );
 }
 );
