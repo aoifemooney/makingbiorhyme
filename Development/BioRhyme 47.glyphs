@@ -52,7 +52,8 @@ L/Lacute,
 "/ecaron \U00EA/acutecomb \U00ED\U00EE/gravecomb/idotless \U00EC/imacron",
 e,
 "\U00C9/caroncomb/Ecaron \U00CAL/caroncomb.alt L/caroncomb.alt/Lcaron N/Nacute/Ycircumflex d/dcaron l/lcaron/nacute/ncaron/tildecomb \U00F1t/caroncomb.alt/tcaron/circumflexcomb \U00FB",
-r/acutecomb/racute
+r/acutecomb/racute,
+"/acutecomb r/racute ss/sacute u\U00FA/ygrave"
 );
 classes = (
 {
@@ -40927,7 +40928,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2015-12-05 16:53:24 +0000";
+lastChange = "2015-12-05 16:55:10 +0000";
 layers = (
 {
 anchors = (
@@ -41288,7 +41289,7 @@ position = "{411, 0}";
 },
 {
 name = top;
-position = "{411, 357}";
+position = "{501, 357}";
 }
 );
 background = {
@@ -41405,7 +41406,7 @@ unicode = 0072;
 },
 {
 glyphname = racute;
-lastChange = "2015-12-05 16:54:12 +0000";
+lastChange = "2015-12-05 16:55:10 +0000";
 layers = (
 {
 components = (
@@ -41456,7 +41457,7 @@ name = r;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 155, -163}";
+transform = "{1, 0, 0, 1, 245, -163}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -41594,7 +41595,7 @@ unicode = 0157;
 {
 color = 4;
 glyphname = s;
-lastChange = "2015-12-05 16:47:11 +0000";
+lastChange = "2015-12-05 16:55:17 +0000";
 layers = (
 {
 anchors = (
@@ -42009,7 +42010,7 @@ position = "{368, -7}";
 },
 {
 name = top;
-position = "{344, 367}";
+position = "{364, 367}";
 }
 );
 background = {
@@ -42141,7 +42142,7 @@ unicode = 0073;
 },
 {
 glyphname = sacute;
-lastChange = "2015-12-05 16:47:14 +0000";
+lastChange = "2015-12-05 16:55:17 +0000";
 layers = (
 {
 components = (
@@ -42192,7 +42193,7 @@ name = s;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 88, -153}";
+transform = "{1, 0, 0, 1, 108, -153}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -72207,7 +72208,7 @@ unicode = 0300;
 },
 {
 glyphname = acutecomb;
-lastChange = "2015-12-05 16:54:12 +0000";
+lastChange = "2015-12-05 16:55:05 +0000";
 layers = (
 {
 anchors = (
@@ -72327,10 +72328,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"345 781 LINE",
-"399 701 LINE",
-"118 541 LINE",
-"90 582 LINE"
+"375 781 LINE",
+"429 701 LINE",
+"148 541 LINE",
+"120 582 LINE"
 );
 }
 );
