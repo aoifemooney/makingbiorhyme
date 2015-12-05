@@ -28,7 +28,7 @@ L/Lcaron,
 "/Lcaron/dcaron/gravecomb \U00EC/lcaron/tcaron",
 "/Lcaron/dcaron/gravecomb \U00EC/lcaron/caroncomb/circumflexcomb u\U00FB/uhungarumlaut/macroncomb/umacron/acutecomb/hungarumlautcomb",
 /Acircumflexhookabove/Lacute/Uogonek/Uring/rcommaaccent/circumflexcomb/wcircumflex,
-"/hookabovecomb/circumflexcomb/Acircumflexhookabove L/Lacute/caroncomb N/Ncaron U/Uogonek/Uring r/rcommaaccent/circumflexcomb w/wcircumflex"
+"/hookabovecomb/circumflexcomb/Acircumflexhookabove L/Lacute/caroncomb N/Ncaron UU/Uogonek/Uring r/rcommaaccent/circumflexcomb w/wcircumflex"
 );
 classes = (
 {
@@ -8606,7 +8606,7 @@ unicode = 004E;
 },
 {
 glyphname = Nacute;
-lastChange = "2015-12-05 16:21:15 +0000";
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -8643,7 +8643,7 @@ name = N;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 211, 0}";
+transform = "{1, 0, 0, 1, 191, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -8732,6 +8732,7 @@ unicode = 0147;
 },
 {
 glyphname = Ncommaaccent;
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -8768,7 +8769,7 @@ name = N;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 260, 0}";
+transform = "{1, 0, 0, 1, 270, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -8794,7 +8795,7 @@ unicode = 0145;
 },
 {
 glyphname = Ntilde;
-lastChange = "2015-11-25 15:14:06 +0000";
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -8831,7 +8832,7 @@ name = N;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 158, 0}";
+transform = "{1, 0, 0, 1, 138, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -13927,7 +13928,7 @@ unicode = 0162;
 },
 {
 glyphname = U;
-lastChange = "2015-12-05 16:24:29 +0000";
+lastChange = "2015-12-05 16:25:11 +0000";
 layers = (
 {
 anchors = (
@@ -14245,8 +14246,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"294 424 LINE",
-"294 520 LINE",
+"289 424 LINE",
+"289 520 LINE",
 "5 520 LINE",
 "5 424 LINE"
 );
@@ -14256,8 +14257,8 @@ closed = 1;
 nodes = (
 "666 424 LINE",
 "666 520 LINE",
-"380 520 LINE",
-"380 424 LINE"
+"386 520 LINE",
+"386 424 LINE"
 );
 }
 );
@@ -14336,7 +14337,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2015-12-05 16:21:06 +0000";
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -14373,7 +14374,7 @@ name = U;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 178, -10}";
+transform = "{1, 0, 0, 1, 178, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -14401,7 +14402,7 @@ unicode = 00DA;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2015-11-25 15:13:51 +0000";
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -14438,7 +14439,7 @@ name = U;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 176, -11}";
+transform = "{1, 0, 0, 1, 176, -1}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -14466,7 +14467,7 @@ unicode = 00DB;
 },
 {
 glyphname = Udieresis;
-lastChange = "2015-11-25 15:13:51 +0000";
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -14503,7 +14504,7 @@ name = U;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 122, -11}";
+transform = "{1, 0, 0, 1, 122, -1}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -14531,7 +14532,7 @@ unicode = 00DC;
 },
 {
 glyphname = Ugrave;
-lastChange = "2015-11-25 15:13:51 +0000";
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -14568,7 +14569,7 @@ name = U;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 140, -10}";
+transform = "{1, 0, 0, 1, 140, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -14596,6 +14597,7 @@ unicode = 00D9;
 },
 {
 glyphname = Uhungarumlaut;
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -14632,7 +14634,7 @@ name = U;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 124, -10}";
+transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -14658,6 +14660,7 @@ unicode = 0170;
 },
 {
 glyphname = Umacron;
+lastChange = "2015-12-05 16:25:16 +0000";
 layers = (
 {
 components = (
@@ -14694,7 +14697,7 @@ name = U;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 128, -10}";
+transform = "{1, 0, 0, 1, 128, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
