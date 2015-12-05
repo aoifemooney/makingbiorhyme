@@ -20,7 +20,7 @@ L/Lcaron,
 /strokeshortcomb/dcroat/hbar/tbar,
 /lcaron,
 /caroncomb.alt,
-/Hbar/Lslash/Tbar/lslash/caroncomb.alt
+"/Hbar/Lslash T/Tbar/lslash/caroncomb.alt"
 );
 classes = (
 {
@@ -263,6 +263,7 @@ verticalStems = (
 123,
 129
 );
+visible = 1;
 weight = Bold;
 weightValue = 800;
 xHeight = 357;
@@ -7599,7 +7600,7 @@ unicode = 013B;
 {
 color = 0;
 glyphname = Lslash;
-lastChange = "2015-12-05 15:44:16 +0000";
+lastChange = "2015-12-05 15:48:44 +0000";
 layers = (
 {
 components = (
@@ -7618,13 +7619,21 @@ width = 869;
 components = (
 {
 name = L;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"314 313 LINE",
+"314 338 LINE",
+"27 192 LINE",
+"27 167 LINE"
+);
+}
+);
 width = 537;
 },
 {
@@ -13672,7 +13681,7 @@ unicode = 0054;
 },
 {
 glyphname = Tbar;
-lastChange = "2015-12-05 15:42:47 +0000";
+lastChange = "2015-12-05 15:47:21 +0000";
 layers = (
 {
 components = (
@@ -13691,13 +13700,21 @@ width = 921;
 components = (
 {
 name = T;
-},
-{
-name = strokeshortcomb;
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"482 218 LINE",
+"482 240 LINE",
+"97 240 LINE",
+"97 218 LINE"
+);
+}
+);
 width = 579;
 },
 {
@@ -13712,8 +13729,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"522 193 LINE",
-"522 267 LINE",
+"521 193 LINE",
+"521 267 LINE",
 "77 267 LINE",
 "77 193 LINE"
 );
