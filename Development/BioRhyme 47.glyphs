@@ -19,7 +19,8 @@ L/Lcaron,
 /hungarumlautcomb/ohungarumlaut,
 /strokeshortcomb/dcroat/hbar/tbar,
 /lcaron,
-/caroncomb.alt
+/caroncomb.alt,
+/Hbar/Lslash/Tbar/lslash/caroncomb.alt
 );
 classes = (
 {
@@ -7598,7 +7599,7 @@ unicode = 013B;
 {
 color = 0;
 glyphname = Lslash;
-lastChange = "2015-12-04 19:20:36 +0000";
+lastChange = "2015-12-05 15:44:16 +0000";
 layers = (
 {
 components = (
@@ -7630,13 +7631,21 @@ width = 537;
 components = (
 {
 name = L;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"314 271 LINE",
+"314 341 LINE",
+"27 237 LINE",
+"27 167 LINE"
+);
+}
+);
 width = 554;
 },
 {
@@ -13663,6 +13672,7 @@ unicode = 0054;
 },
 {
 glyphname = Tbar;
+lastChange = "2015-12-05 15:42:47 +0000";
 layers = (
 {
 components = (
@@ -13694,13 +13704,21 @@ width = 579;
 components = (
 {
 name = T;
-},
-{
-name = strokeshortcomb;
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"522 193 LINE",
+"522 267 LINE",
+"77 267 LINE",
+"77 193 LINE"
+);
+}
+);
 width = 598;
 },
 {
@@ -35078,6 +35096,7 @@ unicode = 013C;
 },
 {
 glyphname = lslash;
+lastChange = "2015-12-05 15:44:53 +0000";
 layers = (
 {
 components = (
@@ -35109,13 +35128,21 @@ width = 249;
 components = (
 {
 name = l;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"273 271 LINE",
+"273 341 LINE",
+"17 237 LINE",
+"17 167 LINE"
+);
+}
+);
 width = 275;
 },
 {
