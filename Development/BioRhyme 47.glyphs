@@ -16,7 +16,8 @@ DisplayStrings = (
 L/Lcaron,
 "/caroncomb.alt/Lcaron d/dcaron l/lcaron tfhH/tcaron",
 "/Lcaron/dcaron/lcaron/caroncomb.alt t/tcaron",
-/hungarumlautcomb/ohungarumlaut
+/hungarumlautcomb/ohungarumlaut,
+/dcroat/hbar/tbar
 );
 classes = (
 {
@@ -24403,7 +24404,7 @@ unicode = 010F;
 {
 color = 0;
 glyphname = dcroat;
-lastChange = "2015-12-04 19:20:44 +0000";
+lastChange = "2015-12-05 03:23:43 +0000";
 layers = (
 {
 components = (
@@ -24412,6 +24413,7 @@ name = d;
 },
 {
 name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 229, 198}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -24425,6 +24427,7 @@ name = d;
 },
 {
 name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 61, 190}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -24452,6 +24455,7 @@ name = d;
 },
 {
 name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 228, 202}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -28926,7 +28930,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2015-12-04 17:49:43 +0000";
+lastChange = "2015-12-05 03:23:18 +0000";
 layers = (
 {
 anchors = (
@@ -29880,15 +29884,15 @@ width = 550;
 anchors = (
 {
 name = bottom;
-position = "{450, 0}";
+position = "{465, 0}";
 },
 {
 name = center;
-position = "{450, 179}";
+position = "{465, 179}";
 },
 {
 name = top;
-position = "{450, 367}";
+position = "{465, 367}";
 }
 );
 associatedMasterId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -29898,71 +29902,71 @@ paths = (
 {
 closed = 1;
 nodes = (
-"737 0 LINE",
-"737 135 LINE",
-"737 257 OFFCURVE",
-"688 367 OFFCURVE",
-"532 367 CURVE SMOOTH",
-"396 367 OFFCURVE",
-"273 263 OFFCURVE",
-"209 211 CURVE",
-"209 188 LINE",
-"273 239 OFFCURVE",
-"396 344 OFFCURVE",
-"532 344 CURVE SMOOTH",
-"678 344 OFFCURVE",
-"712 237 OFFCURVE",
-"712 135 CURVE",
-"712 0 LINE"
+"752 0 LINE",
+"752 135 LINE",
+"752 257 OFFCURVE",
+"703 367 OFFCURVE",
+"547 367 CURVE SMOOTH",
+"411 367 OFFCURVE",
+"288 263 OFFCURVE",
+"224 211 CURVE",
+"224 188 LINE",
+"288 239 OFFCURVE",
+"411 344 OFFCURVE",
+"547 344 CURVE SMOOTH",
+"693 344 OFFCURVE",
+"727 237 OFFCURVE",
+"727 135 CURVE",
+"727 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"404 0 LINE",
-"404 23 LINE",
-"15 23 LINE",
-"15 0 LINE"
+"419 0 LINE",
+"419 23 LINE",
+"30 23 LINE",
+"30 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"222 0 LINE",
-"222 520 LINE",
-"197 520 LINE",
-"197 0 LINE"
+"237 0 LINE",
+"237 520 LINE",
+"212 520 LINE",
+"212 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"209 497 LINE",
-"209 520 LINE",
-"205 520 LINE",
-"205 497 LINE"
+"224 497 LINE",
+"224 520 LINE",
+"220 520 LINE",
+"220 497 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"919 0 LINE",
-"919 23 LINE",
-"530 23 LINE",
-"530 0 LINE"
+"934 0 LINE",
+"934 23 LINE",
+"545 23 LINE",
+"545 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"451 414 LINE",
-"451 436 LINE",
-"15 436 LINE",
-"15 414 LINE"
+"466 414 LINE",
+"466 436 LINE",
+"30 436 LINE",
+"30 414 LINE"
 );
 }
 );
-width = 886;
+width = 947;
 }
 );
 leftKerningGroup = h;
