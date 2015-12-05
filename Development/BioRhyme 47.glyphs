@@ -77,7 +77,8 @@ N,
 "/circumflexcomb \U00C2/caroncomb/Ccaron",
 "/circumflexcomb \U00C2/caroncomb/Ccaron",
 "/acutecomb \U00F3/gravecomb \U00F2",
-/tcedilla
+/tcedilla,
+X
 );
 classes = (
 {
@@ -15859,7 +15860,7 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2015-11-25 21:53:20 +0000";
+lastChange = "2015-12-05 19:12:53 +0000";
 layers = (
 {
 anchors = (
@@ -16183,12 +16184,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"507 434 LINE",
+"507 424 LINE",
 "602 424 LINE",
 "602 520 LINE",
 "351 520 LINE",
-"351 434 LINE",
-"507 434 LINE",
-"507 424 LINE"
+"351 434 LINE"
 );
 }
 );
