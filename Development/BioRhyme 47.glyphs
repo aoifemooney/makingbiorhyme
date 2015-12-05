@@ -35025,7 +35025,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2015-12-05 16:09:26 +0000";
+lastChange = "2015-12-05 16:13:23 +0000";
 layers = (
 {
 components = (
@@ -35034,9 +35034,11 @@ name = l;
 },
 {
 name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 344, -145}";
 },
 {
 name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 344, -145}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -44214,7 +44216,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2015-12-05 16:09:26 +0000";
+lastChange = "2015-12-05 16:13:23 +0000";
 layers = (
 {
 components = (
@@ -44223,6 +44225,7 @@ name = t;
 },
 {
 name = caroncomb.alt;
+transform = "{1, 0, 0, 1, 317, -83}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -74335,9 +74338,15 @@ unicode = 0338;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2015-12-05 16:11:07 +0000";
+lastChange = "2015-12-05 16:14:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = _topright;
+position = "{37, 502}";
+}
+);
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
 paths = (
@@ -74355,7 +74364,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 221;
 },
 {
 anchors = (
@@ -74409,9 +74418,30 @@ nodes = (
 width = 248;
 },
 {
+anchors = (
+{
+name = _topright;
+position = "{61, 520}";
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"99 586 OFFCURVE",
+"90 540 OFFCURVE",
+"69 497 CURVE",
+"85 491 LINE",
+"112 533 OFFCURVE",
+"126 578 OFFCURVE",
+"128 627 CURVE",
+"97 633 LINE"
+);
+}
+);
+width = 221;
 },
 {
 anchors = (
