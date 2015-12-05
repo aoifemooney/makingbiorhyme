@@ -81,7 +81,7 @@ N,
 X,
 /W.bold,
 "nonoZneJo\012nevov",
-"nongnon \012HOHEHOH\012HOHAHOH\012ABb\012HOH'H'HOH\012HOH\"H\"HOH\012HOH/quoteleft H/quoteright HOH\012HOH/quotedblleft H/quotedblright HOH\0120106975Ha053\012anzeanH/W.bold MWW?/quoteright !\012\012HZZH\012HOHCHOH\012HOHKHOH\012HOHLHOH\012ogo ege gdg\012HOHAVANAHAWAH\012HOHAYAHOHATAHOHHOHAFAHBOHAPAHOHFANTASTIC\012\012HOHACAHO\012HOHAGHOHAOAHOH\012\012nonwAwnonwx\012nonBynon\012nonFanon\012HOHAC\U00C6HOH\012HOHTCATHOH\012HABITATBA"
+"nongnon \012HOHEHOH\012HOHAHOH\012ABb\012HOH'H'HOH\012HOH\"H\"HOH\012HOH/quoteleft H/quoteright HOH\012HOH/quotedblleft H/quotedblright HOH\0120106975Ha053\012anzeanH/W.bold MWW?/quoteright !\012\012HZZH\012HOHCHOH\012HOHKHOH\012HOHLHOH\012ogo ege gdg\012HOHAVANAHAWAH\012HOHAYAHOHATAHOHHOHAFAHBOHAPAHOHFANTASTIC\012\012HOHACAHO\012HOHAGHOHAOAHOH\012\012nonwAwnonwx\012nonBynon\012nonFanon\012HOHACHOF\U00C6HOH\012HOHTFATAVAHOH\012HABITATBA"
 );
 classes = (
 {
@@ -391,7 +391,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-12-05 22:40:54 +0000";
+lastChange = "2015-12-05 22:45:35 +0000";
 layers = (
 {
 anchors = (
@@ -1677,7 +1677,7 @@ unicode = 00C3;
 {
 color = 0;
 glyphname = AE;
-lastChange = "2015-12-05 22:42:42 +0000";
+lastChange = "2015-12-05 22:43:42 +0000";
 layers = (
 {
 anchors = (
@@ -13563,7 +13563,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2015-12-05 22:40:57 +0000";
+lastChange = "2015-12-05 22:45:17 +0000";
 layers = (
 {
 anchors = (
@@ -14918,7 +14918,7 @@ unicode = 016E;
 {
 color = 0;
 glyphname = V;
-lastChange = "2015-12-05 22:33:13 +0000";
+lastChange = "2015-12-05 22:45:30 +0000";
 layers = (
 {
 anchors = (
@@ -77815,7 +77815,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    X
+    W,
+    w
 );
 },
 {
@@ -81163,9 +81164,9 @@ y = {
 "@MMK_R_J" = -15;
 "@MMK_R_O" = -20;
 "@MMK_R_S" = -15;
-"@MMK_R_T" = -30;
+"@MMK_R_T" = -50;
 "@MMK_R_U" = -25;
-"@MMK_R_V" = -50;
+"@MMK_R_V" = -70;
 "@MMK_R_X" = -15;
 "@MMK_R_Z" = -5;
 "@MMK_R_a" = 0;
@@ -81289,9 +81290,10 @@ g = -15;
 "@MMK_R_x" = -15;
 "@MMK_R_z" = -10;
 Eth = 10;
+"@MMK_R_AE" = -25;
 };
 "@MMK_L_F" = {
-"@MMK_R_A" = -35;
+"@MMK_R_A" = -40;
 "@MMK_R_J" = -30;
 "@MMK_R_O" = 0;
 "@MMK_R_S" = -15;
@@ -81325,6 +81327,7 @@ Eth = 10;
 "@MMK_R_z" = -25;
 exclamdown = 0;
 g = -55;
+"@MMK_R_AE" = -65;
 };
 "@MMK_L_G" = {
 "@MMK_R_H" = 0;
@@ -81567,7 +81570,7 @@ g = 0;
 g = -5;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = -30;
+"@MMK_R_A" = -50;
 "@MMK_R_J" = -20;
 "@MMK_R_O" = -5;
 "@MMK_R_S" = -10;
@@ -81660,7 +81663,7 @@ Eth = 10;
 "@MMK_R_z" = -15;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -50;
+"@MMK_R_A" = -70;
 "@MMK_R_AE" = -60;
 "@MMK_R_J" = -25;
 "@MMK_R_O" = -20;
