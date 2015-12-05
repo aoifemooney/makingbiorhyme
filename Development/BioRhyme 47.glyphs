@@ -81,7 +81,7 @@ N,
 X,
 /W.bold,
 "nonoZneJo\012nevov",
-"nongnon \012HOHEHOH\012HOHAHOH\012ABb\012HOH'H'HOH\012HOH\"H\"HOH\012HOH/quoteleft H/quoteright HOH\012HOH/quotedblleft H/quotedblright HOH\0120106975Ha053\012anzeanH/W.bold MWW?/quoteright !\012\012HZH"
+"nongnon \012HOHEHOH\012HOHAHOH\012ABb\012HOH'H'HOH\012HOH\"H\"HOH\012HOH/quoteleft H/quoteright HOH\012HOH/quotedblleft H/quotedblright HOH\0120106975Ha053\012anzeanH/W.bold MWW?/quoteright !\012\012HZZH"
 );
 classes = (
 {
@@ -16868,7 +16868,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Z;
-lastChange = "2015-12-05 19:59:16 +0000";
+lastChange = "2015-12-05 20:00:08 +0000";
 layers = (
 {
 anchors = (
@@ -16994,6 +16994,35 @@ name = top;
 position = "{309, 520}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"539 0 LINE",
+"539 200 LINE",
+"431 200 LINE",
+"431 96 LINE",
+"121 96 LINE",
+"83 31 LINE",
+"89 21 LINE",
+"146 32 LINE",
+"535 434 LINE",
+"535 520 LINE",
+"45 520 LINE",
+"45 320 LINE",
+"153 320 LINE",
+"153 424 LINE",
+"462 424 LINE",
+"499 493 LINE",
+"494 499 LINE",
+"437 488 LINE",
+"48 86 LINE",
+"48 0 LINE"
+);
+}
+);
+};
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
 paths = (
@@ -17020,6 +17049,15 @@ nodes = (
 "437 488 LINE",
 "48 86 LINE",
 "48 0 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"350 424 LINE",
+"403 431 LINE",
+"404 425 LINE",
+"356 406 LINE SMOOTH"
 );
 }
 );
