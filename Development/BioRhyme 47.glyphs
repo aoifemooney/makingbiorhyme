@@ -35025,7 +35025,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2015-12-05 16:07:46 +0000";
+lastChange = "2015-12-05 16:09:26 +0000";
 layers = (
 {
 components = (
@@ -35077,7 +35077,7 @@ name = l;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 252, -103}";
+transform = "{1, 0, 0, 1, 263, -103}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -44214,7 +44214,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2015-12-05 16:06:49 +0000";
+lastChange = "2015-12-05 16:09:26 +0000";
 layers = (
 {
 components = (
@@ -44263,7 +44263,7 @@ name = t;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 287, -101}";
+transform = "{1, 0, 0, 1, 298, -101}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -74335,11 +74335,26 @@ unicode = 0338;
 },
 {
 glyphname = caroncomb.alt;
-lastChange = "2015-12-05 16:08:54 +0000";
+lastChange = "2015-12-05 16:11:07 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"129 585 OFFCURVE",
+"107 540 OFFCURVE",
+"60 507 CURVE",
+"70 494 LINE",
+"119 521 OFFCURVE",
+"156 578 OFFCURVE",
+"161 631 CURVE",
+"134 635 LINE"
+);
+}
+);
 width = 600;
 },
 {
@@ -74402,7 +74417,7 @@ width = 600;
 anchors = (
 {
 name = _topright;
-position = "{61, 520}";
+position = "{50, 520}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -74411,14 +74426,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"142 590 OFFCURVE",
+"127 592 OFFCURVE",
 "109 545 OFFCURVE",
 "57 507 CURVE",
 "80 474 LINE",
 "169 506 OFFCURVE",
-"225 569 OFFCURVE",
-"226 624 CURVE",
-"139 633 LINE"
+"208 567 OFFCURVE",
+"211 618 CURVE",
+"129 635 LINE"
 );
 }
 );
