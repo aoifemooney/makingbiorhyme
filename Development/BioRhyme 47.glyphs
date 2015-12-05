@@ -198,6 +198,7 @@ id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 xHeight = 357;
@@ -7627,10 +7628,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"314 313 LINE",
-"314 338 LINE",
-"27 192 LINE",
-"27 167 LINE"
+"314 293 LINE",
+"314 318 LINE",
+"27 212 LINE",
+"27 187 LINE"
 );
 }
 );
@@ -35113,7 +35114,7 @@ unicode = 013C;
 },
 {
 glyphname = lslash;
-lastChange = "2015-12-05 15:44:53 +0000";
+lastChange = "2015-12-05 15:50:48 +0000";
 layers = (
 {
 components = (
@@ -35132,13 +35133,21 @@ width = 449;
 components = (
 {
 name = l;
-},
-{
-name = slashshortcomb;
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"223 280 LINE",
+"223 303 LINE",
+"21 217 LINE",
+"21 194 LINE"
+);
+}
+);
 width = 249;
 },
 {
@@ -35153,10 +35162,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"273 271 LINE",
-"273 341 LINE",
-"17 237 LINE",
-"17 167 LINE"
+"273 275 LINE",
+"273 345 LINE",
+"15 241 LINE",
+"15 171 LINE"
 );
 }
 );
