@@ -85,7 +85,8 @@ X,
 /eng,
 9,
 /Wgrave,
-/Wcircumflex/Wdieresis/Wgrave
+/Wcircumflex/Wdieresis/Wgrave,
+/w.bold/wacute/wcircumflex/wdieresis/wgrave
 );
 classes = (
 {
@@ -2768,7 +2769,7 @@ unicode = 0043;
 },
 {
 glyphname = Cacute;
-lastChange = "2015-12-06 01:13:56 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -2796,7 +2797,7 @@ transform = "{1, 0, 0, 1, 162, 10}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 561;
+width = 566;
 },
 {
 components = (
@@ -2898,7 +2899,7 @@ unicode = 010C;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2015-12-06 01:13:56 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -2926,7 +2927,7 @@ transform = "{1, 0, 0, 1, 201, -11}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 561;
+width = 566;
 },
 {
 components = (
@@ -3961,7 +3962,7 @@ unicode = 00CA;
 },
 {
 glyphname = Edieresis;
-lastChange = "2015-12-06 01:14:30 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -3989,7 +3990,7 @@ transform = "{1, 0, 0, 1, 92, 0}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 587;
+width = 582;
 },
 {
 components = (
@@ -4026,7 +4027,7 @@ unicode = 00CB;
 },
 {
 glyphname = Edotaccent;
-lastChange = "2015-12-06 01:14:30 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -4054,7 +4055,7 @@ transform = "{1, 0, 0, 1, 213, -37}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 587;
+width = 582;
 },
 {
 components = (
@@ -4091,7 +4092,7 @@ unicode = 0116;
 },
 {
 glyphname = Egrave;
-lastChange = "2015-12-06 16:09:48 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -4119,7 +4120,7 @@ transform = "{1, 0, 0, 1, 132, 0}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 587;
+width = 582;
 },
 {
 components = (
@@ -4156,7 +4157,7 @@ unicode = 00C8;
 },
 {
 glyphname = Emacron;
-lastChange = "2015-12-06 01:14:30 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -4184,7 +4185,7 @@ transform = "{1, 0, 0, 1, 110, -37}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 587;
+width = 582;
 },
 {
 components = (
@@ -4221,7 +4222,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2015-12-06 01:14:30 +0000";
+lastChange = "2015-12-06 16:32:41 +0000";
 layers = (
 {
 components = (
@@ -4249,7 +4250,7 @@ transform = "{1, 0, 0, 1, 378, 8}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 587;
+width = 582;
 },
 {
 components = (
@@ -15832,7 +15833,7 @@ unicode = 1E82;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2015-12-06 16:30:25 +0000";
+lastChange = "2015-12-06 16:30:37 +0000";
 layers = (
 {
 components = (
@@ -15851,16 +15852,16 @@ width = 1256;
 {
 components = (
 {
-name = W.bold;
+name = W;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 277, 0}";
+transform = "{1, 0, 0, 1, 284, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 881;
+width = 903;
 },
 {
 components = (
@@ -15897,7 +15898,7 @@ unicode = 0174;
 },
 {
 glyphname = Wdieresis;
-lastChange = "2015-12-06 16:30:19 +0000";
+lastChange = "2015-12-06 16:30:54 +0000";
 layers = (
 {
 components = (
@@ -15916,16 +15917,16 @@ width = 1256;
 {
 components = (
 {
-name = W.bold;
+name = W;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 224, 0}";
+transform = "{1, 0, 0, 1, 231, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 881;
+width = 903;
 },
 {
 components = (
@@ -15962,35 +15963,35 @@ unicode = 1E84;
 },
 {
 glyphname = Wgrave;
-lastChange = "2015-12-06 16:30:08 +0000";
+lastChange = "2015-12-06 16:31:13 +0000";
 layers = (
 {
 components = (
 {
-name = W.bold;
+name = W;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 403, 0}";
+transform = "{1, 0, 0, 1, 398, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1256;
+width = 1212;
 },
 {
 components = (
 {
-name = W.bold;
+name = W;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 264, 0}";
+transform = "{1, 0, 0, 1, 271, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 881;
+width = 903;
 },
 {
 components = (
@@ -47532,7 +47533,7 @@ unicode = 0077;
 },
 {
 glyphname = wacute;
-lastChange = "2015-12-06 16:12:30 +0000";
+lastChange = "2015-12-06 16:32:11 +0000";
 layers = (
 {
 background = {
@@ -47598,16 +47599,16 @@ transform = "{1, 0, 0, 1, 226, -153}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 226, -153}";
+transform = "{1, 0, 0, 1, 183, -163}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 741;
+width = 677;
 },
 {
 background = {
@@ -47623,16 +47624,16 @@ transform = "{1, 0, 0, 1, 324, -143}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 324, -143}";
+transform = "{1, 0, 0, 1, 328, -143}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1035;
+width = 1039;
 }
 );
 leftKerningGroup = v;
@@ -47641,7 +47642,7 @@ unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2015-12-06 16:12:29 +0000";
+lastChange = "2015-12-06 16:32:07 +0000";
 layers = (
 {
 background = {
@@ -47707,16 +47708,16 @@ transform = "{1, 0, 0, 1, 224, -154}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 224, -154}";
+transform = "{1, 0, 0, 1, 181, -164}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 741;
+width = 677;
 },
 {
 background = {
@@ -47732,16 +47733,16 @@ transform = "{1, 0, 0, 1, 302, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 302, -163}";
+transform = "{1, 0, 0, 1, 306, -163}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1035;
+width = 1039;
 }
 );
 leftKerningGroup = v;
@@ -47750,7 +47751,7 @@ unicode = 0175;
 },
 {
 glyphname = wdieresis;
-lastChange = "2015-12-06 16:12:29 +0000";
+lastChange = "2015-12-06 16:32:03 +0000";
 layers = (
 {
 background = {
@@ -47816,16 +47817,16 @@ transform = "{1, 0, 0, 1, 170, -154}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 170, -154}";
+transform = "{1, 0, 0, 1, 127, -164}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 741;
+width = 677;
 },
 {
 background = {
@@ -47841,16 +47842,16 @@ transform = "{1, 0, 0, 1, 294, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 294, -163}";
+transform = "{1, 0, 0, 1, 298, -163}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1035;
+width = 1039;
 }
 );
 leftKerningGroup = v;
@@ -47859,7 +47860,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2015-12-06 16:12:30 +0000";
+lastChange = "2015-12-06 16:31:59 +0000";
 layers = (
 {
 background = {
@@ -47925,16 +47926,16 @@ transform = "{1, 0, 0, 1, 188, -153}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 188, -153}";
+transform = "{1, 0, 0, 1, 145, -163}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 741;
+width = 677;
 },
 {
 background = {
@@ -47950,16 +47951,16 @@ transform = "{1, 0, 0, 1, 235, -143}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 235, -143}";
+transform = "{1, 0, 0, 1, 239, -143}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1035;
+width = 1039;
 }
 );
 leftKerningGroup = v;
