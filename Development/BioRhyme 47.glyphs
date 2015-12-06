@@ -391,7 +391,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-12-06 00:37:26 +0000";
+lastChange = "2015-12-06 00:40:02 +0000";
 layers = (
 {
 anchors = (
@@ -471,19 +471,19 @@ width = 1024;
 anchors = (
 {
 name = bottom;
-position = "{334, 0}";
+position = "{329, 0}";
 },
 {
 name = hook;
-position = "{410, 580}";
+position = "{405, 580}";
 },
 {
 name = ogonek;
-position = "{573, 13}";
+position = "{568, 13}";
 },
 {
 name = top;
-position = "{335, 520}";
+position = "{330, 520}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -492,54 +492,54 @@ paths = (
 {
 closed = 1;
 nodes = (
-"125 13 LINE",
-"335 502 LINE",
-"335 502 LINE",
-"545 13 LINE",
-"573 13 LINE",
-"355 510 LINE SMOOTH",
-"315 510 LINE",
-"100 13 LINE"
+"120 13 LINE",
+"330 502 LINE",
+"330 502 LINE",
+"540 13 LINE",
+"568 13 LINE",
+"350 510 LINE SMOOTH",
+"310 510 LINE",
+"95 13 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"229 0 LINE",
-"229 23 LINE",
-"0 23 LINE",
-"0 0 LINE"
+"224 0 LINE",
+"224 23 LINE",
+"-5 23 LINE",
+"-5 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"485 198 LINE",
-"468 221 LINE",
-"202 221 LINE",
-"184 198 LINE"
+"480 198 LINE",
+"463 221 LINE",
+"197 221 LINE",
+"179 198 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"672 0 LINE",
-"672 23 LINE",
-"444 23 LINE",
-"444 0 LINE"
+"667 0 LINE",
+"667 23 LINE",
+"439 23 LINE",
+"439 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"468 497 LINE",
-"468 520 LINE",
-"202 520 LINE",
-"202 497 LINE"
+"463 497 LINE",
+"463 520 LINE",
+"197 520 LINE",
+"197 497 LINE"
 );
 }
 );
-width = 672;
+width = 662;
 },
 {
 anchors = (
@@ -1134,7 +1134,7 @@ unicode = 0102;
 },
 {
 glyphname = Acircumflex;
-lastChange = "2015-12-05 22:37:28 +0000";
+lastChange = "2015-12-06 00:39:45 +0000";
 layers = (
 {
 components = (
@@ -1157,12 +1157,12 @@ name = A;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+transform = "{1, 0, 0, 1, 163, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 672;
+width = 662;
 },
 {
 components = (
@@ -1199,7 +1199,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2015-12-05 20:04:58 +0000";
+lastChange = "2015-12-06 00:39:45 +0000";
 layers = (
 {
 components = (
@@ -1226,16 +1226,16 @@ name = A;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+transform = "{1, 0, 0, 1, 163, 0}";
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 236, 70}";
+transform = "{1, 0, 0, 1, 231, 70}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 672;
+width = 662;
 },
 {
 components = (
@@ -14918,7 +14918,7 @@ unicode = 016E;
 {
 color = 0;
 glyphname = V;
-lastChange = "2015-12-06 00:19:46 +0000";
+lastChange = "2015-12-06 00:39:49 +0000";
 layers = (
 {
 anchors = (
@@ -79662,7 +79662,7 @@ y = {
 "@MMK_R_S" = -15;
 "@MMK_R_T" = -35;
 "@MMK_R_U" = -40;
-"@MMK_R_V" = -60;
+"@MMK_R_V" = -50;
 "@MMK_R_X" = -30;
 "@MMK_R_Z" = -10;
 "@MMK_R_a" = -30;
@@ -79775,7 +79775,7 @@ exclamdown = -10;
 Eth = 5;
 };
 "@MMK_L_F" = {
-"@MMK_R_A" = -25;
+"@MMK_R_A" = -15;
 "@MMK_R_J" = -30;
 "@MMK_R_O" = -5;
 "@MMK_R_S" = 0;
@@ -80105,7 +80105,7 @@ Eth = 15;
 "@MMK_R_z" = -25;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -60;
+"@MMK_R_A" = -50;
 "@MMK_R_AE" = -95;
 "@MMK_R_J" = -40;
 "@MMK_R_O" = -15;
