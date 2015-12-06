@@ -391,7 +391,7 @@ xHeight = 357;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-12-06 00:59:28 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 anchors = (
@@ -1006,7 +1006,7 @@ rightKerningGroup = A;
 },
 {
 glyphname = Aacute;
-lastChange = "2015-12-06 00:57:47 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1071,7 +1071,7 @@ unicode = 00C1;
 },
 {
 glyphname = Abreve;
-lastChange = "2015-12-06 00:57:48 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1130,11 +1130,13 @@ name = "Bold Extended";
 width = 1019;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0102;
 },
 {
 glyphname = Acircumflex;
-lastChange = "2015-12-06 00:39:45 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1199,7 +1201,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflexhookabove;
-lastChange = "2015-12-06 00:39:45 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1290,7 +1292,7 @@ unicode = 1EA8;
 },
 {
 glyphname = Adieresis;
-lastChange = "2015-12-06 00:57:49 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1355,7 +1357,7 @@ unicode = 00C4;
 },
 {
 glyphname = Agrave;
-lastChange = "2015-12-06 00:57:50 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1420,7 +1422,7 @@ unicode = 00C0;
 },
 {
 glyphname = Amacron;
-lastChange = "2015-12-06 00:57:50 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1479,11 +1481,13 @@ name = "Bold Extended";
 width = 1019;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2015-12-06 00:57:50 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1542,11 +1546,13 @@ name = "Bold Extended";
 width = 1019;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0104;
 },
 {
 glyphname = Aring;
-lastChange = "2015-12-06 00:57:51 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -1611,7 +1617,7 @@ unicode = 00C5;
 },
 {
 glyphname = Atilde;
-lastChange = "2015-12-06 00:57:51 +0000";
+lastChange = "2015-12-06 01:13:22 +0000";
 layers = (
 {
 components = (
@@ -2425,7 +2431,7 @@ unicode = 0042;
 {
 color = 4;
 glyphname = C;
-lastChange = "2015-12-05 22:35:07 +0000";
+lastChange = "2015-12-06 01:13:56 +0000";
 layers = (
 {
 anchors = (
@@ -2758,7 +2764,7 @@ unicode = 0043;
 },
 {
 glyphname = Cacute;
-lastChange = "2015-12-05 17:00:01 +0000";
+lastChange = "2015-12-06 01:13:56 +0000";
 layers = (
 {
 components = (
@@ -2817,11 +2823,13 @@ name = "Bold Extended";
 width = 888;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = C;
 unicode = 0106;
 },
 {
 glyphname = Ccaron;
-lastChange = "2015-12-05 20:04:57 +0000";
+lastChange = "2015-12-06 01:13:56 +0000";
 layers = (
 {
 components = (
@@ -2880,11 +2888,13 @@ name = "Bold Extended";
 width = 888;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = C;
 unicode = 010C;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2015-11-25 14:55:38 +0000";
+lastChange = "2015-12-06 01:13:56 +0000";
 layers = (
 {
 components = (
@@ -3237,7 +3247,7 @@ unicode = 00D0;
 },
 {
 glyphname = Dcaron;
-lastChange = "2015-12-05 17:03:40 +0000";
+lastChange = "2015-12-06 01:14:07 +0000";
 layers = (
 {
 components = (
@@ -3296,10 +3306,13 @@ name = "Bold Extended";
 width = 985;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = O;
 unicode = 010E;
 },
 {
 glyphname = Dcroat;
+lastChange = "2015-12-06 01:14:12 +0000";
 layers = (
 {
 components = (
@@ -3342,6 +3355,8 @@ name = "Bold Extended";
 width = 985;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = O;
 unicode = 0110;
 },
 {
@@ -3812,7 +3827,7 @@ unicode = 00C9;
 },
 {
 glyphname = Ecaron;
-lastChange = "2015-12-05 20:04:10 +0000";
+lastChange = "2015-12-06 01:14:21 +0000";
 layers = (
 {
 components = (
@@ -3871,11 +3886,13 @@ name = "Bold Extended";
 width = 987;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = E;
 unicode = 011A;
 },
 {
 glyphname = Ecircumflex;
-lastChange = "2015-12-05 20:04:10 +0000";
+lastChange = "2015-12-06 01:14:30 +0000";
 layers = (
 {
 components = (
@@ -3940,7 +3957,7 @@ unicode = 00CA;
 },
 {
 glyphname = Edieresis;
-lastChange = "2015-11-25 21:12:52 +0000";
+lastChange = "2015-12-06 01:14:30 +0000";
 layers = (
 {
 components = (
@@ -4005,6 +4022,7 @@ unicode = 00CB;
 },
 {
 glyphname = Edotaccent;
+lastChange = "2015-12-06 01:14:30 +0000";
 layers = (
 {
 components = (
@@ -4063,11 +4081,13 @@ name = "Bold Extended";
 width = 987;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = E;
 unicode = 0116;
 },
 {
 glyphname = Egrave;
-lastChange = "2015-12-05 16:59:48 +0000";
+lastChange = "2015-12-06 01:14:30 +0000";
 layers = (
 {
 components = (
@@ -4132,7 +4152,7 @@ unicode = 00C8;
 },
 {
 glyphname = Emacron;
-lastChange = "2015-12-05 17:09:33 +0000";
+lastChange = "2015-12-06 01:14:30 +0000";
 layers = (
 {
 components = (
@@ -4191,11 +4211,13 @@ name = "Bold Extended";
 width = 987;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = E;
 unicode = 0112;
 },
 {
 glyphname = Eng;
-lastChange = "2015-12-04 19:19:56 +0000";
+lastChange = "2015-12-06 01:14:36 +0000";
 layers = (
 {
 anchors = (
@@ -4542,12 +4564,15 @@ nodes = (
 width = 1110;
 }
 );
+leftKerningGroup = H;
 leftMetricsKey = N;
+rightKerningGroup = J;
 rightMetricsKey = N;
 unicode = 014A;
 },
 {
 glyphname = Eogonek;
+lastChange = "2015-12-06 01:14:30 +0000";
 layers = (
 {
 components = (
@@ -4606,6 +4631,8 @@ name = "Bold Extended";
 width = 987;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = E;
 unicode = 0118;
 },
 {
@@ -5189,6 +5216,7 @@ unicode = 0047;
 },
 {
 glyphname = Gcommaaccent;
+lastChange = "2015-12-06 01:14:44 +0000";
 layers = (
 {
 components = (
@@ -5247,6 +5275,8 @@ name = "Bold Extended";
 width = 902;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = G;
 unicode = 0122;
 },
 {
@@ -6509,7 +6539,7 @@ unicode = 00CC;
 },
 {
 glyphname = Imacron;
-lastChange = "2015-12-05 17:09:32 +0000";
+lastChange = "2015-12-06 01:14:58 +0000";
 layers = (
 {
 components = (
@@ -6568,10 +6598,13 @@ name = "Bold Extended";
 width = 533;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 012A;
 },
 {
 glyphname = Iogonek;
+lastChange = "2015-12-06 01:14:58 +0000";
 layers = (
 {
 components = (
@@ -6630,6 +6663,8 @@ name = "Bold Extended";
 width = 533;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = H;
 unicode = 012E;
 },
 {
@@ -7198,6 +7233,7 @@ unicode = 004B;
 },
 {
 glyphname = Kcommaaccent;
+lastChange = "2015-12-06 01:15:07 +0000";
 layers = (
 {
 components = (
@@ -7256,6 +7292,8 @@ name = "Bold Extended";
 width = 979;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = X;
 unicode = 0136;
 },
 {
@@ -7486,7 +7524,7 @@ unicode = 004C;
 },
 {
 glyphname = Lacute;
-lastChange = "2015-12-05 20:04:10 +0000";
+lastChange = "2015-12-06 01:15:16 +0000";
 layers = (
 {
 components = (
@@ -7545,11 +7583,13 @@ name = "Bold Extended";
 width = 855;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = L;
 unicode = 0139;
 },
 {
 glyphname = Lcaron;
-lastChange = "2015-12-05 20:04:10 +0000";
+lastChange = "2015-12-06 01:15:16 +0000";
 layers = (
 {
 components = (
@@ -7608,11 +7648,13 @@ name = "Bold Extended";
 width = 855;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = L;
 unicode = 013D;
 },
 {
 glyphname = Lcommaaccent;
-lastChange = "2015-12-05 20:04:10 +0000";
+lastChange = "2015-12-06 01:15:16 +0000";
 layers = (
 {
 components = (
@@ -7671,12 +7713,14 @@ name = "Bold Extended";
 width = 855;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = L;
 unicode = 013B;
 },
 {
 color = 0;
 glyphname = Lslash;
-lastChange = "2015-12-05 15:59:08 +0000";
+lastChange = "2015-12-06 01:15:16 +0000";
 layers = (
 {
 components = (
@@ -7763,6 +7807,8 @@ nodes = (
 width = 855;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = L;
 unicode = 0141;
 },
 {
@@ -8671,7 +8717,7 @@ unicode = 004E;
 },
 {
 glyphname = Nacute;
-lastChange = "2015-12-05 17:04:23 +0000";
+lastChange = "2015-12-06 01:15:26 +0000";
 layers = (
 {
 components = (
@@ -8730,11 +8776,13 @@ name = "Bold Extended";
 width = 1110;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = N;
 unicode = 0143;
 },
 {
 glyphname = Ncaron;
-lastChange = "2015-12-05 17:04:23 +0000";
+lastChange = "2015-12-06 01:15:26 +0000";
 layers = (
 {
 components = (
@@ -8793,11 +8841,13 @@ name = "Bold Extended";
 width = 1110;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = N;
 unicode = 0147;
 },
 {
 glyphname = Ncommaaccent;
-lastChange = "2015-12-05 16:25:16 +0000";
+lastChange = "2015-12-06 01:15:26 +0000";
 layers = (
 {
 components = (
@@ -8856,11 +8906,13 @@ name = "Bold Extended";
 width = 1110;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = N;
 unicode = 0145;
 },
 {
 glyphname = Ntilde;
-lastChange = "2015-12-05 17:04:23 +0000";
+lastChange = "2015-12-06 01:15:26 +0000";
 layers = (
 {
 components = (
@@ -8920,12 +8972,12 @@ width = 1110;
 }
 );
 leftKerningGroup = H;
-rightKerningGroup = H;
+rightKerningGroup = N;
 unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2015-12-06 00:44:20 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 anchors = (
@@ -9224,7 +9276,7 @@ unicode = 004F;
 },
 {
 glyphname = Oacute;
-lastChange = "2015-12-05 16:59:46 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9289,7 +9341,7 @@ unicode = 00D3;
 },
 {
 glyphname = Ocircumflex;
-lastChange = "2015-11-25 15:11:29 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9354,7 +9406,7 @@ unicode = 00D4;
 },
 {
 glyphname = Odieresis;
-lastChange = "2015-11-25 15:11:29 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9419,7 +9471,7 @@ unicode = 00D6;
 },
 {
 glyphname = Ograve;
-lastChange = "2015-12-05 16:59:46 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9484,7 +9536,7 @@ unicode = 00D2;
 },
 {
 glyphname = Ohungarumlaut;
-lastChange = "2015-12-06 00:44:48 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9543,11 +9595,13 @@ name = "Bold Extended";
 width = 917;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 0150;
 },
 {
 glyphname = Omacron;
-lastChange = "2015-12-05 17:08:05 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9606,11 +9660,13 @@ name = "Bold Extended";
 width = 917;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 014C;
 },
 {
 glyphname = Oslash;
-lastChange = "2015-11-21 17:20:22 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -9735,7 +9791,7 @@ unicode = 00D8;
 },
 {
 glyphname = Otilde;
-lastChange = "2015-11-25 15:11:30 +0000";
+lastChange = "2015-12-06 01:15:34 +0000";
 layers = (
 {
 components = (
@@ -11032,7 +11088,7 @@ unicode = 0051;
 {
 color = 4;
 glyphname = Q.alt;
-lastChange = "2015-12-04 17:49:43 +0000";
+lastChange = "2015-12-06 01:15:50 +0000";
 layers = (
 {
 anchors = (
@@ -11417,9 +11473,9 @@ nodes = (
 width = 913;
 }
 );
-leftKerningGroup = Q.alt;
+leftKerningGroup = O;
 leftMetricsKey = "=O";
-rightKerningGroup = Q.alt;
+rightKerningGroup = Q;
 },
 {
 color = 4;
@@ -12064,7 +12120,7 @@ unicode = 0052;
 },
 {
 glyphname = R.alt;
-lastChange = "2015-12-04 17:49:43 +0000";
+lastChange = "2015-12-06 01:16:00 +0000";
 layers = (
 {
 anchors = (
@@ -12511,13 +12567,13 @@ nodes = (
 width = 916;
 }
 );
-leftKerningGroup = R.alt;
+leftKerningGroup = H;
 leftMetricsKey = "=H";
-rightKerningGroup = R.alt;
+rightKerningGroup = R;
 },
 {
 glyphname = Racute;
-lastChange = "2015-12-05 16:59:45 +0000";
+lastChange = "2015-12-06 01:16:05 +0000";
 layers = (
 {
 components = (
@@ -12576,10 +12632,13 @@ name = "Bold Extended";
 width = 1059;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = R;
 unicode = 0154;
 },
 {
 glyphname = Rcaron;
+lastChange = "2015-12-06 01:16:05 +0000";
 layers = (
 {
 components = (
@@ -12638,10 +12697,13 @@ name = "Bold Extended";
 width = 1059;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = R;
 unicode = 0158;
 },
 {
 glyphname = Rcommaaccent;
+lastChange = "2015-12-06 01:16:05 +0000";
 layers = (
 {
 components = (
@@ -12700,12 +12762,14 @@ name = "Bold Extended";
 width = 1059;
 }
 );
+leftKerningGroup = H;
+rightKerningGroup = R;
 unicode = 0156;
 },
 {
 color = 4;
 glyphname = S;
-lastChange = "2015-12-06 00:19:28 +0000";
+lastChange = "2015-12-06 01:16:18 +0000";
 layers = (
 {
 anchors = (
@@ -13059,7 +13123,7 @@ unicode = 0053;
 },
 {
 glyphname = Sacute;
-lastChange = "2015-12-05 17:06:15 +0000";
+lastChange = "2015-12-06 01:16:18 +0000";
 layers = (
 {
 components = (
@@ -13118,11 +13182,13 @@ name = "Bold Extended";
 width = 850;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 015A;
 },
 {
 glyphname = Scaron;
-lastChange = "2015-12-05 17:08:05 +0000";
+lastChange = "2015-12-06 01:16:18 +0000";
 layers = (
 {
 components = (
@@ -13181,10 +13247,13 @@ name = "Bold Extended";
 width = 850;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 0160;
 },
 {
 glyphname = Scedilla;
+lastChange = "2015-12-06 01:16:18 +0000";
 layers = (
 {
 components = (
@@ -13243,6 +13312,8 @@ name = "Bold Extended";
 width = 850;
 }
 );
+leftKerningGroup = S;
+rightKerningGroup = S;
 unicode = 015E;
 },
 {
