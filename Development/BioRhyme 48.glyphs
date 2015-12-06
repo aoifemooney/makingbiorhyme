@@ -88,7 +88,8 @@ X,
 /Wcircumflex/Wdieresis/Wgrave,
 /w.bold/wacute/wcircumflex/wdieresis/wgrave,
 /wacute/wcircumflex/wdieresis/wgrave,
-VvWw
+VvWw,
+/brevecomb
 );
 classes = (
 {
@@ -73171,7 +73172,7 @@ unicode = 030C;
 },
 {
 glyphname = brevecomb;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 16:42:34 +0000";
 layers = (
 {
 anchors = (
@@ -73186,20 +73187,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"317 632 OFFCURVE",
-"376 684 OFFCURVE",
-"396 754 CURVE",
-"416 749 LINE",
-"401 679 OFFCURVE",
 "340 608 OFFCURVE",
-"243 608 CURVE",
-"146 608 OFFCURVE",
-"85 679 OFFCURVE",
-"70 749 CURVE",
-"90 754 LINE",
-"110 684 OFFCURVE",
+"401 679 OFFCURVE",
+"416 749 CURVE",
+"396 754 LINE",
+"376 684 OFFCURVE",
+"317 632 OFFCURVE",
+"244 632 CURVE",
 "171 632 OFFCURVE",
-"244 632 CURVE"
+"110 684 OFFCURVE",
+"90 754 CURVE",
+"70 749 LINE",
+"85 679 OFFCURVE",
+"146 608 OFFCURVE",
+"243 608 CURVE"
 );
 }
 );
@@ -73218,20 +73219,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"258 622 OFFCURVE",
-"294 667 OFFCURVE",
-"308 713 CURVE",
-"328 710 LINE",
-"319 664 OFFCURVE",
 "281 598 OFFCURVE",
-"194 598 CURVE",
-"107 598 OFFCURVE",
-"69 664 OFFCURVE",
-"60 710 CURVE",
-"80 713 LINE",
-"94 667 OFFCURVE",
+"319 664 OFFCURVE",
+"328 710 CURVE",
+"308 713 LINE",
+"294 667 OFFCURVE",
+"258 622 OFFCURVE",
+"195 622 CURVE",
 "132 622 OFFCURVE",
-"195 622 CURVE"
+"94 667 OFFCURVE",
+"80 713 CURVE",
+"60 710 LINE",
+"69 664 OFFCURVE",
+"107 598 OFFCURVE",
+"194 598 CURVE"
 );
 }
 );
