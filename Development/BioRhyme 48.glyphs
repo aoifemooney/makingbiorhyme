@@ -86,7 +86,8 @@ X,
 9,
 /Wgrave,
 /Wcircumflex/Wdieresis/Wgrave,
-/w.bold/wacute/wcircumflex/wdieresis/wgrave
+/w.bold/wacute/wcircumflex/wdieresis/wgrave,
+/wacute/wcircumflex/wdieresis/wgrave
 );
 classes = (
 {
@@ -28988,7 +28989,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 16:35:42 +0000";
 layers = (
 {
 components = (
@@ -29011,12 +29012,12 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0, 1, 128, -56}";
+transform = "{1, 0, 0, 1, 113, -56}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 456;
+width = 441;
 },
 {
 components = (
@@ -47494,7 +47495,7 @@ unicode = 0077;
 },
 {
 glyphname = wacute;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 16:36:34 +0000";
 layers = (
 {
 background = {
@@ -47510,16 +47511,16 @@ transform = "{1, 0, 0, 1, 395, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 395, -163}";
+transform = "{1, 0, 0, 1, 368, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1025;
+width = 976;
 },
 {
 background = {
@@ -47535,16 +47536,16 @@ transform = "{1, 0, 0, 1, 225, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 225, -163}";
+transform = "{1, 0, 0, 1, 194, -163}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 722;
+width = 661;
 },
 {
 background = {
@@ -47603,7 +47604,7 @@ unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 16:36:40 +0000";
 layers = (
 {
 background = {
@@ -47619,16 +47620,16 @@ transform = "{1, 0, 0, 1, 281, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 281, -163}";
+transform = "{1, 0, 0, 1, 254, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1025;
+width = 976;
 },
 {
 background = {
@@ -47644,16 +47645,16 @@ transform = "{1, 0, 0, 1, 196, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 196, -163}";
+transform = "{1, 0, 0, 1, 165, -163}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 722;
+width = 661;
 },
 {
 background = {
@@ -47712,7 +47713,7 @@ unicode = 0175;
 },
 {
 glyphname = wdieresis;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 16:36:45 +0000";
 layers = (
 {
 background = {
@@ -47728,16 +47729,16 @@ transform = "{1, 0, 0, 1, 268, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 268, -163}";
+transform = "{1, 0, 0, 1, 241, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1025;
+width = 976;
 },
 {
 background = {
@@ -47753,16 +47754,16 @@ transform = "{1, 0, 0, 1, 143, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 143, -163}";
+transform = "{1, 0, 0, 1, 112, -163}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 722;
+width = 661;
 },
 {
 background = {
@@ -47821,7 +47822,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 16:36:49 +0000";
 layers = (
 {
 background = {
@@ -47837,16 +47838,16 @@ transform = "{1, 0, 0, 1, 281, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 281, -163}";
+transform = "{1, 0, 0, 1, 254, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1025;
+width = 976;
 },
 {
 background = {
@@ -47862,16 +47863,16 @@ transform = "{1, 0, 0, 1, 183, -163}";
 };
 components = (
 {
-name = w.bold;
+name = w;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 183, -163}";
+transform = "{1, 0, 0, 1, 152, -163}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 722;
+width = 661;
 },
 {
 background = {
