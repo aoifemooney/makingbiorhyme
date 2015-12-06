@@ -93,14 +93,17 @@ VvWw,
 /happy,
 /sad,
 /neutral/happy/sad,
-/anger,
+/angry,
 /surprised,
 /happy/surprised,
-/surprised/fear,
-/neutral/anger,
-/anger/disgust,
-/disgust,
-/neutral/happy/sad/anger/surprised/fear/disgust
+/surprised/afraid,
+/neutral/angry,
+/angry/disgusted,
+/disgusted,
+/neutral/happy/sad/angry/surprised/afraid/disgusted,
+/Wcircumflex,
+/W.bold,
+/Wdieresis
 );
 classes = (
 {
@@ -15834,21 +15837,21 @@ unicode = 1E82;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 21:57:42 +0000";
 layers = (
 {
 components = (
 {
-name = W.bold;
+name = W;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 403, 0}";
+transform = "{1, 0, 0, 1, 398, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1256;
+width = 1212;
 },
 {
 components = (
@@ -15899,21 +15902,21 @@ unicode = 0174;
 },
 {
 glyphname = Wdieresis;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-06 21:57:55 +0000";
 layers = (
 {
 components = (
 {
-name = W.bold;
+name = W;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 390, 0}";
+transform = "{1, 0, 0, 1, 385, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 1256;
+width = 1212;
 },
 {
 components = (
@@ -79363,8 +79366,8 @@ width = 954;
 );
 },
 {
-glyphname = anger;
-lastChange = "2015-12-06 21:41:35 +0000";
+glyphname = angry;
+lastChange = "2015-12-06 21:57:13 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -80335,8 +80338,8 @@ width = 954;
 );
 },
 {
-glyphname = fear;
-lastChange = "2015-12-06 21:50:05 +0000";
+glyphname = afraid;
+lastChange = "2015-12-06 21:57:19 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -80821,8 +80824,8 @@ width = 954;
 );
 },
 {
-glyphname = disgust;
-lastChange = "2015-12-06 21:54:34 +0000";
+glyphname = disgusted;
+lastChange = "2015-12-06 21:57:25 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
