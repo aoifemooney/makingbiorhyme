@@ -47531,7 +47531,7 @@ unicode = 0077;
 },
 {
 glyphname = wacute;
-lastChange = "2015-12-06 01:12:53 +0000";
+lastChange = "2015-12-06 16:12:30 +0000";
 layers = (
 {
 background = {
@@ -47640,7 +47640,7 @@ unicode = 1E83;
 },
 {
 glyphname = wcircumflex;
-lastChange = "2015-12-05 16:23:52 +0000";
+lastChange = "2015-12-06 16:12:29 +0000";
 layers = (
 {
 background = {
@@ -47749,7 +47749,7 @@ unicode = 0175;
 },
 {
 glyphname = wdieresis;
-lastChange = "2015-12-06 01:12:53 +0000";
+lastChange = "2015-12-06 16:12:29 +0000";
 layers = (
 {
 background = {
@@ -47858,7 +47858,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2015-12-06 01:12:53 +0000";
+lastChange = "2015-12-06 16:12:30 +0000";
 layers = (
 {
 background = {
@@ -78009,13 +78009,6 @@ value = (
     W,
     w
 );
-},
-{
-name = "Rename Glyphs";
-value = (
-    "W.bold=W",
-    "w.bold=w"
-);
 }
 );
 interpolationWeight = 550;
@@ -78044,6 +78037,13 @@ value = (
     W,
     w
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+    "W=W.bold",
+    "w=w.bold"
+);
 }
 );
 interpolationWeight = 250;
@@ -78057,6 +78057,13 @@ name = "Instance Preview";
 value = (
     W,
     w
+);
+},
+{
+name = "Rename Glyphs";
+value = (
+    "W=W.bold",
+    "w=w.bold"
 );
 }
 );
