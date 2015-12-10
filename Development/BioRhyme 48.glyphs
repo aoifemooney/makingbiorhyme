@@ -109,7 +109,7 @@ VvWw,
 /neutral.rev,
 /afraid.rev,
 "non\"./quotedblleft non/quoteright .non.",
-"noneopolononmo\012eveovo\012experiments\012methods"
+"noneopolononmo\012eveovo\012eacohanao\012experiments\012methods"
 );
 classes = (
 {
@@ -18024,7 +18024,7 @@ rightKerningGroup = V;
 },
 {
 glyphname = a;
-lastChange = "2015-12-09 00:10:05 +0000";
+lastChange = "2015-12-10 00:46:08 +0000";
 layers = (
 {
 anchors = (
@@ -29110,7 +29110,7 @@ unicode = 0123;
 },
 {
 glyphname = h;
-lastChange = "2015-12-09 00:16:14 +0000";
+lastChange = "2015-12-10 00:46:27 +0000";
 layers = (
 {
 anchors = (
@@ -37289,7 +37289,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2015-12-10 00:42:23 +0000";
+lastChange = "2015-12-10 00:46:49 +0000";
 layers = (
 {
 anchors = (
@@ -86851,7 +86851,7 @@ g = 30;
 "@MMK_R_guillemotright" = -10;
 "@MMK_R_hyphen" = -5;
 "@MMK_R_nine" = 5;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -5;
 "@MMK_R_p" = -5;
 "@MMK_R_paragraph" = 0;
 "@MMK_R_parenleft" = -5;
@@ -86866,6 +86866,7 @@ g = 30;
 "@MMK_R_v" = -15;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -5;
+"@MMK_R_h" = -10;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = -20;
@@ -86886,7 +86887,7 @@ g = 30;
 "@MMK_R_two" = -15;
 };
 "@MMK_L_e" = {
-"@MMK_R_a" = -10;
+"@MMK_R_a" = -5;
 "@MMK_R_asterisk" = -20;
 "@MMK_R_b" = -15;
 "@MMK_R_backslash" = -30;
@@ -87196,6 +87197,7 @@ u = -15;
 "@MMK_R_braceleft" = 0;
 "@MMK_R_colon" = -10;
 "@MMK_R_guillemotleft" = 10;
+"@MMK_R_h" = -5;
 "@MMK_R_hyphen" = 15;
 "@MMK_R_p" = -5;
 "@MMK_R_parenright" = -10;
@@ -87213,7 +87215,6 @@ u = -15;
 "@MMK_R_z" = -5;
 Eth = 0;
 quoteleft = 0;
-"@MMK_R_h" = -5;
 };
 "@MMK_L_one" = {
 "@MMK_R_colon" = -10;
@@ -87775,6 +87776,9 @@ g = {
 "@MMK_R_x" = -5;
 "@MMK_R_z" = 0;
 };
+m = {
+"@MMK_R_o" = 0;
+};
 quotedblbase = {
 "@MMK_R_o" = 0;
 "@MMK_R_v" = -45;
@@ -87796,9 +87800,6 @@ t = {
 };
 y = {
 "@MMK_R_period" = 0;
-};
-m = {
-"@MMK_R_o" = 0;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
@@ -89614,11 +89615,11 @@ g = {
 "@MMK_R_v" = -5;
 servicemark = 40;
 };
-p = {
-"@MMK_R_period" = -5;
-};
 m = {
 "@MMK_R_o" = 0;
+};
+p = {
+"@MMK_R_period" = -5;
 };
 };
 "C70E3B11-AF58-44B6-92D7-58C9185F522D" = {
@@ -91391,11 +91392,11 @@ g = {
 j = {
 "@MMK_R_V" = -10;
 };
-q = {
-"@MMK_R_period" = 5;
-};
 m = {
 "@MMK_R_o" = -5;
+};
+q = {
+"@MMK_R_period" = 5;
 };
 };
 };
