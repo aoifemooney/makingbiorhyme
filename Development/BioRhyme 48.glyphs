@@ -109,7 +109,7 @@ VvWw,
 /neutral.rev,
 /afraid.rev,
 "non\"./quotedblleft non/quoteright .non.",
-"noneopolononmo\012eveovo ncatn becausenknuken\012eacohanao\012expheriments naco\012methods oypo"
+"noneopolononmo\012eveovo ncatn becausenknuken\012eacdohanao\012expheriments naco\012methods oypo"
 );
 classes = (
 {
@@ -22868,7 +22868,7 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2015-12-13 23:30:33 +0000";
 layers = (
 {
 anchors = (
@@ -23372,6 +23372,40 @@ nodes = (
 "421 520 LINE",
 "246 520 LINE",
 "246 430 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"336 -11 OFFCURVE",
+"432 63 OFFCURVE",
+"432 178 CURVE SMOOTH",
+"432 293 OFFCURVE",
+"328 367 OFFCURVE",
+"226 367 CURVE SMOOTH",
+"120 367 OFFCURVE",
+"20 293 OFFCURVE",
+"20 178 CURVE SMOOTH",
+"20 63 OFFCURVE",
+"120 -11 OFFCURVE",
+"226 -11 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"179 79 OFFCURVE",
+"140 116 OFFCURVE",
+"140 178 CURVE SMOOTH",
+"140 240 OFFCURVE",
+"179 277 OFFCURVE",
+"226 277 CURVE SMOOTH",
+"272 277 OFFCURVE",
+"311 240 OFFCURVE",
+"311 178 CURVE SMOOTH",
+"311 116 OFFCURVE",
+"272 79 OFFCURVE",
+"226 79 CURVE SMOOTH"
 );
 }
 );
