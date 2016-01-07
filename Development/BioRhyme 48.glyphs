@@ -84342,7 +84342,8 @@ value = (
 }
 );
 interpolationWeight = 800;
-name = Bold;
+name = Black;
+weightClass = Black;
 },
 {
 customParameters = (
@@ -84356,6 +84357,7 @@ value = (
 );
 interpolationWeight = 675;
 name = SemiBold;
+weightClass = SemiBold;
 },
 {
 customParameters = (
@@ -84369,7 +84371,6 @@ value = (
 );
 interpolationWeight = 550;
 name = Regular;
-weightClass = Light;
 },
 {
 customParameters = (
@@ -84414,6 +84415,7 @@ interpolationWeight = 250;
 interpolationWidth = 200;
 name = "Thin Expanded";
 weightClass = Thin;
+widthClass = Expanded;
 },
 {
 customParameters = (
@@ -84477,7 +84479,9 @@ value = (
 );
 interpolationCustom = 100;
 interpolationWeight = 800;
-name = "Bold Extended";
+name = "Black Expanded";
+weightClass = Black;
+widthClass = Expanded;
 }
 );
 kerning = {
