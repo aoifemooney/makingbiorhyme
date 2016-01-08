@@ -112,7 +112,11 @@ VvWw,
 "noneopolononmo\012eveovo ncatn becauscenknuhken\012ecaocdohanao\012expbd/g.alt qhkheriments naco\012mecthods oyvpo\012expenrniments",
 /caroncomb,
 r,
-A
+A,
+"\U00BE",
+/four.dnom,
+"\U00BC",
+"\U00BE/four.dnom"
 );
 classes = (
 {
@@ -15911,7 +15915,7 @@ unicode = 0174;
 },
 {
 glyphname = Wdieresis;
-lastChange = "2015-12-06 21:57:55 +0000";
+lastChange = "2016-01-08 19:36:40 +0000";
 layers = (
 {
 components = (
@@ -15962,12 +15966,12 @@ name = W;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 408, 0}";
+transform = "{1, 0, 0, 1, 403, 0}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1311;
+width = 1291;
 }
 );
 leftKerningGroup = V;
@@ -41705,7 +41709,7 @@ unicode = 0072;
 },
 {
 glyphname = racute;
-lastChange = "2016-01-08 19:17:05 +0000";
+lastChange = "2016-01-08 19:36:33 +0000";
 layers = (
 {
 components = (
@@ -41761,7 +41765,7 @@ transform = "{1, 0, 0, 1, 237, -143}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 789;
+width = 765;
 }
 );
 leftKerningGroup = n;
@@ -41770,7 +41774,7 @@ unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2016-01-08 19:17:05 +0000";
+lastChange = "2016-01-08 19:36:33 +0000";
 layers = (
 {
 components = (
@@ -41826,7 +41830,7 @@ transform = "{1, 0, 0, 1, 215, -163}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 789;
+width = 765;
 }
 );
 leftKerningGroup = n;
@@ -41835,7 +41839,7 @@ unicode = 0159;
 },
 {
 glyphname = rcommaaccent;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2016-01-08 19:36:33 +0000";
 layers = (
 {
 components = (
@@ -41891,7 +41895,7 @@ transform = "{1, 0, 0, 1, 269, 0}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 789;
+width = 765;
 }
 );
 leftKerningGroup = n;
@@ -56552,7 +56556,7 @@ unicode = 2044;
 },
 {
 glyphname = onehalf;
-lastChange = "2015-12-06 16:41:33 +0000";
+lastChange = "2016-01-08 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -56624,7 +56628,7 @@ transform = "{1, 0, 0, 1, 531, 0}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 922;
+width = 947;
 }
 );
 leftKerningGroup = one.numr;
@@ -56635,7 +56639,7 @@ unicode = 00BD;
 },
 {
 glyphname = onequarter;
-lastChange = "2016-01-08 19:32:16 +0000";
+lastChange = "2016-01-08 19:34:27 +0000";
 layers = (
 {
 components = (
@@ -56707,7 +56711,7 @@ transform = "{1, 0, 0, 1, 481, 0}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 906;
+width = 879;
 }
 );
 leftKerningGroup = one.numr;
@@ -56718,7 +56722,7 @@ unicode = 00BC;
 },
 {
 glyphname = threequarters;
-lastChange = "2016-01-08 19:32:16 +0000";
+lastChange = "2016-01-08 19:34:37 +0000";
 layers = (
 {
 components = (
@@ -56790,7 +56794,7 @@ transform = "{1, 0, 0, 1, 580, 0}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 1031;
+width = 978;
 }
 );
 leftKerningGroup = three.numr;
@@ -57031,7 +57035,7 @@ rightKerningGroup = two.dnom;
 },
 {
 glyphname = four.dnom;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2016-01-08 19:36:14 +0000";
 layers = (
 {
 background = {
@@ -57173,10 +57177,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"344 279 LINE",
+"339 279 LINE",
 "259 279 LINE",
 "18 115 LINE",
-"76 91 LINE"
+"66 91 LINE"
 );
 },
 {
