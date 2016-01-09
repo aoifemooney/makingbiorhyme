@@ -46,7 +46,9 @@ U,
 /greaterequal,
 "/approxequal =>/greaterequal </lessequal/notequal",
 "2/divisionslash 3//",
-"/florin f"
+"/florin f",
+"/increment ^v",
+/increment
 );
 classes = (
 {
@@ -67392,7 +67394,7 @@ unicode = 2265;
 },
 {
 glyphname = increment;
-lastChange = "2016-01-09 23:16:08 +0000";
+lastChange = "2016-01-09 23:52:42 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -67431,9 +67433,73 @@ nodes = (
 width = 716;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"379 462 LINE",
+"372 430 LINE",
+"631 -2 LINE",
+"659 -2 LINE",
+"382 462 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"379 462 LINE",
+"103 -2 LINE",
+"131 -2 LINE",
+"389 430 LINE",
+"382 462 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"123 21 LINE",
+"103 -2 LINE",
+"659 -2 LINE",
+"639 21 LINE"
+);
+}
+);
+};
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"360 462 LINE",
+"341 449 LINE",
+"590 0 LINE",
+"702 0 LINE",
+"424 462 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"348 462 LINE",
+"60 0 LINE",
+"173 0 LINE",
+"431 449 LINE",
+"413 462 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"86 0 LINE",
+"669 0 LINE",
+"625 85 LINE",
+"134 85 LINE"
+);
+}
+);
+width = 762;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
