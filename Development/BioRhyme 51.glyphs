@@ -3,7 +3,7 @@ DisplayStrings = (
 /brevecomb/abreve,
 "\U00F0/euro/liraTurkish/ruble \U00A3/partialdiff/radical/summation/estimated |/literSign |fl",
 /ruble,
-"/euro/liraTurkish/ruble \U00A3"
+"/euro/liraTurkish |/ruble |\U00A3|P|"
 );
 classes = (
 {
@@ -65279,7 +65279,7 @@ unicode = 0192;
 },
 {
 glyphname = liraTurkish;
-lastChange = "2016-01-09 17:08:04 +0000";
+lastChange = "2016-01-09 17:55:08 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -65289,14 +65289,14 @@ paths = (
 closed = 1;
 nodes = (
 "215 0 LINE",
-"270 0 LINE SMOOTH",
-"499 0 OFFCURVE",
-"597 85 OFFCURVE",
-"634 218 CURVE",
-"612 224 LINE",
-"575 99 OFFCURVE",
-"483 23 OFFCURVE",
-"268 23 CURVE SMOOTH",
+"300 0 LINE SMOOTH",
+"529 0 OFFCURVE",
+"627 85 OFFCURVE",
+"664 218 CURVE",
+"642 224 LINE",
+"605 99 OFFCURVE",
+"513 23 OFFCURVE",
+"298 23 CURVE SMOOTH",
 "240 23 LINE",
 "240 480 LINE",
 "215 480 LINE"
@@ -65305,8 +65305,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"516 293 LINE",
-"516 318 LINE",
+"546 293 LINE",
+"546 318 LINE",
 "65 158 LINE",
 "65 133 LINE"
 );
@@ -65314,14 +65314,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"518 418 LINE",
-"518 443 LINE",
+"548 418 LINE",
+"548 443 LINE",
 "67 283 LINE",
 "67 258 LINE"
 );
 }
 );
-width = 704;
+width = 734;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -65342,15 +65342,14 @@ width = 600;
 unicode = 20BA;
 },
 {
-color = 0;
 glyphname = ruble;
-lastChange = "2016-01-09 17:53:17 +0000";
+lastChange = "2016-01-09 17:55:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{462, 520}";
+position = "{468, 520}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -65359,55 +65358,55 @@ paths = (
 {
 closed = 1;
 nodes = (
-"455 0 LINE",
-"455 23 LINE",
-"56 23 LINE",
-"56 0 LINE"
+"461 0 LINE",
+"461 23 LINE",
+"62 23 LINE",
+"62 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"263 13 LINE",
-"263 467 LINE",
-"238 467 LINE",
-"238 13 LINE"
+"269 13 LINE",
+"269 467 LINE",
+"244 467 LINE",
+"244 13 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"699 285 OFFCURVE",
-"645 243 OFFCURVE",
-"549 243 CURVE SMOOTH",
-"246 243 LINE",
-"246 220 LINE",
-"549 220 LINE SMOOTH",
-"649 220 OFFCURVE",
-"724 264 OFFCURVE",
-"724 350 CURVE SMOOTH",
-"724 436 OFFCURVE",
-"649 480 OFFCURVE",
-"549 480 CURVE SMOOTH",
-"56 480 LINE",
-"56 457 LINE",
-"549 457 LINE SMOOTH",
-"645 457 OFFCURVE",
-"699 415 OFFCURVE",
-"699 350 CURVE SMOOTH"
+"725 290 OFFCURVE",
+"671 253 OFFCURVE",
+"575 253 CURVE SMOOTH",
+"252 253 LINE",
+"252 230 LINE",
+"575 230 LINE SMOOTH",
+"675 230 OFFCURVE",
+"750 269 OFFCURVE",
+"750 355 CURVE SMOOTH",
+"750 441 OFFCURVE",
+"675 480 OFFCURVE",
+"575 480 CURVE SMOOTH",
+"62 480 LINE",
+"62 457 LINE",
+"575 457 LINE SMOOTH",
+"671 457 OFFCURVE",
+"725 420 OFFCURVE",
+"725 355 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"50 138 LINE",
-"50 116 LINE",
-"651 116 LINE",
-"651 138 LINE"
+"56 143 LINE",
+"56 121 LINE",
+"677 121 LINE",
+"677 143 LINE"
 );
 }
 );
-width = 934;
+width = 825;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -65425,6 +65424,7 @@ name = Bold;
 width = 600;
 }
 );
+leftMetricsKey = "=H";
 unicode = 20BD;
 },
 {
