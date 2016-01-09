@@ -48,7 +48,8 @@ U,
 "2/divisionslash 3//",
 "/florin f",
 "/increment ^v",
-/increment
+/increment,
+"/radical k"
 );
 classes = (
 {
@@ -70110,7 +70111,7 @@ unicode = 220F;
 },
 {
 glyphname = radical;
-lastChange = "2016-01-09 19:55:55 +0000";
+lastChange = "2016-01-09 23:55:59 +0000";
 layers = (
 {
 background = {
@@ -70196,8 +70197,72 @@ nodes = (
 width = 641;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"179 358 LINE",
+"155 348 LINE",
+"338 -1 LINE",
+"341 -1 LINE",
+"349 35 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"567 638 LINE",
+"331 35 LINE",
+"338 -1 LINE",
+"341 -1 LINE",
+"591 630 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"187 338 LINE",
+"179 358 LINE",
+"30 302 LINE",
+"38 279 LINE"
+);
+}
+);
+};
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"229 378 LINE",
+"133 342 LINE",
+"328 -1 LINE",
+"396 -1 LINE",
+"394 95 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"567 638 LINE",
+"338 95 LINE",
+"328 -1 LINE",
+"396 -1 LINE",
+"661 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"261 301 LINE",
+"229 378 LINE",
+"20 299 LINE",
+"52 219 LINE"
+);
+}
+);
 width = 600;
 },
 {
