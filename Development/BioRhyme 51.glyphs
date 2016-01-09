@@ -17,7 +17,10 @@ u,
 y,
 "&",
 /Acircumflexhookabove,
-/estimated
+/estimated,
+"2/divisionslash 3//",
+/bulletoperator/bullet,
+/bulletoperator
 );
 classes = (
 {
@@ -66628,7 +66631,7 @@ unicode = 007E;
 },
 {
 glyphname = bulletoperator;
-lastChange = "2016-01-09 04:29:28 +0000";
+lastChange = "2016-01-09 19:05:58 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -66660,9 +66663,14 @@ name = "Bold Extended";
 width = 600;
 },
 {
+components = (
+{
+name = bullet;
+}
+);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+width = 259;
 },
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -66674,7 +66682,7 @@ unicode = 2219;
 },
 {
 glyphname = divisionslash;
-lastChange = "2016-01-09 04:30:22 +0000";
+lastChange = "2016-01-09 19:07:14 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -66700,7 +66708,18 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"317 611 LINE",
+"292 611 LINE",
+"19 -129 LINE",
+"44 -129 LINE"
+);
+}
+);
+width = 340;
 },
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
