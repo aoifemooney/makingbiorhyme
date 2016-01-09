@@ -2,7 +2,8 @@
 DisplayStrings = (
 /brevecomb/abreve,
 "\U00F0/euro/liraTurkish/ruble \U00A3/partialdiff/radical/summation/estimated |/literSign |fl",
-/ruble
+/ruble,
+"/euro/liraTurkish/ruble \U00A3"
 );
 classes = (
 {
@@ -64964,7 +64965,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2016-01-09 17:49:59 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -64973,36 +64974,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"638 -11 OFFCURVE",
-"752 34 OFFCURVE",
-"825 104 CURVE",
-"809 121 LINE",
-"745 59 OFFCURVE",
-"629 12 OFFCURVE",
-"491 12 CURVE SMOOTH",
+"618 -11 OFFCURVE",
+"732 34 OFFCURVE",
+"805 104 CURVE",
+"789 121 LINE",
+"725 59 OFFCURVE",
+"609 12 OFFCURVE",
+"481 12 CURVE SMOOTH",
 "334 12 OFFCURVE",
 "190 86 OFFCURVE",
 "190 235 CURVE SMOOTH",
 "190 384 OFFCURVE",
 "339 457 OFFCURVE",
-"489 457 CURVE SMOOTH",
-"618 457 OFFCURVE",
-"728 423 OFFCURVE",
-"824 305 CURVE",
-"827 306 LINE",
-"827 470 LINE",
-"804 470 LINE",
-"804 341 LINE",
-"816 341 LINE",
-"751 423 OFFCURVE",
-"643 480 OFFCURVE",
-"489 480 CURVE SMOOTH",
+"479 457 CURVE SMOOTH",
+"598 457 OFFCURVE",
+"708 423 OFFCURVE",
+"804 305 CURVE",
+"807 306 LINE",
+"807 470 LINE",
+"784 470 LINE",
+"784 341 LINE",
+"796 341 LINE",
+"731 423 OFFCURVE",
+"623 480 OFFCURVE",
+"479 480 CURVE SMOOTH",
 "331 480 OFFCURVE",
 "165 402 OFFCURVE",
 "165 235 CURVE SMOOTH",
 "165 68 OFFCURVE",
 "324 -11 OFFCURVE",
-"491 -11 CURVE SMOOTH"
+"481 -11 CURVE SMOOTH"
 );
 },
 {
@@ -65010,8 +65011,8 @@ closed = 1;
 nodes = (
 "50 173 LINE",
 "50 151 LINE",
-"671 151 LINE",
-"671 173 LINE"
+"651 151 LINE",
+"651 173 LINE"
 );
 },
 {
@@ -65019,12 +65020,12 @@ closed = 1;
 nodes = (
 "52 308 LINE",
 "52 286 LINE",
-"673 286 LINE",
-"673 308 LINE"
+"653 286 LINE",
+"653 308 LINE"
 );
 }
 );
-width = 912;
+width = 892;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -65343,16 +65344,73 @@ unicode = 20BA;
 {
 color = 0;
 glyphname = ruble;
-lastChange = "2016-01-09 17:49:08 +0000";
+lastChange = "2016-01-09 17:53:07 +0000";
 layers = (
 {
-components = (
+anchors = (
 {
-name = P;
+name = bottom;
+position = "{462, 0}";
+},
+{
+name = top;
+position = "{462, 520}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"455 0 LINE",
+"455 23 LINE",
+"56 23 LINE",
+"56 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 13 LINE",
+"263 467 LINE",
+"238 467 LINE",
+"238 13 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"699 285 OFFCURVE",
+"645 243 OFFCURVE",
+"549 243 CURVE SMOOTH",
+"246 243 LINE",
+"246 220 LINE",
+"549 220 LINE SMOOTH",
+"649 220 OFFCURVE",
+"724 264 OFFCURVE",
+"724 350 CURVE SMOOTH",
+"724 436 OFFCURVE",
+"649 480 OFFCURVE",
+"549 480 CURVE SMOOTH",
+"56 480 LINE",
+"56 457 LINE",
+"549 457 LINE SMOOTH",
+"645 457 OFFCURVE",
+"699 415 OFFCURVE",
+"699 350 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 143 LINE",
+"50 121 LINE",
+"651 121 LINE",
+"651 143 LINE"
+);
+}
+);
 width = 934;
 },
 {
