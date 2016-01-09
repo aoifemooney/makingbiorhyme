@@ -126,7 +126,7 @@ OCScsz,
 "=/approxequal ~/infinity/integral",
 "x/notequal =",
 /notequal,
-/florin/f.alt
+/g.alt/florin/f.alt
 );
 classes = (
 {
@@ -65347,7 +65347,7 @@ unicode = 20AC;
 },
 {
 glyphname = florin;
-lastChange = "2016-01-09 04:57:30 +0000";
+lastChange = "2016-01-09 05:00:58 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -65356,8 +65356,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"235 0 LINE",
-"235 388 LINE",
+"459 334 LINE",
+"459 357 LINE",
+"50 357 LINE",
+"50 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"260 555 OFFCURVE",
+"210 494 OFFCURVE",
+"210 386 CURVE SMOOTH",
+"210 47 LINE SMOOTH",
+"210 -66 OFFCURVE",
+"144 -107 OFFCURVE",
+"50 -107 CURVE",
+"49 -130 LINE",
+"161 -130 OFFCURVE",
+"235 -81 OFFCURVE",
+"235 48 CURVE SMOOTH",
+"235 388 LINE SMOOTH",
 "235 485 OFFCURVE",
 "277 532 OFFCURVE",
 "373 532 CURVE SMOOTH",
@@ -65367,20 +65386,7 @@ nodes = (
 "554 520 LINE",
 "504 536 OFFCURVE",
 "439 555 OFFCURVE",
-"375 555 CURVE SMOOTH",
-"260 555 OFFCURVE",
-"210 494 OFFCURVE",
-"210 386 CURVE",
-"210 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"459 334 LINE",
-"459 357 LINE",
-"50 357 LINE",
-"50 334 LINE"
+"375 555 CURVE SMOOTH"
 );
 }
 );
