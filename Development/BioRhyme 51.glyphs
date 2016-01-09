@@ -38,7 +38,8 @@ U,
 "/approxequal =",
 /Ohm,
 "H/radical H",
-"H/summation H"
+"H/summation H",
+"0/lozenge 0"
 );
 classes = (
 {
@@ -69790,7 +69791,7 @@ unicode = 221A;
 },
 {
 glyphname = summation;
-lastChange = "2016-01-09 19:56:38 +0000";
+lastChange = "2016-01-09 19:56:50 +0000";
 layers = (
 {
 background = {
@@ -69907,57 +69908,57 @@ paths = (
 {
 closed = 1;
 nodes = (
-"499 -72 LINE",
-"147 -72 LINE",
-"115 -90 LINE",
-"117 -97 LINE",
-"499 -95 LINE"
+"409 -72 LINE",
+"57 -72 LINE",
+"25 -90 LINE",
+"27 -97 LINE",
+"409 -95 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"117 616 LINE",
-"115 609 LINE",
-"147 591 LINE",
-"499 591 LINE",
-"499 614 LINE"
+"27 616 LINE",
+"25 609 LINE",
+"57 591 LINE",
+"409 591 LINE",
+"409 614 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"143 615 LINE",
-"117 615 LINE",
-"115 609 LINE",
-"335 262 LINE",
-"115 -90 LINE",
-"117 -96 LINE",
-"141 -96 LINE",
-"362 259 LINE",
-"362 265 LINE"
+"53 615 LINE",
+"27 615 LINE",
+"25 609 LINE",
+"245 262 LINE",
+"25 -90 LINE",
+"27 -96 LINE",
+"51 -96 LINE",
+"272 259 LINE",
+"272 265 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"476 442 LINE",
-"499 442 LINE",
-"499 614 LINE",
-"476 614 LINE"
+"386 442 LINE",
+"409 442 LINE",
+"409 614 LINE",
+"386 614 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"476 -95 LINE",
-"499 -95 LINE",
-"499 77 LINE",
-"476 77 LINE"
+"386 -95 LINE",
+"409 -95 LINE",
+"409 77 LINE",
+"386 77 LINE"
 );
 }
 );
-width = 600;
+width = 494;
 },
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -69969,7 +69970,7 @@ unicode = 2211;
 },
 {
 glyphname = lozenge;
-lastChange = "2016-01-09 18:14:52 +0000";
+lastChange = "2016-01-09 19:57:46 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -70026,6 +70027,48 @@ width = 600;
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"306 552 LINE",
+"301 525 LINE",
+"439 238 LINE",
+"466 238 LINE",
+"309 552 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"306 552 LINE",
+"140 238 LINE",
+"167 238 LINE",
+"314 525 LINE",
+"309 552 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"466 238 LINE",
+"439 238 LINE",
+"301 -49 LINE",
+"306 -76 LINE",
+"309 -76 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"314 -49 LINE",
+"167 238 LINE",
+"140 238 LINE",
+"306 -76 LINE",
+"309 -76 LINE"
+);
+}
+);
 width = 600;
 },
 {
