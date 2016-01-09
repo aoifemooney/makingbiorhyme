@@ -131,7 +131,9 @@ OCScsz,
 "\U00AC",
 /product,
 "/divisionslash =/greaterequal/increment/infinity/notequal/product/lozenge",
-"/florin >/greaterequal 0/integral 0{0[</lessequal/notequal +\U00B1"
+"/florin >/greaterequal 0/integral 0{0[</lessequal/notequal +\U00B1",
+"\U00F0/liraTurkish f/ruble/partialdiff/radical/summation/estimated/literSign",
+"\U00F0/euro L/liraTurkish f/ruble \U00A3/partialdiff/radical/summation/estimated/literSign"
 );
 classes = (
 {
@@ -65414,11 +65416,30 @@ unicode = 0192;
 },
 {
 glyphname = liraTurkish;
-lastChange = "2016-01-09 00:17:10 +0000";
+lastChange = "2016-01-09 16:29:40 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"240 0 LINE",
+"295 0 LINE SMOOTH",
+"444 0 OFFCURVE",
+"512 51 OFFCURVE",
+"568 127 CURVE",
+"549 141 LINE",
+"494 66 OFFCURVE",
+"428 23 OFFCURVE",
+"293 23 CURVE SMOOTH",
+"265 23 LINE",
+"265 480 LINE",
+"240 480 LINE"
+);
+}
+);
 width = 600;
 },
 {
