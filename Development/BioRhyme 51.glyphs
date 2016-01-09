@@ -5,7 +5,9 @@ DisplayStrings = (
 /ruble,
 "/euro/liraTurkish |/ruble |\U00A3|P|",
 /Ohm,
-"|/Ohm |0|/increment |/infinity |/integral |0|/partialdiff |/product |/radical |/summation |/lozenge |/literSign |E"
+"|/Ohm |0|/increment |/infinity |/integral |0|/partialdiff |/product |/radical |/summation |/lozenge |/literSign |E",
+/ampersand.001,
+/g.alt
 );
 classes = (
 {
@@ -59,11 +61,11 @@ customValue = 100;
 customParameters = (
 {
 name = hheaAscender;
-value = "825";
+value = "520";
 },
 {
 name = hheaDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = hheaLineGap;
@@ -71,11 +73,11 @@ value = "0";
 },
 {
 name = typoAscender;
-value = "825";
+value = "520";
 },
 {
 name = typoDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = typoLineGap;
@@ -83,11 +85,11 @@ value = "0";
 },
 {
 name = winAscent;
-value = "825";
+value = "520";
 },
 {
 name = winDescent;
-value = "-320";
+value = "-210";
 }
 );
 descender = -210;
@@ -132,11 +134,11 @@ capHeight = 520;
 customParameters = (
 {
 name = hheaAscender;
-value = "825";
+value = "520";
 },
 {
 name = hheaDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = hheaLineGap;
@@ -144,11 +146,11 @@ value = "0";
 },
 {
 name = typoAscender;
-value = "825";
+value = "520";
 },
 {
 name = typoDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = typoLineGap;
@@ -156,11 +158,11 @@ value = "0";
 },
 {
 name = winAscent;
-value = "825";
+value = "520";
 },
 {
 name = winDescent;
-value = "-320";
+value = "-210";
 }
 );
 descender = -210;
@@ -203,11 +205,11 @@ capHeight = 520;
 customParameters = (
 {
 name = hheaAscender;
-value = "825";
+value = "520";
 },
 {
 name = hheaDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = hheaLineGap;
@@ -215,11 +217,11 @@ value = "0";
 },
 {
 name = typoAscender;
-value = "825";
+value = "520";
 },
 {
 name = typoDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = typoLineGap;
@@ -227,11 +229,11 @@ value = "0";
 },
 {
 name = winAscent;
-value = "825";
+value = "520";
 },
 {
 name = winDescent;
-value = "-320";
+value = "-210";
 }
 );
 descender = -210;
@@ -278,11 +280,11 @@ customValue = 100;
 customParameters = (
 {
 name = hheaAscender;
-value = "825";
+value = "520";
 },
 {
 name = hheaDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = hheaLineGap;
@@ -290,11 +292,11 @@ value = "0";
 },
 {
 name = typoAscender;
-value = "825";
+value = "520";
 },
 {
 name = typoDescender;
-value = "-320";
+value = "-210";
 },
 {
 name = typoLineGap;
@@ -302,11 +304,11 @@ value = "0";
 },
 {
 name = winAscent;
-value = "825";
+value = "520";
 },
 {
 name = winDescent;
-value = "-320";
+value = "-210";
 }
 );
 descender = -210;
