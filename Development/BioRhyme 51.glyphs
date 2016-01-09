@@ -133,7 +133,7 @@ OCScsz,
 "/divisionslash =/greaterequal/increment/infinity/notequal/product/lozenge",
 "/florin >/greaterequal 0/integral 0{0[</lessequal/notequal +\U00B1",
 "\U00F0/liraTurkish f/ruble/partialdiff/radical/summation/estimated/literSign",
-"\U00F0|/euro |L|/liraTurkish |f/ruble \U00A3|/partialdiff |0|/radical Hd|/summation H|/bullet |</estimated/literSign"
+"\U00F0|/euro |L|/liraTurkish |f/ruble \U00A3|/partialdiff |0|/radical Hdg/g.alt x|/summation H|/bullet |</estimated/literSign"
 );
 classes = (
 {
@@ -175,13 +175,13 @@ name = ss04;
 fontMaster = (
 {
 alignmentZones = (
-"{800, 16}",
+"{520, 36}",
 "{520, 11}",
 "{357, 11}",
 "{0, -11}",
-"{-200, -16}"
+"{-210, -16}"
 );
-ascender = 800;
+ascender = 520;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -218,7 +218,7 @@ name = winDescent;
 value = "-320";
 }
 );
-descender = -200;
+descender = -210;
 guideLines = (
 {
 angle = 90;
@@ -249,13 +249,13 @@ xHeight = 357;
 },
 {
 alignmentZones = (
-"{800, 16}",
+"{520, 36}",
 "{520, 11}",
 "{357, 11}",
 "{0, -11}",
-"{-200, -16}"
+"{-210, -16}"
 );
-ascender = 800;
+ascender = 520;
 capHeight = 520;
 customParameters = (
 {
@@ -291,7 +291,7 @@ name = winDescent;
 value = "-320";
 }
 );
-descender = -200;
+descender = -210;
 guideLines = (
 {
 position = "{102, -200}";
@@ -320,13 +320,13 @@ xHeight = 357;
 },
 {
 alignmentZones = (
-"{800, 16}",
+"{520, 36}",
 "{520, 11}",
 "{357, 11}",
 "{0, -11}",
-"{-200, -16}"
+"{-210, -16}"
 );
-ascender = 800;
+ascender = 520;
 capHeight = 520;
 customParameters = (
 {
@@ -362,7 +362,7 @@ name = winDescent;
 value = "-320";
 }
 );
-descender = -200;
+descender = -210;
 guideLines = (
 {
 position = "{262, -200}";
@@ -394,13 +394,13 @@ xHeight = 357;
 },
 {
 alignmentZones = (
-"{800, 16}",
+"{520, 36}",
 "{520, 11}",
 "{357, 11}",
 "{0, -11}",
-"{-200, -16}"
+"{-210, -16}"
 );
-ascender = 800;
+ascender = 520;
 capHeight = 520;
 customValue = 100;
 customParameters = (
@@ -437,7 +437,7 @@ name = winDescent;
 value = "-320";
 }
 );
-descender = -200;
+descender = -210;
 horizontalStems = (
 90,
 96,
