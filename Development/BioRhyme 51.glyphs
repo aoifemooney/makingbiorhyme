@@ -60,7 +60,7 @@ U,
 /Lslash,
 "E/summation <",
 /lozenge,
-/summation,
+"/summation E",
 "\U00F0/partialdiff",
 "~",
 "/approxequal ~=",
@@ -72,7 +72,8 @@ $,
 "/literSign f",
 "/florin f",
 "2/divisionslash 3",
-/notequal
+/notequal,
+"/divisionslash >/notequal %/radical/summation"
 );
 classes = (
 {
@@ -71098,7 +71099,7 @@ unicode = 220F;
 },
 {
 glyphname = radical;
-lastChange = "2016-01-10 18:41:55 +0000";
+lastChange = "2016-01-10 18:44:56 +0000";
 layers = (
 {
 background = {
@@ -71296,20 +71297,20 @@ paths = (
 closed = 1;
 nodes = (
 "209 375 LINE",
-"121 337 LINE",
-"258 -1 LINE",
-"321 -1 LINE",
+"111 337 LINE",
+"248 -1 LINE",
+"311 -1 LINE",
 "314 95 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"427 638 LINE",
-"263 95 LINE",
-"258 -1 LINE",
-"321 -1 LINE",
-"521 614 LINE"
+"407 640 LINE",
+"243 95 LINE",
+"248 -1 LINE",
+"311 -1 LINE",
+"511 614 LINE"
 );
 },
 {
@@ -71317,19 +71318,19 @@ closed = 1;
 nodes = (
 "238 297 LINE",
 "209 375 LINE",
-"20 299 LINE",
-"52 219 LINE"
+"10 299 LINE",
+"42 219 LINE"
 );
 }
 );
-width = 600;
+width = 541;
 }
 );
 unicode = 221A;
 },
 {
 glyphname = summation;
-lastChange = "2016-01-10 00:31:22 +0000";
+lastChange = "2016-01-10 18:44:32 +0000";
 layers = (
 {
 background = {
@@ -71441,8 +71442,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"689 7 LINE",
-"117 7 LINE",
+"689 1 LINE",
+"117 1 LINE",
 "35 -73 LINE",
 "42 -97 LINE",
 "689 -95 LINE"
@@ -71453,8 +71454,8 @@ closed = 1;
 nodes = (
 "42 616 LINE",
 "35 592 LINE",
-"117 512 LINE",
-"689 512 LINE",
+"117 518 LINE",
+"689 518 LINE",
 "689 614 LINE"
 );
 },
@@ -71555,7 +71556,61 @@ width = 494;
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"509 1 LINE",
+"97 1 LINE",
+"15 -73 LINE",
+"22 -97 LINE",
+"509 -95 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"22 616 LINE",
+"15 592 LINE",
+"97 518 LINE",
+"509 518 LINE",
+"509 614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"127 615 LINE",
+"22 615 LINE",
+"15 592 LINE",
+"230 262 LINE",
+"15 -73 LINE",
+"22 -96 LINE",
+"125 -96 LINE",
+"351 250 LINE",
+"351 274 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"401 397 LINE",
+"509 397 LINE",
+"509 614 LINE",
+"401 614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"401 -95 LINE",
+"509 -95 LINE",
+"509 122 LINE",
+"401 122 LINE"
+);
+}
+);
+width = 584;
 }
 );
 unicode = 2211;
