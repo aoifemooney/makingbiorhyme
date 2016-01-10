@@ -152,6 +152,10 @@ name = ss04;
 {
 code = "sub R by R.swsh;\012sub Q by Q.swsh;\012sub ampersand by ampersand.swsh;\012\012";
 name = swsh;
+},
+{
+code = "script latn;\012  language TRK;\012    sub i by idotaccent;\012script latn;\012  language CAT;\012    sub periodcentered by middotcat;";
+name = locl;
 }
 );
 fontMaster = (
