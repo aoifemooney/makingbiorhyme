@@ -156,6 +156,21 @@ name = locl;
 automatic = 1;
 code = "sub f i by fi;\012sub f l by fl;\012";
 name = liga;
+},
+{
+automatic = 1;
+code = "sub one by one.numr;\012sub three by three.numr;\012";
+name = numr;
+},
+{
+automatic = 1;
+code = "sub two by two.dnom;\012sub four by four.dnom;\012";
+name = dnom;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
 }
 );
 fontMaster = (
