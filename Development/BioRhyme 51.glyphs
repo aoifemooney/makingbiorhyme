@@ -36,7 +36,7 @@ U,
 "|$|/euro |/liraTurkish |",
 /notequal,
 "/approxequal =",
-/Ohm,
+"/Ohm 0",
 "H/radical H",
 "H/summation H",
 "0/lozenge 0",
@@ -66605,7 +66605,7 @@ unicode = 00A5;
 },
 {
 glyphname = Ohm;
-lastChange = "2016-01-09 19:53:36 +0000";
+lastChange = "2016-01-10 17:36:01 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -66741,9 +66741,112 @@ name = Bold;
 width = 600;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"760 0 LINE",
+"783 0 LINE",
+"783 146 LINE",
+"760 146 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"45 146 LINE",
+"45 0 LINE",
+"68 0 LINE",
+"68 146 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 480 OFFCURVE",
+"144 377 OFFCURVE",
+"144 253 CURVE SMOOTH",
+"144 165 OFFCURVE",
+"191 77 OFFCURVE",
+"311 13 CURVE",
+"322 23 LINE",
+"48 23 LINE",
+"48 0 LINE",
+"356 0 LINE",
+"358 6 LINE",
+"223 80 OFFCURVE",
+"169 159 OFFCURVE",
+"169 253 CURVE SMOOTH",
+"169 369 OFFCURVE",
+"285 457 OFFCURVE",
+"414 457 CURVE SMOOTH",
+"543 457 OFFCURVE",
+"659 369 OFFCURVE",
+"659 253 CURVE SMOOTH",
+"659 159 OFFCURVE",
+"605 80 OFFCURVE",
+"470 6 CURVE",
+"472 0 LINE",
+"780 0 LINE",
+"780 23 LINE",
+"506 23 LINE",
+"517 13 LINE",
+"637 77 OFFCURVE",
+"684 165 OFFCURVE",
+"684 253 CURVE SMOOTH",
+"684 377 OFFCURVE",
+"565 480 OFFCURVE",
+"414 480 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 600;
+paths = (
+{
+closed = 0;
+nodes = (
+"432 -10 LINE",
+"574 -10 OFFCURVE",
+"742 65 OFFCURVE",
+"742 235 CURVE",
+"742 399 OFFCURVE",
+"581 480 OFFCURVE",
+"432 480 CURVE SMOOTH",
+"280 480 OFFCURVE",
+"112 399 OFFCURVE",
+"112 235 CURVE",
+"112 92 OFFCURVE",
+"225 17 OFFCURVE",
+"355 -4 CURVE"
+);
+},
+{
+closed = 0;
+nodes = (
+"432 79 LINE",
+"518 79 OFFCURVE",
+"618 125 OFFCURVE",
+"618 235 CURVE",
+"618 338 OFFCURVE",
+"526 391 OFFCURVE",
+"432 391 CURVE SMOOTH",
+"337 391 OFFCURVE",
+"237 338 OFFCURVE",
+"237 235 CURVE",
+"237 145 OFFCURVE",
+"299 98 OFFCURVE",
+"378 84 CURVE",
+"379 109 LINE",
+"43 109 LINE",
+"43 3 LINE",
+"382 3 LINE"
+);
+}
+);
+width = 828;
 }
 );
 unicode = 2126;
