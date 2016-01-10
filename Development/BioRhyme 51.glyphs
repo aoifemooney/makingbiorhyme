@@ -144,18 +144,18 @@ name = salt;
 },
 {
 automatic = 1;
-code = "sub Q by Q.swsh;\012sub R by R.swsh;\012sub ampersand by ampersand.swsh;\012";
-name = swsh;
+code = "feature salt;\012feature ccmp;\012feature locl;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "lookup latn_comb1 {\012\011script latn;\012@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012@CombiningNonTopAccents = [cedillacomb ogonekcomb slashlongcomb slashshortcomb strokeshortcomb];\012\011sub [i j]' @CombiningTopAccents by [idotless jdotless];\012\011sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} latn_comb1;\012";
+name = ccmp;
 },
 {
 automatic = 1;
 code = "script latn;\012language CRT;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language KAZ;\012sub i by idotaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language AZE;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012";
 name = locl;
-},
-{
-automatic = 1;
-code = "sub f i by fi;\012sub f l by fl;\012";
-name = liga;
 },
 {
 automatic = 1;
@@ -169,8 +169,23 @@ name = dnom;
 },
 {
 automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
 name = ordn;
+},
+{
+automatic = 1;
+code = "sub f i by fi;\012sub f l by fl;\012";
+name = liga;
+},
+{
+automatic = 1;
+code = "sub Q by Q.swsh;\012sub R by R.swsh;\012sub ampersand by ampersand.swsh;\012";
+name = swsh;
 }
 );
 fontMaster = (
