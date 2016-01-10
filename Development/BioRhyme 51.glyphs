@@ -51,7 +51,8 @@ U,
 /increment,
 "/radical k",
 /radical,
-/euro/liraTurkish
+/euro/liraTurkish,
+"/integral f"
 );
 classes = (
 {
@@ -65410,7 +65411,7 @@ unicode = 0192;
 },
 {
 glyphname = liraTurkish;
-lastChange = "2016-01-10 00:03:38 +0000";
+lastChange = "2016-01-10 00:06:16 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -65470,8 +65471,8 @@ nodes = (
 "563 116 OFFCURVE",
 "471 90 OFFCURVE",
 "326 90 CURVE SMOOTH",
-"278 90 LINE",
-"278 480 LINE",
+"273 90 LINE",
+"273 480 LINE",
 "155 480 LINE"
 );
 },
@@ -67734,7 +67735,7 @@ unicode = 221E;
 },
 {
 glyphname = integral;
-lastChange = "2016-01-09 19:15:04 +0000";
+lastChange = "2016-01-10 00:07:28 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -67772,11 +67773,69 @@ nodes = (
 "229 441 CURVE SMOOTH",
 "229 21 LINE SMOOTH"
 );
+},
+{
+closed = 1;
+nodes = (
+"309 21 LINE",
+"309 458 LINE",
+"309 492 OFFCURVE",
+"330 539 OFFCURVE",
+"420 539 CURVE SMOOTH",
+"478 539 OFFCURVE",
+"527 518 OFFCURVE",
+"569 492 CURVE",
+"608 586 LINE",
+"554 614 OFFCURVE",
+"491 640 OFFCURVE",
+"407 640 CURVE SMOOTH",
+"262 640 OFFCURVE",
+"196 558 OFFCURVE",
+"196 456 CURVE",
+"196 21 LINE"
+);
 }
 );
 width = 483;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"229 -88 OFFCURVE",
+"177 -153 OFFCURVE",
+"88 -153 CURVE SMOOTH",
+"36 -153 OFFCURVE",
+"-7 -137 OFFCURVE",
+"-51 -116 CURVE",
+"-60 -137 LINE",
+"-16 -158 OFFCURVE",
+"34 -176 OFFCURVE",
+"88 -176 CURVE SMOOTH",
+"181 -176 OFFCURVE",
+"254 -113 OFFCURVE",
+"254 23 CURVE SMOOTH",
+"254 443 LINE SMOOTH",
+"254 552 OFFCURVE",
+"306 617 OFFCURVE",
+"395 617 CURVE SMOOTH",
+"447 617 OFFCURVE",
+"490 601 OFFCURVE",
+"534 580 CURVE",
+"543 601 LINE",
+"499 622 OFFCURVE",
+"449 640 OFFCURVE",
+"395 640 CURVE SMOOTH",
+"302 640 OFFCURVE",
+"229 577 OFFCURVE",
+"229 441 CURVE SMOOTH",
+"229 21 LINE SMOOTH"
+);
+}
+);
+};
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
 width = 600;
@@ -68722,7 +68781,7 @@ unicode = 00D7;
 },
 {
 glyphname = notequal;
-lastChange = "2016-01-09 23:40:24 +0000";
+lastChange = "2016-01-10 00:05:57 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -68761,7 +68820,36 @@ width = 637;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"76 384 LINE",
+"76 287 LINE",
+"646 287 LINE",
+"646 384 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"76 183 LINE",
+"76 86 LINE",
+"646 86 LINE",
+"646 183 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"157 -10 LINE",
+"262 -10 LINE",
+"565 481 LINE",
+"460 481 LINE"
+);
+}
+);
+width = 723;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
