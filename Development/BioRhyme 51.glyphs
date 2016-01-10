@@ -106,7 +106,8 @@ d/dcaron/d.alt/dcaron.alt/dcroat/dcroat.alt,
 "/tbar.alt/t.alt t/tcaron.alt/tcedilla.alt",
 "/tbar.alt/tcaron.alt/t.alt/tcedilla.alt t",
 "/u.alt u/uacute.alt/ucircumflex.alt/udieresis.alt/ugrave.alt/uhungarumlaut.alt/umacron.alt/uogonek.alt/uring.alt",
-"/u.alt u/uacute.alt/ucircumflex.alt/udieresis.alt/ugrave.alt/uhungarumlaut.alt/umacron.alt/uogonek.alt/uring.alt"
+"/u.alt u/uacute.alt/ucircumflex.alt/udieresis.alt/ugrave.alt/uhungarumlaut.alt/umacron.alt/uogonek.alt/uring.alt",
+/zacute.001/zcaron.001/zdotaccent.001
 );
 classes = (
 {
@@ -55441,20 +55442,21 @@ unicode = 017A;
 },
 {
 glyphname = zacute.001;
+lastChange = "2016-01-10 20:44:36 +0000";
 layers = (
 {
 components = (
 {
-name = z;
+name = z.alt;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 308, -163}";
+transform = "{1, 0, 0, 1, 226, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 765;
+width = 687;
 },
 {
 components = (
@@ -55569,20 +55571,21 @@ unicode = 017E;
 },
 {
 glyphname = zcaron.001;
+lastChange = "2016-01-10 20:44:42 +0000";
 layers = (
 {
 components = (
 {
-name = z;
+name = z.alt;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 194, -163}";
+transform = "{1, 0, 0, 1, 112, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 765;
+width = 687;
 },
 {
 components = (
@@ -55697,20 +55700,21 @@ unicode = 017C;
 },
 {
 glyphname = zdotaccent.001;
+lastChange = "2016-01-10 20:44:48 +0000";
 layers = (
 {
 components = (
 {
-name = z;
+name = z.alt;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 299, -163}";
+transform = "{1, 0, 0, 1, 217, -163}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 765;
+width = 687;
 },
 {
 components = (
