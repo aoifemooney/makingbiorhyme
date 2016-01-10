@@ -56,7 +56,9 @@ U,
 /integral,
 /ruble,
 "/euro/ruble P",
-/euro/ruble
+/euro/ruble,
+/Lslash,
+"E/summation <"
 );
 classes = (
 {
@@ -7351,7 +7353,7 @@ unicode = 013B;
 },
 {
 glyphname = Lslash;
-lastChange = "2015-12-06 16:33:29 +0000";
+lastChange = "2016-01-10 00:23:03 +0000";
 layers = (
 {
 components = (
@@ -7428,10 +7430,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"479 272 LINE",
-"479 347 LINE",
-"51 233 LINE",
-"51 158 LINE"
+"479 282 LINE",
+"479 357 LINE",
+"51 243 LINE",
+"51 168 LINE"
 );
 }
 );
@@ -70520,7 +70522,7 @@ unicode = 221A;
 },
 {
 glyphname = summation;
-lastChange = "2016-01-09 19:56:50 +0000";
+lastChange = "2016-01-10 00:25:52 +0000";
 layers = (
 {
 background = {
@@ -70628,6 +70630,60 @@ width = 674;
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
+paths = (
+{
+closed = 1;
+nodes = (
+"649 7 LINE",
+"77 7 LINE",
+"-5 -73 LINE",
+"2 -97 LINE",
+"649 -95 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2 616 LINE",
+"-5 592 LINE",
+"77 512 LINE",
+"649 512 LINE",
+"649 614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 615 LINE",
+"2 615 LINE",
+"-5 592 LINE",
+"285 262 LINE",
+"-5 -73 LINE",
+"2 -96 LINE",
+"135 -96 LINE",
+"426 259 LINE",
+"426 265 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"541 372 LINE",
+"649 372 LINE",
+"649 614 LINE",
+"541 614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"541 -95 LINE",
+"649 -95 LINE",
+"649 147 LINE",
+"541 147 LINE"
+);
+}
+);
 width = 600;
 },
 {
