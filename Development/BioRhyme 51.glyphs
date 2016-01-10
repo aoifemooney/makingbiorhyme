@@ -34,7 +34,7 @@ U,
 /euro,
 /liraTurkish,
 "|$|/euro |/liraTurkish |",
-/notequal,
+"/notequal =",
 "/approxequal =",
 "2/Ohm 0",
 "H/radical H",
@@ -71,7 +71,8 @@ $,
 "/estimated e",
 "/literSign f",
 "/florin f",
-"2/divisionslash 3"
+"2/divisionslash 3",
+/notequal
 );
 classes = (
 {
@@ -69406,7 +69407,7 @@ unicode = 00D7;
 },
 {
 glyphname = notequal;
-lastChange = "2016-01-10 00:05:57 +0000";
+lastChange = "2016-01-10 18:40:17 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -69513,7 +69514,36 @@ width = 397;
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"115 60 LINE",
+"205 60 LINE",
+"368 411 LINE",
+"278 411 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"51 354 LINE",
+"51 257 LINE",
+"431 257 LINE",
+"431 354 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"51 213 LINE",
+"51 116 LINE",
+"431 116 LINE",
+"431 213 LINE"
+);
+}
+);
+width = 483;
 }
 );
 unicode = 2260;
@@ -71068,7 +71098,7 @@ unicode = 220F;
 },
 {
 glyphname = radical;
-lastChange = "2016-01-09 23:56:18 +0000";
+lastChange = "2016-01-10 18:41:55 +0000";
 layers = (
 {
 background = {
@@ -71261,6 +71291,37 @@ width = 481;
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"209 375 LINE",
+"121 337 LINE",
+"258 -1 LINE",
+"321 -1 LINE",
+"314 95 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"427 638 LINE",
+"263 95 LINE",
+"258 -1 LINE",
+"321 -1 LINE",
+"521 614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"238 297 LINE",
+"209 375 LINE",
+"20 299 LINE",
+"52 219 LINE"
+);
+}
+);
 width = 600;
 }
 );
