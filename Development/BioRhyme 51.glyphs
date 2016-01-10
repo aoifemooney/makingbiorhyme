@@ -67,7 +67,8 @@ U,
 $,
 "/Ohm S",
 /infinity,
-"/estimated e"
+"/estimated e",
+/estimated
 );
 classes = (
 {
@@ -74933,7 +74934,7 @@ unicode = 00B0;
 {
 color = 0;
 glyphname = estimated;
-lastChange = "2016-01-10 17:56:41 +0000";
+lastChange = "2016-01-10 17:57:20 +0000";
 layers = (
 {
 background = {
@@ -75141,24 +75142,6 @@ nodes = (
 "551 -10 OFFCURVE",
 "671 43 OFFCURVE",
 "741 81 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"589 250 LINE",
-"632 250 LINE",
-"632 409 LINE",
-"589 409 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"179 110 LINE",
-"222 110 LINE",
-"222 399 LINE",
-"179 399 LINE"
 );
 }
 );
