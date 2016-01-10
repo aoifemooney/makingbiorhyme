@@ -88,7 +88,8 @@ P,
 /lessequal,
 H,
 /fl,
-/fi
+/fi,
+/gcommaaccent.alt
 );
 classes = (
 {
@@ -112,11 +113,11 @@ name = Languagesystems;
 features = (
 {
 code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u by u.alt;\012";
-name = ss02;
+name = ss01;
 },
 {
 code = "#stylistic alternates\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub g by g.alt;\012sub k by k.alt;\012sub z by z.alt;\012sub x by x.alt;\012\012\012";
-name = ss03;
+name = salt;
 },
 {
 code = "#numeric alternates\012sub two by two.alt;\012sub seven by seven.alt;\012";
@@ -29152,6 +29153,70 @@ width = 726;
 leftKerningGroup = o;
 rightKerningGroup = o;
 unicode = 0123;
+},
+{
+glyphname = gcommaaccent.alt;
+lastChange = "2016-01-10 20:02:59 +0000";
+layers = (
+{
+components = (
+{
+name = g;
+},
+{
+name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 256, -153}";
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 755;
+},
+{
+components = (
+{
+name = g;
+},
+{
+name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 113, -56}";
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 441;
+},
+{
+components = (
+{
+name = g.alt;
+},
+{
+name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 123, -156}";
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 481;
+},
+{
+components = (
+{
+name = g;
+},
+{
+name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 237, -173}";
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+width = 726;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
 },
 {
 glyphname = h;
