@@ -54,7 +54,8 @@ U,
 /euro/liraTurkish,
 "/integral f",
 /integral,
-/ruble
+/ruble,
+/euro/ruble
 );
 classes = (
 {
@@ -65551,7 +65552,7 @@ unicode = 20BA;
 },
 {
 glyphname = ruble;
-lastChange = "2016-01-10 00:11:06 +0000";
+lastChange = "2016-01-10 00:15:01 +0000";
 layers = (
 {
 anchors = (
@@ -65633,24 +65634,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"605 186 LINE SMOOTH",
-"736 190 OFFCURVE",
-"835 229 OFFCURVE",
-"835 328 CURVE SMOOTH",
-"835 429 OFFCURVE",
-"736 480 OFFCURVE",
-"605 480 CURVE SMOOTH",
+"815 429 OFFCURVE",
+"746 480 OFFCURVE",
+"580 480 CURVE SMOOTH",
 "51 480 LINE",
 "51 384 LINE",
-"600 384 LINE SMOOTH",
-"665 384 OFFCURVE",
-"709 368 OFFCURVE",
-"709 326 CURVE SMOOTH",
-"709 288 OFFCURVE",
-"665 268 OFFCURVE",
-"600 269 CURVE SMOOTH",
-"281 274 LINE",
-"281 187 LINE"
+"271 384 LINE",
+"304 394 LINE",
+"580 394 LINE SMOOTH",
+"645 394 OFFCURVE",
+"689 388 OFFCURVE",
+"689 356 CURVE SMOOTH",
+"689 324 OFFCURVE",
+"645 318 OFFCURVE",
+"580 318 CURVE SMOOTH",
+"231 318 LINE",
+"231 252 LINE",
+"630 249 LINE SMOOTH",
+"746 248 OFFCURVE",
+"815 284 OFFCURVE",
+"815 356 CURVE SMOOTH"
 );
 },
 {
@@ -65669,6 +65672,15 @@ nodes = (
 "328 428 LINE",
 "205 428 LINE",
 "205 53 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"52 206 LINE",
+"52 141 LINE",
+"720 141 LINE",
+"720 206 LINE"
 );
 }
 );
