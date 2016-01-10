@@ -53,7 +53,7 @@ U,
 /radical,
 /euro/liraTurkish,
 "/integral f",
-/integral,
+"/integral f",
 /ruble,
 "/euro/ruble P",
 /euro/ruble,
@@ -70,7 +70,8 @@ $,
 "/estimated e",
 "/estimated e",
 "/literSign f",
-"/florin f"
+"/florin f",
+"2/divisionslash 3"
 );
 classes = (
 {
@@ -179,7 +180,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -388,7 +388,6 @@ verticalStems = (
 123,
 129
 );
-visible = 1;
 weight = Bold;
 weightValue = 800;
 width = Extended;
@@ -67381,7 +67380,7 @@ unicode = 007E;
 },
 {
 glyphname = bulletoperator;
-lastChange = "2016-01-09 23:47:08 +0000";
+lastChange = "2016-01-10 18:33:48 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -67428,16 +67427,21 @@ name = Light;
 width = 259;
 },
 {
+components = (
+{
+name = bullet;
+}
+);
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 600;
+width = 375;
 }
 );
 unicode = 2219;
 },
 {
 glyphname = divisionslash;
-lastChange = "2016-01-09 23:47:37 +0000";
+lastChange = "2016-01-10 18:35:06 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -67446,14 +67450,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"403 611 LINE",
-"373 611 LINE",
-"0 -129 LINE",
-"30 -129 LINE"
+"424 611 LINE",
+"394 611 LINE",
+"21 -129 LINE",
+"51 -129 LINE"
 );
 }
 );
-width = 417;
+width = 459;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -67490,7 +67494,18 @@ width = 340;
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"391 611 LINE",
+"289 611 LINE",
+"15 -129 LINE",
+"117 -129 LINE"
+);
+}
+);
+width = 414;
 }
 );
 unicode = 2215;
@@ -68265,7 +68280,7 @@ unicode = 221E;
 },
 {
 glyphname = integral;
-lastChange = "2016-01-10 00:09:52 +0000";
+lastChange = "2016-01-10 18:37:27 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -68427,7 +68442,42 @@ width = 303;
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"204 440 LINE",
+"204 514 OFFCURVE",
+"237 541 OFFCURVE",
+"282 541 CURVE SMOOTH",
+"310 541 OFFCURVE",
+"333 530 OFFCURVE",
+"350 521 CURVE",
+"390 611 LINE",
+"357 628 OFFCURVE",
+"319 642 OFFCURVE",
+"267 642 CURVE SMOOTH",
+"167 642 OFFCURVE",
+"91 580 OFFCURVE",
+"91 438 CURVE",
+"91 26 LINE SMOOTH",
+"91 -48 OFFCURVE",
+"58 -75 OFFCURVE",
+"13 -75 CURVE SMOOTH",
+"-15 -75 OFFCURVE",
+"-38 -64 OFFCURVE",
+"-55 -55 CURVE",
+"-95 -145 LINE",
+"-62 -162 OFFCURVE",
+"-24 -176 OFFCURVE",
+"28 -176 CURVE SMOOTH",
+"128 -176 OFFCURVE",
+"204 -114 OFFCURVE",
+"204 28 CURVE SMOOTH"
+);
+}
+);
+width = 295;
 }
 );
 unicode = 222B;
