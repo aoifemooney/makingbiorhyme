@@ -142,7 +142,7 @@ code = "#alternate exit strokes\012sub a by a.alt;\012sub aacute by aacute.alt;\
 name = ss01;
 },
 {
-code = "#stylistic alternates\012sub f by f.alt;\012sub t by t.alt;\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012sub z by z.alt;\012sub zacute.alt\012sub zcaron.alt\012sub zdotaccent.alt\012sub x by x.alt;\012\012\012";
+code = "#stylistic alternates\012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012#a and accented start\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012#a and accented end\012\012#g and accented start\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012#g and accented end\012\012#k and accented start\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012#k and accented end\012\012#z and accented start\012sub z by z.alt;\012sub zacute by zacute.alt;\012sub zcaron by zcaron.alt;\012sub zdotaccent by zdotaccent.alt;\012#z and accented end\012\012sub x by x.alt;\012\012\012";
 name = salt;
 },
 {
