@@ -93,7 +93,7 @@ H,
 classes = (
 {
 automatic = 1;
-code = "A A.alt Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H Hbar I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q Q.alt R R.alt S Germandbls T U Uacute Ucircumflex Udieresis Ugrave V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Be-cy De-cy Zhe-cy Ef-cy";
+code = "A A.alt Aacute Abreve Acircumflex Acircumflexhookabove Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H Hbar I Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.swsh R R.swsh Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Germandbls T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Be-cy De-cy Zhe-cy Ef-cy";
 name = Uppercase;
 }
 );
@@ -111,10 +111,6 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub R by R.alt;\012sub Q by Q.alt;\012\012\012";
-name = ss01;
-},
-{
 code = "#alternate exit strokes\012sub a by a.alt;\012sub d by d.alt;\012sub u by u.alt;\012";
 name = ss02;
 },
@@ -125,6 +121,10 @@ name = ss03;
 {
 code = "#numeric alternates\012sub two by two.alt;\012sub seven by seven.alt;\012";
 name = ss04;
+},
+{
+code = "sub R by R.swsh;\012sub Q by Q.swsh;\012\012";
+name = swsh;
 }
 );
 fontMaster = (
@@ -11104,8 +11104,8 @@ rightKerningGroup = O;
 unicode = 0051;
 },
 {
-glyphname = Q.alt;
-lastChange = "2015-12-06 23:57:31 +0000";
+glyphname = Q.swsh;
+lastChange = "2016-01-10 19:59:17 +0000";
 layers = (
 {
 anchors = (
@@ -12135,8 +12135,8 @@ rightKerningGroup = R;
 unicode = 0052;
 },
 {
-glyphname = R.alt;
-lastChange = "2015-12-06 16:41:26 +0000";
+glyphname = R.swsh;
+lastChange = "2016-01-10 19:59:23 +0000";
 layers = (
 {
 anchors = (
