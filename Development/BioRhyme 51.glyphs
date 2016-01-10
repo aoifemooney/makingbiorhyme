@@ -55,7 +55,8 @@ U,
 "/integral f",
 /integral,
 /ruble,
-"/euro/ruble P"
+"/euro/ruble P",
+/euro/ruble
 );
 classes = (
 {
@@ -65552,7 +65553,7 @@ unicode = 20BA;
 },
 {
 glyphname = ruble;
-lastChange = "2016-01-10 00:20:12 +0000";
+lastChange = "2016-01-10 00:22:10 +0000";
 layers = (
 {
 anchors = (
@@ -65634,26 +65635,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"824 429 OFFCURVE",
-"765 480 OFFCURVE",
-"639 480 CURVE SMOOTH",
+"794 436 OFFCURVE",
+"727 480 OFFCURVE",
+"609 480 CURVE SMOOTH",
 "60 480 LINE",
 "60 384 LINE",
 "280 384 LINE",
 "313 399 LINE",
-"609 399 LINE SMOOTH",
-"654 399 OFFCURVE",
-"698 393 OFFCURVE",
-"698 356 CURVE SMOOTH",
-"698 319 OFFCURVE",
-"654 313 OFFCURVE",
-"609 313 CURVE SMOOTH",
-"240 313 LINE",
+"579 399 LINE SMOOTH",
+"624 399 OFFCURVE",
+"668 396 OFFCURVE",
+"668 359 CURVE SMOOTH",
+"668 322 OFFCURVE",
+"624 318 OFFCURVE",
+"579 318 CURVE SMOOTH",
+"240 318 LINE",
 "240 247 LINE",
-"639 244 LINE SMOOTH",
-"760 243 OFFCURVE",
-"824 284 OFFCURVE",
-"824 357 CURVE SMOOTH"
+"609 244 LINE SMOOTH",
+"713 243 OFFCURVE",
+"794 284 OFFCURVE",
+"794 357 CURVE SMOOTH"
 );
 },
 {
@@ -65679,12 +65680,12 @@ closed = 1;
 nodes = (
 "61 201 LINE",
 "61 141 LINE",
-"729 141 LINE",
-"729 201 LINE"
+"699 141 LINE",
+"699 201 LINE"
 );
 }
 );
-width = 854;
+width = 824;
 },
 {
 anchors = (
