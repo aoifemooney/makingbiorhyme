@@ -154,7 +154,7 @@ code = "sub R by R.swsh;\012sub Q by Q.swsh;\012sub ampersand by ampersand.swsh;
 name = swsh;
 },
 {
-code = "script latn;\012\011language TRK;\012\011\011sub i by idotaccent;\012\011\011\012script latn;\012\011language CAT;\012\011\011sub i by idotaccent;\012\011\011";
+code = "script latn;\012\011language TRK;\012\011\011sub i by idotaccent;\012";
 name = locl;
 }
 );
