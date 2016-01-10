@@ -36,7 +36,7 @@ U,
 "|$|/euro |/liraTurkish |",
 /notequal,
 "/approxequal =",
-"/Ohm 0",
+"2/Ohm 0",
 "H/radical H",
 "H/summation H",
 "0/lozenge 0",
@@ -63,7 +63,9 @@ U,
 /summation,
 "\U00F0/partialdiff",
 "~",
-"/approxequal ~="
+"/approxequal ~=",
+$,
+"/Ohm S"
 );
 classes = (
 {
@@ -66605,7 +66607,7 @@ unicode = 00A5;
 },
 {
 glyphname = Ohm;
-lastChange = "2016-01-10 17:38:48 +0000";
+lastChange = "2016-01-10 17:41:21 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -66811,12 +66813,12 @@ nodes = (
 "527 391 OFFCURVE",
 "627 338 OFFCURVE",
 "627 235 CURVE SMOOTH",
-"627 145 OFFCURVE",
-"565 98 OFFCURVE",
-"493 57 CURVE",
+"627 155 OFFCURVE",
+"565 111 OFFCURVE",
+"493 62 CURVE",
 "508 0 LINE",
 "821 0 LINE",
-"821 85 LINE",
+"821 95 LINE",
 "596 85 LINE",
 "593 34 LINE",
 "665 67 OFFCURVE",
@@ -66832,16 +66834,34 @@ nodes = (
 "199 67 OFFCURVE",
 "271 34 CURVE",
 "268 85 LINE",
-"43 85 LINE",
+"43 95 LINE",
 "43 0 LINE",
 "356 0 LINE",
-"371 57 LINE",
-"299 98 OFFCURVE",
-"237 145 OFFCURVE",
+"371 62 LINE",
+"299 111 OFFCURVE",
+"237 155 OFFCURVE",
 "237 235 CURVE SMOOTH",
 "237 338 OFFCURVE",
 "337 391 OFFCURVE",
 "432 391 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-42 176 LINE",
+"-42 0 LINE",
+"68 0 LINE",
+"68 176 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"797 176 LINE",
+"797 0 LINE",
+"907 0 LINE",
+"907 176 LINE"
 );
 }
 );
