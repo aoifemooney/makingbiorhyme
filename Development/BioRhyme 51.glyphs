@@ -116,7 +116,12 @@ d/dcaron/d.alt/dcaron.alt/dcroat/dcroat.alt,
 /g.alt,
 "/a.alt2 cd/d.alt e/g.alt o",
 i/idotless/idotaccent,
-"/Ldot L/ldot l"
+"/Ldot L/ldot l",
+/one.numr,
+"/one.numr \U00B9",
+"\U00B3",
+/three.numr,
+"/two.dnom \U00B9\U00B2"
 );
 classes = (
 {
@@ -139,8 +144,8 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#stylistic alternates\012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012#a and accented start\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012#a and accented end\012\012#g and accented start\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012#g and accented end\012\012#k and accented start\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012#k and accented end\012\012#z and accented start\012sub z by z.alt;\012sub zacute by zacute.alt;\012sub zcaron by zcaron.alt;\012sub zdotaccent by zdotaccent.alt;\012#z and accented end\012\012sub x by x.alt;\012\012\012";
-name = salt;
+code = "#stylistic alternates\012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012#a and accented start\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012#a and accented end\012\012#g and accented start\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012#g and accented end\012\012#k and accented start\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012#k and accented end\012\012#z and accented start\012sub z by z.alt;\012sub zacute by zacute.alt;\012sub zcaron by zcaron.alt;\012sub zdotaccent by zdotaccent.alt;\012#z and accented end\012\012sub x by x.alt;\012\012#number alts start\012sub seven by seven.alt;\012sub two by two.alt;\012#numbers alts end\012\012\012\012";
+name = ss01;
 },
 {
 automatic = 1;
@@ -62778,7 +62783,7 @@ rightKerningGroup = three.numr;
 {
 color = 0;
 glyphname = onesuperior;
-lastChange = "2016-01-10 21:40:30 +0000";
+lastChange = "2016-01-10 21:43:15 +0000";
 layers = (
 {
 components = (
@@ -62791,14 +62796,42 @@ name = "Light Extended";
 width = 477;
 },
 {
-components = (
-{
-name = one;
-}
-);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 321;
+paths = (
+{
+closed = 1;
+nodes = (
+"86 402 OFFCURVE",
+"125 428 OFFCURVE",
+"129 469 CURVE",
+"116 480 LINE",
+"112 447 OFFCURVE",
+"74 422 OFFCURVE",
+"40 422 CURVE",
+"45 399 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"192 198 LINE",
+"192 219 LINE",
+"41 219 LINE",
+"41 198 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 198 LINE",
+"139 480 LINE",
+"116 480 LINE",
+"116 198 LINE"
+);
+}
+);
+width = 232;
 },
 {
 components = (
@@ -62821,14 +62854,14 @@ name = "Bold Extended";
 width = 523;
 }
 );
-leftMetricsKey = one;
-rightMetricsKey = one;
+leftMetricsKey = one.numr;
+rightMetricsKey = one.numr;
 unicode = 00B9;
 },
 {
 color = 0;
 glyphname = threesuperior;
-lastChange = "2016-01-10 21:39:27 +0000";
+lastChange = "2016-01-10 21:44:13 +0000";
 layers = (
 {
 components = (
@@ -62841,14 +62874,58 @@ name = "Light Extended";
 width = 702;
 },
 {
-components = (
-{
-name = three;
-}
-);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 417;
+paths = (
+{
+closed = 1;
+nodes = (
+"206 192 OFFCURVE",
+"246 223 OFFCURVE",
+"246 266 CURVE SMOOTH",
+"246 310 OFFCURVE",
+"200 336 OFFCURVE",
+"127 336 CURVE",
+"127 329 LINE",
+"197 329 OFFCURVE",
+"235 362 OFFCURVE",
+"235 405 CURVE SMOOTH",
+"235 455 OFFCURVE",
+"184 481 OFFCURVE",
+"136 481 CURVE SMOOTH",
+"92 481 OFFCURVE",
+"58 464 OFFCURVE",
+"30 442 CURVE",
+"42 424 LINE",
+"64 444 OFFCURVE",
+"97 460 OFFCURVE",
+"136 460 CURVE SMOOTH",
+"179 460 OFFCURVE",
+"212 440 OFFCURVE",
+"212 405 CURVE SMOOTH",
+"212 374 OFFCURVE",
+"180 342 OFFCURVE",
+"124 342 CURVE SMOOTH",
+"82 342 LINE",
+"82 323 LINE",
+"124 323 LINE SMOOTH",
+"190 323 OFFCURVE",
+"223 296 OFFCURVE",
+"223 266 CURVE SMOOTH",
+"223 233 OFFCURVE",
+"190 213 OFFCURVE",
+"143 213 CURVE SMOOTH",
+"98 213 OFFCURVE",
+"59 235 OFFCURVE",
+"33 258 CURVE",
+"20 240 LINE",
+"51 216 OFFCURVE",
+"89 192 OFFCURVE",
+"142 192 CURVE SMOOTH"
+);
+}
+);
+width = 281;
 },
 {
 components = (
@@ -62871,14 +62948,14 @@ name = "Bold Extended";
 width = 758;
 }
 );
-leftMetricsKey = three;
-rightMetricsKey = three;
+leftMetricsKey = three.numr;
+rightMetricsKey = three.numr;
 unicode = 00B3;
 },
 {
 color = 0;
 glyphname = twosuperior;
-lastChange = "2016-01-10 21:39:27 +0000";
+lastChange = "2016-01-10 21:44:53 +0000";
 layers = (
 {
 components = (
@@ -62891,14 +62968,49 @@ name = "Light Extended";
 width = 729;
 },
 {
-components = (
-{
-name = two;
-}
-);
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 479;
+paths = (
+{
+closed = 1;
+nodes = (
+"162 289 LINE SMOOTH",
+"215 325 OFFCURVE",
+"250 354 OFFCURVE",
+"250 399 CURVE SMOOTH",
+"250 455 OFFCURVE",
+"198 480 OFFCURVE",
+"153 480 CURVE SMOOTH",
+"102 480 OFFCURVE",
+"62 454 OFFCURVE",
+"27 419 CURVE",
+"40 403 LINE",
+"75 438 OFFCURVE",
+"108 459 OFFCURVE",
+"153 459 CURVE SMOOTH",
+"193 459 OFFCURVE",
+"227 441 OFFCURVE",
+"227 400 CURVE SMOOTH",
+"227 360 OFFCURVE",
+"198 338 OFFCURVE",
+"144 302 CURVE SMOOTH",
+"20 219 LINE",
+"36 204 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 198 LINE",
+"263 285 LINE",
+"242 285 LINE",
+"242 219 LINE",
+"20 219 LINE",
+"20 198 LINE"
+);
+}
+);
+width = 303;
 },
 {
 components = (
@@ -62921,8 +63033,6 @@ name = "Bold Extended";
 width = 704;
 }
 );
-leftMetricsKey = two;
-rightMetricsKey = two;
 unicode = 00B2;
 },
 {
