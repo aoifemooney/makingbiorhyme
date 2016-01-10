@@ -98,7 +98,7 @@ a/a.alt2/aacute.alt2/abreve.alt2/circumflexcomb/acircumflex.alt2/adieresis.alt2/
 /atilde.alt2,
 /a.alt2/aacute.alt2/abreve.alt2/acircumflex.alt2/adieresis.alt2/agrave.alt2/amacron.alt2/aogonek.alt2/aring.alt2/atilde.alt2,
 /dcaron.alt/dcroat.alt,
-/dcaron.alt,
+"/d.alt d/dcaron.alt",
 /dcroat.alt,
 d/dcaron/d.alt/dcaron.alt/dcroat/dcroat.alt,
 /kcommaaccent.alt,
@@ -127,7 +127,11 @@ i/idotless/idotaccent,
 "\U00B9",
 "/two.dnom/one.numr/three.numr \U00B9\U00B3\U00B2",
 "\U00B9\U00B3\U00B2*",
-"*/dagger/daggerdbl"
+"*/dagger/daggerdbl",
+/a.alt2/g.alt,
+/adieresis.alt,
+"/uacute.alt u",
+"/u.alt u/uacute.alt"
 );
 classes = (
 {
@@ -19580,7 +19584,7 @@ rightKerningGroup = n;
 {
 color = 9;
 glyphname = a.alt2;
-lastChange = "2016-01-10 21:02:46 +0000";
+lastChange = "2016-01-10 23:42:12 +0000";
 layers = (
 {
 anchors = (
@@ -20147,9 +20151,10 @@ nodes = (
 "743 98 OFFCURVE",
 "743 139 CURVE SMOOTH",
 "743 368 LINE",
-"626 347 LINE",
-"626 118 LINE SMOOTH",
-"626 34 OFFCURVE",
+"677 368 LINE",
+"628 280 LINE",
+"628 118 LINE SMOOTH",
+"628 34 OFFCURVE",
 "682 -9 OFFCURVE",
 "752 -9 CURVE SMOOTH"
 );
@@ -21124,7 +21129,7 @@ unicode = 00E4;
 {
 color = 1;
 glyphname = adieresis.alt;
-lastChange = "2016-01-10 21:06:28 +0000";
+lastChange = "2016-01-10 23:42:42 +0000";
 layers = (
 {
 background = {
@@ -21215,7 +21220,7 @@ transform = "{1, 0, 0, 1, 181, -153}";
 };
 components = (
 {
-name = a;
+name = a.alt;
 },
 {
 name = dieresiscomb;
@@ -21224,7 +21229,7 @@ transform = "{1, 0, 0, 1, 131, -153}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 809;
+width = 835;
 }
 );
 leftKerningGroup = a;
@@ -25525,7 +25530,7 @@ unicode = 0064;
 {
 color = 1;
 glyphname = d.alt;
-lastChange = "2016-01-10 21:03:05 +0000";
+lastChange = "2016-01-10 23:44:00 +0000";
 layers = (
 {
 anchors = (
@@ -25704,19 +25709,19 @@ width = 867;
 anchors = (
 {
 name = bottom;
-position = "{204, -20}";
+position = "{209, -20}";
 },
 {
 name = center;
-position = "{184, 179}";
+position = "{209, 179}";
 },
 {
 name = top;
-position = "{214, 377}";
+position = "{209, 377}";
 },
 {
 name = topright;
-position = "{498, 357}";
+position = "{427, 412}";
 }
 );
 background = {
@@ -25881,7 +25886,7 @@ position = "{198, -11}";
 },
 {
 name = center;
-position = "{204, 179}";
+position = "{198, 179}";
 },
 {
 name = top;
@@ -25889,7 +25894,7 @@ position = "{211, 367}";
 },
 {
 name = topright;
-position = "{518, 357}";
+position = "{455, 415}";
 }
 );
 background = {
@@ -26058,11 +26063,11 @@ position = "{396, 179}";
 },
 {
 name = top;
-position = "{372, 366}";
+position = "{372, 365}";
 },
 {
 name = topright;
-position = "{806, 357}";
+position = "{796, 337}";
 }
 );
 background = {
@@ -26714,7 +26719,7 @@ unicode = 010F;
 {
 color = 1;
 glyphname = dcaron.alt;
-lastChange = "2016-01-10 20:32:16 +0000";
+lastChange = "2016-01-10 23:44:00 +0000";
 layers = (
 {
 components = (
@@ -26733,7 +26738,7 @@ width = 867;
 {
 components = (
 {
-name = d;
+name = d.alt;
 },
 {
 name = caroncomb.alt;
@@ -26742,12 +26747,12 @@ transform = "{1, 0, 0, 1, 366, -108}";
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 name = Light;
-width = 485;
+width = 492;
 },
 {
 components = (
 {
-name = d;
+name = d.alt;
 },
 {
 name = caroncomb.alt;
@@ -26756,12 +26761,12 @@ transform = "{1, 0, 0, 1, 394, -105}";
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 name = Bold;
-width = 498;
+width = 509;
 },
 {
 components = (
 {
-name = d;
+name = d.alt;
 },
 {
 name = caroncomb.alt;
@@ -26770,7 +26775,7 @@ transform = "{1, 0, 0, 1, 743, -110}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 881;
+width = 879;
 }
 );
 leftKerningGroup = o;
@@ -49138,7 +49143,7 @@ unicode = 0075;
 },
 {
 glyphname = u.alt;
-lastChange = "2016-01-10 20:43:48 +0000";
+lastChange = "2016-01-10 23:45:35 +0000";
 layers = (
 {
 anchors = (
@@ -49662,19 +49667,19 @@ width = 524;
 anchors = (
 {
 name = bottom;
-position = "{458, -20}";
+position = "{368, -10}";
 },
 {
 name = ogonek;
-position = "{781, -4}";
+position = "{847, 17}";
 },
 {
 name = top;
-position = "{458, 357}";
+position = "{407, 357}";
 },
 {
 name = topright;
-position = "{845, 357}";
+position = "{820, 357}";
 }
 );
 background = {
@@ -49947,7 +49952,7 @@ unicode = 00FA;
 {
 color = 1;
 glyphname = uacute.alt;
-lastChange = "2016-01-10 20:42:12 +0000";
+lastChange = "2016-01-10 23:45:14 +0000";
 layers = (
 {
 background = {
@@ -50038,7 +50043,7 @@ transform = "{1, 0, 0, 1, 151, -173}";
 };
 components = (
 {
-name = u;
+name = u.alt;
 },
 {
 name = acutecomb;
@@ -50047,7 +50052,7 @@ transform = "{1, 0, 0, 1, 203, -143}";
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 882;
+width = 879;
 }
 );
 leftKerningGroup = u;
