@@ -115,12 +115,13 @@ d/dcaron/d.alt/dcaron.alt/dcroat/dcroat.alt,
 "a/a.alt/a.alt2 \U00E1/aacute.alt/aacute.alt2/abreve/abreve.alt/abreve.alt2 \U00E2/acircumflex.alt/acircumflex.alt2 \U00E4/adieresis.alt/adieresis.alt2 \U00E0/agrave.alt/agrave.alt2/amacron/amacron.alt/amacron.alt2/aogonek/aogonek.alt/aogonek.alt2 \U00E5/aring.alt/aring.alt2 \U00E3/atilde.alt/atilde.alt2",
 /g.alt,
 "/a.alt2 cd/d.alt e/g.alt o",
-i/idotless/idotaccent
+i/idotless/idotaccent,
+"/Ldot L/ldot l"
 );
 classes = (
 {
 automatic = 1;
-code = "A A.alt Aacute Abreve Acircumflex Acircumflexhookabove Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.swsh R R.swsh Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Germandbls T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Be-cy De-cy Zhe-cy Ef-cy";
+code = "A A.alt Aacute Abreve Acircumflex Acircumflexhookabove Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.swsh R R.swsh Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Germandbls T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Be-cy De-cy Zhe-cy Ef-cy";
 name = Uppercase;
 }
 );
@@ -132,30 +133,29 @@ familyName = "BioRhyme";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn CRT;\012languagesystem latn TAT;\012languagesystem latn KAZ;\012languagesystem latn CAT;\012languagesystem latn AZE;\012languagesystem latn TRK;\012";
 name = Languagesystems;
 }
 );
 features = (
 {
-code = "#alternate exit strokes\012\012#a and accented start\012sub a by a.alt;\012sub aacute by aacute.alt;\012sub abreve by abreve.alt;\012sub acircumflex by acircumflex.alt;\012sub adieresis by adieresis.alt;\012sub agrave by agrave.alt;\012sub amacron by amacron.alt;\012sub aogonek by aogonek.alt;\012sub aring by aring.alt;\012sub atilde by atilde.alt;\012#a and accented end\012\012#d and accented start\012sub d by d.alt;\012sub dcaron by dcaron.alt;\012sub dcroat by dcroat.alt;\012#d and accented end\012\012#u and accented start\012sub u by u.alt;\012sub uacute by uacute.alt;\012sub ucircumflex by ucircumflex.alt;\012sub udieresis by udieresis.alt;\012sub ugrave by ugrave.alt;\012sub uhungarumlaut by uhungarumlaut.alt;\012sub umacron by umacron.alt;\012sub uogonek by uogonek.alt;\012sub uring by uring.alt;\012#u and accented end\012";
-name = ss01;
-},
-{
 code = "#stylistic alternates\012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012#a and accented start\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012#a and accented end\012\012#g and accented start\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012#g and accented end\012\012#k and accented start\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012#k and accented end\012\012#z and accented start\012sub z by z.alt;\012sub zacute by zacute.alt;\012sub zcaron by zcaron.alt;\012sub zdotaccent by zdotaccent.alt;\012#z and accented end\012\012sub x by x.alt;\012\012\012";
 name = salt;
 },
 {
-code = "#numeric alternates\012sub two by two.alt;\012sub seven by seven.alt;\012";
-name = ss04;
-},
-{
-code = "sub R by R.swsh;\012sub Q by Q.swsh;\012sub ampersand by ampersand.swsh;\012\012";
+automatic = 1;
+code = "sub Q by Q.swsh;\012sub R by R.swsh;\012sub ampersand by ampersand.swsh;\012";
 name = swsh;
 },
 {
-code = "script latn;\012\011language TRK;\012\011\011sub i by idotaccent;\012";
+automatic = 1;
+code = "script latn;\012language CRT;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language KAZ;\012sub i by idotaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language AZE;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012";
 name = locl;
+},
+{
+automatic = 1;
+code = "sub f i by fi;\012sub f l by fl;\012";
+name = liga;
 }
 );
 fontMaster = (
@@ -7474,6 +7474,66 @@ width = 855;
 leftKerningGroup = H;
 rightKerningGroup = L;
 unicode = 013B;
+},
+{
+glyphname = Ldot;
+lastChange = "2016-01-10 21:24:39 +0000";
+layers = (
+{
+components = (
+{
+name = L;
+},
+{
+name = periodcentered;
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 839;
+},
+{
+components = (
+{
+name = L;
+},
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, 330, 0}";
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 542;
+},
+{
+components = (
+{
+name = L;
+},
+{
+name = periodcentered;
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 554;
+},
+{
+components = (
+{
+name = L;
+},
+{
+name = periodcentered;
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+width = 855;
+}
+);
+unicode = 013F;
 },
 {
 glyphname = Lslash;
@@ -38319,6 +38379,66 @@ width = 459;
 leftKerningGroup = h;
 rightKerningGroup = l;
 unicode = 013C;
+},
+{
+glyphname = ldot;
+lastChange = "2016-01-10 21:24:56 +0000";
+layers = (
+{
+components = (
+{
+name = l;
+},
+{
+name = periodcentered;
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 449;
+},
+{
+components = (
+{
+name = l;
+},
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, 151, 0}";
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 249;
+},
+{
+components = (
+{
+name = l;
+},
+{
+name = periodcentered;
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 275;
+},
+{
+components = (
+{
+name = l;
+},
+{
+name = periodcentered;
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+width = 459;
+}
+);
+unicode = 0140;
 },
 {
 glyphname = lslash;
