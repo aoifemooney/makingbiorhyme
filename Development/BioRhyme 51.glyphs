@@ -148,7 +148,8 @@ i/idotless/idotaccent,
 "/Ldot L/ldot l",
 /pi,
 "\U00B5",
-"|/pi |\U00B5|t|"
+"|/pi |\U00B5|t|",
+"/Ldot LAMA"
 );
 classes = (
 {
@@ -7547,7 +7548,7 @@ unicode = 013B;
 },
 {
 glyphname = Ldot;
-lastChange = "2016-01-10 23:58:02 +0000";
+lastChange = "2016-01-11 00:11:02 +0000";
 layers = (
 {
 components = (
@@ -7556,7 +7557,7 @@ name = L;
 },
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 550, 0}";
+transform = "{1, 0, 0, 1, 550, 80}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -7570,7 +7571,7 @@ name = L;
 },
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 330, 0}";
+transform = "{1, 0, 0, 1, 330, 50}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -7584,7 +7585,7 @@ name = L;
 },
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 335, 113}";
+transform = "{1, 0, 0, 1, 335, 93}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
