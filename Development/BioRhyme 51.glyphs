@@ -58549,7 +58549,7 @@ unicode = 0424;
 {
 color = 0;
 glyphname = pi;
-lastChange = "2016-01-11 00:04:43 +0000";
+lastChange = "2016-01-11 00:07:38 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -58595,7 +58595,7 @@ nodes = (
 );
 }
 );
-width = 856;
+width = 871;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -58666,14 +58666,14 @@ nodes = (
 "493 90 OFFCURVE",
 "487 88 OFFCURVE",
 "479 88 CURVE SMOOTH",
-"469 88 OFFCURVE",
-"460 94 OFFCURVE",
-"460 111 CURVE SMOOTH",
-"460 357 LINE",
-"345 357 LINE",
-"345 100 LINE SMOOTH",
-"345 31 OFFCURVE",
-"389 -6 OFFCURVE",
+"464 88 OFFCURVE",
+"455 94 OFFCURVE",
+"455 111 CURVE SMOOTH",
+"455 357 LINE",
+"340 357 LINE",
+"340 100 LINE SMOOTH",
+"340 31 OFFCURVE",
+"384 -6 OFFCURVE",
 "450 -6 CURVE SMOOTH"
 );
 },
@@ -58687,12 +58687,53 @@ nodes = (
 );
 }
 );
-width = 540;
+width = 550;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 name = "Bold Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"898 267 LINE",
+"898 357 LINE",
+"40 357 LINE",
+"40 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"846 -9 OFFCURVE",
+"877 3 OFFCURVE",
+"898 17 CURVE",
+"871 96 LINE",
+"861 91 OFFCURVE",
+"844 86 OFFCURVE",
+"824 86 CURVE SMOOTH",
+"784 86 OFFCURVE",
+"765 98 OFFCURVE",
+"765 139 CURVE SMOOTH",
+"765 357 LINE",
+"648 357 LINE",
+"648 118 LINE SMOOTH",
+"648 34 OFFCURVE",
+"704 -9 OFFCURVE",
+"794 -9 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"308 0 LINE",
+"308 357 LINE",
+"191 357 LINE",
+"191 -1 LINE"
+);
+}
+);
+width = 958;
 }
 );
 leftMetricsKey = p;
