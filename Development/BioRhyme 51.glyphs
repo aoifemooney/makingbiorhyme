@@ -3,7 +3,9 @@ DisplayStrings = (
 /Omega,
 /Delta,
 /mu,
-/tcommaaccent.001
+/tcommaaccent.001,
+/dcroat/dcroat.alt,
+/dcroat/dcroat.alt/hbar
 );
 classes = (
 {
@@ -26782,7 +26784,7 @@ rightKerningGroup = l;
 },
 {
 glyphname = dcroat;
-lastChange = "2016-01-11 02:21:49 +0000";
+lastChange = "2016-01-11 03:19:03 +0000";
 layers = (
 {
 anchors = (
@@ -27281,7 +27283,7 @@ position = "{373, 357}";
 );
 associatedMasterId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 layerId = "922E36AB-79D4-4A40-9692-C4C2AE0D13B4";
-name = "Light Dec [400]";
+name = "Light [400]";
 paths = (
 {
 closed = 1;
@@ -27377,7 +27379,7 @@ position = "{455, 415}";
 );
 associatedMasterId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 layerId = "528B4684-DF70-4243-A321-7DBC21A2CD8E";
-name = "Bold Dec [400]";
+name = "Bold [400]";
 paths = (
 {
 closed = 1;
@@ -27443,9 +27445,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"356 520 LINE",
-"421 520 LINE",
 "421 430 LINE",
+"421 520 LINE",
+"356 520 LINE",
 "356 430 LINE"
 );
 }
@@ -27555,7 +27557,7 @@ unicode = 0111;
 },
 {
 glyphname = dcroat.alt;
-lastChange = "2016-01-11 02:22:13 +0000";
+lastChange = "2016-01-11 03:18:30 +0000";
 layers = (
 {
 anchors = (
@@ -28342,7 +28344,7 @@ position = "{373, 357}";
 );
 associatedMasterId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 layerId = "922E36AB-79D4-4A40-9692-C4C2AE0D13B4";
-name = "Light Dec [400]";
+name = "Light [400]";
 paths = (
 {
 closed = 1;
@@ -28440,7 +28442,7 @@ position = "{455, 415}";
 );
 associatedMasterId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 layerId = "528B4684-DF70-4243-A321-7DBC21A2CD8E";
-name = "Bold Dec [400]";
+name = "Bold [400]";
 paths = (
 {
 closed = 1;
@@ -96257,8 +96259,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96271,8 +96273,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96285,8 +96287,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96298,8 +96300,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96312,8 +96314,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96326,8 +96328,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96343,8 +96345,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96360,8 +96362,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96376,8 +96378,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
@@ -96393,8 +96395,8 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    W,
-    w
+    dcroat,
+    hbar
 );
 }
 );
