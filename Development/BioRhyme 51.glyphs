@@ -149,7 +149,8 @@ i/idotless/idotaccent,
 "/Ldot LAMA",
 g,
 /dcroat/dcroat.alt,
-"nfn/f.alt n/t.alt o/tbar.alt/tcaron.alt/tcedilla.alt nto"
+"nfn/f.alt n/t.alt o/tbar.alt/tcaron.alt/tcedilla.alt nto\012angry",
+"angry\012sad\012happy\012surprised\012neutral\012afraid\012"
 );
 classes = (
 {
@@ -238,7 +239,7 @@ code = "#z curved to straight forms\012sub z by z.alt;\012sub zacute by zacute.a
 name = ss04;
 },
 {
-code = "sub a'n'g'r'y by angry;";
+code = "sub a'n'g'r'y' by angry;\012sub n'e'u't'r'a'l' by neutral;\012sub h'a'p'p'y' by happy;\012sub s'a'd' by sad;\012sub s'u'r'p'r'i's'e'd'by surprised;\012sub a'f'r'a'i'd' by afraid;\012sub d'i's'g'u's't'e'd' by disgusted;\012";
 name = ss05;
 }
 );
