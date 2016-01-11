@@ -1,4 +1,9 @@
 {
+DisplayStrings = (
+/Omega,
+/Delta,
+/mu
+);
 classes = (
 {
 automatic = 1;
@@ -30,8 +35,7 @@ code = "lookup latn_comb1 {\012\011script latn;\012@CombiningTopAccents = [acute
 name = ccmp;
 },
 {
-automatic = 1;
-code = "script latn;\012language CRT;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language KAZ;\012sub i by idotaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language AZE;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012";
+code = "script latn;\012language CRT;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language KAZ;\012sub i by idotaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language AZE;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012";
 name = locl;
 },
 {
@@ -92,6 +96,11 @@ name = ss05;
 {
 code = "sub a'n'g'r'y' by angry.rev;\012sub n'e'u't'r'a'l' by neutral.rev;\012sub h'a'p'p'y' by happy.rev;\012sub s'a'd' by sad.rev;\012sub s'u'r'p'r'i's'e'd'by surprised.rev;\012sub a'f'r'a'i'd' by afraid.rev;\012sub d'i's'g'u's't'e'd' by disgusted.rev;\012";
 name = ss06;
+},
+{
+automatic = 1;
+code = "sub Delta by increment;\012sub Omega by Ohm;\012sub mu by micro;\012";
+name = mgrk;
 }
 );
 fontMaster = (
@@ -34639,7 +34648,7 @@ unicode = 0131;
 },
 {
 glyphname = iacute;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-11 03:10:51 +0000";
 layers = (
 {
 background = {
@@ -34709,7 +34718,7 @@ name = idotless;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, -36, -163}";
+transform = "{1, 0, 0, 1, -23, -163}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -34748,7 +34757,7 @@ unicode = 00ED;
 },
 {
 glyphname = icircumflex;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-11 03:10:51 +0000";
 layers = (
 {
 background = {
@@ -34818,7 +34827,7 @@ name = idotless;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -38, -164}";
+transform = "{1, 0, 0, 1, -25, -164}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -34857,7 +34866,7 @@ unicode = 00EE;
 },
 {
 glyphname = idieresis;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-11 03:10:51 +0000";
 layers = (
 {
 background = {
@@ -34927,7 +34936,7 @@ name = idotless;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -92, -164}";
+transform = "{1, 0, 0, 1, -79, -164}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -35028,7 +35037,7 @@ width = 495;
 },
 {
 glyphname = igrave;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-11 03:10:51 +0000";
 layers = (
 {
 background = {
@@ -35098,7 +35107,7 @@ name = idotless;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, -74, -163}";
+transform = "{1, 0, 0, 1, -61, -163}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -35137,7 +35146,7 @@ unicode = 00EC;
 },
 {
 glyphname = imacron;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-11 03:10:51 +0000";
 layers = (
 {
 components = (
@@ -35174,7 +35183,7 @@ name = idotless;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, -86, -163}";
+transform = "{1, 0, 0, 1, -73, -163}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -35202,7 +35211,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-11 03:10:51 +0000";
 layers = (
 {
 components = (
@@ -35247,7 +35256,7 @@ name = idotless;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 2, -163}";
+transform = "{1, 0, 0, 1, 15, -163}";
 },
 {
 name = ogonekcomb;
@@ -58368,6 +58377,100 @@ rightKerningGroup = Thorn;
 unicode = 0424;
 },
 {
+glyphname = Delta;
+lastChange = "2016-01-11 03:10:57 +0000";
+layers = (
+{
+components = (
+{
+name = increment;
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 716;
+},
+{
+components = (
+{
+name = increment;
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 556;
+},
+{
+components = (
+{
+name = increment;
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 622;
+},
+{
+components = (
+{
+name = increment;
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+width = 762;
+}
+);
+unicode = 0394;
+},
+{
+glyphname = Omega;
+lastChange = "2016-01-11 03:11:24 +0000";
+layers = (
+{
+components = (
+{
+name = Ohm;
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 828;
+},
+{
+components = (
+{
+name = Ohm;
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 656;
+},
+{
+components = (
+{
+name = Ohm;
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 809;
+},
+{
+components = (
+{
+name = Ohm;
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+width = 959;
+}
+);
+unicode = 03A9;
+},
+{
 glyphname = pi;
 lastChange = "2016-01-11 02:10:59 +0000";
 layers = (
@@ -58558,6 +58661,53 @@ width = 958;
 );
 leftMetricsKey = p;
 unicode = 03C0;
+},
+{
+glyphname = mu;
+lastChange = "2016-01-11 03:12:28 +0000";
+layers = (
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+name = "Light Extended";
+width = 906;
+},
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+name = Light;
+width = 501;
+},
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+name = Bold;
+width = 525;
+},
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+name = "Bold Extended";
+width = 933;
+}
+);
+unicode = 03BC;
 },
 {
 glyphname = zero;
