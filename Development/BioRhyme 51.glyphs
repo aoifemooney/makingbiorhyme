@@ -145,7 +145,10 @@ i/idotless/idotaccent,
 "*",
 /dagger,
 /daggerdbl,
-"/Ldot L/ldot l"
+"/Ldot L/ldot l",
+/pi,
+"\U00B5",
+"/pi \U00B5"
 );
 classes = (
 {
@@ -58546,12 +58549,53 @@ unicode = 0424;
 {
 color = 0;
 glyphname = pi;
-lastChange = "2016-01-10 21:39:30 +0000";
+lastChange = "2016-01-11 00:00:55 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 name = "Light Extended";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"786 334 LINE",
+"786 357 LINE",
+"30 357 LINE",
+"30 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"745 -20 OFFCURVE",
+"771 -8 OFFCURVE",
+"796 9 CURVE",
+"786 29 LINE",
+"763 12 OFFCURVE",
+"741 3 OFFCURVE",
+"714 3 CURVE SMOOTH",
+"682 3 OFFCURVE",
+"650 28 OFFCURVE",
+"650 84 CURVE",
+"650 357 LINE",
+"625 357 LINE",
+"625 84 LINE",
+"625 18 OFFCURVE",
+"663 -20 OFFCURVE",
+"713 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 0 LINE",
+"199 357 LINE",
+"174 357 LINE",
+"174 0 LINE"
+);
+}
+);
+width = 826;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -58569,6 +58613,7 @@ name = "Bold Extended";
 width = 600;
 }
 );
+rightMetricsKey = mu;
 unicode = 03C0;
 },
 {
@@ -82103,9 +82148,8 @@ rightKerningGroup = asciicircum;
 unicode = 005E;
 },
 {
-color = 0;
 glyphname = dagger;
-lastChange = "2016-01-10 23:51:31 +0000";
+lastChange = "2016-01-10 23:58:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -82459,9 +82503,8 @@ width = 479;
 unicode = 2020;
 },
 {
-color = 0;
 glyphname = daggerdbl;
-lastChange = "2016-01-10 23:54:35 +0000";
+lastChange = "2016-01-10 23:58:18 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
