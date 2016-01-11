@@ -149,7 +149,8 @@ i/idotless/idotaccent,
 /pi,
 "\U00B5",
 "|/pi |\U00B5|t|",
-"/Ldot LAMA"
+"/Ldot LAMA",
+g
 );
 classes = (
 {
@@ -172,7 +173,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#stylistic alternates\012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012#a and accented start\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012#a and accented end\012\012#g and accented start\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012#g and accented end\012\012#k and accented start\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012#k and accented end\012\012#z and accented start\012sub z by z.alt;\012sub zacute by zacute.alt;\012sub zcaron by zcaron.alt;\012sub zdotaccent by zdotaccent.alt;\012#z and accented end\012\012sub x by x.alt;\012\012#number alts start\012sub seven by seven.alt;\012sub two by two.alt;\012#numbers alts end\012\012\012\012";
+code = "#stylistic alternates\012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012\012#k and accented start\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012#k and accented end\012\012#z and accented start\012sub z by z.alt;\012sub zacute by zacute.alt;\012sub zcaron by zcaron.alt;\012sub zdotaccent by zdotaccent.alt;\012#z and accented end\012\012sub x by x.alt;\012\012#number alts start\012sub seven by seven.alt;\012sub two by two.alt;\012#numbers alts end\012\012\012\012";
 name = ss01;
 },
 {
@@ -224,6 +225,10 @@ name = liga;
 automatic = 1;
 code = "sub Q by Q.swsh;\012sub R by R.swsh;\012sub ampersand by ampersand.swsh;\012";
 name = swsh;
+},
+{
+code = "#a and accented start\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012#a and accented end\012\012#g and accented start\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012#g and accented end\012";
+name = ss02;
 }
 );
 fontMaster = (
@@ -30695,7 +30700,7 @@ rightKerningGroup = f;
 },
 {
 glyphname = g;
-lastChange = "2016-01-10 20:59:57 +0000";
+lastChange = "2016-01-11 02:03:30 +0000";
 layers = (
 {
 anchors = (
@@ -30705,7 +30710,7 @@ position = "{367, -164}";
 },
 {
 name = top;
-position = "{376, 367}";
+position = "{376, 377}";
 }
 );
 background = {
@@ -32155,7 +32160,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2016-01-10 21:00:04 +0000";
+lastChange = "2016-01-11 02:03:31 +0000";
 layers = (
 {
 components = (
@@ -32164,7 +32169,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0, 1, 256, -153}";
+transform = "{1, 0, 0, 1, 256, -143}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
