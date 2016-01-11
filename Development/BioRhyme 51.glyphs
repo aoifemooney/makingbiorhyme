@@ -173,12 +173,8 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#t & f \012sub f by f.alt;\012\012#t and accented start\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012#t and accented end\012\012\012\012\012\012\012";
-name = ss01;
-},
-{
 automatic = 1;
-code = "feature ss01;\012feature ccmp;\012feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012";
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012";
 name = aalt;
 },
 {
@@ -227,6 +223,10 @@ code = "sub Q by Q.swsh;\012sub R by R.swsh;\012sub ampersand by ampersand.swsh;
 name = swsh;
 },
 {
+code = "#t & f broken spine forms\012\012sub f by f.alt;\012\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012\012\012\012\012\012\012";
+name = ss01;
+},
+{
 code = "# a & g single storey forms\012\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012";
 name = ss02;
 },
@@ -254,15 +254,15 @@ customValue = 100;
 customParameters = (
 {
 name = hheaAscender;
-value = "520";
+value = "740";
 },
 {
 name = hheaDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = hheaLineGap;
-value = "0";
+value = "80";
 },
 {
 name = typoAscender;
@@ -270,19 +270,19 @@ value = "520";
 },
 {
 name = typoDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = typoLineGap;
-value = "0";
+value = "80";
 },
 {
 name = winAscent;
-value = "520";
+value = "740";
 },
 {
 name = winDescent;
-value = "-210";
+value = "-480";
 }
 );
 descender = -210;
@@ -328,15 +328,15 @@ capHeight = 520;
 customParameters = (
 {
 name = hheaAscender;
-value = "520";
+value = "740";
 },
 {
 name = hheaDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = hheaLineGap;
-value = "0";
+value = "80";
 },
 {
 name = typoAscender;
@@ -344,19 +344,19 @@ value = "520";
 },
 {
 name = typoDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = typoLineGap;
-value = "0";
+value = "80";
 },
 {
 name = winAscent;
-value = "520";
+value = "740";
 },
 {
 name = winDescent;
-value = "-210";
+value = "-480";
 }
 );
 descender = -210;
@@ -399,15 +399,15 @@ capHeight = 520;
 customParameters = (
 {
 name = hheaAscender;
-value = "520";
+value = "740";
 },
 {
 name = hheaDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = hheaLineGap;
-value = "0";
+value = "80";
 },
 {
 name = typoAscender;
@@ -415,19 +415,19 @@ value = "520";
 },
 {
 name = typoDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = typoLineGap;
-value = "0";
+value = "80";
 },
 {
 name = winAscent;
-value = "520";
+value = "740";
 },
 {
 name = winDescent;
-value = "-210";
+value = "-480";
 }
 );
 descender = -210;
@@ -474,15 +474,15 @@ customValue = 100;
 customParameters = (
 {
 name = hheaAscender;
-value = "520";
+value = "740";
 },
 {
 name = hheaDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = hheaLineGap;
-value = "0";
+value = "80";
 },
 {
 name = typoAscender;
@@ -490,19 +490,19 @@ value = "520";
 },
 {
 name = typoDescender;
-value = "-210";
+value = "-480";
 },
 {
 name = typoLineGap;
-value = "0";
+value = "80";
 },
 {
 name = winAscent;
-value = "520";
+value = "740";
 },
 {
 name = winDescent;
-value = "-210";
+value = "-480";
 }
 );
 descender = -210;
