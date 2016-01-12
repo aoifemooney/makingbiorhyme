@@ -19,7 +19,8 @@ sce,
 "/pi u",
 "/pi H",
 "\U00DEP",
-/macroncomb
+/macroncomb,
+/pi
 );
 classes = (
 {
@@ -59313,7 +59314,7 @@ unicode = 03BC;
 },
 {
 glyphname = pi;
-lastChange = "2016-01-12 17:24:50 +0000";
+lastChange = "2016-01-12 17:26:44 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -59322,8 +59323,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"776 334 LINE",
-"776 357 LINE",
+"766 334 LINE",
+"766 357 LINE",
 "30 357 LINE",
 "30 334 LINE"
 );
@@ -59331,22 +59332,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"735 -20 OFFCURVE",
-"761 -8 OFFCURVE",
-"786 9 CURVE",
-"776 29 LINE",
-"753 12 OFFCURVE",
-"731 3 OFFCURVE",
-"704 3 CURVE SMOOTH",
-"672 3 OFFCURVE",
-"640 28 OFFCURVE",
-"640 84 CURVE",
-"640 357 LINE",
-"615 357 LINE",
-"615 84 LINE",
-"615 18 OFFCURVE",
-"653 -20 OFFCURVE",
-"703 -20 CURVE SMOOTH"
+"725 -20 OFFCURVE",
+"751 -8 OFFCURVE",
+"776 9 CURVE",
+"766 29 LINE",
+"743 12 OFFCURVE",
+"721 3 OFFCURVE",
+"694 3 CURVE SMOOTH",
+"662 3 OFFCURVE",
+"630 28 OFFCURVE",
+"630 84 CURVE",
+"630 357 LINE",
+"605 357 LINE",
+"605 84 LINE",
+"605 18 OFFCURVE",
+"643 -20 OFFCURVE",
+"693 -20 CURVE SMOOTH"
 );
 },
 {
@@ -59359,7 +59360,7 @@ nodes = (
 );
 }
 );
-width = 871;
+width = 861;
 },
 {
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -59460,8 +59461,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"898 267 LINE",
-"898 357 LINE",
+"858 267 LINE",
+"858 357 LINE",
 "40 357 LINE",
 "40 267 LINE"
 );
@@ -59469,22 +59470,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"846 -9 OFFCURVE",
-"877 3 OFFCURVE",
-"898 17 CURVE",
-"871 96 LINE",
-"861 91 OFFCURVE",
-"844 86 OFFCURVE",
-"824 86 CURVE SMOOTH",
-"784 86 OFFCURVE",
-"765 98 OFFCURVE",
-"765 139 CURVE SMOOTH",
-"765 357 LINE",
-"648 357 LINE",
-"648 118 LINE SMOOTH",
-"648 34 OFFCURVE",
-"704 -9 OFFCURVE",
-"794 -9 CURVE SMOOTH"
+"806 -9 OFFCURVE",
+"837 3 OFFCURVE",
+"858 17 CURVE",
+"831 96 LINE",
+"821 91 OFFCURVE",
+"804 86 OFFCURVE",
+"784 86 CURVE SMOOTH",
+"744 86 OFFCURVE",
+"725 98 OFFCURVE",
+"725 139 CURVE SMOOTH",
+"725 357 LINE",
+"608 357 LINE",
+"608 118 LINE SMOOTH",
+"608 34 OFFCURVE",
+"664 -9 OFFCURVE",
+"754 -9 CURVE SMOOTH"
 );
 },
 {
@@ -59497,7 +59498,7 @@ nodes = (
 );
 }
 );
-width = 958;
+width = 918;
 }
 );
 leftMetricsKey = p;
