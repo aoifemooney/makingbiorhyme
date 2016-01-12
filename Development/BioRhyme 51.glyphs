@@ -27,7 +27,8 @@ M,
 "/dcroat \U00A5",
 "\U00F8",
 /circumflexcomb,
-"\U00E0/agrave.alt/agrave.alt2/macroncomb a/amacron"
+"\U00E0/agrave.alt/agrave.alt2/macroncomb a/amacron",
+/a.alt/acircumflex.alt/a.alt2/acircumflex.alt2
 );
 classes = (
 {
@@ -19796,7 +19797,7 @@ rightKerningGroup = n;
 },
 {
 glyphname = a.alt2;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 18:41:00 +0000";
 layers = (
 {
 anchors = (
@@ -20242,7 +20243,7 @@ position = "{832, 12}";
 },
 {
 name = top;
-position = "{400, 368}";
+position = "{400, 366}";
 }
 );
 background = {
@@ -21117,7 +21118,7 @@ rightKerningGroup = n;
 },
 {
 glyphname = acircumflex.alt2;
-lastChange = "2016-01-12 18:11:40 +0000";
+lastChange = "2016-01-12 18:41:00 +0000";
 layers = (
 {
 background = {
@@ -21212,7 +21213,7 @@ name = a.alt2;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 174, -152}";
+transform = "{1, 0, 0, 1, 174, -154}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
