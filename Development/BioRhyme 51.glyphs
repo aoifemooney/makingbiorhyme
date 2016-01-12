@@ -15,7 +15,11 @@ A,
 "a/a.alt \U00E6e",
 "/a.alt \U00E6",
 sce,
-/schwa
+/schwa,
+"/pi u",
+"/pi H",
+"\U00DEP",
+/macroncomb
 );
 classes = (
 {
@@ -59309,7 +59313,7 @@ unicode = 03BC;
 },
 {
 glyphname = pi;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:24:50 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -59410,8 +59414,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"520 261 LINE",
-"520 357 LINE",
+"500 261 LINE",
+"500 357 LINE",
 "8 357 LINE",
 "8 261 LINE"
 );
@@ -59419,22 +59423,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"479 -6 OFFCURVE",
-"506 3 OFFCURVE",
-"520 11 CURVE",
-"497 92 LINE",
-"493 90 OFFCURVE",
-"487 88 OFFCURVE",
-"479 88 CURVE SMOOTH",
-"464 88 OFFCURVE",
-"455 94 OFFCURVE",
-"455 111 CURVE SMOOTH",
-"455 357 LINE",
-"340 357 LINE",
-"340 100 LINE SMOOTH",
-"340 31 OFFCURVE",
-"384 -6 OFFCURVE",
-"450 -6 CURVE SMOOTH"
+"459 -6 OFFCURVE",
+"486 3 OFFCURVE",
+"500 11 CURVE",
+"477 92 LINE",
+"473 90 OFFCURVE",
+"467 88 OFFCURVE",
+"459 88 CURVE SMOOTH",
+"444 88 OFFCURVE",
+"435 94 OFFCURVE",
+"435 111 CURVE SMOOTH",
+"435 357 LINE",
+"320 357 LINE",
+"320 100 LINE SMOOTH",
+"320 31 OFFCURVE",
+"364 -6 OFFCURVE",
+"430 -6 CURVE SMOOTH"
 );
 },
 {
@@ -59447,7 +59451,7 @@ nodes = (
 );
 }
 );
-width = 550;
+width = 530;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -86157,7 +86161,7 @@ unicode = 0303;
 },
 {
 glyphname = macroncomb;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:26:06 +0000";
 layers = (
 {
 anchors = (
@@ -86207,7 +86211,7 @@ width = 404;
 anchors = (
 {
 name = _top;
-position = "{209, 520}";
+position = "{199, 520}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -86218,12 +86222,12 @@ closed = 1;
 nodes = (
 "53 672 LINE",
 "53 593 LINE",
-"355 591 LINE",
-"355 670 LINE"
+"335 591 LINE",
+"335 670 LINE"
 );
 }
 );
-width = 408;
+width = 388;
 },
 {
 anchors = (
