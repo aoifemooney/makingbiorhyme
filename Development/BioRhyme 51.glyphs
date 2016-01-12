@@ -20,7 +20,8 @@ sce,
 "/pi H",
 "\U00DEP",
 /macroncomb,
-/pi
+/pi,
+M
 );
 classes = (
 {
@@ -7782,7 +7783,7 @@ unicode = 0141;
 },
 {
 glyphname = M;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:27:24 +0000";
 layers = (
 {
 anchors = (
@@ -8150,7 +8151,7 @@ nodes = (
 "435 -1 LINE",
 "462 86 LINE",
 "244 520 LINE",
-"125 520 LINE",
+"128 520 LINE",
 "386 -1 LINE"
 );
 },
@@ -8167,8 +8168,8 @@ nodes = (
 closed = 1;
 nodes = (
 "223 54 LINE",
-"223 219 LINE",
-"223 306 OFFCURVE",
+"223 209 LINE",
+"223 296 OFFCURVE",
 "193 463 OFFCURVE",
 "180 520 CURVE",
 "110 520 LINE",
@@ -8197,7 +8198,7 @@ nodes = (
 closed = 1;
 nodes = (
 "453 -1 LINE",
-"714 520 LINE",
+"711 520 LINE",
 "600 520 LINE",
 "387 86 LINE",
 "408 -1 LINE"
@@ -8210,8 +8211,8 @@ nodes = (
 "735 520 LINE",
 "668 520 LINE",
 "651 463 OFFCURVE",
-"615 306 OFFCURVE",
-"615 219 CURVE SMOOTH",
+"615 296 OFFCURVE",
+"615 209 CURVE SMOOTH",
 "615 54 LINE"
 );
 },
@@ -9925,7 +9926,7 @@ unicode = 0150;
 },
 {
 glyphname = Omacron;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:27:09 +0000";
 layers = (
 {
 components = (
@@ -9962,7 +9963,7 @@ name = O;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 99, 10}";
+transform = "{1, 0, 0, 1, 109, 10}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -15252,7 +15253,7 @@ unicode = 0170;
 },
 {
 glyphname = Umacron;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:27:09 +0000";
 layers = (
 {
 components = (
@@ -15289,7 +15290,7 @@ name = U;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 128, 0}";
+transform = "{1, 0, 0, 1, 138, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -21868,7 +21869,7 @@ rightKerningGroup = n;
 },
 {
 glyphname = amacron;
-lastChange = "2016-01-12 17:14:28 +0000";
+lastChange = "2016-01-12 17:27:09 +0000";
 layers = (
 {
 components = (
@@ -21905,7 +21906,7 @@ name = a;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 17, -153}";
+transform = "{1, 0, 0, 1, 27, -153}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -21933,7 +21934,7 @@ unicode = 0101;
 },
 {
 glyphname = amacron.alt;
-lastChange = "2016-01-12 17:14:28 +0000";
+lastChange = "2016-01-12 17:27:09 +0000";
 layers = (
 {
 components = (
@@ -21970,7 +21971,7 @@ name = a.alt;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 17, -153}";
+transform = "{1, 0, 0, 1, 27, -153}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -21997,7 +21998,7 @@ rightKerningGroup = n;
 },
 {
 glyphname = amacron.alt2;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:27:09 +0000";
 layers = (
 {
 components = (
@@ -22034,7 +22035,7 @@ name = a.alt2;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 41, -153}";
+transform = "{1, 0, 0, 1, 51, -153}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -51501,7 +51502,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = umacron;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:27:06 +0000";
 layers = (
 {
 components = (
@@ -51538,7 +51539,7 @@ name = u;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 24, -173}";
+transform = "{1, 0, 0, 1, 34, -173}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -51566,7 +51567,7 @@ unicode = 016B;
 },
 {
 glyphname = umacron.alt;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-12 17:27:06 +0000";
 layers = (
 {
 components = (
@@ -51603,7 +51604,7 @@ name = u.alt;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 24, -173}";
+transform = "{1, 0, 0, 1, 34, -173}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
