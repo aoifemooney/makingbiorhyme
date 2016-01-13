@@ -28,7 +28,8 @@ M,
 "\U00F8",
 /circumflexcomb,
 "\U00E0/agrave.alt/agrave.alt2/macroncomb a/amacron",
-/a.alt/acircumflex.alt/a.alt2/acircumflex.alt2
+/a.alt/acircumflex.alt/a.alt2/acircumflex.alt2,
+/florin
 );
 classes = (
 {
@@ -200,6 +201,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -271,6 +273,7 @@ id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 verticalStems = (
 25
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 xHeight = 357;
@@ -400,6 +403,7 @@ verticalStems = (
 121,
 129
 );
+visible = 1;
 weight = Bold;
 weightValue = 800;
 width = Extended;
@@ -70129,7 +70133,7 @@ unicode = 20AC;
 },
 {
 glyphname = florin;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-13 22:53:04 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -70185,47 +70189,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"137 -128 OFFCURVE",
-"166 -79 OFFCURVE",
-"166 8 CURVE SMOOTH",
-"166 418 LINE",
-"166 505 OFFCURVE",
-"210 532 OFFCURVE",
-"256 532 CURVE SMOOTH",
-"292 532 OFFCURVE",
-"329 516 OFFCURVE",
-"361 497 CURVE",
-"371 518 LINE",
-"337 536 OFFCURVE",
-"299 555 OFFCURVE",
-"256 555 CURVE SMOOTH",
-"191 555 OFFCURVE",
-"141 514 OFFCURVE",
-"141 416 CURVE",
-"141 7 LINE SMOOTH",
-"141 -64 OFFCURVE",
-"120 -105 OFFCURVE",
-"55 -107 CURVE SMOOTH",
-"54 -107 OFFCURVE",
-"52 -107 OFFCURVE",
-"50 -107 CURVE",
-"49 -130 LINE",
-"51 -130 OFFCURVE",
-"53 -130 OFFCURVE",
-"55 -130 CURVE SMOOTH"
+"113 -128 OFFCURVE",
+"142 -79 OFFCURVE",
+"142 8 CURVE SMOOTH",
+"142 418 LINE",
+"142 505 OFFCURVE",
+"186 532 OFFCURVE",
+"232 532 CURVE SMOOTH",
+"268 532 OFFCURVE",
+"305 516 OFFCURVE",
+"337 497 CURVE",
+"347 518 LINE",
+"313 536 OFFCURVE",
+"275 555 OFFCURVE",
+"232 555 CURVE SMOOTH",
+"167 555 OFFCURVE",
+"117 514 OFFCURVE",
+"117 416 CURVE",
+"117 7 LINE SMOOTH",
+"117 -64 OFFCURVE",
+"96 -105 OFFCURVE",
+"31 -107 CURVE SMOOTH",
+"30 -107 OFFCURVE",
+"28 -107 OFFCURVE",
+"26 -107 CURVE",
+"25 -130 LINE",
+"27 -130 OFFCURVE",
+"29 -130 OFFCURVE",
+"31 -130 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"287 264 LINE",
-"287 287 LINE",
-"49 287 LINE",
-"49 264 LINE"
+"263 264 LINE",
+"263 287 LINE",
+"25 287 LINE",
+"25 264 LINE"
 );
 }
 );
-width = 326;
+width = 302;
 },
 {
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
