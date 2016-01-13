@@ -66701,6 +66701,48 @@ rightKerningGroup = hyphen;
 unicode = 002D;
 },
 {
+glyphname = softhyphen;
+layers = (
+{
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+width = 600;
+},
+{
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+width = 600;
+},
+{
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+width = 600;
+},
+{
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+width = 600;
+}
+);
+unicode = 00AD;
+},
+{
 glyphname = guillemetleft;
 lastChange = "2016-01-11 02:10:59 +0000";
 layers = (
@@ -68798,30 +68840,6 @@ leftKerningGroup = .notdef;
 rightKerningGroup = .notdef;
 },
 {
-glyphname = .null;
-lastChange = "2016-01-11 02:10:59 +0000";
-layers = (
-{
-layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-width = 600;
-},
-{
-layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-width = 600;
-},
-{
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
-width = 600;
-},
-{
-layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
-width = 600;
-}
-);
-leftKerningGroup = .null;
-rightKerningGroup = .null;
-},
-{
 glyphname = CR;
 lastChange = "2016-01-11 02:10:59 +0000";
 layers = (
@@ -68845,6 +68863,31 @@ width = 600;
 leftKerningGroup = CR;
 rightKerningGroup = CR;
 unicode = 000D;
+},
+{
+export = 0;
+glyphname = .null;
+lastChange = "2016-01-13 22:51:54 +0000";
+layers = (
+{
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+width = 600;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+width = 600;
+},
+{
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+width = 600;
+},
+{
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+width = 600;
+}
+);
+leftKerningGroup = .null;
+rightKerningGroup = .null;
 },
 {
 glyphname = cent;
@@ -86400,8 +86443,9 @@ rightKerningGroup = doubleprimemod;
 unicode = 02B9;
 },
 {
+export = 0;
 glyphname = am;
-lastChange = "2016-01-11 02:10:59 +0000";
+lastChange = "2016-01-13 22:51:46 +0000";
 layers = (
 {
 background = {
