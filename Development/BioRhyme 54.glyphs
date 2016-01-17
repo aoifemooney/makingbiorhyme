@@ -80935,7 +80935,7 @@ unicode = 00B0;
 },
 {
 glyphname = estimated;
-lastChange = "2016-01-17 15:52:22 +0000";
+lastChange = "2016-01-17 15:55:29 +0000";
 layers = (
 {
 background = {
@@ -80998,6 +80998,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"695 -13 OFFCURVE",
+"827 33 OFFCURVE",
+"952 107 CURVE",
 "936 134 LINE",
 "813 65 OFFCURVE",
 "686 18 OFFCURVE",
@@ -81025,28 +81028,25 @@ nodes = (
 "79 308 CURVE SMOOTH",
 "79 98 OFFCURVE",
 "292 -13 OFFCURVE",
-"514 -13 CURVE SMOOTH",
-"695 -13 OFFCURVE",
-"827 33 OFFCURVE",
-"952 107 CURVE"
+"514 -13 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"246 66 LINE",
 "277 66 LINE",
 "277 553 LINE",
-"246 553 LINE"
+"246 553 LINE",
+"246 66 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"783 330 LINE",
 "813 330 LINE",
 "813 567 LINE",
-"783 567 LINE"
+"783 567 LINE",
+"783 330 LINE"
 );
 }
 );
@@ -81114,6 +81114,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"727 -13 OFFCURVE",
+"886 44 OFFCURVE",
+"978 94 CURVE",
 "928 202 LINE",
 "836 153 OFFCURVE",
 "700 107 OFFCURVE",
@@ -81141,10 +81144,7 @@ nodes = (
 "81 308 CURVE SMOOTH",
 "81 98 OFFCURVE",
 "295 -13 OFFCURVE",
-"534 -13 CURVE SMOOTH",
-"727 -13 OFFCURVE",
-"886 44 OFFCURVE",
-"978 94 CURVE"
+"534 -13 CURVE SMOOTH"
 );
 },
 {
@@ -81327,15 +81327,15 @@ closed = 1;
 nodes = (
 "260 95 LINE",
 "260 500 LINE",
-"179 500 LINE",
-"179 95 LINE"
+"149 500 LINE",
+"149 95 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"562 330 LINE",
-"562 543 LINE",
+"582 330 LINE",
+"582 543 LINE",
 "482 543 LINE",
 "482 330 LINE"
 );
@@ -95761,9 +95761,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95776,9 +95774,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95791,9 +95787,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95805,9 +95799,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95820,9 +95812,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95835,9 +95825,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95853,9 +95841,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95871,9 +95857,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95888,9 +95872,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
@@ -95906,9 +95888,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    dcroat,
-    hbar,
-    yen
+    estimated
 );
 }
 );
