@@ -83,11 +83,15 @@ name = swsh;
 },
 {
 code = "#t & f broken spine forms\012\012sub f by f.alt;\012\012sub t by t.alt;\012sub tbar by tbar.alt;\012sub tcaron by tcaron.alt;\012sub tcedilla by tcedilla.alt;\012sub tcommaaccent by tcommaaccent.alt;\012\012\012\012\012\012\012";
+disabled = 1;
 name = ss01;
+notes = "Name:	t and f broken spine forms";
 },
 {
 code = "# a & g single storey forms\012\012sub a by a.alt2;\012sub aacute by aacute.alt2;\012sub abreve by abreve.alt2;\012sub acircumflex by acircumflex.alt2;\012sub adieresis by adieresis.alt2;\012sub agrave by agrave.alt2;\012sub amacron by amacron.alt2;\012sub aogonek by aogonek.alt2;\012sub aring by aring.alt2;\012sub atilde by atilde.alt2;\012\012sub g by g.alt;\012sub gcommaaccent by gcommaaccent.alt;\012sub gdotaccent by gdotaccent.alt;\012sub gbreve by gbreve.alt;";
+disabled = 1;
 name = ss02;
+notes = "Name:	single storey a, g";
 },
 {
 code = "# k x 7 2 flip diagonal/curved forms\012\012sub k by k.alt;\012sub kcommaaccent by kcommaaccent.alt;\012\012sub x by x.alt;\012\012sub seven by seven.alt;\012sub two by two.alt;";
