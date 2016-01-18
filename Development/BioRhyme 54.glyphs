@@ -25,7 +25,8 @@ s,
 "2\U00B2",
 /cedillacomb,
 "/cedillacomb c\U00E7/cedillacomb \U00E7",
-"/cedillacomb \U00C7S/Scedilla \U00E7/scedilla"
+"/cedillacomb \U00C7S/Scedilla \U00E7/scedilla",
+"\U00F8"
 );
 classes = (
 {
@@ -41325,15 +41326,10 @@ unicode = 014D;
 },
 {
 glyphname = oslash;
-lastChange = "2016-01-15 16:56:56 +0000";
+lastChange = "2016-01-18 01:37:33 +0000";
 layers = (
 {
 background = {
-components = (
-{
-name = o;
-}
-);
 paths = (
 {
 closed = 1;
@@ -41364,18 +41360,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"420 2 LINE",
-"427 15 LINE",
-"655 458 LINE",
-"661 470 LINE",
-"699 542 LINE",
-"661 542 LINE",
-"627 475 LINE",
-"620 463 LINE",
-"392 21 LINE",
-"385 9 LINE",
-"341 -78 LINE",
-"377 -78 LINE"
+"425 2 LINE",
+"432 15 LINE",
+"660 458 LINE",
+"666 470 LINE",
+"709 550 LINE",
+"671 550 LINE",
+"632 475 LINE",
+"625 463 LINE",
+"397 21 LINE",
+"390 9 LINE",
+"346 -78 LINE",
+"382 -78 LINE"
 );
 }
 );
@@ -41383,11 +41379,6 @@ width = 1055;
 },
 {
 background = {
-components = (
-{
-name = o;
-}
-);
 paths = (
 {
 closed = 1;
@@ -41422,8 +41413,8 @@ nodes = (
 "243 15 LINE",
 "400 444 LINE",
 "404 454 LINE",
-"437 542 LINE",
-"404 542 LINE",
+"439 547 LINE",
+"406 547 LINE",
 "376 466 LINE",
 "372 457 LINE",
 "212 24 LINE",
@@ -41437,37 +41428,6 @@ width = 607;
 },
 {
 background = {
-components = (
-{
-name = o;
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"277 57 LINE",
-"273 77 LINE",
-"398 355 LINE",
-"417 363 LINE",
-"497 542 LINE",
-"363 542 LINE",
-"303 409 LINE",
-"306 389 LINE",
-"173 91 LINE",
-"152 78 LINE",
-"80 -78 LINE",
-"216 -78 LINE"
-);
-}
-);
-};
-components = (
-{
-name = o;
-}
-);
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 paths = (
 {
 closed = 1;
@@ -41487,15 +41447,36 @@ nodes = (
 );
 }
 );
-width = 598;
-},
-{
-background = {
+};
 components = (
 {
 name = o;
 }
 );
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+paths = (
+{
+closed = 1;
+nodes = (
+"275 57 LINE",
+"271 77 LINE",
+"396 355 LINE",
+"415 363 LINE",
+"498 548 LINE",
+"370 548 LINE",
+"306 409 LINE",
+"310 389 LINE",
+"177 91 LINE",
+"156 78 LINE",
+"85 -78 LINE",
+"212 -78 LINE"
+);
+}
+);
+width = 598;
+},
+{
+background = {
 paths = (
 {
 closed = 1;
@@ -41530,14 +41511,14 @@ nodes = (
 "457 77 LINE",
 "653 369 LINE",
 "674 378 LINE",
-"759 542 LINE",
-"620 542 LINE",
+"779 551 LINE",
+"640 551 LINE",
 "553 418 LINE",
 "554 396 LINE",
 "352 88 LINE",
 "329 73 LINE",
-"245 -78 LINE",
-"384 -78 LINE"
+"230 -78 LINE",
+"369 -78 LINE"
 );
 }
 );
