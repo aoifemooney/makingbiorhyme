@@ -9,7 +9,7 @@ nofnor,
 2,
 "\U00B22",
 "\U00BD",
-s,
+asn,
 "\U00B5",
 /a.alt2,
 /hbar,
@@ -44767,7 +44767,7 @@ unicode = 0157;
 {
 color = 3;
 glyphname = s;
-lastChange = "2016-01-18 02:01:19 +0000";
+lastChange = "2016-01-18 02:03:13 +0000";
 layers = (
 {
 anchors = (
@@ -45387,7 +45387,7 @@ position = "{471, 495}";
 }
 );
 layerId = "EE42A6EF-D2C7-44DD-822D-33AB923C8B63";
-name = "Intermediate {550, 0}";
+name = "Intermediate {550, 100, 0}";
 paths = (
 {
 closed = 1;
@@ -96341,6 +96341,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 250;
 interpolationWidth = 200;
 name = "ExtraLight Expanded";
@@ -96358,6 +96359,7 @@ value = (
 );
 }
 );
+interpolationCustom = 100;
 interpolationWeight = 350;
 interpolationWidth = 200;
 name = "Light Expanded";
