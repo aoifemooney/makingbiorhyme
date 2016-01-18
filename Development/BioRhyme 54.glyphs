@@ -44767,7 +44767,7 @@ unicode = 0157;
 {
 color = 3;
 glyphname = s;
-lastChange = "2016-01-18 01:56:06 +0000";
+lastChange = "2016-01-18 01:57:41 +0000";
 layers = (
 {
 anchors = (
@@ -45387,7 +45387,7 @@ position = "{471, 495}";
 }
 );
 layerId = "EE42A6EF-D2C7-44DD-822D-33AB923C8B63";
-name = "Intermediate {0, 550}";
+name = "Intermediate {550, 0}";
 paths = (
 {
 closed = 1;
@@ -45443,6 +45443,140 @@ nodes = (
 );
 width = 547;
 visible = 1;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{511, -11}";
+},
+{
+name = top;
+position = "{462, 484}";
+}
+);
+associatedMasterId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+background = {
+anchors = (
+{
+name = bottom;
+position = "{541, -13}";
+},
+{
+name = top;
+position = "{488, 484}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"728 -13 OFFCURVE",
+"843 25 OFFCURVE",
+"843 113 CURVE SMOOTH",
+"843 209 OFFCURVE",
+"730 233 OFFCURVE",
+"480 249 CURVE SMOOTH",
+"250 262 OFFCURVE",
+"166 293 OFFCURVE",
+"166 354 CURVE SMOOTH",
+"166 420 OFFCURVE",
+"260 455 OFFCURVE",
+"415 455 CURVE SMOOTH",
+"580 455 OFFCURVE",
+"725 404 OFFCURVE",
+"821 290 CURVE",
+"821 290 LINE",
+"821 471 LINE",
+"792 471 LINE",
+"792 339 LINE",
+"812 330 LINE",
+"747 414 OFFCURVE",
+"603 484 OFFCURVE",
+"421 484 CURVE SMOOTH",
+"222 484 OFFCURVE",
+"134 431 OFFCURVE",
+"134 352 CURVE SMOOTH",
+"134 270 OFFCURVE",
+"238 229 OFFCURVE",
+"480 216 CURVE SMOOTH",
+"721 202 OFFCURVE",
+"811 180 OFFCURVE",
+"811 112 CURVE SMOOTH",
+"811 35 OFFCURVE",
+"684 15 OFFCURVE",
+"546 15 CURVE SMOOTH",
+"385 15 OFFCURVE",
+"217 66 OFFCURVE",
+"125 179 CURVE",
+"125 179 LINE",
+"125 0 LINE",
+"154 0 LINE",
+"154 131 LINE",
+"133 140 LINE",
+"196 57 OFFCURVE",
+"356 -13 OFFCURVE",
+"539 -13 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "33A6C43F-EE06-49BA-A90D-02BCC0917920";
+name = "Intermediate Expanded {550, 100}";
+paths = (
+{
+closed = 1;
+nodes = (
+"745 -14 OFFCURVE",
+"852 38 OFFCURVE",
+"852 127 CURVE SMOOTH",
+"852 214 OFFCURVE",
+"765 258 OFFCURVE",
+"499 278 CURVE SMOOTH",
+"263 295 OFFCURVE",
+"215 314 OFFCURVE",
+"215 353 CURVE SMOOTH",
+"215 395 OFFCURVE",
+"276 420 OFFCURVE",
+"415 420 CURVE SMOOTH",
+"563 420 OFFCURVE",
+"697 377 OFFCURVE",
+"787 291 CURVE",
+"821 295 LINE",
+"821 471 LINE",
+"748 471 LINE",
+"748 338 LINE",
+"785 352 LINE",
+"715 429 OFFCURVE",
+"578 484 OFFCURVE",
+"403 484 CURVE SMOOTH",
+"207 484 OFFCURVE",
+"115 423 OFFCURVE",
+"115 341 CURVE SMOOTH",
+"115 260 OFFCURVE",
+"188 208 OFFCURVE",
+"448 191 CURVE SMOOTH",
+"699 175 OFFCURVE",
+"753 156 OFFCURVE",
+"753 113 CURVE SMOOTH",
+"753 66 OFFCURVE",
+"671 50 OFFCURVE",
+"544 50 CURVE SMOOTH",
+"402 50 OFFCURVE",
+"229 94 OFFCURVE",
+"146 186 CURVE",
+"111 182 LINE",
+"111 -1 LINE",
+"185 -1 LINE",
+"185 129 LINE",
+"146 117 LINE",
+"217 45 OFFCURVE",
+"371 -14 OFFCURVE",
+"552 -14 CURVE SMOOTH"
+);
+}
+);
+width = 958;
 }
 );
 leftKerningGroup = s;
@@ -96335,11 +96469,12 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    asn
+    a,
+    s,
+    n
 );
 }
 );
-interpolationCustom = 100;
 interpolationWeight = 250;
 interpolationWidth = 200;
 name = "ExtraLight Expanded";
@@ -96351,11 +96486,12 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    asn
+    a,
+    s,
+    n
 );
 }
 );
-interpolationCustom = 100;
 interpolationWeight = 350;
 interpolationWidth = 200;
 name = "Light Expanded";
@@ -96384,7 +96520,9 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    asn
+    a,
+    s,
+    n
 );
 }
 );
@@ -96400,7 +96538,9 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    asn
+    a,
+    s,
+    n
 );
 }
 );
