@@ -208,6 +208,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 33
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -279,7 +280,6 @@ id = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 verticalStems = (
 33
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 xHeight = 471;
@@ -86323,7 +86323,7 @@ unicode = 0326;
 {
 color = 3;
 glyphname = cedillacomb;
-lastChange = "2016-01-18 01:20:00 +0000";
+lastChange = "2016-01-18 01:23:47 +0000";
 layers = (
 {
 anchors = (
@@ -86558,25 +86558,32 @@ paths = (
 closed = 1;
 nodes = (
 "361 -263 OFFCURVE",
-"427 -217 OFFCURVE",
-"427 -161 CURVE SMOOTH",
-"427 -105 OFFCURVE",
-"385 -79 OFFCURVE",
-"296 -73 CURVE",
-"210 -14 LINE",
-"158 7 LINE",
-"243 -144 LINE",
-"319 -151 OFFCURVE",
-"331 -150 OFFCURVE",
-"331 -163 CURVE SMOOTH",
-"331 -177 OFFCURVE",
-"298 -184 OFFCURVE",
+"427 -214 OFFCURVE",
+"427 -158 CURVE SMOOTH",
+"427 -94 OFFCURVE",
+"357 -54 OFFCURVE",
+"289 -54 CURVE SMOOTH",
+"249 -54 OFFCURVE",
+"243 -54 OFFCURVE",
+"225 -55 CURVE",
+"247 -14 LINE",
+"175 7 LINE",
+"131 -112 LINE",
+"138 -123 LINE",
+"156 -122 OFFCURVE",
+"192 -121 OFFCURVE",
+"256 -121 CURVE SMOOTH",
+"305 -121 OFFCURVE",
+"331 -135 OFFCURVE",
+"331 -155 CURVE SMOOTH",
+"331 -174 OFFCURVE",
+"309 -184 OFFCURVE",
 "256 -184 CURVE SMOOTH",
 "202 -184 OFFCURVE",
-"136 -161 OFFCURVE",
-"95 -130 CURVE",
-"51 -196 LINE",
-"80 -226 OFFCURVE",
+"135 -170 OFFCURVE",
+"90 -149 CURVE",
+"56 -221 LINE",
+"99 -243 OFFCURVE",
 "160 -263 OFFCURVE",
 "252 -263 CURVE SMOOTH"
 );
