@@ -24,7 +24,7 @@ s,
 /increment/Delta,
 "2\U00B2",
 /cedillacomb,
-"/cedillacomb \U00E7/cedillacomb \U00E7"
+"/cedillacomb c\U00E7/cedillacomb \U00E7"
 );
 classes = (
 {
@@ -23710,7 +23710,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2016-01-15 16:56:56 +0000";
+lastChange = "2016-01-18 01:28:47 +0000";
 layers = (
 {
 anchors = (
@@ -24080,7 +24080,7 @@ width = 530;
 anchors = (
 {
 name = bottom;
-position = "{526, -13}";
+position = "{486, -13}";
 },
 {
 name = top;
@@ -24165,10 +24165,10 @@ nodes = (
 "748 421 OFFCURVE",
 "609 486 OFFCURVE",
 "435 484 CURVE SMOOTH",
-"262 483 OFFCURVE",
-"66 409 OFFCURVE",
+"228 483 OFFCURVE",
+"66 392 OFFCURVE",
 "66 233 CURVE SMOOTH",
-"66 97 OFFCURVE",
+"66 67 OFFCURVE",
 "229 -18 OFFCURVE",
 "473 -13 CURVE SMOOTH"
 );
@@ -24306,7 +24306,7 @@ unicode = 010D;
 },
 {
 glyphname = ccedilla;
-lastChange = "2016-01-18 01:01:35 +0000";
+lastChange = "2016-01-18 01:28:47 +0000";
 layers = (
 {
 background = {
@@ -24398,7 +24398,7 @@ name = c;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 274, 1}";
+transform = "{1, 0, 0, 1, 231, -13}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -86323,7 +86323,7 @@ unicode = 0326;
 {
 color = 3;
 glyphname = cedillacomb;
-lastChange = "2016-01-18 01:25:02 +0000";
+lastChange = "2016-01-18 01:28:59 +0000";
 layers = (
 {
 anchors = (
@@ -86549,7 +86549,7 @@ width = 316;
 anchors = (
 {
 name = _bottom;
-position = "{252, -14}";
+position = "{255, 0}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -86561,23 +86561,23 @@ nodes = (
 "427 -214 OFFCURVE",
 "427 -152 CURVE SMOOTH",
 "427 -89 OFFCURVE",
-"370 -54 OFFCURVE",
+"366 -54 OFFCURVE",
 "289 -54 CURVE SMOOTH",
-"249 -54 OFFCURVE",
-"250 -54 OFFCURVE",
-"232 -55 CURVE",
-"247 -14 LINE",
-"175 7 LINE",
+"276 -54 OFFCURVE",
+"251 -55 OFFCURVE",
+"232 -56 CURVE",
+"257 5 LINE",
+"183 21 LINE",
 "131 -115 LINE",
 "138 -126 LINE",
-"175 -124 OFFCURVE",
-"202 -121 OFFCURVE",
+"177 -124 OFFCURVE",
+"213 -121 OFFCURVE",
 "256 -121 CURVE SMOOTH",
-"305 -121 OFFCURVE",
+"304 -121 OFFCURVE",
 "331 -132 OFFCURVE",
 "331 -152 CURVE SMOOTH",
-"331 -174 OFFCURVE",
-"294 -184 OFFCURVE",
+"331 -172 OFFCURVE",
+"299 -184 OFFCURVE",
 "242 -184 CURVE SMOOTH",
 "182 -184 OFFCURVE",
 "115 -170 OFFCURVE",
