@@ -33,7 +33,7 @@ nonasnon,
 T/Tcedilla,
 s/commaaccentcomb/scommaaccent,
 /commaaccentcomb/scommaaccent,
-/t.alt/tcommaaccent.alt
+"/t.alt onHOCDtn/tcommaaccent.alt"
 );
 classes = (
 {
@@ -2417,7 +2417,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2016-01-15 16:56:56 +0000";
+lastChange = "2016-01-20 23:28:12 +0000";
 layers = (
 {
 anchors = (
@@ -2476,11 +2476,11 @@ nodes = (
 "851 -14 OFFCURVE",
 "992 112 OFFCURVE",
 "1055 222 CURVE",
-"1029 239 LINE",
-"976 141 OFFCURVE",
-"831 15 OFFCURVE",
-"569 15 CURVE",
-"329 15 OFFCURVE",
+"1028 239 LINE",
+"975 141 OFFCURVE",
+"831 17 OFFCURVE",
+"569 17 CURVE",
+"329 17 OFFCURVE",
 "132 140 OFFCURVE",
 "132 343 CURVE",
 "132 547 OFFCURVE",
@@ -39110,7 +39110,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-01-18 02:05:44 +0000";
+lastChange = "2016-01-20 23:26:54 +0000";
 layers = (
 {
 anchors = (
@@ -39221,8 +39221,8 @@ nodes = (
 closed = 1;
 nodes = (
 "550 0 LINE",
-"550 31 LINE",
-"66 31 LINE",
+"550 30 LINE",
+"66 30 LINE",
 "66 0 LINE"
 );
 },
@@ -39248,8 +39248,8 @@ nodes = (
 closed = 1;
 nodes = (
 "1246 0 LINE",
-"1246 31 LINE",
-"774 31 LINE",
+"1246 30 LINE",
+"774 30 LINE",
 "774 0 LINE"
 );
 }
@@ -40298,7 +40298,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2016-01-15 16:56:56 +0000";
+lastChange = "2016-01-20 23:29:23 +0000";
 layers = (
 {
 anchors = (
@@ -40405,18 +40405,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"306 18 OFFCURVE",
+"306 17 OFFCURVE",
 "139 100 OFFCURVE",
 "139 237 CURVE",
 "139 376 OFFCURVE",
 "306 453 OFFCURVE",
 "527 454 CURVE",
 "748 454 OFFCURVE",
-"917 376 OFFCURVE",
-"917 237 CURVE",
-"917 100 OFFCURVE",
-"748 18 OFFCURVE",
-"527 18 CURVE SMOOTH"
+"916 376 OFFCURVE",
+"916 237 CURVE",
+"916 100 OFFCURVE",
+"748 17 OFFCURVE",
+"527 17 CURVE SMOOTH"
 );
 }
 );
@@ -40532,18 +40532,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"180 15 OFFCURVE",
-"94 105 OFFCURVE",
-"94 235 CURVE",
-"94 365 OFFCURVE",
+"180 16 OFFCURVE",
+"92 105 OFFCURVE",
+"92 235 CURVE",
+"92 365 OFFCURVE",
 "180 454 OFFCURVE",
 "304 454 CURVE",
 "427 454 OFFCURVE",
-"514 365 OFFCURVE",
-"514 235 CURVE",
-"514 105 OFFCURVE",
-"427 15 OFFCURVE",
-"304 15 CURVE"
+"515 365 OFFCURVE",
+"515 235 CURVE",
+"515 105 OFFCURVE",
+"427 16 OFFCURVE",
+"304 16 CURVE"
 );
 }
 );
@@ -103406,22 +103406,22 @@ HH = 23;
 HV = "25 ";
 OH = 23;
 OV = 25;
-nV = 25;
-nd = 23;
-oH = 23;
-oV = 25;
-tH = 23;
+nV = 33;
+nd = 30;
+oH = 30;
+oV = 33;
+tH = 30;
 };
 "B29C398E-974A-40D0-A0A0-00935056D4B4" = {
-HH = 23;
-HV = 25;
-OH = 23;
-OV = 25;
-nV = 25;
-nd = 23;
-oH = 23;
-oV = 25;
-tH = 23;
+HH = 30;
+HV = 33;
+OH = 30;
+OV = 33;
+nV = 33;
+nd = 30;
+oH = 30;
+oV = 33;
+tH = 30;
 };
 "C70E3B11-AF58-44B6-92D7-58C9185F522D" = {
 HH = 90;
