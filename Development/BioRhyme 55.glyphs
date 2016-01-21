@@ -4521,9 +4521,9 @@ rightKerningGroup = F;
 unicode = 0046;
 },
 {
-color = 1;
+color = 4;
 glyphname = G;
-lastChange = "2016-01-21 02:20:30 +0000";
+lastChange = "2016-01-21 02:40:41 +0000";
 layers = (
 {
 anchors = (
@@ -4872,9 +4872,9 @@ rightKerningGroup = G;
 unicode = 0047;
 },
 {
-color = 1;
+color = 4;
 glyphname = G.alt;
-lastChange = "2016-01-21 02:38:25 +0000";
+lastChange = "2016-01-21 02:40:41 +0000";
 layers = (
 {
 anchors = (
@@ -23597,9 +23597,8 @@ rightMetricsKey = "=e";
 unicode = 00E6;
 },
 {
-color = 1;
 glyphname = b;
-lastChange = "2016-01-18 00:16:10 +0000";
+lastChange = "2016-01-21 02:40:46 +0000";
 layers = (
 {
 anchors = (
@@ -45168,9 +45167,9 @@ rightKerningGroup = r;
 unicode = 0157;
 },
 {
-color = 3;
+color = 4;
 glyphname = s;
-lastChange = "2016-01-18 02:05:28 +0000";
+lastChange = "2016-01-21 02:40:51 +0000";
 layers = (
 {
 anchors = (
@@ -82726,9 +82725,9 @@ rightKerningGroup = asterisk;
 unicode = 00B0;
 },
 {
-color = 3;
+color = 4;
 glyphname = estimated;
-lastChange = "2016-01-17 18:36:29 +0000";
+lastChange = "2016-01-21 02:41:09 +0000";
 layers = (
 {
 background = {
@@ -90099,9 +90098,9 @@ rightKerningGroup = commaaccentcomb;
 unicode = 0326;
 },
 {
-color = 3;
+color = 4;
 glyphname = cedillacomb;
-lastChange = "2016-01-18 01:32:09 +0000";
+lastChange = "2016-01-21 02:41:09 +0000";
 layers = (
 {
 anchors = (
@@ -96725,7 +96724,9 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-    asn
+    a,
+    s,
+    n
 );
 }
 );
