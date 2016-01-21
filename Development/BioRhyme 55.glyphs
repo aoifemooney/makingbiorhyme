@@ -40,8 +40,9 @@ IELJF,
 O,
 "OG/G.alt HC",
 "/G.alt C",
-/G.alt,
-1
+"/G.alt nosticGn",
+1,
+/zero.slash
 );
 classes = (
 {
@@ -4879,7 +4880,7 @@ unicode = 0047;
 {
 color = 4;
 glyphname = G.alt;
-lastChange = "2016-01-21 02:40:41 +0000";
+lastChange = "2016-01-21 03:00:47 +0000";
 layers = (
 {
 anchors = (
@@ -39511,7 +39512,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-01-20 23:26:54 +0000";
+lastChange = "2016-01-21 03:01:49 +0000";
 layers = (
 {
 anchors = (
@@ -97104,6 +97105,7 @@ kerning = {
 "@MMK_R_z" = -13.2;
 Eth = 13.2;
 J = 6.6;
+"@MMK_R_n" = 0;
 };
 "@MMK_L_H" = {
 "@MMK_R_A" = -26.4;
@@ -98653,6 +98655,9 @@ x.alt = {
 };
 y = {
 "@MMK_R_period" = 26.4;
+};
+G.alt = {
+"@MMK_R_n" = 5;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
