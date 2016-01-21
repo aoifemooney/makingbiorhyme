@@ -40,7 +40,8 @@ IELJF,
 O,
 "OG/G.alt HC",
 "/G.alt C",
-/G.alt
+/G.alt,
+1
 );
 classes = (
 {
@@ -59231,7 +59232,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2016-01-15 16:56:56 +0000";
+lastChange = "2016-01-21 02:45:33 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -59308,7 +59309,7 @@ nodes = (
 width = 424;
 },
 {
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+background = {
 paths = (
 {
 closed = 1;
@@ -59342,10 +59343,45 @@ nodes = (
 );
 }
 );
+};
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+paths = (
+{
+closed = 1;
+nodes = (
+"158 396 OFFCURVE",
+"222 435 OFFCURVE",
+"246 499 CURVE",
+"209 618 LINE",
+"172 553 OFFCURVE",
+"115 513 OFFCURVE",
+"45 487 CURVE",
+"77 369 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"455 0 LINE",
+"455 127 LINE",
+"77 127 LINE",
+"77 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"362 40 LINE",
+"362 618 LINE",
+"209 618 LINE",
+"209 40 LINE"
+);
+}
+);
 width = 484;
 },
 {
-layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+background = {
 paths = (
 {
 closed = 1;
@@ -59357,6 +59393,41 @@ nodes = (
 "282 520 OFFCURVE",
 "197 490 OFFCURVE",
 "85 461 CURVE",
+"133 330 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"667 0 LINE",
+"667 127 LINE",
+"100 127 LINE",
+"100 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"483 40 LINE",
+"483 618 LINE",
+"330 618 LINE",
+"330 40 LINE"
+);
+}
+);
+};
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+paths = (
+{
+closed = 1;
+nodes = (
+"235 362 OFFCURVE",
+"332 420 OFFCURVE",
+"371 491 CURVE",
+"330 618 LINE",
+"262 541 OFFCURVE",
+"191 496 OFFCURVE",
+"89 461 CURVE",
 "133 330 LINE"
 );
 },
