@@ -153,6 +153,10 @@ notes = "Name:	emotion to emoticon reversed out";
 automatic = 1;
 code = "sub Delta by increment;\012sub Omega by Ohm;\012sub mu by micro;\012";
 name = mgrk;
+},
+{
+code = "sub zero by zero.slash;\012";
+name = zero;
 }
 );
 fontMaster = (
