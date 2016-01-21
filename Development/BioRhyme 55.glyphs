@@ -38,7 +38,8 @@ s/commaaccentcomb/scommaaccent,
 IELJF,
 "Grumpy\012Curtmudgeon",
 O,
-"OG/G.alt HC"
+"OG/G.alt HC",
+/G.alt
 );
 classes = (
 {
@@ -4878,7 +4879,7 @@ unicode = 0047;
 {
 color = 1;
 glyphname = G.alt;
-lastChange = "2016-01-21 02:22:50 +0000";
+lastChange = "2016-01-21 02:26:22 +0000";
 layers = (
 {
 anchors = (
@@ -5033,17 +5034,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"577 -14 OFFCURVE",
-"705 125 OFFCURVE",
-"705 310 CURVE SMOOTH",
+"533 -14 OFFCURVE",
+"642 34 OFFCURVE",
+"705 95 CURVE",
 "705 322 LINE",
 "391 322 LINE",
 "391 292 LINE",
 "672 292 LINE",
-"669 150 OFFCURVE",
-"568 15 OFFCURVE",
-"391 15 CURVE SMOOTH",
-"224 15 OFFCURVE",
+"672 109 LINE",
+"615 51 OFFCURVE",
+"517 17 OFFCURVE",
+"411 17 CURVE SMOOTH",
+"239 17 OFFCURVE",
 "99 146 OFFCURVE",
 "99 343 CURVE SMOOTH",
 "99 540 OFFCURVE",
@@ -5064,8 +5066,8 @@ nodes = (
 "66 563 OFFCURVE",
 "66 343 CURVE SMOOTH",
 "66 123 OFFCURVE",
-"211 -14 OFFCURVE",
-"391 -14 CURVE SMOOTH"
+"226 -14 OFFCURVE",
+"411 -14 CURVE SMOOTH"
 );
 }
 );
