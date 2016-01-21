@@ -39,7 +39,7 @@ IELJF,
 "Grumpy\012Curtmudgeon",
 O,
 "OG/G.alt HC",
-/G.alt
+"/G.alt C"
 );
 classes = (
 {
@@ -288,7 +288,7 @@ position = "{134, -264}";
 position = "{719, 735}";
 },
 {
-position = "{443, 849}";
+position = "{286, 414}";
 },
 {
 position = "{443, 686}";
@@ -2423,7 +2423,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2016-01-20 23:28:12 +0000";
+lastChange = "2016-01-21 02:29:49 +0000";
 layers = (
 {
 anchors = (
@@ -2569,13 +2569,13 @@ paths = (
 closed = 1;
 nodes = (
 "554 -14 OFFCURVE",
-"636 66 OFFCURVE",
-"681 128 CURVE",
-"659 146 LINE",
-"615 85 OFFCURVE",
-"534 15 OFFCURVE",
-"404 15 CURVE SMOOTH",
-"237 15 OFFCURVE",
+"637 65 OFFCURVE",
+"682 127 CURVE",
+"659 148 LINE",
+"615 87 OFFCURVE",
+"534 17 OFFCURVE",
+"404 17 CURVE SMOOTH",
+"237 17 OFFCURVE",
 "106 146 OFFCURVE",
 "106 343 CURVE SMOOTH",
 "106 540 OFFCURVE",
@@ -4879,7 +4879,7 @@ unicode = 0047;
 {
 color = 1;
 glyphname = G.alt;
-lastChange = "2016-01-21 02:29:11 +0000";
+lastChange = "2016-01-21 02:31:57 +0000";
 layers = (
 {
 anchors = (
@@ -4938,15 +4938,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"876 -13 OFFCURVE",
-"1068 140 OFFCURVE",
-"1068 332 CURVE SMOOTH",
-"1068 336 LINE",
+"763 -13 OFFCURVE",
+"951 53 OFFCURVE",
+"1057 137 CURVE",
+"1057 336 LINE",
 "575 336 LINE",
 "575 305 LINE",
-"1035 305 LINE",
-"1018 156 OFFCURVE",
-"867 18 OFFCURVE",
+"1024 305 LINE",
+"1024 153 LINE",
+"917 67 OFFCURVE",
+"733 18 OFFCURVE",
 "575 18 CURVE SMOOTH",
 "336 18 OFFCURVE",
 "139 141 OFFCURVE",
@@ -5044,8 +5045,8 @@ nodes = (
 "655 106 LINE",
 "605 58 OFFCURVE",
 "517 17 OFFCURVE",
-"411 17 CURVE SMOOTH",
-"239 17 OFFCURVE",
+"404 17 CURVE SMOOTH",
+"234 17 OFFCURVE",
 "99 146 OFFCURVE",
 "99 343 CURVE SMOOTH",
 "99 540 OFFCURVE",
@@ -5066,8 +5067,8 @@ nodes = (
 "66 563 OFFCURVE",
 "66 343 CURVE SMOOTH",
 "66 123 OFFCURVE",
-"226 -14 OFFCURVE",
-"411 -14 CURVE SMOOTH"
+"221 -14 OFFCURVE",
+"404 -14 CURVE SMOOTH"
 );
 }
 );
