@@ -50,7 +50,8 @@ A,
 "Go/G.alt o/Gbreve.alt/Gcommaaccent.alt/Gdotaccent.alt",
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 /Gbreve.alt,
-/Gcommaaccent.alt
+/Gcommaaccent.alt,
+/schwa
 );
 classes = (
 {
@@ -15164,7 +15165,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2016-01-17 16:09:13 +0000";
+lastChange = "2016-01-24 18:56:01 +0000";
 layers = (
 {
 components = (
@@ -15199,7 +15200,7 @@ name = U;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 234, 0}";
+transform = "{1, 0, 0, 1, 231, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -15225,7 +15226,7 @@ unicode = 00DA;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2016-01-17 16:09:13 +0000";
+lastChange = "2016-01-24 18:56:01 +0000";
 layers = (
 {
 components = (
@@ -15260,7 +15261,7 @@ name = U;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 232, -2}";
+transform = "{1, 0, 0, 1, 229, -2}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -15286,7 +15287,7 @@ unicode = 00DB;
 },
 {
 glyphname = Udieresis;
-lastChange = "2016-01-17 16:09:13 +0000";
+lastChange = "2016-01-24 18:56:01 +0000";
 layers = (
 {
 components = (
@@ -15321,7 +15322,7 @@ name = U;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 160, -2}";
+transform = "{1, 0, 0, 1, 157, -2}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -15469,7 +15470,7 @@ unicode = 0170;
 },
 {
 glyphname = Umacron;
-lastChange = "2016-01-17 16:09:13 +0000";
+lastChange = "2016-01-24 18:56:01 +0000";
 layers = (
 {
 components = (
@@ -15504,7 +15505,7 @@ name = U;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 181, 0}";
+transform = "{1, 0, 0, 1, 178, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
