@@ -54,7 +54,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 /schwa,
 /gdotaccent,
 /idotless,
-"A/A.alt A/Aacute.alt/Abreve.alt/Acircumflex.alt/Acircumflexhookabove.alt/Adieresis.alt/Agrave.alt/Amacron.alt/Aogonek.alt/Aring.alt/Atilde.alt"
+"A/A.alt A/Aacute.alt/Abreve.alt/Acircumflex.alt/Acircumflexhookabove.alt/Adieresis.alt/Agrave.alt/Amacron.alt/Aogonek.alt/Aring.alt/Atilde.alt",
+/A.alt
 );
 classes = (
 {
@@ -753,7 +754,7 @@ unicode = 0041;
 },
 {
 glyphname = A.alt;
-lastChange = "2016-01-25 01:38:43 +0000";
+lastChange = "2016-01-25 01:47:26 +0000";
 layers = (
 {
 anchors = (
@@ -1005,7 +1006,7 @@ position = "{1367, 0}";
 },
 {
 name = top;
-position = "{684, 686}";
+position = "{684, 696}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1120,7 +1121,7 @@ unicode = 00C1;
 },
 {
 glyphname = Aacute.alt;
-lastChange = "2016-01-25 01:39:07 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1168,7 +1169,7 @@ name = A.alt;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 414, 26}";
+transform = "{1, 0, 0, 1, 414, 36}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1241,7 +1242,7 @@ unicode = 0102;
 },
 {
 glyphname = Abreve.alt;
-lastChange = "2016-01-25 01:39:18 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1289,7 +1290,7 @@ name = A.alt;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 383, 0}";
+transform = "{1, 0, 0, 1, 383, 10}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1362,7 +1363,7 @@ unicode = 00C2;
 },
 {
 glyphname = Acircumflex.alt;
-lastChange = "2016-01-25 01:39:29 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1410,7 +1411,7 @@ name = A.alt;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 386, 0}";
+transform = "{1, 0, 0, 1, 386, 10}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1509,7 +1510,7 @@ unicode = 1EA8;
 },
 {
 glyphname = Acircumflexhookabove.alt;
-lastChange = "2016-01-25 01:43:42 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1574,7 +1575,7 @@ name = A.alt;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 386, 0}";
+transform = "{1, 0, 0, 1, 386, 10}";
 },
 {
 name = hookabovecomb;
@@ -1656,7 +1657,7 @@ unicode = 00C4;
 },
 {
 glyphname = Adieresis.alt;
-lastChange = "2016-01-25 01:43:53 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1704,7 +1705,7 @@ name = A.alt;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 375, 0}";
+transform = "{1, 0, 0, 1, 375, 10}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1777,7 +1778,7 @@ unicode = 00C0;
 },
 {
 glyphname = Agrave.alt;
-lastChange = "2016-01-25 01:44:05 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1825,7 +1826,7 @@ name = A.alt;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 297, 26}";
+transform = "{1, 0, 0, 1, 297, 36}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1898,7 +1899,7 @@ unicode = 0100;
 },
 {
 glyphname = Amacron.alt;
-lastChange = "2016-01-25 01:44:19 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -1946,7 +1947,7 @@ name = A.alt;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 262, -14}";
+transform = "{1, 0, 0, 1, 262, -4}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -2140,7 +2141,7 @@ unicode = 00C5;
 },
 {
 glyphname = Aring.alt;
-lastChange = "2016-01-25 01:44:42 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -2188,7 +2189,7 @@ name = A.alt;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 427, 0}";
+transform = "{1, 0, 0, 1, 427, 10}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -2261,7 +2262,7 @@ unicode = 00C3;
 },
 {
 glyphname = Atilde.alt;
-lastChange = "2016-01-25 01:44:52 +0000";
+lastChange = "2016-01-25 01:47:28 +0000";
 layers = (
 {
 components = (
@@ -2309,7 +2310,7 @@ name = A.alt;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 312, 0}";
+transform = "{1, 0, 0, 1, 312, 10}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
