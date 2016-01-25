@@ -55,13 +55,18 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 /gdotaccent,
 /idotless,
 "A/A.alt A/Aacute.alt/Abreve.alt/Acircumflex.alt/Acircumflexhookabove.alt/Adieresis.alt/Agrave.alt/Amacron.alt/Aogonek.alt/Aring.alt/Atilde.alt",
-/A.alt
+/A.alt,
+"a/a.alt/a.alt2 \U00E1/aacute.alt/aacute.alt2/abreve/abreve.alt/abreve.alt2 \U00E2/acircumflex.alt/acircumflex.alt2 \U00E4/adieresis.alt/adieresis.alt2 \U00E0/agrave.alt/agrave.alt2/amacron/amacron.alt/amacron.alt2/aogonek/aogonek.alt/aogonek.alt2 \U00E5/aring.alt/aring.alt2 \U00E3/atilde.alt/atilde.alt2 \U00E6bc/cacute/ccaron \U00E7/cdotaccent d/d.alt \U00F0/dcaron/dcaron.alt/dcroat/dcroat.alt e\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/eogonek f/f.alt g/g.alt/gbreve/gbreve.alt/gcommaaccent/gcommaaccent.alt/gdotaccent/gdotaccent.alt h/hbar i/idotless \U00ED\U00EE\U00EF/idotaccent \U00EC/imacron/iogonek j/jdotless k/k.alt/kcommaaccent/kcommaaccent.alt l/lacute/lcaron/lcommaaccent/ldot/lslash mn/nacute/ncaron/ncommaaccent/eng \U00F1o\U00F3\U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe p\U00FEqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent \U00DF/schwa t/t.alt/tbar/tbar.alt/tcaron/tcaron.alt/tcedilla/tcedilla.alt/tcommaaccent/tcommaaccent.alt u/u.alt \U00FA/uacute.alt \U00FB/ucircumflex.alt \U00FC/udieresis.alt \U00F9/ugrave.alt/uhungarumlaut/uhungarumlaut.alt/umacron/umacron.alt/uogonek/uogonek.alt/uring/uring.alt vw/wacute/wcircumflex/wdieresis/wgrave x/x.alt y\U00FD/ycircumflex/ydieresis/ygrave z/z.alt/zacute/zacute.alt/zcaron/zcaron.alt/zdotaccent/zdotaccent.alt/fi/fl"
 );
 classes = (
 {
 automatic = 1;
 code = "A A.alt Aacute Abreve Acircumflex Acircumflexhookabove Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent Gdotaccent H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.swsh R R.swsh Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Delta Omega";
 name = Uppercase;
+},
+{
+code = "";
+name = DevaIMatras;
 }
 );
 copyright = "Aoife Mooney";
@@ -85,7 +90,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature mgrk;\012feature zero;\012feature ss07;\012";
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature mgrk;\012";
 name = aalt;
 },
 {
