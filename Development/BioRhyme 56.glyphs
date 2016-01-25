@@ -84,7 +84,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature mgrk;\012";
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature swsh;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature mgrk;\012feature zero;\012feature ss07;\012";
 name = aalt;
 },
 {
@@ -161,6 +161,10 @@ notes = "Name:	emotion to emoticon";
 code = "sub a'n'g'r'y' by angry.rev;\012sub n'e'u't'r'a'l' by neutral.rev;\012sub h'a'p'p'y' by happy.rev;\012sub s'a'd' by sad.rev;\012sub s'u'r'p'r'i's'e'd'by surprised.rev;\012sub a'f'r'a'i'd' by afraid.rev;\012sub d'i's'g'u's't'e'd' by disgusted.rev;\012";
 name = ss06;
 notes = "Name:	emotion to emoticon reversed out";
+},
+{
+code = "sub A by A.alt;\012sub Aacute by Aacute.alt;\012sub Abreve by Abreve.alt;\012sub Acircumflex by Acircumflex.alt;\012sub Acircumflexhookabove by Acircumflexhookabove.alt;\012sub Adieresis by Adieresis.alt;\012sub Agrave by Agrave.alt;\012sub Amacron by Amacron.alt;\012sub Aogonek by Aogonek.alt;\012sub Aring by Aring.alt;\012sub Atilde by Atilde.alt;";
+name = ss07;
 },
 {
 automatic = 1;
