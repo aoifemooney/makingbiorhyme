@@ -6,7 +6,7 @@ AJfkflfiff,
 /Racute.swsh,
 "/R.swsh oeeRoee/Q.swsh ueeQuee\012gobble",
 "/G.alt G/Gbreve.alt/Gbreve/Gcommaaccent.alt/Gcommaaccent/Gdotaccent.alt/Gdotaccent",
-"lh/dcaron t/dcaron.alt t\012/lcaron/tcaron/tcaron.alt \012\012daddn\012/d.alt/a.alt/d.alt/d.alt n"
+"db/dcaron b/d.alt/dcaron.alt b\012/lcaron bh/tcaron/tcaron.alt \012\012daddn\012/d.alt/a.alt/d.alt/d.alt n"
 );
 classes = (
 {
@@ -24624,7 +24624,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2016-02-01 03:46:24 +0000";
+lastChange = "2016-02-01 23:14:03 +0000";
 layers = (
 {
 anchors = (
@@ -25125,8 +25125,8 @@ closed = 1;
 nodes = (
 "244 0 LINE",
 "312 92 LINE",
-"312 688 LINE",
-"158 688 LINE",
+"312 686 LINE",
+"158 686 LINE",
 "158 0 LINE"
 );
 },
@@ -104211,6 +104211,7 @@ y = -6.6;
 "@MMK_R_z" = -19.8;
 "@MMK_R_exclam" = 0;
 "@MMK_R_h" = 0;
+"@MMK_R_b" = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = 0;
@@ -104899,12 +104900,17 @@ dcaron = {
 "@MMK_R_question" = 80;
 "@MMK_R_h" = 70;
 "@MMK_R_t" = 50;
+"@MMK_R_b" = 135;
 };
 dcaron.alt = {
 "@MMK_R_exclam" = 50;
 "@MMK_R_question" = 80;
 "@MMK_R_h" = 75;
 "@MMK_R_t" = 60;
+"@MMK_R_b" = 140;
+};
+lcaron = {
+"@MMK_R_b" = 55;
 };
 };
 };
