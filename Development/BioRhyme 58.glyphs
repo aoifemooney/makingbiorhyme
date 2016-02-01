@@ -5,7 +5,8 @@ DisplayStrings = (
 AJfkflfiff,
 /Racute.swsh,
 "/R.swsh oeeRoee/Q.swsh ueeQuee\012gobble",
-"/G.alt G/Gbreve.alt/Gbreve/Gcommaaccent.alt/Gcommaaccent/Gdotaccent.alt/Gdotaccent"
+"/G.alt G/Gbreve.alt/Gbreve/Gcommaaccent.alt/Gcommaaccent/Gdotaccent.alt/Gdotaccent",
+"l!/dcaron !/dcaron.alt !/lcaron/tcaron/tcaron.alt \012"
 );
 classes = (
 {
@@ -66220,7 +66221,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2016-01-15 16:56:56 +0000";
+lastChange = "2016-02-01 22:17:22 +0000";
 layers = (
 {
 guideLines = (
@@ -98970,6 +98971,7 @@ y = -13.2;
 "@MMK_R_v" = -26.4;
 "@MMK_R_x" = -33;
 "@MMK_R_z" = -39.6;
+"@MMK_R_exclam" = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = -26.4;
@@ -104173,6 +104175,7 @@ y = -6.6;
 "@MMK_R_v" = -13.2;
 "@MMK_R_x" = -26.4;
 "@MMK_R_z" = -19.8;
+"@MMK_R_exclam" = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = 0;
@@ -104855,6 +104858,12 @@ m = {
 };
 q = {
 "@MMK_R_period" = 6.6;
+};
+dcaron = {
+"@MMK_R_exclam" = 50;
+};
+dcaron.alt = {
+"@MMK_R_exclam" = 50;
 };
 };
 };
