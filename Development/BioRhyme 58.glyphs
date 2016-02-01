@@ -6,7 +6,7 @@ AJfkflfiff,
 /Racute.swsh,
 "/R.swsh oeeRoee/Q.swsh ueeQuee\012gobble",
 "/G.alt G/Gbreve.alt/Gbreve/Gcommaaccent.alt/Gcommaaccent/Gdotaccent.alt/Gdotaccent",
-"l?/dcaron ?/dcaron.alt ?\012/lcaron/tcaron/tcaron.alt \012"
+"lh/dcaron t/dcaron.alt t\012/lcaron/tcaron/tcaron.alt \012\012daddn\012/d.alt/a.alt/d.alt/d.alt n"
 );
 classes = (
 {
@@ -20086,7 +20086,7 @@ unicode = 0061;
 },
 {
 glyphname = a.alt;
-lastChange = "2016-01-21 03:49:21 +0000";
+lastChange = "2016-02-01 22:22:44 +0000";
 layers = (
 {
 anchors = (
@@ -20256,7 +20256,7 @@ nodes = (
 );
 }
 );
-width = 1070;
+width = 1076;
 },
 {
 anchors = (
@@ -26598,7 +26598,7 @@ unicode = 0064;
 },
 {
 glyphname = d.alt;
-lastChange = "2016-01-17 20:33:25 +0000";
+lastChange = "2016-02-01 22:22:48 +0000";
 layers = (
 {
 anchors = (
@@ -26770,7 +26770,7 @@ nodes = (
 );
 }
 );
-width = 1143;
+width = 1149;
 },
 {
 anchors = (
@@ -27774,7 +27774,7 @@ unicode = 010F;
 },
 {
 glyphname = dcaron.alt;
-lastChange = "2016-01-17 20:33:33 +0000";
+lastChange = "2016-02-01 22:22:48 +0000";
 layers = (
 {
 components = (
@@ -27787,7 +27787,7 @@ transform = "{1, 0, 0, 1, 930, -134}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
-width = 1143;
+width = 1149;
 },
 {
 components = (
@@ -33407,7 +33407,7 @@ width = 1087;
 },
 {
 glyphname = h;
-lastChange = "2016-01-21 04:26:36 +0000";
+lastChange = "2016-02-01 22:23:16 +0000";
 layers = (
 {
 anchors = (
@@ -47795,7 +47795,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2016-01-21 04:31:26 +0000";
+lastChange = "2016-02-01 22:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -98972,6 +98972,7 @@ y = -13.2;
 "@MMK_R_x" = -33;
 "@MMK_R_z" = -39.6;
 "@MMK_R_exclam" = 0;
+"@MMK_R_h" = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = -26.4;
@@ -99657,9 +99658,12 @@ y = {
 };
 dcaron = {
 "@MMK_R_question" = -20;
+"@MMK_R_t" = 5;
 };
 dcaron.alt = {
 "@MMK_R_question" = 20;
+"@MMK_R_h" = 40;
+"@MMK_R_t" = 20;
 };
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
@@ -100620,6 +100624,7 @@ Eth = 0;
 "@MMK_R_t" = -13.2;
 "@MMK_R_v" = -19.8;
 "@MMK_R_x" = -13.2;
+"@MMK_R_h" = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = -26.4;
@@ -101274,9 +101279,13 @@ y = {
 };
 dcaron = {
 "@MMK_R_question" = 10;
+"@MMK_R_h" = 10;
+"@MMK_R_t" = 0;
 };
 dcaron.alt = {
 "@MMK_R_question" = 0;
+"@MMK_R_h" = 10;
+"@MMK_R_t" = 0;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
@@ -102375,6 +102384,7 @@ Eth = -19.8;
 "@MMK_R_x" = -19.8;
 "@MMK_R_z" = -6.6;
 "@MMK_R_exclam" = 0;
+"@MMK_R_h" = 95;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = 0;
@@ -103098,10 +103108,13 @@ p = {
 dcaron.alt = {
 "@MMK_R_exclam" = 50;
 "@MMK_R_question" = 70;
+"@MMK_R_t" = 15;
 };
 dcaron = {
 "@MMK_R_exclam" = 50;
 "@MMK_R_question" = 70;
+"@MMK_R_h" = 90;
+"@MMK_R_t" = 10;
 };
 };
 "C70E3B11-AF58-44B6-92D7-58C9185F522D" = {
@@ -104197,6 +104210,7 @@ y = -6.6;
 "@MMK_R_x" = -26.4;
 "@MMK_R_z" = -19.8;
 "@MMK_R_exclam" = 0;
+"@MMK_R_h" = 0;
 };
 "@MMK_L_n" = {
 "@MMK_R_A" = 0;
@@ -104883,10 +104897,14 @@ q = {
 dcaron = {
 "@MMK_R_exclam" = 50;
 "@MMK_R_question" = 80;
+"@MMK_R_h" = 70;
+"@MMK_R_t" = 30;
 };
 dcaron.alt = {
 "@MMK_R_exclam" = 50;
 "@MMK_R_question" = 80;
+"@MMK_R_h" = 75;
+"@MMK_R_t" = 40;
 };
 };
 };
