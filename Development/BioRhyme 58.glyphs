@@ -66735,7 +66735,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2016-02-01 22:19:34 +0000";
+lastChange = "2016-02-01 22:20:35 +0000";
 layers = (
 {
 background = {
@@ -99655,6 +99655,12 @@ x.alt = {
 y = {
 "@MMK_R_period" = 26.4;
 };
+dcaron = {
+"@MMK_R_question" = -20;
+};
+dcaron.alt = {
+"@MMK_R_question" = 20;
+};
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
 "@MMK_L_A" = {
@@ -101267,7 +101273,7 @@ y = {
 "@MMK_R_period" = 0;
 };
 dcaron = {
-"@MMK_R_question" = 0;
+"@MMK_R_question" = 10;
 };
 dcaron.alt = {
 "@MMK_R_question" = 0;
