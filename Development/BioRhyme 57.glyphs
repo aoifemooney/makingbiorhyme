@@ -4,7 +4,7 @@ DisplayStrings = (
 "I/acutecomb \U00CD\U00CE\U00CF/Idotaccent/gravecomb \U00CC/Imacron",
 AJfkflfiff,
 /Racute.swsh,
-/R.swsh/Racute.swsh/Rcaron.swsh/Rcommaaccent.swsh
+"/R.swsh oeeRoee/Q.swsh ueeQuee"
 );
 classes = (
 {
@@ -12311,7 +12311,7 @@ unicode = 0051;
 },
 {
 glyphname = Q.swsh;
-lastChange = "2016-01-21 04:12:39 +0000";
+lastChange = "2016-02-01 03:40:32 +0000";
 layers = (
 {
 anchors = (
@@ -12689,7 +12689,7 @@ nodes = (
 );
 }
 );
-width = 1206;
+width = 1225;
 }
 );
 leftKerningGroup = O;
@@ -13334,7 +13334,7 @@ unicode = 0052;
 },
 {
 glyphname = R.swsh;
-lastChange = "2016-02-01 03:36:10 +0000";
+lastChange = "2016-02-01 03:42:36 +0000";
 layers = (
 {
 anchors = (
@@ -13597,27 +13597,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1232 -264 OFFCURVE",
-"1344 -212 OFFCURVE",
+"1222 -264 OFFCURVE",
+"1329 -223 OFFCURVE",
 "1425 -151 CURVE",
 "1359 -45 LINE",
-"1287 -98 OFFCURVE",
-"1207 -133 OFFCURVE",
-"1102 -133 CURVE SMOOTH",
-"976 -133 OFFCURVE",
-"844 -68 OFFCURVE",
-"707 95 CURVE SMOOTH",
-"592 238 OFFCURVE",
+"1282 -101 OFFCURVE",
+"1185 -133 OFFCURVE",
+"1078 -133 CURVE SMOOTH",
+"946 -133 OFFCURVE",
+"838 -82 OFFCURVE",
+"724 67 CURVE SMOOTH",
+"600 228 OFFCURVE",
 "535 303 OFFCURVE",
 "444 303 CURVE SMOOTH",
 "266 303 LINE",
 "266 277 LINE",
 "329 277 LINE SMOOTH",
 "403 277 OFFCURVE",
-"415 206 OFFCURVE",
-"563 29 CURVE SMOOTH",
-"702 -130 OFFCURVE",
-"867 -264 OFFCURVE",
+"425 196 OFFCURVE",
+"581 2 CURVE SMOOTH",
+"739 -194 OFFCURVE",
+"886 -264 OFFCURVE",
 "1078 -264 CURVE SMOOTH"
 );
 },
@@ -13774,7 +13774,7 @@ nodes = (
 );
 }
 );
-width = 1209;
+width = 1230;
 }
 );
 leftKerningGroup = H;
