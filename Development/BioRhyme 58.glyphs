@@ -18,7 +18,8 @@ x,
 /two.dnom,
 "\U00B2",
 C,
-n
+n,
+"TART\012TART"
 );
 classes = (
 {
@@ -201,7 +202,7 @@ angle = 90;
 position = "{959, 350}";
 },
 {
-position = "{1015, 1055}";
+position = "{1357, 387}";
 }
 );
 horizontalStems = (
@@ -211,6 +212,7 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 33
 );
+visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -12716,7 +12718,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = R;
-lastChange = "2016-02-01 23:55:43 +0000";
+lastChange = "2016-02-04 19:18:45 +0000";
 layers = (
 {
 anchors = (
@@ -13274,22 +13276,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"953 286 LINE SMOOTH",
-"1121 286 OFFCURVE",
-"1227 359 OFFCURVE",
-"1227 487 CURVE SMOOTH",
-"1227 615 OFFCURVE",
-"1117 686 OFFCURVE",
-"939 686 CURVE SMOOTH",
+"913 286 LINE SMOOTH",
+"1081 286 OFFCURVE",
+"1187 359 OFFCURVE",
+"1187 487 CURVE SMOOTH",
+"1187 615 OFFCURVE",
+"1077 686 OFFCURVE",
+"899 686 CURVE SMOOTH",
 "67 686 LINE",
 "67 559 LINE",
-"944 559 LINE SMOOTH",
-"1022 559 OFFCURVE",
-"1065 534 OFFCURVE",
-"1065 487 CURVE SMOOTH",
-"1065 435 OFFCURVE",
-"1022 405 OFFCURVE",
-"944 405 CURVE SMOOTH",
+"904 559 LINE SMOOTH",
+"982 559 OFFCURVE",
+"1025 534 OFFCURVE",
+"1025 487 CURVE SMOOTH",
+"1025 435 OFFCURVE",
+"982 405 OFFCURVE",
+"904 405 CURVE SMOOTH",
 "376 405 LINE",
 "376 286 LINE"
 );
@@ -15130,21 +15132,21 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2016-01-21 04:15:43 +0000";
+lastChange = "2016-02-04 19:19:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{608, 0}";
+position = "{618, 0}";
 },
 {
 name = center;
-position = "{608, 323}";
+position = "{618, 323}";
 },
 {
 name = top;
-position = "{608, 686}";
+position = "{618, 686}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -15154,10 +15156,10 @@ closed = 1;
 nodes = (
 "152 444 LINE",
 "152 656 LINE",
-"1064 656 LINE",
-"1064 444 LINE",
-"1097 444 LINE",
-"1097 686 LINE",
+"1084 656 LINE",
+"1084 444 LINE",
+"1117 444 LINE",
+"1117 686 LINE",
 "119 686 LINE",
 "119 444 LINE"
 );
@@ -15165,23 +15167,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"878 0 LINE",
-"878 31 LINE",
-"338 31 LINE",
-"338 0 LINE"
+"888 0 LINE",
+"888 31 LINE",
+"348 31 LINE",
+"348 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"625 18 LINE",
-"625 669 LINE",
-"592 669 LINE",
-"592 18 LINE"
+"635 18 LINE",
+"635 669 LINE",
+"602 669 LINE",
+"602 18 LINE"
 );
 }
 );
-width = 1216;
+width = 1236;
 },
 {
 anchors = (
@@ -15289,15 +15291,15 @@ width = 790;
 anchors = (
 {
 name = bottom;
-position = "{596, 0}";
+position = "{616, 0}";
 },
 {
 name = center;
-position = "{596, 323}";
+position = "{616, 323}";
 },
 {
 name = top;
-position = "{596, 686}";
+position = "{616, 686}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -15307,10 +15309,10 @@ closed = 1;
 nodes = (
 "206 409 LINE",
 "206 560 LINE",
-"977 560 LINE",
-"977 409 LINE",
-"1120 409 LINE",
-"1120 686 LINE",
+"1017 560 LINE",
+"1017 409 LINE",
+"1160 409 LINE",
+"1160 686 LINE",
 "64 686 LINE",
 "64 409 LINE"
 );
@@ -15318,23 +15320,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"879 0 LINE",
-"879 127 LINE",
-"303 127 LINE",
-"303 0 LINE"
+"899 0 LINE",
+"899 127 LINE",
+"323 127 LINE",
+"323 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"672 81 LINE",
-"672 616 LINE",
-"510 616 LINE",
-"510 81 LINE"
+"692 81 LINE",
+"692 616 LINE",
+"530 616 LINE",
+"530 81 LINE"
 );
 }
 );
-width = 1183;
+width = 1224;
 }
 );
 leftKerningGroup = T;
@@ -47618,7 +47620,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2016-02-02 00:27:34 +0000";
+lastChange = "2016-02-04 19:17:32 +0000";
 layers = (
 {
 anchors = (
@@ -100634,7 +100636,7 @@ g = 0;
 "@MMK_R_quotedblleft" = -39.6;
 "@MMK_R_s" = -13.2;
 "@MMK_R_section" = -26.4;
-"@MMK_R_t" = -13.2;
+"@MMK_R_t" = -20;
 "@MMK_R_u" = -6.6;
 "@MMK_R_v" = -26.4;
 "@MMK_R_x" = -6.6;
@@ -102468,7 +102470,7 @@ j = 0;
 "@MMK_R_quotedblleft" = -19.8;
 "@MMK_R_s" = -6.6;
 "@MMK_R_section" = -13.2;
-"@MMK_R_t" = -19.8;
+"@MMK_R_t" = -30;
 "@MMK_R_u" = 0;
 "@MMK_R_v" = -26.4;
 "@MMK_R_x" = -6.6;
