@@ -10278,7 +10278,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2016-02-12 18:56:46 +0000";
+lastChange = "2016-02-12 19:21:11 +0000";
 layers = (
 {
 anchors = (
@@ -14169,7 +14169,7 @@ rightKerningGroup = R;
 },
 {
 glyphname = S;
-lastChange = "2016-02-05 01:25:18 +0000";
+lastChange = "2016-02-12 19:20:40 +0000";
 layers = (
 {
 anchors = (
@@ -17968,7 +17968,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2016-02-12 19:14:00 +0000";
+lastChange = "2016-02-12 19:20:23 +0000";
 layers = (
 {
 anchors = (
@@ -80892,7 +80892,7 @@ unicode = 0040;
 },
 {
 glyphname = ampersand;
-lastChange = "2016-02-12 19:13:37 +0000";
+lastChange = "2016-02-12 19:20:30 +0000";
 layers = (
 {
 background = {
@@ -88347,7 +88347,7 @@ unicode = 1F632;
 },
 {
 glyphname = ampersand.swsh;
-lastChange = "2016-02-12 19:18:18 +0000";
+lastChange = "2016-02-12 19:20:55 +0000";
 layers = (
 {
 background = {
@@ -88710,20 +88710,20 @@ nodes = (
 "58 183 CURVE SMOOTH",
 "58 68 OFFCURVE",
 "159 -15 OFFCURVE",
-"418 -15 CURVE SMOOTH",
-"746 -15 OFFCURVE",
-"948 167 OFFCURVE",
-"948 334 CURVE SMOOTH",
-"948 385 OFFCURVE",
+"438 -15 CURVE SMOOTH",
+"766 -15 OFFCURVE",
+"953 167 OFFCURVE",
+"953 324 CURVE SMOOTH",
+"953 385 OFFCURVE",
 "938 415 OFFCURVE",
 "928 443 CURVE",
 "794 410 LINE",
 "800 389 OFFCURVE",
-"804 370 OFFCURVE",
-"804 341 CURVE SMOOTH",
-"804 212 OFFCURVE",
-"656 108 OFFCURVE",
-"417 108 CURVE SMOOTH",
+"809 370 OFFCURVE",
+"809 331 CURVE SMOOTH",
+"809 212 OFFCURVE",
+"676 108 OFFCURVE",
+"437 108 CURVE SMOOTH",
 "246 108 OFFCURVE",
 "203 147 OFFCURVE",
 "203 200 CURVE SMOOTH",
@@ -88745,7 +88745,7 @@ nodes = (
 );
 }
 );
-width = 1105;
+width = 1000;
 }
 );
 leftKerningGroup = ampersand;
@@ -103447,7 +103447,7 @@ exclamdown = 13.2;
 "@MMK_R_X" = -13.2;
 "@MMK_R_Z" = -19.8;
 "@MMK_R_a" = -39.6;
-"@MMK_R_ampersand" = -65;
+"@MMK_R_ampersand" = -80;
 "@MMK_R_asterisk" = 39.6;
 "@MMK_R_at" = -46.2;
 "@MMK_R_b" = -13.2;
@@ -103550,11 +103550,10 @@ servicemark = 26.4;
 "@MMK_R_A" = -39.6;
 "@MMK_R_AE" = -46.2;
 "@MMK_R_J" = -26.4;
-"@MMK_R_O" = -6.6;
-"@MMK_R_S" = -13.2;
+"@MMK_R_S" = -5;
 "@MMK_R_T" = -39.6;
 "@MMK_R_U" = -33;
-"@MMK_R_V" = -75;
+"@MMK_R_V" = -40;
 "@MMK_R_Z" = -13.2;
 "@MMK_R_a" = -6.6;
 "@MMK_R_b" = 0;
@@ -103570,6 +103569,7 @@ servicemark = 26.4;
 "@MMK_R_v" = -39.6;
 "@MMK_R_x" = -13.2;
 "@MMK_R_z" = -19.8;
+"@MMK_R_O" = 10;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -92.4;
