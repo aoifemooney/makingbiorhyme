@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"HOH/ampersand.swsh H&HOHH&H\012HOH/ampersand.swsh OHOH\012HOH/ampersand.swsh Y&HOH\012HOH/ampersand.swsh SHOH\012HOH/ampersand.swsh AHOH\012non/ampersand.swsh nonH/ampersand.swsh H\012non/ampersand.swsh onon\012non/ampersand.swsh anon\012non/ampersand.swsh cnon\012non/ampersand.swsh snon\012non/ampersand.swsh nvnonn*n\012non/ampersand.swsh jnon\012non/ampersand.swsh bnon\012non/ampersand.swsh hnon",
+"HOH/ampersand.swsh H&HOHHn&hHn&n\012HOH/ampersand.swsh OHOH\012HOH/ampersand.swsh Y&HOH\012HOH/ampersand.swsh SHOH\012HOH/ampersand.swsh AHOH\012non/ampersand.swsh nonH/ampersand.swsh H\012non/ampersand.swsh onon\012non/ampersand.swsh anon\012non/ampersand.swsh cnon\012non/ampersand.swsh snon\012non/ampersand.swsh nvnonn*n\012non/ampersand.swsh jnon\012non/ampersand.swsh bnon\012non/ampersand.swsh hnon",
 nonenconon,
 AJfkflfiff,
 /Racute.swsh,
@@ -24652,7 +24652,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2016-02-12 19:08:11 +0000";
+lastChange = "2016-02-13 23:56:14 +0000";
 layers = (
 {
 anchors = (
@@ -33435,7 +33435,7 @@ width = 1087;
 },
 {
 glyphname = h;
-lastChange = "2016-02-12 18:57:59 +0000";
+lastChange = "2016-02-13 23:58:17 +0000";
 layers = (
 {
 anchors = (
@@ -46021,7 +46021,7 @@ unicode = 0157;
 {
 color = 4;
 glyphname = s;
-lastChange = "2016-02-12 18:57:34 +0000";
+lastChange = "2016-02-13 23:55:53 +0000";
 layers = (
 {
 anchors = (
@@ -80892,7 +80892,7 @@ unicode = 0040;
 },
 {
 glyphname = ampersand;
-lastChange = "2016-02-12 19:20:30 +0000";
+lastChange = "2016-02-13 23:58:41 +0000";
 layers = (
 {
 background = {
@@ -81223,7 +81223,7 @@ nodes = (
 );
 }
 );
-width = 832;
+width = 834;
 },
 {
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -81231,7 +81231,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"696 -15 OFFCURVE",
+"686 -15 OFFCURVE",
 "948 167 OFFCURVE",
 "948 334 CURVE SMOOTH",
 "948 385 OFFCURVE",
@@ -81241,8 +81241,8 @@ nodes = (
 "800 389 OFFCURVE",
 "804 370 OFFCURVE",
 "804 341 CURVE SMOOTH",
-"804 212 OFFCURVE",
-"606 108 OFFCURVE",
+"804 202 OFFCURVE",
+"586 108 OFFCURVE",
 "367 108 CURVE SMOOTH",
 "246 108 OFFCURVE",
 "203 147 OFFCURVE",
@@ -81257,19 +81257,19 @@ nodes = (
 "689 697 OFFCURVE",
 "562 697 CURVE SMOOTH",
 "419 697 OFFCURVE",
-"331 590 OFFCURVE",
+"332 590 OFFCURVE",
 "331 473 CURVE SMOOTH",
-"328 183 OFFCURVE",
+"328 193 OFFCURVE",
 "632 -15 OFFCURVE",
-"844 -15 CURVE SMOOTH",
-"909 -15 OFFCURVE",
+"854 -15 CURVE SMOOTH",
+"919 -15 OFFCURVE",
 "958 -8 OFFCURVE",
 "994 6 CURVE",
 "972 127 LINE",
 "939 118 OFFCURVE",
-"896 113 OFFCURVE",
-"847 113 CURVE SMOOTH",
-"695 113 OFFCURVE",
+"906 113 OFFCURVE",
+"857 113 CURVE SMOOTH",
+"715 113 OFFCURVE",
 "480 264 OFFCURVE",
 "480 474 CURVE SMOOTH",
 "480 536 OFFCURVE",
@@ -88347,7 +88347,7 @@ unicode = 1F632;
 },
 {
 glyphname = ampersand.swsh;
-lastChange = "2016-02-12 19:25:27 +0000";
+lastChange = "2016-02-13 23:56:04 +0000";
 layers = (
 {
 background = {
@@ -88745,7 +88745,7 @@ nodes = (
 );
 }
 );
-width = 1000;
+width = 995;
 }
 );
 leftKerningGroup = ampersand;
@@ -98277,9 +98277,11 @@ servicemark = 52.8;
 "@MMK_R_a" = -19.8;
 "@MMK_R_b" = -15;
 "@MMK_R_four" = 13.2;
+"@MMK_R_h" = -5;
 "@MMK_R_n" = 0;
 "@MMK_R_nine" = -13.2;
 "@MMK_R_o" = -6.6;
+"@MMK_R_p" = 20;
 "@MMK_R_s" = -15;
 "@MMK_R_seven" = -39.6;
 "@MMK_R_three" = -13.2;
@@ -98287,8 +98289,6 @@ servicemark = 52.8;
 "@MMK_R_v" = -15;
 "@MMK_R_x" = -13.2;
 "@MMK_R_z" = -19.8;
-"@MMK_R_h" = -5;
-"@MMK_R_p" = 20;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -92.4;
@@ -101696,6 +101696,7 @@ servicemark = 13.2;
 "@MMK_R_v" = -46.2;
 "@MMK_R_x" = -13.2;
 "@MMK_R_z" = -6.6;
+"@MMK_R_h" = -15;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -92.4;
@@ -103550,18 +103551,20 @@ servicemark = 26.4;
 "@MMK_R_A" = -45;
 "@MMK_R_AE" = -46.2;
 "@MMK_R_J" = -26.4;
+"@MMK_R_O" = 10;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -39.6;
 "@MMK_R_U" = -33;
 "@MMK_R_V" = -40;
 "@MMK_R_Z" = -13.2;
 "@MMK_R_a" = -6.6;
-"@MMK_R_b" = 0;
+"@MMK_R_b" = -20;
 "@MMK_R_four" = 13.2;
 "@MMK_R_n" = 0;
 "@MMK_R_nine" = -13.2;
 "@MMK_R_o" = -6.6;
-"@MMK_R_s" = -13.2;
+"@MMK_R_p" = 30;
+"@MMK_R_s" = -20;
 "@MMK_R_seven" = -39.6;
 "@MMK_R_three" = -13.2;
 "@MMK_R_two" = -13.2;
@@ -103569,8 +103572,7 @@ servicemark = 26.4;
 "@MMK_R_v" = -39.6;
 "@MMK_R_x" = -13.2;
 "@MMK_R_z" = -19.8;
-"@MMK_R_O" = 10;
-"@MMK_R_p" = 30;
+"@MMK_R_h" = -5;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -92.4;
