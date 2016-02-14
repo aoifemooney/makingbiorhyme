@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"HOH/ampersand.swsh H&HOHHn&hHn&n\012HOH/ampersand.swsh OHOH\012HOH/ampersand.swsh Y&HOH&Y&H\012HOH/ampersand.swsh SH&S&H&H\012HOH/ampersand.swsh A&AHOH\012non/ampersand.swsh nonH/ampersand.swsh H\012non/ampersand.swsh onon\012non/ampersand.swsh anon\012non/ampersand.swsh cnon\012non/ampersand.swsh snon\012non/ampersand.swsh nvnonn*n\012non/ampersand.swsh jnon\012non/ampersand.swsh bnon\012non/ampersand.swsh hnon",
+"HOH/ampersand.swsh H&HOHHn&hHn&n\012HOH/ampersand.swsh OH&O&H\012HOH/ampersand.swsh Y&HOH&Y&H\012HOH/ampersand.swsh SH&S&H&H\012HOH/ampersand.swsh A&AHOH\012non/ampersand.swsh nonH/ampersand.swsh H\012non/ampersand.swsh onon\012non/ampersand.swsh anon\012non/ampersand.swsh cnon\012non/ampersand.swsh snon\012non/ampersand.swsh nvnonn*n/dagger n\012non/ampersand.swsh jnon\012non/ampersand.swsh bnon\012non/ampersand.swsh hnon",
 nonenconon,
 AJfkflfiff,
 /Racute.swsh,
@@ -10278,7 +10278,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2016-02-12 19:21:11 +0000";
+lastChange = "2016-02-14 00:03:10 +0000";
 layers = (
 {
 anchors = (
@@ -17968,7 +17968,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2016-02-13 23:59:54 +0000";
+lastChange = "2016-02-14 00:03:36 +0000";
 layers = (
 {
 anchors = (
@@ -99967,11 +99967,11 @@ Eth = 19.8;
 "@MMK_R_A" = -39.6;
 "@MMK_R_AE" = -59.4;
 "@MMK_R_J" = -26.4;
-"@MMK_R_O" = -6.6;
+"@MMK_R_O" = 0;
 "@MMK_R_S" = 0;
 "@MMK_R_T" = -39.6;
 "@MMK_R_U" = -13.2;
-"@MMK_R_V" = -66;
+"@MMK_R_V" = -50;
 "@MMK_R_Z" = -13.2;
 "@MMK_R_a" = -13.2;
 "@MMK_R_b" = -19.8;
@@ -101038,6 +101038,8 @@ y = {
 ampersand.swsh = {
 "@MMK_R_A" = -15;
 "@MMK_R_S" = 10;
+"@MMK_R_V" = -40;
+"@MMK_R_O" = 10;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
@@ -101685,7 +101687,7 @@ servicemark = 13.2;
 "@MMK_R_S" = -26.4;
 "@MMK_R_T" = -46.2;
 "@MMK_R_U" = -26.4;
-"@MMK_R_V" = -65;
+"@MMK_R_V" = -70;
 "@MMK_R_Z" = -19.8;
 "@MMK_R_a" = -19.8;
 "@MMK_R_b" = -26.4;
