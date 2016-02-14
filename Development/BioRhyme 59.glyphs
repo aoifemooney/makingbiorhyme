@@ -35,16 +35,16 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Aoife Mooney";
+copyright = "Copyright © 2015 by Aoife Mooney. All rights reserved. ";
 customParameters = (
 {
 name = DisableAllAutomaticBehaviour;
 value = 1;
 }
 );
-date = "2015-06-25 01:21:12 +0000";
+date = "2016-02-14 00:08:58 +0000";
 designer = "Aoife Mooney";
-designerURL = www.aoifemooney.org;
+designerURL = "http://www.aoifemooney.org";
 familyName = "BioRhyme";
 featurePrefixes = (
 {
@@ -100955,6 +100955,12 @@ Y = {
 a = {
 "@MMK_R_u" = -13.2;
 };
+ampersand.swsh = {
+"@MMK_R_A" = -15;
+"@MMK_R_O" = 10;
+"@MMK_R_S" = 10;
+"@MMK_R_V" = -40;
+};
 braceleft = {
 "@MMK_R_v" = 0;
 };
@@ -101034,12 +101040,6 @@ t = {
 };
 y = {
 "@MMK_R_period" = 0;
-};
-ampersand.swsh = {
-"@MMK_R_A" = -15;
-"@MMK_R_S" = 10;
-"@MMK_R_V" = -40;
-"@MMK_R_O" = 10;
 };
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
@@ -101691,6 +101691,7 @@ servicemark = 13.2;
 "@MMK_R_Z" = -19.8;
 "@MMK_R_a" = -19.8;
 "@MMK_R_b" = -26.4;
+"@MMK_R_h" = -20;
 "@MMK_R_n" = 0;
 "@MMK_R_nine" = -13.2;
 "@MMK_R_o" = -13.2;
@@ -101702,7 +101703,6 @@ servicemark = 13.2;
 "@MMK_R_v" = -46.2;
 "@MMK_R_x" = -13.2;
 "@MMK_R_z" = -6.6;
-"@MMK_R_h" = -20;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -92.4;
@@ -102840,6 +102840,9 @@ a = {
 a.alt = {
 "@MMK_R_h" = 0;
 };
+ampersand.swsh = {
+"@MMK_R_V" = -45;
+};
 dcaron = {
 "@MMK_R_b" = 100;
 "@MMK_R_exclam" = 50;
@@ -102885,9 +102888,6 @@ lcaron = {
 };
 p = {
 "@MMK_R_period" = -6.6;
-};
-ampersand.swsh = {
-"@MMK_R_V" = -45;
 };
 };
 "C70E3B11-AF58-44B6-92D7-58C9185F522D" = {
@@ -103569,6 +103569,7 @@ servicemark = 26.4;
 "@MMK_R_a" = -6.6;
 "@MMK_R_b" = -20;
 "@MMK_R_four" = 13.2;
+"@MMK_R_h" = -5;
 "@MMK_R_n" = 0;
 "@MMK_R_nine" = -13.2;
 "@MMK_R_o" = -6.6;
@@ -103581,7 +103582,6 @@ servicemark = 26.4;
 "@MMK_R_v" = -39.6;
 "@MMK_R_x" = -13.2;
 "@MMK_R_z" = -19.8;
-"@MMK_R_h" = -5;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -92.4;
@@ -104727,8 +104727,8 @@ y = {
 };
 };
 };
-manufacturer = AMT;
-manufacturerURL = AMT;
+manufacturer = "Aoife Mooney Type";
+manufacturerURL = "http://www.aoifemooney.org";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
