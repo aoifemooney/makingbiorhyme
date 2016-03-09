@@ -1,4 +1,4 @@
-# BioRhyme Libre
+# BioRhyme
 
 BioRhyme is a Latin 3 typeface developed by Aoife Mooney. The official source files and compiled fonts are released at: https://github.com/aoifemooney/makingbiorhyme
 
