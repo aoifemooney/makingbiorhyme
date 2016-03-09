@@ -97431,61 +97431,21 @@ width = 1240;
 keepAlternatesTogether = 1;
 instances = (
 {
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-a,
-s,
-n
-);
-}
-);
 interpolationWeight = 800;
 name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-a,
-s,
-n
-);
-}
-);
 interpolationWeight = 675;
 isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-a,
-s,
-n
-);
-}
-);
 interpolationWeight = 550;
 name = Regular;
 },
 {
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-a,
-s,
-n
-);
-}
-);
 interpolationWeight = 350;
 name = Light;
 weightClass = Light;
@@ -97493,12 +97453,8 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = "Instance Preview";
-value = (
-a,
-s,
-n
-);
+name = weightClass;
+value = "275";
 }
 );
 interpolationWeight = 250;
