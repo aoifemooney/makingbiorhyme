@@ -10,9 +10,9 @@ Two distinct typefaces have also been designed to complement BioRhyme Extra-Ligh
 
 BioRhyme's TrueType format font files are autohinted using a combination of the GlyphsApp autohint settings and TTFAutohint (http://www.freetype.org/ttfautohint/).  Since this typeface is designed for large and medium-size text-setting, it is not manually hinted for smaller sizes at this time.
 
-Source files for BioRhyme's PDF proofs are located at https://github.com/aoifemooney/makingbiorhyme/Development/Proofs/
+Source files for BioRhyme's PDF proofs are located at https://github.com/aoifemooney/makingbiorhyme/tree/gh-pages/Development/Proofs
 
-BioRhyme was developed with Glyphs 2. Glyphs 2 can be found at http://www.glyphsapp.com.
+BioRhyme was developed with Glyphs 2, which can be found at http://www.glyphsapp.com.
 
 Thanks To:
 Google, Dave Crossland, James Puckett, Erin McLaughlin, Georg Seifert, Nicolas da Silva, The Unicode Consortium, Pablo Impallari, Alia Rose Connor, David Pereplyotchik.
