@@ -3,7 +3,9 @@
 DisplayStrings = (
 "\U00A0",
 talk,
-"/lcaron hlhbnoo&non&s"
+"/lcaron hlhbnoo&non&s",
+/Aogonek.alt,
+/aogonek/ogonekcomb/a.alt/aogonek.alt
 );
 classes = (
 {
@@ -20120,7 +20122,7 @@ unicode = 0061;
 },
 {
 glyphname = a.alt;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-03-25 21:59:50 +0000";
 layers = (
 {
 anchors = (
@@ -20470,7 +20472,7 @@ position = "{210, -13}";
 },
 {
 name = ogonek;
-position = "{602, 14}";
+position = "{592, 14}";
 },
 {
 name = top;
@@ -23037,7 +23039,7 @@ unicode = 0105;
 },
 {
 glyphname = aogonek.alt;
-lastChange = "2016-02-14 00:48:05 +0000";
+lastChange = "2016-03-25 21:59:50 +0000";
 layers = (
 {
 components = (
@@ -23072,7 +23074,7 @@ name = a.alt;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 376, 23}";
+transform = "{1, 0, 0, 1, 366, 23}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
