@@ -4,8 +4,16 @@ DisplayStrings = (
 "\U00A0",
 talk,
 "/lcaron hlhbnoo&non&s",
-/Aogonek.alt,
-/aogonek/ogonekcomb/a.alt/aogonek.alt
+"\U00C2/Aogonek.alt",
+/aogonek/ogonekcomb/a.alt/aogonek.alt,
+/aogonek.alt2,
+A/Aogonek,
+A/Aogonek,
+A/Aogonek,
+/A.alt/Aogonek.alt,
+A/Aogonek/A.alt/Aogonek.alt,
+H,
+A
 );
 classes = (
 {
@@ -426,7 +434,7 @@ xHeight = 471;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-03-25 22:03:05 +0000";
 layers = (
 {
 anchors = (
@@ -440,7 +448,7 @@ position = "{796, 772}";
 },
 {
 name = ogonek;
-position = "{1359, 0}";
+position = "{1149, 0}";
 },
 {
 name = top;
@@ -513,7 +521,7 @@ position = "{535, 766}";
 },
 {
 name = ogonek;
-position = "{750, 18}";
+position = "{770, 18}";
 },
 {
 name = top;
@@ -586,7 +594,7 @@ position = "{506, 843}";
 },
 {
 name = ogonek;
-position = "{820, 0}";
+position = "{692, 0}";
 },
 {
 name = top;
@@ -659,7 +667,7 @@ position = "{778, 849}";
 },
 {
 name = ogonek;
-position = "{1335, 0}";
+position = "{1147, 0}";
 },
 {
 name = top;
@@ -727,7 +735,7 @@ unicode = 0041;
 },
 {
 glyphname = A.alt;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-03-25 22:03:19 +0000";
 layers = (
 {
 anchors = (
@@ -741,7 +749,7 @@ position = "{796, 772}";
 },
 {
 name = ogonek;
-position = "{1359, 0}";
+position = "{1149, 0}";
 },
 {
 name = top;
@@ -847,7 +855,7 @@ position = "{560, 785}";
 },
 {
 name = ogonek;
-position = "{889, 0}";
+position = "{754, 0}";
 },
 {
 name = top;
@@ -911,7 +919,7 @@ position = "{541, 843}";
 },
 {
 name = ogonek;
-position = "{899, 0}";
+position = "{776, 0}";
 },
 {
 name = top;
@@ -975,7 +983,7 @@ position = "{778, 889}";
 },
 {
 name = ogonek;
-position = "{1357, 0}";
+position = "{1196, 0}";
 },
 {
 name = top;
@@ -1932,7 +1940,7 @@ rightKerningGroup = A;
 },
 {
 glyphname = Aogonek;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-03-25 22:03:05 +0000";
 layers = (
 {
 components = (
@@ -1941,7 +1949,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 1124, 0}";
+transform = "{1, 0, 0, 1, 914, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -1954,7 +1962,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 567, 29}";
+transform = "{1, 0, 0, 1, 587, 29}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -1967,7 +1975,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 594, 9}";
+transform = "{1, 0, 0, 1, 466, 9}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -1980,7 +1988,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 1067, 8}";
+transform = "{1, 0, 0, 1, 879, 8}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -1993,7 +2001,7 @@ unicode = 0104;
 },
 {
 glyphname = Aogonek.alt;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-03-25 22:03:19 +0000";
 layers = (
 {
 components = (
@@ -2002,7 +2010,7 @@ name = A.alt;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 1124, 0}";
+transform = "{1, 0, 0, 1, 914, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -2015,7 +2023,7 @@ name = A.alt;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 706, 11}";
+transform = "{1, 0, 0, 1, 571, 11}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -2028,7 +2036,7 @@ name = A.alt;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 673, 9}";
+transform = "{1, 0, 0, 1, 550, 9}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -2041,7 +2049,7 @@ name = A.alt;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 1089, 8}";
+transform = "{1, 0, 0, 1, 928, 8}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
