@@ -6,7 +6,8 @@ DisplayStrings = (
 "\U00E6",
 /ogonekcomb/ogonekcomb.alt,
 Y,
-Rnose
+Rnose,
+R
 );
 classes = (
 {
@@ -13045,7 +13046,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = R;
-lastChange = "2016-04-11 19:02:37 +0000";
+lastChange = "2016-04-11 19:06:06 +0000";
 layers = (
 {
 anchors = (
@@ -13410,22 +13411,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"758 31 LINE",
-"739 24 OFFCURVE",
-"714 18 OFFCURVE",
-"685 18 CURVE SMOOTH",
-"628 18 OFFCURVE",
-"589 42 OFFCURVE",
-"542 121 CURVE SMOOTH",
-"416 334 LINE",
+"768 33 LINE",
+"749 24 OFFCURVE",
+"724 18 OFFCURVE",
+"695 18 CURVE SMOOTH",
+"645 18 OFFCURVE",
+"597 47 OFFCURVE",
+"551 121 CURVE SMOOTH",
+"419 334 LINE",
 "385 329 LINE",
-"504 121 LINE SMOOTH",
-"558 27 OFFCURVE",
-"603 -13 OFFCURVE",
-"685 -13 CURVE SMOOTH",
-"714 -13 OFFCURVE",
-"739 -7 OFFCURVE",
-"758 0 CURVE"
+"509 121 LINE SMOOTH",
+"564 29 OFFCURVE",
+"616 -13 OFFCURVE",
+"695 -13 CURVE SMOOTH",
+"724 -13 OFFCURVE",
+"749 -7 OFFCURVE",
+"768 0 CURVE"
 );
 }
 );
@@ -13559,12 +13560,12 @@ nodes = (
 "756 122 OFFCURVE",
 "735 122 CURVE SMOOTH",
 "689 122 OFFCURVE",
-"662 140 OFFCURVE",
-"632 190 CURVE SMOOTH",
+"655 140 OFFCURVE",
+"627 190 CURVE SMOOTH",
 "562 306 LINE",
 "440 289 LINE",
-"497 143 LINE SMOOTH",
-"541 29 OFFCURVE",
+"492 143 LINE SMOOTH",
+"533 29 OFFCURVE",
 "608 -14 OFFCURVE",
 "697 -14 CURVE SMOOTH",
 "741 -14 OFFCURVE",
@@ -18667,7 +18668,7 @@ unicode = 0059;
 },
 {
 glyphname = Yacute;
-lastChange = "2016-04-11 18:29:53 +0000";
+lastChange = "2016-04-11 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -18689,7 +18690,7 @@ name = Y;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 227, -13}";
+transform = "{1, 0, 0, 1, 227, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -18728,7 +18729,7 @@ unicode = 00DD;
 },
 {
 glyphname = Ycircumflex;
-lastChange = "2016-04-11 18:29:53 +0000";
+lastChange = "2016-04-11 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -18750,7 +18751,7 @@ name = Y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 190, -13}";
+transform = "{1, 0, 0, 1, 190, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -18789,7 +18790,7 @@ unicode = 0176;
 },
 {
 glyphname = Ydieresis;
-lastChange = "2016-04-11 18:29:53 +0000";
+lastChange = "2016-04-11 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -18811,7 +18812,7 @@ name = Y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 120, -13}";
+transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -18850,7 +18851,7 @@ unicode = 0178;
 },
 {
 glyphname = Ygrave;
-lastChange = "2016-04-11 18:29:53 +0000";
+lastChange = "2016-04-11 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -18872,7 +18873,7 @@ name = Y;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 172, -13}";
+transform = "{1, 0, 0, 1, 172, 0}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -23373,7 +23374,7 @@ rightKerningGroup = n;
 {
 color = 4;
 glyphname = aogonek;
-lastChange = "2016-04-11 18:25:38 +0000";
+lastChange = "2016-04-11 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -23421,7 +23422,7 @@ name = a;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 776, 72}";
+transform = "{1, 0, 0, 1, 776, 32}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -23435,7 +23436,7 @@ unicode = 0105;
 {
 color = 4;
 glyphname = aogonek.alt;
-lastChange = "2016-04-11 18:29:53 +0000";
+lastChange = "2016-04-11 19:03:30 +0000";
 layers = (
 {
 components = (
@@ -23483,7 +23484,7 @@ name = a.alt;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 754, 30}";
+transform = "{1, 0, 0, 1, 754, 32}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -98280,7 +98281,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-integral
+R
 );
 }
 );
@@ -98293,14 +98294,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98314,14 +98308,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98333,14 +98320,7 @@ customParameters = (
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98357,14 +98337,7 @@ value = "275";
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98385,14 +98358,7 @@ value = "275";
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98412,14 +98378,7 @@ value = "BioRhyme Expanded";
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98439,14 +98398,7 @@ value = "BioRhyme Expanded";
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98465,14 +98417,7 @@ value = "BioRhyme Expanded";
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
@@ -98493,14 +98438,7 @@ value = "BioRhyme Expanded";
 {
 name = "Instance Preview";
 value = (
-Iogonek,
-Uogonek,
-iogonek,
-uogonek,
-eogonek,
-Eogonek,
-Aogonek,
-aogonek
+R
 );
 }
 );
