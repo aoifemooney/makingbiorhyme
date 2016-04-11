@@ -7,7 +7,7 @@ DisplayStrings = (
 /ogonekcomb/ogonekcomb.alt,
 Y,
 Rnose,
-R
+Ranuntn
 );
 classes = (
 {
@@ -13046,7 +13046,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = R;
-lastChange = "2016-04-11 19:06:06 +0000";
+lastChange = "2016-04-11 19:33:17 +0000";
 layers = (
 {
 anchors = (
@@ -13506,6 +13506,27 @@ nodes = (
 "534 -14 OFFCURVE",
 "659 -14 CURVE SMOOTH"
 );
+},
+{
+closed = 1;
+nodes = (
+"788 130 LINE",
+"774 125 OFFCURVE",
+"756 122 OFFCURVE",
+"735 122 CURVE SMOOTH",
+"689 122 OFFCURVE",
+"655 140 OFFCURVE",
+"627 190 CURVE SMOOTH",
+"562 306 LINE",
+"440 289 LINE",
+"492 143 LINE SMOOTH",
+"533 29 OFFCURVE",
+"608 -14 OFFCURVE",
+"697 -14 CURVE SMOOTH",
+"741 -14 OFFCURVE",
+"774 -4 OFFCURVE",
+"788 0 CURVE"
+);
 }
 );
 };
@@ -13555,11 +13576,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"788 130 LINE",
-"774 125 OFFCURVE",
-"756 122 OFFCURVE",
-"735 122 CURVE SMOOTH",
-"689 122 OFFCURVE",
+"725 119 LINE",
+"684 119 OFFCURVE",
 "655 140 OFFCURVE",
 "627 190 CURVE SMOOTH",
 "562 306 LINE",
@@ -13567,10 +13585,20 @@ nodes = (
 "492 143 LINE SMOOTH",
 "533 29 OFFCURVE",
 "608 -14 OFFCURVE",
-"697 -14 CURVE SMOOTH",
-"741 -14 OFFCURVE",
-"774 -4 OFFCURVE",
-"788 0 CURVE"
+"697 -14 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"761 126 LINE",
+"755 124 OFFCURVE",
+"742 119 OFFCURVE",
+"724 119 CURVE",
+"695 -14 LINE",
+"739 -14 OFFCURVE",
+"775 -2 OFFCURVE",
+"793 8 CURVE"
 );
 }
 );
