@@ -2,7 +2,7 @@
 .appVersion = "851";
 DisplayStrings = (
 "/Aogonek/Aogonek.alt/Eogonek I/Iogonek/Uogonek/aogonek/aogonek.alt/aogonek.alt2/eogonek/idotless/iogonek/uogonek/uogonek.alt",
-"non\U00A4non/florin non/Ohm non/increment non/infinity non/integral ngon/partialdiff no|n|/product non/radical non/summation non/lozenge non@non\U00A9@\U00AEHOnon/estimated non/literSign non"
+"non\U00A4non/florin/integral ngon/partialdiff no|n|/product non/radical non/summation non/lozenge non@non\U00A9@\U00AEHOnon/estimated non/literSign non"
 );
 classes = (
 {
@@ -76327,8 +76327,9 @@ width = 1095;
 unicode = 221E;
 },
 {
+color = 4;
 glyphname = integral;
-lastChange = "2016-04-11 15:36:15 +0000";
+lastChange = "2016-04-11 15:37:04 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
