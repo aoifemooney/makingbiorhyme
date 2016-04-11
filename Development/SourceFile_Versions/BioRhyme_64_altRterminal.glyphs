@@ -212,7 +212,6 @@ id = "B29C398E-974A-40D0-A0A0-00935056D4B4";
 verticalStems = (
 33
 );
-visible = 1;
 weight = Light;
 weightValue = 250;
 width = Extended;
@@ -357,6 +356,7 @@ verticalStems = (
 149,
 159
 );
+visible = 1;
 weight = Bold;
 weightValue = 800;
 xHeight = 471;
@@ -13045,7 +13045,7 @@ rightKerningGroup = O;
 },
 {
 glyphname = R;
-lastChange = "2016-04-11 18:50:51 +0000";
+lastChange = "2016-04-11 18:53:30 +0000";
 layers = (
 {
 anchors = (
@@ -13299,11 +13299,7 @@ nodes = (
 "601 -13 OFFCURVE",
 "672 -13 CURVE SMOOTH"
 );
-}
-);
-};
-layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-paths = (
+},
 {
 closed = 1;
 nodes = (
@@ -13364,6 +13360,72 @@ nodes = (
 "494 68 OFFCURVE",
 "563 -13 OFFCURVE",
 "668 -13 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+paths = (
+{
+closed = 1;
+nodes = (
+"422 318 LINE SMOOTH",
+"573 318 OFFCURVE",
+"651 408 OFFCURVE",
+"651 499 CURVE SMOOTH",
+"651 603 OFFCURVE",
+"572 686 OFFCURVE",
+"422 686 CURVE SMOOTH",
+"40 686 LINE",
+"40 656 LINE",
+"422 656 LINE SMOOTH",
+"553 656 OFFCURVE",
+"618 582 OFFCURVE",
+"618 499 CURVE SMOOTH",
+"618 418 OFFCURVE",
+"549 345 OFFCURVE",
+"422 345 CURVE SMOOTH",
+"216 345 LINE",
+"216 318 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"371 0 LINE",
+"371 31 LINE",
+"40 29 LINE",
+"40 -1 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"222 18 LINE",
+"222 669 LINE",
+"189 669 LINE",
+"189 18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"738 32 LINE",
+"726 26 OFFCURVE",
+"703 18 OFFCURVE",
+"678 18 CURVE SMOOTH",
+"621 18 OFFCURVE",
+"591 51 OFFCURVE",
+"547 147 CURVE SMOOTH",
+"461 334 LINE",
+"432 329 LINE",
+"515 143 LINE SMOOTH",
+"566 29 OFFCURVE",
+"603 -13 OFFCURVE",
+"678 -13 CURVE SMOOTH",
+"702 -13 OFFCURVE",
+"725 -5 OFFCURVE",
+"738 0 CURVE"
 );
 }
 );
@@ -13501,8 +13563,8 @@ nodes = (
 "632 190 CURVE SMOOTH",
 "562 306 LINE",
 "440 289 LINE",
-"500 148 LINE SMOOTH",
-"548 34 OFFCURVE",
+"497 143 LINE SMOOTH",
+"541 29 OFFCURVE",
 "608 -14 OFFCURVE",
 "697 -14 CURVE SMOOTH",
 "741 -14 OFFCURVE",
