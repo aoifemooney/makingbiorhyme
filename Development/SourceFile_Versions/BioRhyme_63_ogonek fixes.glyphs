@@ -1,7 +1,7 @@
 {
 .appVersion = "851";
 DisplayStrings = (
-"A/Aogonek/A.alt/Aogonek.alt E/Eogonek I/Iogonek U/Uogonek aa/aogonek/aogonek/a.alt2/aogonek.alt2/ogonekcomb/ogonekcomb.alt e/eogonek p/idotless/iogonek/uogonek/uogonek.alt",
+"A/Aogonek/A.alt/Aogonek.alt E/Eogonek I/Iogonek U/Uogonek aa/aogonek/ogonekcomb/aogonek/a.alt2/a.alt2/aogonek.alt2/ogonekcomb/ogonekcomb.alt e/eogonek p/idotless/iogonek/uogonek/uogonek.alt",
 "\U00C6ED/OE Ea\U00E6eo/oe e"
 );
 classes = (
@@ -21110,7 +21110,7 @@ rightKerningGroup = n;
 },
 {
 glyphname = a.alt2;
-lastChange = "2016-04-11 17:18:21 +0000";
+lastChange = "2016-04-11 17:41:25 +0000";
 layers = (
 {
 anchors = (
@@ -21263,7 +21263,7 @@ position = "{278, -13}";
 },
 {
 name = ogonek;
-position = "{601, 2}";
+position = "{559, 9}";
 },
 {
 name = top;
@@ -23430,7 +23430,7 @@ rightKerningGroup = n;
 {
 color = 4;
 glyphname = aogonek.alt2;
-lastChange = "2016-04-11 17:31:11 +0000";
+lastChange = "2016-04-11 17:41:25 +0000";
 layers = (
 {
 components = (
@@ -23452,7 +23452,7 @@ name = a.alt2;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 416, 2}";
+transform = "{1, 0, 0, 1, 374, 9}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -29948,7 +29948,7 @@ rightKerningGroup = l;
 },
 {
 glyphname = e;
-lastChange = "2016-04-11 16:36:53 +0000";
+lastChange = "2016-04-11 17:39:43 +0000";
 layers = (
 {
 anchors = (
@@ -30082,7 +30082,7 @@ position = "{299, -14}";
 },
 {
 name = ogonek;
-position = "{491, 65}";
+position = "{460, 40}";
 },
 {
 name = top;
@@ -31030,7 +31030,7 @@ unicode = 0113;
 {
 color = 4;
 glyphname = eogonek;
-lastChange = "2016-04-11 17:31:11 +0000";
+lastChange = "2016-04-11 17:39:43 +0000";
 layers = (
 {
 components = (
@@ -31052,7 +31052,7 @@ name = e;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 306, 65}";
+transform = "{1, 0, 0, 1, 275, 40}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -91522,7 +91522,7 @@ unicode = 0327;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2016-04-11 17:37:17 +0000";
+lastChange = "2016-04-11 17:41:57 +0000";
 layers = (
 {
 anchors = (
@@ -91656,25 +91656,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"193 -194 LINE",
-"165 -231 OFFCURVE",
-"129 -258 OFFCURVE",
-"91 -258 CURVE SMOOTH",
-"53 -258 OFFCURVE",
-"27 -232 OFFCURVE",
-"27 -193 CURVE SMOOTH",
-"27 -126 OFFCURVE",
-"90 -52 OFFCURVE",
+"192 -197 LINE",
+"174 -231 OFFCURVE",
+"141 -258 OFFCURVE",
+"101 -258 CURVE SMOOTH",
+"65 -258 OFFCURVE",
+"31 -234 OFFCURVE",
+"31 -185 CURVE SMOOTH",
+"31 -133 OFFCURVE",
+"79 -57 OFFCURVE",
 "185 0 CURVE",
 "162 12 LINE",
-"62 -36 OFFCURVE",
-"-4 -124 OFFCURVE",
-"-4 -196 CURVE SMOOTH",
-"-4 -251 OFFCURVE",
-"33 -287 OFFCURVE",
-"91 -287 CURVE SMOOTH",
-"137 -287 OFFCURVE",
-"186 -253 OFFCURVE",
+"51 -41 OFFCURVE",
+"0 -131 OFFCURVE",
+"0 -185 CURVE SMOOTH",
+"0 -249 OFFCURVE",
+"48 -287 OFFCURVE",
+"101 -287 CURVE SMOOTH",
+"149 -287 OFFCURVE",
+"195 -253 OFFCURVE",
 "215 -211 CURVE"
 );
 }
