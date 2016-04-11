@@ -91522,7 +91522,7 @@ unicode = 0327;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2016-04-11 17:47:46 +0000";
+lastChange = "2016-04-11 17:53:28 +0000";
 layers = (
 {
 anchors = (
@@ -91688,7 +91688,13 @@ name = _ogonek;
 position = "{226, -9}";
 }
 );
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+background = {
+anchors = (
+{
+name = _ogonek;
+position = "{226, -9}";
+}
+);
 paths = (
 {
 closed = 1;
@@ -91712,6 +91718,35 @@ nodes = (
 "146 -108 CURVE SMOOTH",
 "146 -62 OFFCURVE",
 "199 -28 OFFCURVE",
+"226 -9 CURVE"
+);
+}
+);
+};
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+paths = (
+{
+closed = 1;
+nodes = (
+"177 21 LINE",
+"134 1 OFFCURVE",
+"37 -74 OFFCURVE",
+"37 -163 CURVE SMOOTH",
+"37 -242 OFFCURVE",
+"104 -286 OFFCURVE",
+"175 -286 CURVE SMOOTH",
+"222 -286 OFFCURVE",
+"248 -275 OFFCURVE",
+"282 -257 CURVE",
+"251 -161 LINE",
+"230 -173 OFFCURVE",
+"214 -179 OFFCURVE",
+"193 -179 CURVE SMOOTH",
+"167 -179 OFFCURVE",
+"146 -158 OFFCURVE",
+"146 -130 CURVE SMOOTH",
+"146 -92 OFFCURVE",
+"175 -56 OFFCURVE",
 "226 -9 CURVE"
 );
 }
