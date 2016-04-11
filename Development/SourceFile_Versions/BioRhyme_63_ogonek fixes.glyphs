@@ -1,13 +1,8 @@
 {
 .appVersion = "851";
 DisplayStrings = (
-"\U00A0",
-"O\U00D8o\U00F8",
-"T/Tbar t/tbar/t.alt/tbar.alt",
-"H/Hbar h/hbar",
-/hbar,
-/Uogonek/aogonek/aogonek.alt/aogonek.alt2/eogonek/iogonek/uogonek/uogonek.alt,
-"/Aogonek/Aogonek.alt/Eogonek I/Iogonek/Uogonek/aogonek/aogonek.alt/aogonek.alt2/eogonek/idotless/iogonek/uogonek/uogonek.alt"
+"/Aogonek/Aogonek.alt/Eogonek I/Iogonek/Uogonek/aogonek/aogonek.alt/aogonek.alt2/eogonek/idotless/iogonek/uogonek/uogonek.alt",
+"non\U00A4non/florin non/Ohm non/increment non/infinity non/integral non/partialdiff non/product non/radical non/summation non/lozenge non@non\U00A9non\U00AEnon/estimated non/literSign non"
 );
 classes = (
 {
@@ -1933,8 +1928,9 @@ leftKerningGroup = A;
 rightKerningGroup = A;
 },
 {
+color = 4;
 glyphname = Aogonek;
-lastChange = "2016-03-25 22:03:05 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -1994,8 +1990,9 @@ rightKerningGroup = A;
 unicode = 0104;
 },
 {
+color = 4;
 glyphname = Aogonek.alt;
-lastChange = "2016-03-25 22:03:19 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -4822,8 +4819,9 @@ rightKerningGroup = E;
 unicode = 0112;
 },
 {
+color = 4;
 glyphname = Eogonek;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -7857,8 +7855,9 @@ rightKerningGroup = H;
 unicode = 012A;
 },
 {
+color = 4;
 glyphname = Iogonek;
-lastChange = "2016-04-11 15:20:22 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -16710,8 +16709,9 @@ rightKerningGroup = U;
 unicode = 016A;
 },
 {
+color = 4;
 glyphname = Uogonek;
-lastChange = "2016-03-28 21:23:32 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -23305,8 +23305,9 @@ leftKerningGroup = a;
 rightKerningGroup = n;
 },
 {
+color = 4;
 glyphname = aogonek;
-lastChange = "2016-03-28 20:17:22 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -23366,8 +23367,9 @@ rightKerningGroup = n;
 unicode = 0105;
 },
 {
+color = 4;
 glyphname = aogonek.alt;
-lastChange = "2016-03-25 21:59:50 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -23426,8 +23428,9 @@ leftKerningGroup = a;
 rightKerningGroup = n;
 },
 {
+color = 4;
 glyphname = aogonek.alt2;
-lastChange = "2016-03-28 20:17:23 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -31095,8 +31098,9 @@ rightKerningGroup = e;
 unicode = 0113;
 },
 {
+color = 4;
 glyphname = eogonek;
-lastChange = "2016-03-28 20:29:38 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -36919,8 +36923,9 @@ rightKerningGroup = u;
 unicode = 012B;
 },
 {
+color = 4;
 glyphname = iogonek;
-lastChange = "2016-04-11 15:21:52 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -52378,8 +52383,9 @@ leftKerningGroup = u;
 rightKerningGroup = u;
 },
 {
+color = 4;
 glyphname = uogonek;
-lastChange = "2016-02-14 00:47:59 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
@@ -52439,8 +52445,9 @@ rightKerningGroup = u;
 unicode = 0173;
 },
 {
+color = 4;
 glyphname = uogonek.alt;
-lastChange = "2016-02-14 00:47:59 +0000";
+lastChange = "2016-04-11 15:22:18 +0000";
 layers = (
 {
 components = (
