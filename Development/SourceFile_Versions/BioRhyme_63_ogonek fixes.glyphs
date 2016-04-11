@@ -2,7 +2,9 @@
 .appVersion = "851";
 DisplayStrings = (
 "A/Aogonek  /A.alt/A.alt/Aogonek.alt E/Eogonek II/Iogonek U/Uogonek aa/aogonek/ogonekcomb/aogonek/a.alt2/a.alt2/a.alt2/aogonek.alt2/ogonekcomb/ogonekcomb.alt e/eogonek p/idotless/ogonekcomb.alt/iogonek uu/uogonek/u.alt/uogonek.alt",
-"\U00C6ED/OE Ea\U00E6eo/oe e"
+"\U00C6ED/OE Ea\U00E6eo/oe e",
+/oe,
+"\U00E6"
 );
 classes = (
 {
@@ -24117,7 +24119,7 @@ rightKerningGroup = n;
 {
 color = 4;
 glyphname = ae;
-lastChange = "2016-04-11 16:08:19 +0000";
+lastChange = "2016-04-11 18:15:48 +0000";
 layers = (
 {
 anchors = (
@@ -24232,11 +24234,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"770 227 OFFCURVE",
-"770 226 CURVE SMOOTH",
-"770 75 OFFCURVE",
-"939 -14 OFFCURVE",
-"1152 -14 CURVE SMOOTH",
 "1298 -14 OFFCURVE",
 "1420 34 OFFCURVE",
 "1510 91 CURVE",
@@ -24285,8 +24282,11 @@ nodes = (
 "537 453 CURVE SMOOTH",
 "688 453 OFFCURVE",
 "771 371 OFFCURVE",
-"771 260 CURVE SMOOTH",
-"770 242 OFFCURVE"
+"771 260 CURVE",
+"770 226 LINE",
+"770 75 OFFCURVE",
+"939 -14 OFFCURVE",
+"1152 -14 CURVE SMOOTH"
 );
 },
 {
@@ -24809,24 +24809,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"864 325 LINE",
-"836 431 OFFCURVE",
-"702 483 OFFCURVE",
-"543 483 CURVE SMOOTH",
-"374 483 OFFCURVE",
-"221 461 OFFCURVE",
-"91 420 CURVE",
-"123 311 LINE",
-"269 351 OFFCURVE",
-"368 367 OFFCURVE",
-"510 367 CURVE SMOOTH",
-"673 367 OFFCURVE",
-"763 316 OFFCURVE",
-"763 223 CURVE SMOOTH",
-"763 205 LINE SMOOTH",
-"763 59 OFFCURVE",
-"992 -14 OFFCURVE",
-"1230 -14 CURVE SMOOTH",
 "1381 -14 OFFCURVE",
 "1523 25 OFFCURVE",
 "1614 75 CURVE",
@@ -24861,7 +24843,25 @@ nodes = (
 "1216 483 CURVE SMOOTH",
 "1014 483 OFFCURVE",
 "867 429 OFFCURVE",
-"800 330 CURVE"
+"800 330 CURVE",
+"864 325 LINE",
+"836 431 OFFCURVE",
+"702 483 OFFCURVE",
+"543 483 CURVE SMOOTH",
+"374 483 OFFCURVE",
+"221 461 OFFCURVE",
+"91 420 CURVE",
+"123 311 LINE",
+"269 351 OFFCURVE",
+"368 367 OFFCURVE",
+"510 367 CURVE SMOOTH",
+"673 367 OFFCURVE",
+"763 316 OFFCURVE",
+"763 223 CURVE SMOOTH",
+"763 205 LINE SMOOTH",
+"763 59 OFFCURVE",
+"992 -14 OFFCURVE",
+"1230 -14 CURVE SMOOTH"
 );
 },
 {
@@ -43339,7 +43339,7 @@ unicode = 00F5;
 {
 color = 4;
 glyphname = oe;
-lastChange = "2016-04-11 16:08:19 +0000";
+lastChange = "2016-04-11 18:15:16 +0000";
 layers = (
 {
 anchors = (
@@ -43451,6 +43451,40 @@ paths = (
 {
 closed = 1;
 nodes = (
+"703 -14 OFFCURVE",
+"884 78 OFFCURVE",
+"884 236 CURVE",
+"884 397 OFFCURVE",
+"703 483 OFFCURVE",
+"497 483 CURVE",
+"292 482 OFFCURVE",
+"106 397 OFFCURVE",
+"106 236 CURVE",
+"106 78 OFFCURVE",
+"292 -14 OFFCURVE",
+"497 -14 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"306 17 OFFCURVE",
+"139 99 OFFCURVE",
+"139 236 CURVE",
+"139 375 OFFCURVE",
+"306 451 OFFCURVE",
+"497 452 CURVE",
+"688 452 OFFCURVE",
+"856 375 OFFCURVE",
+"856 236 CURVE",
+"856 99 OFFCURVE",
+"688 17 OFFCURVE",
+"497 17 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
 "1387 -14 OFFCURVE",
 "1499 29 OFFCURVE",
 "1599 91 CURVE",
@@ -43489,40 +43523,6 @@ nodes = (
 "861 75 OFFCURVE",
 "1025 -14 OFFCURVE",
 "1218 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"703 -14 OFFCURVE",
-"884 78 OFFCURVE",
-"884 236 CURVE",
-"884 397 OFFCURVE",
-"703 483 OFFCURVE",
-"497 483 CURVE",
-"292 482 OFFCURVE",
-"106 397 OFFCURVE",
-"106 236 CURVE",
-"106 78 OFFCURVE",
-"292 -14 OFFCURVE",
-"497 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"306 17 OFFCURVE",
-"139 99 OFFCURVE",
-"139 236 CURVE",
-"139 375 OFFCURVE",
-"306 451 OFFCURVE",
-"497 452 CURVE",
-"688 452 OFFCURVE",
-"856 375 OFFCURVE",
-"856 236 CURVE",
-"856 99 OFFCURVE",
-"688 17 OFFCURVE",
-"497 17 CURVE SMOOTH"
 );
 }
 );
@@ -98212,6 +98212,21 @@ width = 1240;
 keepAlternatesTogether = 1;
 instances = (
 {
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+Iogonek,
+Uogonek,
+iogonek,
+uogonek,
+eogonek,
+Eogonek,
+Aogonek,
+aogonek
+);
+}
+);
 interpolationWeight = 800;
 name = ExtraBold;
 weightClass = ExtraBold;
