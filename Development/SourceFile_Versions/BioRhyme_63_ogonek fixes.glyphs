@@ -5,7 +5,9 @@ DisplayStrings = (
 "O\U00D8o\U00F8",
 "T/Tbar t/tbar/t.alt/tbar.alt",
 "H/Hbar h/hbar",
-/hbar
+/hbar,
+/Uogonek/aogonek/aogonek.alt/aogonek.alt2/eogonek/iogonek/uogonek/uogonek.alt,
+"/Aogonek/Aogonek.alt/Eogonek I/Iogonek/Uogonek/aogonek/aogonek.alt/aogonek.alt2/eogonek/iogonek/uogonek/uogonek.alt"
 );
 classes = (
 {
@@ -7293,7 +7295,7 @@ unicode = 0126;
 },
 {
 glyphname = I;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-04-11 15:20:22 +0000";
 layers = (
 {
 anchors = (
@@ -7303,7 +7305,7 @@ position = "{331, 0}";
 },
 {
 name = ogonek;
-position = "{587, 0}";
+position = "{337, 0}";
 },
 {
 name = top;
@@ -7350,7 +7352,7 @@ position = "{205, 0}";
 },
 {
 name = ogonek;
-position = "{371, 0}";
+position = "{216, 0}";
 },
 {
 name = top;
@@ -7397,7 +7399,7 @@ position = "{229, 0}";
 },
 {
 name = ogonek;
-position = "{420, 0}";
+position = "{258, 0}";
 },
 {
 name = top;
@@ -7444,7 +7446,7 @@ position = "{347, 0}";
 },
 {
 name = ogonek;
-position = "{631, 0}";
+position = "{394, 0}";
 },
 {
 name = top;
@@ -7856,7 +7858,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-04-11 15:20:22 +0000";
 layers = (
 {
 components = (
@@ -7865,7 +7867,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 352, 0}";
+transform = "{1, 0, 0, 1, 102, 0}";
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -7878,7 +7880,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 188, 11}";
+transform = "{1, 0, 0, 1, 33, 11}";
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -7891,7 +7893,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 194, 9}";
+transform = "{1, 0, 0, 1, 32, 9}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -7904,7 +7906,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 363, 8}";
+transform = "{1, 0, 0, 1, 126, 8}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
