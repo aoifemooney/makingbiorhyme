@@ -4,7 +4,8 @@ DisplayStrings = (
 "\U00A0",
 "O\U00D8o\U00F8",
 "T/Tbar t/tbar/t.alt/tbar.alt",
-"H/Hbar h/hbar"
+"H/Hbar h/hbar",
+/hbar
 );
 classes = (
 {
@@ -34276,7 +34277,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2016-04-11 14:59:21 +0000";
+lastChange = "2016-04-11 15:00:47 +0000";
 layers = (
 {
 anchors = (
@@ -34361,15 +34362,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"616 547 LINE",
-"616 575 LINE",
-"41 575 LINE",
-"41 547 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "992 0 LINE",
 "992 178 LINE",
 "992 339 OFFCURVE",
@@ -34406,6 +34398,15 @@ nodes = (
 "41 655 LINE",
 "282 655 LINE",
 "282 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"616 547 LINE",
+"616 575 LINE",
+"41 575 LINE",
+"41 547 LINE"
 );
 },
 {
@@ -34503,15 +34504,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"381 547 LINE",
-"381 575 LINE",
-"26 575 LINE",
-"26 547 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "570 0 LINE",
 "570 309 LINE SMOOTH",
 "570 428 OFFCURVE",
@@ -34542,6 +34534,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"180 0 LINE",
+"180 686 LINE",
+"26 686 LINE",
+"26 656 LINE",
+"147 656 LINE",
+"147 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "679 0 LINE",
 "679 31 LINE",
 "438 31 LINE",
@@ -34551,12 +34554,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"26 686 LINE",
-"26 656 LINE",
-"147 656 LINE",
-"147 0 LINE",
-"180 0 LINE",
-"180 686 LINE"
+"381 547 LINE",
+"381 575 LINE",
+"26 575 LINE",
+"26 547 LINE"
 );
 }
 );
@@ -34792,15 +34793,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"597 509 LINE",
-"597 619 LINE",
-"30 619 LINE",
-"30 509 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "1042 0 LINE",
 "1042 158 LINE SMOOTH",
 "1042 316 OFFCURVE",
@@ -34833,8 +34825,19 @@ closed = 1;
 nodes = (
 "367 0 LINE",
 "367 686 LINE",
-"215 686 LINE",
+"30 686 LINE",
+"30 567 LINE",
+"215 567 LINE",
 "215 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"597 509 LINE",
+"597 619 LINE",
+"30 619 LINE",
+"30 509 LINE"
 );
 },
 {
@@ -34844,15 +34847,6 @@ nodes = (
 "1213 119 LINE",
 "741 119 LINE",
 "741 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"364 567 LINE",
-"364 686 LINE",
-"30 686 LINE",
-"30 567 LINE"
 );
 }
 );
