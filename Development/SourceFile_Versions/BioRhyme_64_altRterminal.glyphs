@@ -7,7 +7,7 @@ DisplayStrings = (
 /ogonekcomb/ogonekcomb.alt,
 Y,
 Rnose,
-"KR/gdotaccent nu/a.alt ncntan"
+"KR/gravecomb/idotless \U00ECnu/a.alt ncntan"
 );
 classes = (
 {
@@ -31888,7 +31888,7 @@ rightKerningGroup = f;
 },
 {
 glyphname = g;
-lastChange = "2016-03-28 20:32:12 +0000";
+lastChange = "2016-04-12 00:11:30 +0000";
 layers = (
 {
 anchors = (
@@ -33522,7 +33522,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2016-04-12 00:09:11 +0000";
+lastChange = "2016-04-12 00:11:15 +0000";
 layers = (
 {
 components = (
@@ -35412,7 +35412,7 @@ unicode = 0127;
 },
 {
 glyphname = i;
-lastChange = "2016-03-28 20:41:13 +0000";
+lastChange = "2016-04-12 00:11:55 +0000";
 layers = (
 {
 anchors = (
@@ -35926,7 +35926,7 @@ unicode = 0069;
 },
 {
 glyphname = idotless;
-lastChange = "2016-04-11 17:56:44 +0000";
+lastChange = "2016-04-12 00:12:18 +0000";
 layers = (
 {
 anchors = (
@@ -36680,7 +36680,7 @@ rightKerningGroup = u;
 },
 {
 glyphname = igrave;
-lastChange = "2016-03-28 20:41:55 +0000";
+lastChange = "2016-04-12 00:12:18 +0000";
 layers = (
 {
 background = {
@@ -100486,7 +100486,7 @@ exclamdown = -33;
 "@MMK_R_colon" = -6.6;
 "@MMK_R_f" = -6.6;
 "@MMK_R_hyphen" = -6.6;
-"@MMK_R_n" = -15;
+"@MMK_R_n" = -10;
 "@MMK_R_o" = -30;
 "@MMK_R_p" = -13.2;
 "@MMK_R_paragraph" = -26.4;
@@ -100504,6 +100504,8 @@ exclamdown = -33;
 "@MMK_R_x" = -19.8;
 "@MMK_R_z" = -6.6;
 gcommaaccent = 0;
+gdotaccent = 0;
+g = 0;
 };
 "@MMK_L_S" = {
 "@MMK_R_A" = -19.8;
