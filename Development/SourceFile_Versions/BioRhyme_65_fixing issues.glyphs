@@ -11,7 +11,9 @@ Rnose,
 t,
 /tbar,
 wo./k.alt,
-/two.alt
+/two.alt,
+/increment,
+/Delta
 );
 classes = (
 {
@@ -75895,7 +75897,7 @@ unicode = 2265;
 },
 {
 glyphname = increment;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-04-12 02:00:26 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -75903,18 +75905,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"470 609 LINE",
-"106 -2 LINE",
-"839 -2 LINE",
-"474 609 LINE"
+"470 611 LINE",
+"106 0 LINE",
+"839 0 LINE",
+"474 611 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"473 549 LINE",
-"784 28 LINE",
-"161 28 LINE"
+"473 551 LINE",
+"784 30 LINE",
+"161 30 LINE"
 );
 }
 );
@@ -75982,18 +75984,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"628 -2 LINE",
-"369 609 LINE",
-"364 609 LINE",
-"106 -2 LINE"
+"628 0 LINE",
+"369 611 LINE",
+"364 611 LINE",
+"106 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"367 541 LINE",
-"582 28 LINE",
-"152 28 LINE"
+"367 543 LINE",
+"582 30 LINE",
+"152 30 LINE"
 );
 }
 );
