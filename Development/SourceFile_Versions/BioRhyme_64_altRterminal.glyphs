@@ -7,7 +7,7 @@ DisplayStrings = (
 /ogonekcomb/ogonekcomb.alt,
 Y,
 Rnose,
-"KR/dcroat.alt nudcn/a.alt ncntan"
+"KR/ldot/lslash uhedcn/a.alt ncntan"
 );
 classes = (
 {
@@ -28908,7 +28908,7 @@ unicode = 0111;
 },
 {
 glyphname = dcroat.alt;
-lastChange = "2016-04-12 00:57:31 +0000";
+lastChange = "2016-04-12 00:57:59 +0000";
 layers = (
 {
 anchors = (
@@ -29386,9 +29386,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"556 567 LINE",
-"556 686 LINE",
 "330 686 LINE",
+"556 686 LINE",
+"556 567 LINE",
 "330 567 LINE"
 );
 }
@@ -29908,9 +29908,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"470 686 LINE",
-"556 686 LINE",
 "556 568 LINE",
+"556 686 LINE",
+"470 686 LINE",
 "470 568 LINE"
 );
 }
@@ -33370,7 +33370,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = gbreve;
-lastChange = "2016-03-28 20:36:46 +0000";
+lastChange = "2016-04-12 00:58:57 +0000";
 layers = (
 {
 components = (
@@ -33425,6 +33425,8 @@ layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 width = 981;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 011F;
 },
 {
@@ -33489,7 +33491,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2016-04-12 00:08:51 +0000";
+lastChange = "2016-04-12 00:59:02 +0000";
 layers = (
 {
 components = (
@@ -33610,7 +33612,7 @@ rightKerningGroup = j;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2016-04-12 00:11:15 +0000";
+lastChange = "2016-04-12 00:59:07 +0000";
 layers = (
 {
 components = (
@@ -39910,7 +39912,7 @@ unicode = 013C;
 },
 {
 glyphname = ldot;
-lastChange = "2016-02-14 00:47:52 +0000";
+lastChange = "2016-04-12 00:59:52 +0000";
 layers = (
 {
 components = (
@@ -39965,6 +39967,7 @@ layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 width = 586;
 }
 );
+rightKerningGroup = ldot;
 unicode = 0140;
 },
 {
@@ -40875,7 +40878,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-04-11 23:59:37 +0000";
+lastChange = "2016-04-12 01:00:52 +0000";
 layers = (
 {
 anchors = (
@@ -100264,6 +100267,9 @@ x.alt = {
 y = {
 "@MMK_R_period" = 26.4;
 };
+"@MMK_L_ldot" = {
+"@MMK_R_n" = 10;
+};
 };
 "543F9737-16F7-428D-9F96-2EBD9FC8D3B6" = {
 "@MMK_L_A" = {
@@ -101913,6 +101919,9 @@ t = {
 y = {
 "@MMK_R_period" = 0;
 };
+"@MMK_L_ldot" = {
+"@MMK_R_n" = 10;
+};
 };
 "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8" = {
 "@MMK_L_A" = {
@@ -102315,6 +102324,9 @@ g = -33;
 "@MMK_R_z" = 0;
 Eth = 13.2;
 g = 0;
+gbreve = 0;
+gcommaaccent = 0;
+gdotaccent = 0;
 };
 "@MMK_L_S" = {
 "@MMK_R_A" = -6.6;
@@ -103761,6 +103773,9 @@ lcaron = {
 };
 p = {
 "@MMK_R_period" = -6.6;
+};
+"@MMK_L_ldot" = {
+"@MMK_R_n" = 95;
 };
 };
 "C70E3B11-AF58-44B6-92D7-58C9185F522D" = {
@@ -105596,6 +105611,9 @@ q = {
 };
 y = {
 "@MMK_R_o" = 0;
+};
+"@MMK_L_ldot" = {
+"@MMK_R_n" = 95;
 };
 };
 };
