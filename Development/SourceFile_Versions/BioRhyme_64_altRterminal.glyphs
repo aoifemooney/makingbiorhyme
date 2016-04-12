@@ -7,7 +7,8 @@ DisplayStrings = (
 /ogonekcomb/ogonekcomb.alt,
 Y,
 Rnose,
-"on/eogonek non"
+"on/eogonek non",
+t
 );
 classes = (
 {
@@ -48100,7 +48101,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2016-04-12 00:16:21 +0000";
+lastChange = "2016-04-12 01:28:30 +0000";
 layers = (
 {
 anchors = (
@@ -48390,6 +48391,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"356 -14 OFFCURVE",
+"404 3 OFFCURVE",
+"434 23 CURVE",
 "391 141 LINE",
 "366 127 OFFCURVE",
 "345 119 OFFCURVE",
@@ -48402,10 +48406,7 @@ nodes = (
 "99 199 LINE",
 "99 72 OFFCURVE",
 "169 -14 OFFCURVE",
-"292 -14 CURVE SMOOTH",
-"356 -14 OFFCURVE",
-"404 3 OFFCURVE",
-"434 23 CURVE"
+"292 -14 CURVE SMOOTH"
 );
 },
 {
