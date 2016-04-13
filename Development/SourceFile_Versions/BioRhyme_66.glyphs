@@ -1,7 +1,7 @@
 {
 .appVersion = "851";
 DisplayStrings = (
-"\U00C6ED/OE Ea\U00E6eo/oe e",
+"\U00C6ED/OE Ea\U00E6eo/oe e\012kntnRnan",
 /oe,
 "\U00E6",
 /ogonekcomb/ogonekcomb.alt,
@@ -37851,7 +37851,7 @@ unicode = 0237;
 },
 {
 glyphname = k;
-lastChange = "2016-03-28 20:44:56 +0000";
+lastChange = "2016-04-13 16:09:11 +0000";
 layers = (
 {
 anchors = (
@@ -38233,16 +38233,6 @@ position = "{397, 483}";
 }
 );
 background = {
-anchors = (
-{
-name = bottom;
-position = "{397, 0}";
-},
-{
-name = top;
-position = "{397, 480}";
-}
-);
 paths = (
 {
 closed = 1;
@@ -38251,22 +38241,22 @@ nodes = (
 "636 224 OFFCURVE",
 "638 331 CURVE SMOOTH",
 "639 437 OFFCURVE",
-"552 484 OFFCURVE",
-"460 484 CURVE SMOOTH",
-"377 484 OFFCURVE",
+"552 483 OFFCURVE",
+"460 483 CURVE SMOOTH",
+"377 483 OFFCURVE",
 "304 441 OFFCURVE",
 "235 362 CURVE",
 "232 264 LINE",
 "308 337 OFFCURVE",
-"377 361 OFFCURVE",
-"416 361 CURVE SMOOTH",
-"447 361 OFFCURVE",
-"469 350 OFFCURVE",
-"469 325 CURVE SMOOTH",
-"469 295 OFFCURVE",
-"431 282 OFFCURVE",
+"377 360 OFFCURVE",
+"416 360 CURVE SMOOTH",
+"457 360 OFFCURVE",
+"479 350 OFFCURVE",
+"479 325 CURVE SMOOTH",
+"479 295 OFFCURVE",
+"441 282 OFFCURVE",
 "394 279 CURVE SMOOTH",
-"355 279 OFFCURVE",
+"355 277 OFFCURVE",
 "303 283 OFFCURVE",
 "232 318 CURVE",
 "232 226 LINE",
@@ -38315,10 +38305,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"250 568 LINE",
+"250 567 LINE",
 "250 686 LINE",
 "20 686 LINE",
-"20 568 LINE"
+"20 567 LINE"
 );
 }
 );
@@ -48109,7 +48099,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2016-04-12 01:28:30 +0000";
+lastChange = "2016-04-13 16:09:36 +0000";
 layers = (
 {
 anchors = (
@@ -48402,8 +48392,8 @@ nodes = (
 "356 -14 OFFCURVE",
 "404 3 OFFCURVE",
 "434 23 CURVE",
-"391 141 LINE",
-"366 127 OFFCURVE",
+"391 134 LINE",
+"370 124 OFFCURVE",
 "345 119 OFFCURVE",
 "319 119 CURVE SMOOTH",
 "270 119 OFFCURVE",
