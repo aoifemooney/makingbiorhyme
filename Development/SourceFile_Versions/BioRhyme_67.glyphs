@@ -6705,7 +6705,7 @@ unicode = 0048;
 },
 {
 glyphname = Hbar;
-lastChange = "2016-04-18 18:11:45 +0000";
+lastChange = "2016-04-18 18:12:48 +0000";
 layers = (
 {
 anchors = (
@@ -6890,93 +6890,8 @@ name = top;
 position = "{475, 686}";
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"882 482 LINE",
-"882 510 LINE",
-"77 510 LINE",
-"77 482 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"370 0 LINE",
-"370 31 LINE",
-"40 31 LINE",
-"40 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"220 18 LINE",
-"220 672 LINE",
-"189 672 LINE",
-"189 18 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"911 0 LINE",
-"911 31 LINE",
-"580 31 LINE",
-"580 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"737 315 LINE",
-"737 344 LINE",
-"213 344 LINE",
-"213 315 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"370 656 LINE",
-"370 686 LINE",
-"40 686 LINE",
-"40 656 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"761 18 LINE",
-"761 672 LINE",
-"728 672 LINE",
-"728 18 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"911 656 LINE",
-"911 686 LINE",
-"580 686 LINE",
-"580 656 LINE"
-);
-}
-);
-};
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
 paths = (
-{
-closed = 1;
-nodes = (
-"370 0 LINE",
-"370 31 LINE",
-"40 31 LINE",
-"40 0 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -6984,6 +6899,15 @@ nodes = (
 "223 672 LINE",
 "190 672 LINE",
 "190 18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"370 0 LINE",
+"370 31 LINE",
+"40 31 LINE",
+"40 0 LINE"
 );
 },
 {
@@ -7016,6 +6940,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"878 482 LINE",
+"878 510 LINE",
+"73 510 LINE",
+"73 482 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "761 18 LINE",
 "761 672 LINE",
 "728 672 LINE",
@@ -7029,15 +6962,6 @@ nodes = (
 "911 686 LINE",
 "580 686 LINE",
 "580 655 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"878 482 LINE",
-"878 510 LINE",
-"73 510 LINE",
-"73 482 LINE"
 );
 }
 );
