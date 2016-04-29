@@ -22,7 +22,8 @@ E,
 /Hbar,
 "|/g.alt |j|",
 d/dcroat.alt,
-/jdotless
+"|j|/jdotless |",
+"|i|/idotless |"
 );
 classes = (
 {
@@ -37540,7 +37541,7 @@ unicode = 006A;
 },
 {
 glyphname = jdotless;
-lastChange = "2016-03-28 20:43:36 +0000";
+lastChange = "2016-04-29 21:19:01 +0000";
 layers = (
 {
 anchors = (
@@ -37620,7 +37621,7 @@ nodes = (
 );
 }
 );
-width = 585;
+width = 553;
 },
 {
 anchors = (
@@ -37700,7 +37701,7 @@ nodes = (
 );
 }
 );
-width = 322;
+width = 301;
 },
 {
 anchors = (
@@ -37780,7 +37781,7 @@ nodes = (
 );
 }
 );
-width = 359;
+width = 343;
 },
 {
 anchors = (
@@ -37838,12 +37839,13 @@ nodes = (
 );
 }
 );
-width = 525;
+width = 497;
 }
 );
 leftKerningGroup = p;
 leftMetricsKey = "=j";
 rightKerningGroup = j;
+rightMetricsKey = "=g.alt";
 unicode = 0237;
 },
 {
