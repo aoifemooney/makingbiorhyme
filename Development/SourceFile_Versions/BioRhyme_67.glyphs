@@ -19,7 +19,10 @@ wo./k.alt,
 "*",
 E,
 "\U00C6E",
-/Hbar
+/Hbar,
+"|/g.alt |j|",
+d/dcroat.alt,
+/jdotless
 );
 classes = (
 {
@@ -28926,7 +28929,7 @@ unicode = 0111;
 },
 {
 glyphname = dcroat.alt;
-lastChange = "2016-04-12 01:26:39 +0000";
+lastChange = "2016-04-29 21:17:14 +0000";
 layers = (
 {
 anchors = (
@@ -29248,7 +29251,7 @@ nodes = (
 );
 }
 );
-width = 640;
+width = 652;
 },
 {
 anchors = (
@@ -29404,9 +29407,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"330 686 LINE",
-"556 686 LINE",
 "556 567 LINE",
+"556 686 LINE",
+"330 686 LINE",
 "330 567 LINE"
 );
 }
@@ -29581,7 +29584,7 @@ nodes = (
 );
 }
 );
-width = 1143;
+width = 1141;
 },
 {
 anchors = (
@@ -37032,7 +37035,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2016-03-28 20:43:00 +0000";
+lastChange = "2016-04-29 21:16:20 +0000";
 layers = (
 {
 anchors = (
@@ -37156,7 +37159,7 @@ nodes = (
 );
 }
 );
-width = 586;
+width = 553;
 },
 {
 anchors = (
@@ -37280,7 +37283,7 @@ nodes = (
 );
 }
 );
-width = 322;
+width = 301;
 },
 {
 anchors = (
@@ -37404,7 +37407,7 @@ nodes = (
 );
 }
 );
-width = 359;
+width = 343;
 },
 {
 anchors = (
@@ -37528,12 +37531,11 @@ nodes = (
 );
 }
 );
-width = 526;
+width = 497;
 }
 );
 leftKerningGroup = p;
 rightKerningGroup = j;
-rightMetricsKey = g.alt;
 unicode = 006A;
 },
 {
@@ -43420,7 +43422,7 @@ unicode = 00F5;
 {
 color = 4;
 glyphname = oe;
-lastChange = "2016-04-11 18:15:16 +0000";
+lastChange = "2016-04-29 21:16:41 +0000";
 layers = (
 {
 anchors = (
@@ -44180,7 +44182,7 @@ nodes = (
 );
 }
 );
-width = 1723;
+width = 1729;
 }
 );
 leftKerningGroup = o;
