@@ -9,7 +9,7 @@ Y,
 Rnose,
 "on/eogonek non",
 t,
-/tbar,
+/strokeshortcomb/tbar,
 wo./k.alt,
 /two.alt,
 /increment,
@@ -23,7 +23,8 @@ E,
 "|/g.alt |j|",
 d/dcroat.alt,
 "|j|/jdotless |",
-"|i|/idotless |"
+"|i|/idotless |",
+/tbar/tbar.alt
 );
 classes = (
 {
@@ -49018,7 +49019,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = tbar;
-lastChange = "2016-04-11 14:43:24 +0000";
+lastChange = "2016-04-30 13:59:25 +0000";
 layers = (
 {
 anchors = (
@@ -49037,6 +49038,11 @@ position = "{238, 602}";
 {
 name = topright;
 position = "{468, 553}";
+}
+);
+components = (
+{
+name = strokeshortcomb;
 }
 );
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -49070,15 +49076,6 @@ nodes = (
 "33 471 LINE",
 "33 441 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"486 322 LINE",
-"486 351 LINE",
-"33 351 LINE",
-"33 322 LINE"
-);
 }
 );
 width = 691;
@@ -49100,6 +49097,11 @@ position = "{180, 602}";
 {
 name = topright;
 position = "{361, 553}";
+}
+);
+components = (
+{
+name = strokeshortcomb;
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
@@ -49133,15 +49135,6 @@ nodes = (
 "26 471 LINE",
 "26 441 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"325 322 LINE",
-"325 351 LINE",
-"26 351 LINE",
-"26 322 LINE"
-);
 }
 );
 width = 444;
@@ -49163,6 +49156,11 @@ position = "{250, 602}";
 {
 name = topright;
 position = "{270, 638}";
+}
+);
+components = (
+{
+name = strokeshortcomb;
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -49196,15 +49194,6 @@ nodes = (
 "7 471 LINE",
 "7 375 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"351 216 LINE",
-"351 311 LINE",
-"7 311 LINE",
-"7 216 LINE"
-);
 }
 );
 width = 444;
@@ -49226,6 +49215,11 @@ position = "{302, 602}";
 {
 name = topright;
 position = "{450, 553}";
+}
+);
+components = (
+{
+name = strokeshortcomb;
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
@@ -49258,15 +49252,6 @@ nodes = (
 "569 471 LINE",
 "10 471 LINE",
 "10 369 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"486 238 LINE",
-"486 328 LINE",
-"10 328 LINE",
-"10 238 LINE"
 );
 }
 );
@@ -91937,6 +91922,75 @@ width = 462;
 leftKerningGroup = ogonekcomb;
 rightKerningGroup = ogonekcomb;
 unicode = 0328;
+},
+{
+glyphname = strokeshortcomb;
+lastChange = "2016-02-14 00:47:53 +0000";
+layers = (
+{
+layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
+paths = (
+{
+closed = 1;
+nodes = (
+"92 326 LINE",
+"92 296 LINE",
+"814 296 LINE",
+"814 326 LINE"
+);
+}
+);
+width = 840;
+},
+{
+layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
+paths = (
+{
+closed = 1;
+nodes = (
+"92 326 LINE",
+"92 296 LINE",
+"537 296 LINE",
+"537 326 LINE"
+);
+}
+);
+width = 590;
+},
+{
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
+paths = (
+{
+closed = 1;
+nodes = (
+"44 375 LINE",
+"44 246 LINE",
+"480 246 LINE",
+"480 375 LINE"
+);
+}
+);
+width = 590;
+},
+{
+layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
+paths = (
+{
+closed = 1;
+nodes = (
+"34 375 LINE",
+"34 246 LINE",
+"786 246 LINE",
+"786 375 LINE"
+);
+}
+);
+width = 820;
+}
+);
+leftKerningGroup = minus;
+rightKerningGroup = minus;
+unicode = 0335;
 },
 {
 glyphname = strokeshortcomb;
