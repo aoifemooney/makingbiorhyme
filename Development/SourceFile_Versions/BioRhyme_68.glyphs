@@ -1,7 +1,7 @@
 {
 .appVersion = "851";
 DisplayStrings = (
-t/tbar/t.alt/tbar.alt
+t/tbar/t.alt/t.alt/tbar.alt
 );
 classes = (
 {
@@ -49417,7 +49417,7 @@ unicode = 0167;
 {
 color = 4;
 glyphname = tbar.alt;
-lastChange = "2016-04-30 17:10:03 +0000";
+lastChange = "2016-04-30 17:11:28 +0000";
 layers = (
 {
 anchors = (
@@ -49681,9 +49681,15 @@ paths = (
 {
 closed = 1;
 nodes = (
-"365 -14 OFFCURVE",
-"416 13 OFFCURVE",
-"451 40 CURVE",
+"403 375 LINE",
+"403 471 LINE",
+"31 471 LINE",
+"31 375 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "402 159 LINE",
 "365 132 OFFCURVE",
 "332 120 OFFCURVE",
@@ -49704,25 +49710,10 @@ nodes = (
 "75 191 CURVE SMOOTH",
 "75 54 OFFCURVE",
 "160 -14 OFFCURVE",
-"282 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"351 216 LINE",
-"351 311 LINE",
-"7 311 LINE",
-"7 216 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"403 375 LINE",
-"403 471 LINE",
-"31 471 LINE",
-"31 375 LINE"
+"282 -14 CURVE SMOOTH",
+"365 -14 OFFCURVE",
+"416 13 OFFCURVE",
+"451 40 CURVE"
 );
 }
 );
@@ -49730,7 +49721,7 @@ nodes = (
 components = (
 {
 name = strokeshortcomb;
-transform = "{0.92, 0, 0, 1, 26, 0}";
+transform = "{0.98, 0, 0, 1, 26, 0}";
 }
 );
 layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
@@ -49738,48 +49729,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"365 -14 OFFCURVE",
-"416 13 OFFCURVE",
-"451 40 CURVE",
-"402 159 LINE",
-"365 132 OFFCURVE",
-"332 120 OFFCURVE",
-"297 120 CURVE SMOOTH",
-"257 120 OFFCURVE",
-"227 145 OFFCURVE",
-"227 216 CURVE SMOOTH",
-"227 286 OFFCURVE",
-"246 349 OFFCURVE",
-"282 449 CURVE",
-"273 458 LINE",
-"273 601 LINE",
-"124 601 LINE",
-"124 460 LINE",
-"134 451 LINE",
-"106 354 OFFCURVE",
-"75 288 OFFCURVE",
-"75 191 CURVE SMOOTH",
-"75 54 OFFCURVE",
-"160 -14 OFFCURVE",
-"282 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"378 375 LINE",
-"378 471 LINE",
-"31 471 LINE",
-"31 375 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
+"403 375 LINE",
 "403 471 LINE",
 "31 471 LINE",
-"31 352 LINE",
-"403 352 LINE"
+"31 375 LINE"
 );
 },
 {
