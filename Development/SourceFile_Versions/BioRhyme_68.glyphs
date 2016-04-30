@@ -9,7 +9,7 @@ i,
 /iogonek,
 j,
 "/dotaccentcomb j/jdotless",
-"i/idotless/idotaccent j/jdotless"
+"/dotaccentcomb i/idotless/idotaccent j/jdotless"
 );
 classes = (
 {
@@ -358,6 +358,7 @@ verticalStems = (
 149,
 159
 );
+visible = 1;
 weight = Bold;
 weightValue = 800;
 xHeight = 471;
@@ -419,7 +420,6 @@ verticalStems = (
 152,
 160
 );
-visible = 1;
 weight = Bold;
 weightValue = 800;
 width = Extended;
@@ -36919,7 +36919,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2016-04-30 17:32:54 +0000";
+lastChange = "2016-04-30 17:36:18 +0000";
 layers = (
 {
 anchors = (
@@ -37173,75 +37173,14 @@ width = 301;
 anchors = (
 {
 name = bottom;
-position = "{185, 0}";
+position = "{191, 0}";
 },
 {
 name = top;
-position = "{185, 471}";
+position = "{191, 471}";
 }
 );
 background = {
-anchors = (
-{
-name = bottom;
-position = "{193, 0}";
-},
-{
-name = top;
-position = "{193, 471}";
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"179 -238 OFFCURVE",
-"276 -156 OFFCURVE",
-"276 4 CURVE SMOOTH",
-"276 471 LINE",
-"127 471 LINE",
-"127 1 LINE SMOOTH",
-"127 -67 OFFCURVE",
-"95 -105 OFFCURVE",
-"46 -105 CURVE SMOOTH",
-"14 -105 OFFCURVE",
-"-6 -98 OFFCURVE",
-"-42 -86 CURVE",
-"-79 -211 LINE",
-"-44 -222 OFFCURVE",
-"-13 -238 OFFCURVE",
-"53 -238 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"237 352 LINE",
-"237 471 LINE",
-"33 471 LINE",
-"33 352 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"252 543 OFFCURVE",
-"293 576 OFFCURVE",
-"293 620 CURVE",
-"293 667 OFFCURVE",
-"252 700 OFFCURVE",
-"194 700 CURVE",
-"140 700 OFFCURVE",
-"97 667 OFFCURVE",
-"97 620 CURVE",
-"97 576 OFFCURVE",
-"140 543 OFFCURVE",
-"194 543 CURVE"
-);
-}
-);
-};
-layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 paths = (
 {
 closed = 1;
@@ -37291,6 +37230,17 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = jdotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 31, -215}";
+}
+);
+layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 width = 343;
 },
 {
@@ -37364,7 +37314,7 @@ unicode = 006A;
 },
 {
 glyphname = jdotless;
-lastChange = "2016-04-30 17:32:54 +0000";
+lastChange = "2016-04-30 17:36:07 +0000";
 layers = (
 {
 anchors = (
@@ -37530,11 +37480,11 @@ width = 301;
 anchors = (
 {
 name = bottom;
-position = "{185, 0}";
+position = "{191, 0}";
 },
 {
 name = top;
-position = "{185, 471}";
+position = "{191, 471}";
 }
 );
 background = {
@@ -89291,7 +89241,7 @@ unicode = 0308;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2016-02-14 00:47:53 +0000";
+lastChange = "2016-04-30 17:34:36 +0000";
 layers = (
 {
 anchors = (
@@ -89366,11 +89316,11 @@ nodes = (
 "219 759 OFFCURVE",
 "260 792 OFFCURVE",
 "260 836 CURVE",
-"260 882 OFFCURVE",
-"219 915 OFFCURVE",
-"161 915 CURVE",
-"107 915 OFFCURVE",
-"64 882 OFFCURVE",
+"260 883 OFFCURVE",
+"219 916 OFFCURVE",
+"161 916 CURVE",
+"107 916 OFFCURVE",
+"64 883 OFFCURVE",
 "64 836 CURVE",
 "64 792 OFFCURVE",
 "107 759 OFFCURVE",
