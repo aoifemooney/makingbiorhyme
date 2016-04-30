@@ -48996,7 +48996,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = tbar;
-lastChange = "2016-04-30 15:16:28 +0000";
+lastChange = "2016-04-30 15:16:57 +0000";
 layers = (
 {
 anchors = (
@@ -49371,12 +49371,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = strokeshortcomb;
-transform = "{0.85, 0, 0, 1, 5, -140}";
-}
-);
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
 paths = (
 {
@@ -49407,6 +49401,15 @@ nodes = (
 "569 471 LINE",
 "10 471 LINE",
 "10 369 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"484.4 237.1 LINE",
+"484.4 328.9 LINE",
+"9.25 328.9 LINE",
+"9.25 237.1 LINE"
 );
 }
 );
@@ -92275,7 +92278,7 @@ unicode = 0328;
 },
 {
 glyphname = strokeshortcomb;
-lastChange = "2016-04-30 15:15:41 +0000";
+lastChange = "2016-04-30 15:17:09 +0000";
 layers = (
 {
 layerId = "B29C398E-974A-40D0-A0A0-00935056D4B4";
@@ -92328,14 +92331,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"564 369 LINE",
-"564 471 LINE",
-"5 471 LINE",
-"5 369 LINE"
+"480 237 LINE",
+"480 329 LINE",
+"5 329 LINE",
+"5 237 LINE"
 );
 }
 );
-width = 569;
+width = 485;
 }
 );
 unicode = 0335;
