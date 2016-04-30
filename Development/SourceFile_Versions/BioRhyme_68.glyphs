@@ -48997,7 +48997,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = tbar;
-lastChange = "2016-04-30 17:21:24 +0000";
+lastChange = "2016-04-30 17:22:22 +0000";
 layers = (
 {
 anchors = (
@@ -49110,15 +49110,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"325 322 LINE",
-"325 351 LINE",
-"26 351 LINE",
-"26 322 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "364 441 LINE",
 "364 471 LINE",
 "26 471 LINE",
@@ -49131,41 +49122,12 @@ components = (
 {
 name = strokeshortcomb;
 transform = "{1, 0, 0, 1, 22, 0}";
+},
+{
+name = t;
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-paths = (
-{
-closed = 1;
-nodes = (
-"345 -14 OFFCURVE",
-"387 7 OFFCURVE",
-"425 25 CURVE",
-"411 53 LINE",
-"376 33 OFFCURVE",
-"337 17 OFFCURVE",
-"286 17 CURVE SMOOTH",
-"239 17 OFFCURVE",
-"180 40 OFFCURVE",
-"180 141 CURVE",
-"180 602 LINE",
-"147 602 LINE",
-"147 144 LINE",
-"147 28 OFFCURVE",
-"213 -14 OFFCURVE",
-"286 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"364 441 LINE",
-"364 471 LINE",
-"26 471 LINE",
-"26 441 LINE"
-);
-}
-);
 width = 444;
 },
 {
