@@ -7,7 +7,7 @@ DisplayStrings = (
 i,
 /idotaccent,
 /iogonek,
-j,
+j/jdotless,
 "/dotaccentcomb j/jdotless",
 "/dotaccentcomb |i|/idotless |/idotaccent |j|/jdotless |"
 );
@@ -36817,7 +36817,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2016-04-30 17:38:53 +0000";
+lastChange = "2016-04-30 17:40:58 +0000";
 layers = (
 {
 anchors = (
@@ -37042,6 +37042,16 @@ layerId = "EB38A4D2-CD30-49BA-8E45-1F04A566FFE8";
 width = 343;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{318, 0}";
+},
+{
+name = top;
+position = "{318, 471}";
+}
+);
 background = {
 paths = (
 {
