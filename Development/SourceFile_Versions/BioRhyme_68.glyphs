@@ -49383,7 +49383,7 @@ unicode = 0167;
 {
 color = 4;
 glyphname = tbar.alt;
-lastChange = "2016-04-30 17:19:32 +0000";
+lastChange = "2016-04-30 17:22:13 +0000";
 layers = (
 {
 anchors = (
@@ -49512,15 +49512,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"325 322 LINE",
-"325 351 LINE",
-"26 351 LINE",
-"26 322 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "363 441 LINE",
 "363 471 LINE",
 "46 471 LINE",
@@ -49533,49 +49524,12 @@ components = (
 {
 name = strokeshortcomb;
 transform = "{0.92, 0, 0, 1, 41, 0}";
+},
+{
+name = t.alt;
 }
 );
 layerId = "543F9737-16F7-428D-9F96-2EBD9FC8D3B6";
-paths = (
-{
-closed = 1;
-nodes = (
-"310 -14 OFFCURVE",
-"351 -2 OFFCURVE",
-"389 19 CURVE",
-"377 45 LINE",
-"342 28 OFFCURVE",
-"310 17 OFFCURVE",
-"262 17 CURVE SMOOTH",
-"202 17 OFFCURVE",
-"143 61 OFFCURVE",
-"143 156 CURVE SMOOTH",
-"143 251 OFFCURVE",
-"179 375 OFFCURVE",
-"199 449 CURVE",
-"200 458 LINE",
-"200 602 LINE",
-"167 602 LINE",
-"167 460 LINE",
-"169 451 LINE",
-"147 375 OFFCURVE",
-"110 252 OFFCURVE",
-"110 156 CURVE SMOOTH",
-"110 42 OFFCURVE",
-"179 -14 OFFCURVE",
-"263 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"363 441 LINE",
-"363 471 LINE",
-"46 471 LINE",
-"46 441 LINE"
-);
-}
-);
 width = 444;
 },
 {
