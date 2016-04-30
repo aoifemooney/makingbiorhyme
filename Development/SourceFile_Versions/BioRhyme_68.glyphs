@@ -1,7 +1,7 @@
 {
 .appVersion = "851";
 DisplayStrings = (
-t/tbar/t.alt/t.alt/strokeshortcomb/tbar.alt,
+"oto/tbar o/t.alt o/tbar.alt o\012vtv/tbar v/t.alt v/tbar.alt v\012ntn/tbar n/t.alt n/tbar.alt n\012rtr/tbar r/t.alt r/tbar.alt r\012sts/tbar s/t.alt s/tbar.alt s",
 "|t|/t.alt |/tbar |/tbar.alt |"
 );
 classes = (
@@ -48997,7 +48997,7 @@ rightKerningGroup = t;
 {
 color = 4;
 glyphname = tbar;
-lastChange = "2016-04-30 17:23:27 +0000";
+lastChange = "2016-04-30 17:24:23 +0000";
 layers = (
 {
 anchors = (
@@ -49245,15 +49245,6 @@ nodes = (
 "10 471 LINE",
 "10 369 LINE"
 );
-},
-{
-closed = 1;
-nodes = (
-"486 238 LINE",
-"486 328 LINE",
-"10 328 LINE",
-"10 238 LINE"
-);
 }
 );
 };
@@ -49261,42 +49252,13 @@ components = (
 {
 name = strokeshortcomb;
 transform = "{1, 0, 0, 1, 5, 0}";
+},
+{
+name = t;
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
-paths = (
-{
-closed = 1;
-nodes = (
-"485 -14 OFFCURVE",
-"579 19 OFFCURVE",
-"641 57 CURVE",
-"590 168 LINE",
-"539 140 OFFCURVE",
-"476 117 OFFCURVE",
-"405 117 CURVE SMOOTH",
-"320 117 OFFCURVE",
-"302 167 OFFCURVE",
-"302 220 CURVE",
-"302 602 LINE",
-"154 602 LINE",
-"154 218 LINE",
-"154 79 OFFCURVE",
-"222 -14 OFFCURVE",
-"379 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"569 369 LINE",
-"569 471 LINE",
-"10 471 LINE",
-"10 369 LINE"
-);
-}
-);
-width = 656;
+width = 696;
 }
 );
 leftKerningGroup = t;
@@ -49308,7 +49270,7 @@ unicode = 0167;
 {
 color = 4;
 glyphname = tbar.alt;
-lastChange = "2016-04-30 17:23:19 +0000";
+lastChange = "2016-04-30 17:24:34 +0000";
 layers = (
 {
 anchors = (
@@ -49534,19 +49496,19 @@ width = 448;
 anchors = (
 {
 name = bottom;
-position = "{379, -14}";
+position = "{380, -14}";
 },
 {
 name = center;
-position = "{280, 222}";
+position = "{281, 222}";
 },
 {
 name = top;
-position = "{327, 602}";
+position = "{328, 602}";
 },
 {
 name = topright;
-position = "{450, 553}";
+position = "{451, 553}";
 }
 );
 background = {
@@ -49554,48 +49516,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"536 238 LINE",
-"536 328 LINE",
-"34 328 LINE",
-"34 238 LINE"
+"481 -14 OFFCURVE",
+"560 29 OFFCURVE",
+"605 57 CURVE",
+"551 174 LINE",
+"510 148 OFFCURVE",
+"444 120 OFFCURVE",
+"384 120 CURVE SMOOTH",
+"321 120 OFFCURVE",
+"281 157 OFFCURVE",
+"281 222 CURVE SMOOTH",
+"281 306 OFFCURVE",
+"314 397 OFFCURVE",
+"335 449 CURVE",
+"330 458 LINE",
+"330 601 LINE",
+"178 601 LINE",
+"178 460 LINE",
+"189 451 LINE",
+"174 403 OFFCURVE",
+"130 308 OFFCURVE",
+"130 198 CURVE SMOOTH",
+"130 63 OFFCURVE",
+"219 -14 OFFCURVE",
+"369 -14 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"536 471 LINE",
-"34 471 LINE",
-"34 369 LINE",
-"536 369 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"550 174 LINE",
-"509 148 OFFCURVE",
-"443 120 OFFCURVE",
-"383 120 CURVE SMOOTH",
-"320 120 OFFCURVE",
-"280 157 OFFCURVE",
-"280 222 CURVE SMOOTH",
-"280 306 OFFCURVE",
-"313 397 OFFCURVE",
-"334 449 CURVE",
-"329 458 LINE",
-"329 601 LINE",
-"177 601 LINE",
-"177 460 LINE",
-"188 451 LINE",
-"173 403 OFFCURVE",
-"129 308 OFFCURVE",
-"129 198 CURVE SMOOTH",
-"129 63 OFFCURVE",
-"218 -14 OFFCURVE",
-"368 -14 CURVE SMOOTH",
-"480 -14 OFFCURVE",
-"559 29 OFFCURVE",
-"604 57 CURVE"
+"537 369 LINE",
+"537 471 LINE",
+"35 471 LINE",
+"35 369 LINE"
 );
 }
 );
@@ -49603,51 +49556,15 @@ nodes = (
 components = (
 {
 name = strokeshortcomb;
-transform = "{0.89, 0, 0, 1, 29, 0}";
+transform = "{0.89, 0, 0, 1, 30, 0}";
+},
+{
+name = t.alt;
+transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
 layerId = "C70E3B11-AF58-44B6-92D7-58C9185F522D";
-paths = (
-{
-closed = 1;
-nodes = (
-"480 -14 OFFCURVE",
-"559 29 OFFCURVE",
-"604 57 CURVE",
-"550 174 LINE",
-"509 148 OFFCURVE",
-"443 120 OFFCURVE",
-"383 120 CURVE SMOOTH",
-"320 120 OFFCURVE",
-"280 157 OFFCURVE",
-"280 222 CURVE SMOOTH",
-"280 306 OFFCURVE",
-"313 397 OFFCURVE",
-"334 449 CURVE",
-"329 458 LINE",
-"329 601 LINE",
-"177 601 LINE",
-"177 460 LINE",
-"188 451 LINE",
-"173 403 OFFCURVE",
-"129 308 OFFCURVE",
-"129 198 CURVE SMOOTH",
-"129 63 OFFCURVE",
-"218 -14 OFFCURVE",
-"368 -14 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"536 369 LINE",
-"536 471 LINE",
-"34 471 LINE",
-"34 369 LINE"
-);
-}
-);
-width = 669;
+width = 615;
 }
 );
 leftKerningGroup = t;
