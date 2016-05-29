@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Defining D.N.A."
+title: "From Upper to Lower"
 description: "Building a system out of a context-specific starting point"
 category: articles
 tags: [sources, reference, research, starting out]
