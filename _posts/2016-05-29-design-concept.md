@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro—Making BioRhyme"
+title: "Design Concept"
 description: "identity, lettering & type design"
 category: articles
 tags: [sources, reference, research, starting out]
