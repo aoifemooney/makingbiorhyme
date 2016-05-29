@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post with Figure"
+title: "Introduction"
 description: "Examples and code for displaying images in posts."
 category: articles
 tags: [sample post, images, test]
