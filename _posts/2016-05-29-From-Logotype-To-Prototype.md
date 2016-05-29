@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introduction"
-description: "The relationship between hand and eye in the design of letterforms"
+title: "From Logotype to Prototype"
+description: "What is the difference between lettering and type?"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
