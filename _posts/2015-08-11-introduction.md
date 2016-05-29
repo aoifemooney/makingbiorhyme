@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Introduction to BioRhyme"
+title: "Making BioRhyme"
 #description: "Introduction"
 category: articles
 tags: [history, context, form]
