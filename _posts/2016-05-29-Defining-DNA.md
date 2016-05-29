@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defining D.N.A."
-description: "The relationship between hand and eye in the design of letterforms"
+description: "Building a system out of a context-specific starting point"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
