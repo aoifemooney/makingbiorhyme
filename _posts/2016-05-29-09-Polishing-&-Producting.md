@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polishing & Proofing"
-description: "Tools, Contexts, Tricks"
+description: "Kerning, Hinting and all that jazz"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
