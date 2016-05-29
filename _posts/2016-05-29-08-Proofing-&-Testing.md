@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Family Planning"
+title: "Proofing & Testing"
 description: "Defining a design space"
 category: articles
 tags: [sources, reference, research, starting out]
