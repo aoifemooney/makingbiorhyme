@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-description: "Examples and code for displaying images in posts."
+description: "The relationship between hand and eye in the design of letterforms"
 category: articles
 tags: [sample post, images, test]
 ---
