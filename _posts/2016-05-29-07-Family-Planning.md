@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spacing"
+title: "Family Planning"
 description: "Balancing the black and white"
 category: articles
 tags: [sources, reference, research, starting out]
