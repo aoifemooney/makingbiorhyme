@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design Concept"
-description: "identity, lettering & type design"
+description: "Identity, Lettering & Type design"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
