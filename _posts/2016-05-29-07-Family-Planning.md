@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Family Planning"
-description: "Balancing the black and white"
+description: "Defining a design space"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
