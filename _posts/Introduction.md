@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction"
+title: "Intro—Making BioRhyme"
 description: "The relationship between hand and eye in the design of letterforms"
 category: articles
 tags: [sources, reference, research, starting out]
