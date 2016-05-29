@@ -5,7 +5,7 @@ title: What is BioRhyme?
 description: BioRhyme is a typeface family of two styles (currently)
 tags: [about, BioRhyme, typeface, project]
 image:
-  feature: Ideas_4-04.png
+  feature: Illustrations_Mercury Mercury Logotype copy 35.png
 ---
 
 This project is housed on GitHub and is possible thanks to financial support from [Google Fonts](https://www.google.com/fonts).
