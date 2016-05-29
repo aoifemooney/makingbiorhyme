@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Upper to Lower"
-description: "Building a system out of a context-specific starting point"
+description: "Relative rhythms"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
