@@ -3,7 +3,7 @@ layout: post
 title: "Introduction"
 description: "The relationship between hand and eye in the design of letterforms"
 category: articles
-tags: [sample post, images, test]
+tags: [sources, reference, research, starting out]
 ---
 
 This is a post that uses a `figure`. It stacks these images and places a nice little caption below if you fill out `figcaption`.
