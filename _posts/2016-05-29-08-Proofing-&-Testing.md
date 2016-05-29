@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proofing & Testing"
-description: "Defining a design space"
+description: "Tools, Contexts, Tricks"
 category: articles
 tags: [sources, reference, research, starting out]
 ---
