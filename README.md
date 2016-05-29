@@ -1,6 +1,6 @@
 # BioRhyme Fonts
 
-![sample](images/Ideas_4-04.png)
+![sample](images/Illustrations_Full window image.png)
 
 A slab serif family loosely based on Boston Breton and a sample 'R' from a Conner's type foundry specimen, by Aoife Mooney. 
 
