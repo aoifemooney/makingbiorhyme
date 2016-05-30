@@ -44,17 +44,20 @@ I left it there for a while, until l had an idea to see what a lowercase would l
 Once I had started that, got to thinking about how this single style could be built upon to create a more useful family. The idea for this, came from an ongoing preoccupation with expression in typography. I wanted to build out this very expanded, very light weight into a family that would include a regular width, regular weight version, allowing the user to be playful and dramatic in one, and purposeful and to the point in the other. While I was in the middle of this process, the opportunity to create a documentation of the process of making a typeface arose, and I decided BioRhyme would be a good fit for this purpose, covering a lot of the main factors and considerations involved in making a typeface. 
 
 ![Logotype Widths](../images/Logotype_Widths.png)
-<figcaption>Isolated logotype forms, showing relative widths>
+<figcaption>Isolated logotype forms, showing relative widths</figcaption>
 
 ![Biorhyme Widths](../images/Biorhyme_Widths.png)
+<figcaption>Isolated logotype forms set in BioRhyme showing relative widths</figcaption>
 
 ![Biorhyme Logotype comparison](../images/Logo_Bio_Comp.png)
+<figcaption>Translation of forms from context-specific logotype shapes to rationalized forms for a typeface system</figcaption>
 
 Type designs are regularly born out of a logotype, and even more regularly families are built based on a client-led project resulting in some weights that then lend themselves to expansion into a fuller typographic range. Couple this with the need for this type family to work on screen, and the fact that I wanted to use interpolation as a design tool, and the type seemed to fit the brief of being an educational example.
  
 I will admit straight off the bat, I am not the most methodical of workers, or at least not the most tidy! The process of getting BioRhyme to completion is more of a circling pattern than a linear trajectory, but I would argue this is not thoroughly unusual for all but the most seasoned of type designers and in my humble experience, the process always includes doubling back, side-stepping, and last minute design decisions, in spite of all best practices and laid plans! However, for the sake of a general overview, the trajectory usually runs along the following lines: drawing and spacing (interwoven and impossible to do as separate tasks) and then kerning.
 
 ![Overview_Process](../images/Tasks_White.png)
+<figcaption>Simplified and aspirational typical type design workflow!</figcaption>
  
 With this in mind, my objective with this site is to be as open about my confusion and indecision as I am about the logical and methodical steps I have taken. I will endeavor to always include links to relevant literature I might have consulted, or have referenced in my typographic education that might be useful to the novice designer. If there is anything that is unclear, or you would like to pick a bone with me about, please feel free to get in touch. I will be happy to correct any errors, provide more information, or connect readers with better resources.
  
