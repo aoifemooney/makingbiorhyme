@@ -4,6 +4,8 @@ title: "Defining D.N.A."
 description: "Building a system out of a context-specific starting point"
 category: articles
 tags: [sources, reference, research, starting out]
+image:
+ feature: 04_Defining_DNA.png
 ---
 
 Although the decisions taken in the design of Biorhyme are specific to the shape-language it is defined by, most of the steps are generalisable to type design more broadly. In the uppercase, global considerations that need establishing early in the process include making decisions about relative width (in respect of both uppercase cohesion as a set, as well as with regard to the lowercase proportions), height (in respect of the lowercase), crossbar optical heights, and weight. Conceiving of both the upper and the lowercase as a set of elements combining to make related forms is a reliable starting point. There is a long history of building typefaces in this ‘elemental’ way. I have written about this here, and you can also read WA Dwiggin’s letter to RR, and investigate parametric and modular approaches to type design to note that this is a pervasive practice in typeface design projects. What this means is to construe of the letters as discrete shape elements and behaviors.
