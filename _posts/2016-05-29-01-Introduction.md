@@ -42,7 +42,7 @@ Type designs are regularly born out of a logotype, and even more regularly famil
  
 I will admit straight off the bat, I am not the most methodical of workers, or at least not the most tidy! The process of getting BioRhyme to completion is more of a circling pattern than a linear trajectory, but I would argue this is not thoroughly unusual for all but the most seasoned of type designers and in my humble experience, the process always includes doubling back, side-stepping, and last minute design decisions, in spite of all best practices and laid plans! However, for the sake of a general overview, the trajectory usually runs along the following lines: drawing and spacing (interwoven and impossible to do as separate tasks) and then kerning.
 
-![Biorhyme Logotype comparison](../images/Logo_Bio_Comp.png)
+![Overview_Process](../images/Tasks_White.png)
  
 With this in mind, my objective with this site is to be as open about my confusion and indecision as I am about the logical and methodical steps I have taken. I will endeavor to always include links to relevant literature I might have consulted, or have referenced in my typographic education that might be useful to the novice designer. If there is anything that is unclear, or you would like to pick a bone with me about, please feel free to get in touch. I will be happy to correct any errors, provide more information, or connect readers with better resources.
  
