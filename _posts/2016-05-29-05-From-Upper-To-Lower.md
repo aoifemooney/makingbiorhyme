@@ -21,6 +21,9 @@ In the creation of the logotype for Mercury Mercury, I ended up creating a set o
 Proportions and personality: Influences
 Having established that this was part of the identity of the parent logotype, and one I wanted to keep in the related typeface family, I decided to carry the mono-width tendency further, and attempt to imbue the lowercase letters with this same character. However, it was important to me that I didn’t want this typeface to feel mechanical, so I looked to the warmest mono-width sources I could for inspiration. I looked to the typewriter and to distinctly warm and characterful slab serifs like the Clarendons and and Scotch Romans. I wanted to evoke something of an archaic sweetness, a sort of hybrid office-use and personal letter-writing, and combine it with a more edgy, clean and crisp finish. 
 
+![Conners R](../images/Conners_R_03.png)
+<figcaption>BioRhyme Extended Regular</figcaption>
+
 I played with the bowls of the bdpq to make round but tense curves, to continue those in the uppercase, and aimed for generous arches to match the width of the bowls. 
 
 A particular nod to the typewriter genre can be seen in the lowercase ‘m’ which is much narrower than a proportionally adjusted ‘m’ would usually be. (Usually the m arches are marginally narrower than those of the ’n’ to optically cheat the relationship between the m and the n so that the m does not become sprawling, but sits comfortably, optically, alongside the proportions of the n. 
