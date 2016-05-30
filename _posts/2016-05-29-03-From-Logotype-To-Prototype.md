@@ -40,7 +40,7 @@ These typefaces tend to be more loosely spaced, with lower contrast, wider apert
 
 Dwiggin’s m-formula is a theory that has been used to great effect in typefaces of this ilk. Dwiggin’s formula explicated the idea that he garnered from marionette making, where he noticed that the facial features of the marionettes needed exaggeration from far away and that sharp angles underscoring curves would have the counterintuitive effect of amplifying their curved nature from a distance. He named this the m-formula for the marionettes that prompted it. It is on show in typefaces like Freight Micro, where the letterforms feel sharp and angular at larger sizes but at small sizes have a flow and softness and most importantly, a clarity to them that is created with this optical trick.
 
-A fascinating and insightful resource looking into the history of designing typefaces for different scales and contexts is Tim Ahren’s Size-specific adjustments to Type Designs. 
+A fascinating and insightful resource looking into the history of designing typefaces for different scales and contexts is [Tim Ahren’s Size-specific adjustments to Type Designs](http://justanotherfoundry.com/size-specific-adjustments-to-type-designs). 
  
 Starting with a logotype in this way also dictated the nature of the typeface that would be offsprung. The large, light capitals were not weighty enough or narrow enough for anything but display type, and so I set myself a task of building a primarily display typeface that might later develop into a family that might support longer-reading text setting at ample sizes. 
 
@@ -49,3 +49,5 @@ By building Biorhyme Extended as a display typeface, I gave myself a little more
 Because I wanted Biorhyme to feel fresh, I didn’t want to rely on a specific model for the development of the lowercase, and set myself the challenge of creating a matching lowercase based on the abstract cues found in the uppercase forms. In actual fact, there were few typefaces that fit the exact kind of look and feel I was aiming for, and so this also gave me a bit of free reign. Working in a very narrowly defined genre does create limits for the designer, as their work will be assessed with respect to other types in the same design space, and so they need to adhere to precedent a little more than in the design of something a little more off the beaten track. 
 
 So, in order to build a description of the shape language I wanted to make, I looked at the slow generous bubbly curve of the C and the playful kick of the R and the similarity in widths that I had established between the uppercase letters, and decided to see where I could go with that.
+
+
