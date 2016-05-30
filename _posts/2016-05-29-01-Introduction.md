@@ -10,7 +10,7 @@ image:
 
 Biorhyme started life as a logotype for a musical duo called Mercury Mercury. The idea for the logotype started with an ‘R’ I found in a Conner’s type foundry specimen book and fell in love with. I had it in my back pocket and was waiting to find a use for it. 
 
-! [Conner's R] (Conners_R_01.png)
+![Conner's R](Conners_R_03.png)
 
 Conners_R_02.png
 
