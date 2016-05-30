@@ -5,7 +5,7 @@ title: What is BioRhyme?
 description: BioRhyme is a typeface family of two styles (currently)
 tags: [about, BioRhyme, typeface, project]
 image:
-  feature: ![about](https://github.com/aoifemooney/makingbiorhyme/blob/gh-pages/images/)
+  feature: ![about](https://github.com/aoifemooney/makingbiorhyme/blob/gh-pages/images/Q_A.png)
 ---
 
 This project is housed on GitHub and is possible thanks to financial support from [Google Fonts](https://www.google.com/fonts).
