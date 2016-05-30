@@ -22,6 +22,13 @@ In researching approaches to the structure of syllabi for teaching typeface desi
 
 Because of the systematicity of typefaces, it is therefore possible to work on just a small test set of the letterforms in the upper and lowercase sets in order to get a pretty good picture of what the typeface will look like quite quickly. Different foundries have different starting points, but I like to use the letters HODBS for the uppercase, and the word adhesion for the lowercase. 
 
+![Building out from an existing set](../images/Building_01.png)
+<figcaption>Related letters can be dealt with in tandem quickly and fine-tuned later</figcaption>
+
+![As you build the relationship between upper and lower is a constant consideration](../images/Building_02.png)
+<figcaption>As you build the relationship between upper and lower is a constant consideration</figcaption>
+
+
 Gerry Leonidas explains the function of 'adhesion' here, and it is worth noting the tool Miguel Sousa developed for generating test copy for this limited character set in adhesiontext.com. You can also see my old bosses talking about using the letters HOD as a starting point for the uppercase in this lovely documentary about the work of Hoefler & (at that time) Frere-Jones, and I would also refer you to the documentary Teaching to See for Druckrey’s take on this. 
 
 These limited sets provide a solid starting point, and allow a ‘quick-and-dirty’ prototype of your typeface. 'Quick-and-dirty', because no well-functioning typeface is complete without optical adjustments to these coarse grained component combinations. The eye needs regularity, and this method achieves that, but it also requires the additional disambiguation of the letters, or, in other words, the ability to discern differences in structure easily in order that the letters be quickly recognized. 
