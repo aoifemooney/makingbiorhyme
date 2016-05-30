@@ -18,7 +18,7 @@ When I started to work on the logo for Mercury Mercury, it seemed to fit the nee
  
 That being said, I decided it was time to dust off my little pet project, since I thought that the lean weight of the form and the playful kick of the leg on the R was a nice approach to take to express this concept, although this is only one of a myriad possibilities. So I pulled out my little shot of the R, and began working on the other letters of the word Mercury. I developed an identity system around these letterforms, and handed it over as a finished logotype.
 
-![Conners R](../images/Conners_R_03.png)
+![MercuryMercury Logotype](../images/Mercury_Mercury_HZ.png)
 
 ### Mercury Mercury Secondary Logo
 
