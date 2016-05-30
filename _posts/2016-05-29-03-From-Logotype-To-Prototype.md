@@ -14,8 +14,11 @@ A logotype is something that exists in contextual perpetuity. It consists of a s
 
 Typefaces are systems of shapes and behaviors of shapes—a sort of form language built out of smaller micro decisions. Each decision is woven into a pattern of behaviors for stroke endings, stem/bowl connections, weight distribution, angle of stress, counter size, proportions etc. to create the textura of the paragraph. Textura is the Latin word for fabric, and the name of the first types. It denotes the aim for consistency and evenness of color in typography that is built out of a carefully maintained relationship between the parts of the letterforms, and the spaces between them. 
 
-![Conners R](../images/Conners_R_01.png)
-<figcaption>Conner's Type Foundry Specimen scan</figcaption>
+![MercuryMercury Horizontal logotype](../images/Illustrations_Mercury Mercury Logotype copy 26.png)
+<figcaption>MercuryMercury horizontal logotype formation</figcaption>
+
+![MercuryMercury Horizontal logotype](../images/Illustrations_Mercury Mercury Logotype copy 26.png)
+<figcaption>MercuryMercury horizontal logotype formation</figcaption>
 
 **Scale, typographic range & context**
 Starting from an uppercase: What information do we have, what do we need to move forward?
