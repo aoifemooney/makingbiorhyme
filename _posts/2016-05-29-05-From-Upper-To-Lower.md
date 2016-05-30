@@ -58,9 +58,12 @@ These quirkier shapes were intended to continue the playful quality of the upper
 
 I wanted to keep this in the z, for example, so the slow curve in the spine meets tension points where the horizontals curve into the spine and taper substantially to create a point of connection.
 
-
+![Influence of in z](../images/z.png)
+<figcaption>Taut curves and tense connections in z mimic bowls and kicks of outstrokes elsewhere</figcaption>
  
 Some problem characters in this typeface have been the s, w, R, Q and S. I really struggled to make a decision on the behavior of each of these, and particularly in the case of the S and s, these shapes are paramount in defining the overall form and flavor of a typeface by virtue of how many other glyphs relate to these, and how frequently they appear in common Western typesetting. I tried a version without serifs, a narrower version, a squarer version, a rounder version, longer serifs, shorter serifs, and so on and so forth. 
+
+
 
 In the w, I tried criss-crossing the strokes, breaking at a certain point in the weight increase, I tried narrower, wider, heavier, lighter, more and less contrast, and eventually even removed the internal serif in the narrower widths. 
 
