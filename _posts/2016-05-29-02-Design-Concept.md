@@ -10,9 +10,11 @@ image:
 
 Design concepts in typeface design are particularly abstract things. In *graphic design* we use a combination of typeface choice, alignments, balance of negative space, color and form to create moods and identities. Typeface design, by contrast, is a black and white, figure/ground art. 
 
-![Figure Ground](../images/Black_White_01.png)
+![Rhythm of the fore- and back- grounds](../images/Black_White_02.png)
 
 Although there are many chromatic typefaces and—most delightfully—[now software](https://glyphsapp.com/tutorials/creating-a-layered-color-font) that supports the design and contiguous previewing of multi-color typefaces like this lovely one from [The Colour Grey](http://www.thecolourgrey.com/sodabudi.html), these are still conceived as positive and negative relationships, with color applied as a preview of what might be, rather than a definitive or final state for the typeface. 
+
+![Figure Ground](../images/Black_White_01.png)
 
 Typefaces change mood and tone of voice as we make use of them in different contexts, and so defining a personality or concept for a typeface can be more a game of strategy and abstract thinking than of defining a final outcome. It is the nature of typefaces to adapt, to flex to the nuance of the material they set, and, most importantly, to serve their users. 
 
