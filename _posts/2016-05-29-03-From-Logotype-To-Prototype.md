@@ -46,6 +46,8 @@ Starting with a logotype in this way also dictated the nature of the typeface th
 
 By building Biorhyme Extended as a display typeface, I gave myself a little more room for expression and idiosyncrasy in the shapes, which I would later tone down in the narrower width. 
 
+![Biorhyme Logotype comparison](../images/Rku.png)
+<figcaption>Narrower width has simplified forms of the kick</figcaption>
 
 
 Because I wanted Biorhyme to feel fresh, I didn’t want to rely on a specific model for the development of the lowercase, and set myself the challenge of creating a matching lowercase based on the abstract cues found in the uppercase forms. In actual fact, there were few typefaces that fit the exact kind of look and feel I was aiming for, and so this also gave me a bit of free reign. Working in a very narrowly defined genre does create limits for the designer, as their work will be assessed with respect to other types in the same design space, and so they need to adhere to precedent a little more than in the design of something a little more off the beaten track. 
