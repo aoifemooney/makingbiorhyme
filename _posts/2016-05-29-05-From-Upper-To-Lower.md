@@ -48,9 +48,8 @@ There are some distinctive features in the lowercase, that get carried through t
 ![kxztf](../images/kxftz.png)
 <figcaption>Expressive kicks and loops</figcaption>
 
-![kxztf](../images/kxftz_02png)
+![kxztf_02](../images/kxftz_02png)
 <figcaption>Expressive kicks and loops</figcaption>
-
 
 
 These quirkier shapes were intended to continue the playful quality of the uppercase R from the logotype, and also further a relationship between round and straight that I established with the bdpq. Here, there is a tension between the curve and the rigidity of the serif and uprights. I wanted to keep this in the z, for example, so the slow curve in the spine meets tension points where the horizontals curve into the spine and taper substantially to create a point of connection.
