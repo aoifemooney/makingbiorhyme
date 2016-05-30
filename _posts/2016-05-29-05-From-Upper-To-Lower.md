@@ -34,7 +34,7 @@ I played with the bowls of the bdpq to make round but tense curves, to continue 
 <figcaption>Arches and bowls share widths and slow, tense curves in shoulders and bowls</figcaption>
 
 ![Rhythms at the x-height](../images/bdpq.png)
-<figcaption>Arches and bowls share widths and slow, tense curves in shoulders and bowls</figcaption>
+<figcaption>Negative spaces at the baseline and x-height create a soft, bouncing rhythm</figcaption>
 
 
 A particular nod to the typewriter genre can be seen in the lowercase ‘m’ which is much narrower than a proportionally adjusted ‘m’ would usually be. (Usually the m arches are marginally narrower than those of the ’n’ to optically cheat the relationship between the m and the n so that the m does not become sprawling, but sits comfortably, optically, alongside the proportions of the n. 
