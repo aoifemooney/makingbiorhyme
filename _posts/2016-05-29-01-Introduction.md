@@ -10,11 +10,9 @@ image:
 
 Biorhyme started life as a logotype for a musical duo called Mercury Mercury. The idea for the logotype started with an ‘R’ I found in a Conner’s type foundry specimen book and fell in love with. I had it in my back pocket and was waiting to find a use for it. 
 
+![Conner's R](Conners_R_01.png)
+![Conner's R](Conners_R_02.png)
 ![Conner's R](Conners_R_03.png)
-
-Conners_R_02.png
-
-Conners_R_03.png
 
 When I started to work on the logo for Mercury Mercury, it seemed to fit the needs of the brief. The logo was intended to show an organic and evocative approach to music combined with a systematic and methodical and primarily digital workflow. There are many ways of approaching this kind of brief, and indeed most typefaces consist of a balance of these very concepts, with a requirement for modularity and mechanical consistency to be harmonized with the requirement for expression and identity. Kris Holmes describes this interplay beautifully in the Tufte produced documentary about Inge Druckrey Teaching to See, where she describes the relationship between the eye, who desires order, regularity and rhythm, and the hand that translates thoughts into the written word, whose main impetus is toward movement and expression — ‘the radical hand’ she calls it. In any typeface there is the record of this movement. Even in the most geometric and modular of typefaces, the requirement for recognizability is dictated by the conventions our eyes have become accustomed to expect. These are largely grounded in these precursor skeletal models and constituted as conventions in each new typeface and thoroughly rooted in the earliest forms of our alphabet in inscriptions, carvings and bookhands of the pre-moveable type eras.
  
