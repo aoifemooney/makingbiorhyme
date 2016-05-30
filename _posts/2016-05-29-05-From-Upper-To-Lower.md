@@ -53,9 +53,12 @@ There are some distinctive features in the lowercase, that get carried through t
 
 These quirkier shapes were intended to continue the playful quality of the uppercase R from the logotype, and also further a relationship between round and straight that I established with the bdpq. Here, there is a tension between the curve and the rigidity of the serif and uprights. 
 
-
+![Influence of R](../images/Rku.png)
+<figcaption>Playful influence of the uppercase R in lowercase is moderated in narrower width</figcaption>
 
 I wanted to keep this in the z, for example, so the slow curve in the spine meets tension points where the horizontals curve into the spine and taper substantially to create a point of connection.
+
+
  
 Some problem characters in this typeface have been the s, w, R, Q and S. I really struggled to make a decision on the behavior of each of these, and particularly in the case of the S and s, these shapes are paramount in defining the overall form and flavor of a typeface by virtue of how many other glyphs relate to these, and how frequently they appear in common Western typesetting. I tried a version without serifs, a narrower version, a squarer version, a rounder version, longer serifs, shorter serifs, and so on and so forth. 
 
