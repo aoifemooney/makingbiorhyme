@@ -4,6 +4,8 @@ title: "Polishing & Proofing"
 description: "Kerning, Hinting and all that jazz"
 category: articles
 tags: [sources, reference, research, starting out]
+image: 
+ feature: 08_Testing_Proofing.png
 ---
 
 Although I have left this section till last, this is more a reflection of the chronological order of the process than indicative of the role of these tasks in the process of making a typeface. The reason these tasks are at the end should not imply that they are fast, or mere wrap-up tasks. 
