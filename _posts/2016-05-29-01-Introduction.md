@@ -34,7 +34,9 @@ Once I had started that, got to thinking about how this single style could be bu
 
 ![Logotype Widths](../images/Logotype_Widths.png)
 
-![Biorhyme Widths](../images/Bio_Widths.png)
+![Biorhyme Widths](../images/Biorhyme_Widths.png)
+
+![Biorhyme Logotype comparison](../images/Biorhyme_Widths.png)
 
 Type designs are regularly born out of a logotype, and even more regularly families are built based on a client-led project resulting in some weights that then lend themselves to expansion into a fuller typographic range. Couple this with the need for this type family to work on screen, and the fact that I wanted to use interpolation as a design tool, and the type seemed to fit the brief of being an educational example.
  
