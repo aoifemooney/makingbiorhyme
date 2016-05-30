@@ -5,7 +5,7 @@ description: "Tools, Contexts, Tricks"
 category: articles
 tags: [sources, reference, research, starting out]
 image: 
- feature: 01_Intro.png
+ feature: 08_Testing_Proofing.png
 ---
 
 Type design, like any other design process, is defined by the iterative approach, making loops back through a cause and effect cycle and aiming to gradually reduce the revisions until such time as the design is complete, and all issues have been resolved satisfactorily. Due to the systematic nature of the shape relationships withing a typeface, however, this process can perhaps be described as an amplified version of the iterative process. Because of the internal rhythms and behaviors defined for specific kinds of shapes within the overall structure, each change will have a knock on effect on a larger number of related forms. This results in a painstaking proofing process which requires incremental changes, and undermines the instinct to make large numbers of changes in swathes. This is because it can be difficult to predict how a small change will ripple through the complement of characters in a typeface, and how it will play out in the paragraph at different sizes, and the more changes made in one go, the harder it is to identify the change responsible for any more global effects in the paragraph, whether it be an improvement or misstep. In typefaces, the whole is always greater than the sum of its parts.
