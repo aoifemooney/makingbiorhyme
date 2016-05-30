@@ -41,8 +41,8 @@ It is also a good time to develop the shapes and scale of the punctuation, which
 
 Punctuation can again be broken into categories or shape groups, and it is useful to think of the basic set in terms of points, slashes, dashes, and enclosures to start, and once the alphabet and this basic set are up and running the currency symbols and mathematical symbols can be developed alongside the numerals and fractions. One reason for this is that the numerals and currency symbols both need to work alongside the entirety of the upper- and lower-cases, and the mathematical characters are dependent on the numerals for their cohesion, one falls in line behind the other in this method, taking their cues from the previous set. Typefaces are systems of shapes and behaviors, and the *process* of type design is a similarly interrelated process full of dependencies and variables. 
 
-![Type Design Process](../images/Building_01.png)
-<figcaption>Related letters can be dealt with in tandem quickly and fine-tuned later</figcaption>
+![Type Design Process](../images/Building_Out.png)
+<figcaption>Working toward a character set</figcaption>
 
 
 
