@@ -14,6 +14,11 @@ Biorhyme started life as a logotype for a musical duo called Mercury Mercury. Th
 ![Conner's R](Conners_R_02.png)
 ![Conner's R](Conners_R_03.png)
 
+ <figure>
+ -	<img src=Illustrations_Conners R_01 copy 2.png)>		 +	<img src="images/Conners_R_01.png">
+  	<figcaption>Conners Animated gif seq</figcaption>		  	<figcaption>Conners Animated gif seq</figcaption>
+  </figure>		  </figure>
+
 When I started to work on the logo for Mercury Mercury, it seemed to fit the needs of the brief. The logo was intended to show an organic and evocative approach to music combined with a systematic and methodical and primarily digital workflow. There are many ways of approaching this kind of brief, and indeed most typefaces consist of a balance of these very concepts, with a requirement for modularity and mechanical consistency to be harmonized with the requirement for expression and identity. Kris Holmes describes this interplay beautifully in the Tufte produced documentary about Inge Druckrey Teaching to See, where she describes the relationship between the eye, who desires order, regularity and rhythm, and the hand that translates thoughts into the written word, whose main impetus is toward movement and expression — ‘the radical hand’ she calls it. In any typeface there is the record of this movement. Even in the most geometric and modular of typefaces, the requirement for recognizability is dictated by the conventions our eyes have become accustomed to expect. These are largely grounded in these precursor skeletal models and constituted as conventions in each new typeface and thoroughly rooted in the earliest forms of our alphabet in inscriptions, carvings and bookhands of the pre-moveable type eras.
  
 That being said, I decided it was time to dust off my little pet project, since I thought that the lean weight of the form and the playful kick of the leg on the R was a nice approach to take to express this concept, although this is only one of a myriad possibilities. So I pulled out my little shot of the R, and began working on the other letters of the word Mercury. I developed an identity system around these letterforms, and handed it over as a finished logotype.
