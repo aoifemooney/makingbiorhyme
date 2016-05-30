@@ -17,8 +17,10 @@ At the outset, however, I needed to make some coarse-grained decisions and outli
 ![Boston Breton reference](../images/Breton_Biorhyme_01.png)
 <figcaption>Boston Breton from the ATF catalogue 1912</figcaption>
 
-![Boston Breton reference](../images/Breton_Biorhyme_02.png)
-<figcaption>Biorhyme setting the same content</figcaption>Breton_Biorhyme_03.png
+![Biorhyme](../images/Breton_Biorhyme_02.png)
+<figcaption>Biorhyme setting the same content</figcaption>
 
+![Boston Breton Biorhyme comparison](../images/Breton_Biorhyme_03.png)
+<figcaption>Boston Breton Biorhyme Comparison</figcaption>
 In developing this narrower Bold width, the narrower Light width and the interpolating regular weight/width, I looked to Clarendons, Archer, Century Schoolbook and in some cases Rockwell, for cues. I wanted it to sit in this category of warm slabby seriffed fonts, but have it’s own flavor that is both a combination of these all, and it’s own thing entirely. I hope I achieved it!
 
