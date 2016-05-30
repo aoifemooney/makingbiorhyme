@@ -18,6 +18,9 @@ Typefaces are systems of shapes and behaviors of shapes—a sort of form languag
 <figcaption>MercuryMercury horizontal logotype formation</figcaption>
 
 !['Mercury' isolated](../images/Illustrations_Mercury Mercury Logotype copy 27.png)
+<figcaption>'Mercury' isolated</figcaption>
+
+!['Mercury' isolated](../images/Illustrations_Mercury Mercury Logotype copy 27.png)
 <figcaption>MercuryMercury horizontal logotype formation</figcaption>
 
 **Scale, typographic range & context**
