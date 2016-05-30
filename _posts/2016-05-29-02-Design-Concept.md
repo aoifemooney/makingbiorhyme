@@ -16,6 +16,7 @@ Design concepts in typeface design are particularly abstract things. In *graphic
 Although there are many chromatic typefaces and—most delightfully—[now software](https://glyphsapp.com/tutorials/creating-a-layered-color-font) that supports the design and contiguous previewing of multi-color typefaces like this lovely one from [The Colour Grey](http://www.thecolourgrey.com/sodabudi.html), these are still conceived as positive and negative relationships, with color applied as a preview of what might be, rather than a definitive or final state for the typeface. 
 
 ![Figure Ground](../images/Black_White_01.png)
+<figcaption>Abstract forms</figcaption>
 
 Typefaces change mood and tone of voice as we make use of them in different contexts, and so defining a personality or concept for a typeface can be more a game of strategy and abstract thinking than of defining a final outcome. It is the nature of typefaces to adapt, to flex to the nuance of the material they set, and, most importantly, to serve their users. 
 
@@ -34,5 +35,6 @@ Leslie Atzmon’s writings on the rhetorical content of typefaces seems worth po
 Using classifications or genres is also incredibly helpful in defining what general category your typeface will fit into, or bridge gaps between. For example, you could look at both Clarendons and Geometric sans-serifs, and each will give you cues to work with if you want to create a typeface that fuses the flavor, context or scale of one or the other or both. 
 
 ![Clarendon Flavor](../images/aR.png)
+<figcaption>Biorhyme shows influence of Clarendon's pothook terminals in the a and the kick of the R</figcaption>
 
 More and more type design is seeing a breaking down of the traditional classification models, and hybrids are becoming the norm. For an interesting example of a hybrid, check out Martin Wenzel's fresh and quirky [Ode typeface](http://www.martinplusfonts.com/ode/). However, the prevalence of hybrids does not at all invalidate the need for [classificatory descriptions](https://medium.com/type-class-tuesdays/the-vox-atypi-system-51b409cdcd5e#.t5wi13m7t) of the conventions our current typographic practice is based on, and researching the history of the genre(s) you seek to serve will only be helpful.
