@@ -21,10 +21,10 @@ Typefaces, as products of design processes, are also perhaps unusually user-orie
 For this reason, in defining a conceptual basis for a typeface design, it is useful to start with its potential uses, alongside its potential range of expression, and to do the former in specific terms and the latter in abstract terms. (For example: Uses; magazine setting, ranging from caption to display with long-reading text and tabular figures for charts. Expression; friendly, fresh, no-nonsense, quirky, warm etc.) 
 
 We do not yet have a typology of the formal characteristics of typefaces, and what their micro combinations can evoke, and so deciding on how and what to imbue a flavor with within the parameters of the shape language of type, can seem daunting at best. However, we can look to precedents, assessing in each what it is in the shapes that define the typeface’s mood, atmosphere, flavor, personality or tone. It is easy to fall into the trap of thinking round shapes equal soft and friendly faces, and that square shapes equal more sturdy, upright and strong forms, but this is a narrow and limiting approach that is almost guaranteed to fail.
- 
+
 In any typeface, there are two levels of form at work: the micro and the macro. The micro has to do with things like the shape of the serifs, terminals and hooks, and the macro has to do with the roundness of the bowls, arches, counters and the large-scale proportional features like width, weight and rhythm. It is in the combination of shape elements that a personality is born, and more often it is the relationship between the sharp geometric forms and the curvilinear elements which defines the personality, and not one to the exclusion of the other, or one generalizing principle applied at both levels. For this reason it can be useful to choose historical or genre models to work with, for specific personality traits, and models for specific contexts or purposes, and carefully pull together a set of decisions that build to make a cumulative communicative effect. 
 
-![Varied Influences](../images/Influences_01.png)
+![Varied Influences](../images/Clarendon.png)
 
 Leslie Atzmon’s writings on the rhetorical content of typefaces seems worth pointing to [here](http://www.eyemagazine.com/blog/post/visual-rhetoric). Since all typefaces rely on convention, and our conventions are built on the work of predecessors, historical models will always be a useful point of reference, and designs for specific sizes particularly so if you are making a revival typeface. 
 
