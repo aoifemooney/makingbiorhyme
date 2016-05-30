@@ -12,15 +12,6 @@ Design concepts in typeface design are particularly abstract things. In graphic 
  
 In any typeface, there are two levels of form at work: the micro and the macro. The micro has to do with things like the shape of the serifs, terminals and hooks, and the macro has to do with the roundness of the bowls, arches, counters and the large-scale proportional features like width, weight and rhythm. It is in the combination of shape elements that a personality is born, and more often it is the relationship between the sharp geometric forms and the curvilinear elements which defines the personality, and not one to the exclusion of the other, or one generalizing principle applied at both levels. For this reason it can be useful to choose historical or genre models to work with, for specific personality traits, and models for specific contexts or purposes, and carefully pull together a set of decisions that build to make a cumulative communicative effect. 
 
-![Conners R](../images/Conners_R_01.png)
+![Clarendon Flavor](../images/aR.png)
 
 (Leslie Atzmon’s writings on the rhetorical content of typefaces seems relevant here). Since all typefaces rely on convention, and our conventions are built on the work of predecessors, historical models will always be a useful point of reference, and designs for specific sizes particularly so if you are making a revival typeface. Using classifications or genres is also incredibly helpful in defining what general category your typeface will fit into, or bridge gaps between. For example, you could look at both Clarendons and Geometric sans-serifs, and each will give you cues to work with if you want to create a typeface that fuses the flavor, context or scale of one or the other or both. More and more type design is seeing a breaking down of the traditional classification models, and hybrids are becoming the norm, but this does not invalidate the need for these classificatory descriptions of the conventions our current typographic practice is based on, and researching the history of the genre(s) you seek to serve will only be helpful.
- 
-
-### Building blocks?
-
-<figure>
-	<img src=Illustrations_Conners R_01 copy 2.png)>
-	<figcaption>Building blocks / Defining DNA</figcaption>
-</figure>
-
