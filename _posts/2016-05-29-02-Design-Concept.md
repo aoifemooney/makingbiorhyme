@@ -8,9 +8,11 @@ image:
  feature: 02_Design_Concept.png
 ---
 
-Design concepts in typeface design are particularly abstract things. In graphic design we use a combination of typeface choice, alignments, balance of negative space, color and form to create moods and identities. 
+Design concepts in typeface design are particularly abstract things. In *graphic design* we use a combination of typeface choice, alignments, balance of negative space, color and form to create moods and identities. Typeface design, by contrast, is a black and white, figure/ground art. 
 
-Typeface design is a black and white, figure/ground art. Although there are many chromatic typefaces and—most delightfully—[now software](https://glyphsapp.com/tutorials/creating-a-layered-color-font) that supports the design and contiguous previewing of multi-color typefaces like this lovely one from [The Colour Grey](http://www.thecolourgrey.com/sodabudi.html), these are still conceived as positive and negative relationships, with color applied as a preview of what might be, rather than a definitive or final state for the typeface. 
+
+
+Although there are many chromatic typefaces and—most delightfully—[now software](https://glyphsapp.com/tutorials/creating-a-layered-color-font) that supports the design and contiguous previewing of multi-color typefaces like this lovely one from [The Colour Grey](http://www.thecolourgrey.com/sodabudi.html), these are still conceived as positive and negative relationships, with color applied as a preview of what might be, rather than a definitive or final state for the typeface. 
 
 Typefaces change mood and tone of voice as we make use of them in different contexts, and so defining a personality or concept for a typeface can be more a game of strategy and abstract thinking than of defining a final outcome. It is the nature of typefaces to adapt, to flex to the nuance of the material they set, and, most importantly, to serve their users. 
 
@@ -22,7 +24,7 @@ We do not yet have a typology of the formal characteristics of typefaces, and wh
  
 In any typeface, there are two levels of form at work: the micro and the macro. The micro has to do with things like the shape of the serifs, terminals and hooks, and the macro has to do with the roundness of the bowls, arches, counters and the large-scale proportional features like width, weight and rhythm. It is in the combination of shape elements that a personality is born, and more often it is the relationship between the sharp geometric forms and the curvilinear elements which defines the personality, and not one to the exclusion of the other, or one generalizing principle applied at both levels. For this reason it can be useful to choose historical or genre models to work with, for specific personality traits, and models for specific contexts or purposes, and carefully pull together a set of decisions that build to make a cumulative communicative effect. 
 
-![Clarendon Flavor](../images/aR.png)
+![Varied Influences](../images/Influences_01.png)
 
 Leslie Atzmon’s writings on the rhetorical content of typefaces seems worth pointing to [here](http://www.eyemagazine.com/blog/post/visual-rhetoric). Since all typefaces rely on convention, and our conventions are built on the work of predecessors, historical models will always be a useful point of reference, and designs for specific sizes particularly so if you are making a revival typeface. 
 
