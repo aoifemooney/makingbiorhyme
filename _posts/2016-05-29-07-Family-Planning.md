@@ -14,4 +14,7 @@ The intention was always to expand the family to more weights than these four, b
 
 At the outset, however, I needed to make some coarse-grained decisions and outline the scope before starting. I decided to choose a reference point for the narrower width, this would help me to fill a gap in the GWF library, and also serve as a guide for some of the shape decisions. In this case, I chose a display typeface from the ATF catalogue ‘Boston Breton’ which had a similar mono-line slab serif quality to it, but was both much heavier and more mechanical feeling. I decided I wanted to evoke the bold chunkiness of Boston Breton and it’s proportions in the regular width bold, but using the soft tense curves and the typewriter vibe I had started in the wider width. 
 
+
+
 In developing this narrower Bold width, the narrower Light width and the interpolating regular weight/width, I looked to Clarendons, Archer, Century Schoolbook and in some cases Rockwell, for cues. I wanted it to sit in this category of warm slabby seriffed fonts, but have it’s own flavor that is both a combination of these all, and it’s own thing entirely. I hope I achieved it!
+
