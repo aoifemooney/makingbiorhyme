@@ -36,12 +36,17 @@ I played with the bowls of the bdpq to make round but tense curves, to continue 
 ![Rhythms at the x-height](../images/bdpq.png)
 <figcaption>Negative spaces at the baseline and x-height create a soft, bouncing rhythm</figcaption>
 
+A particular nod to the typewriter genre can be seen in the lowercase ‘m’ which is much narrower than a proportionally adjusted ‘m’ would usually be. (Usually the m arches are marginally narrower than those of the ’n’ to optically cheat the relationship between the m and the n so that the m does not become sprawling, but sits comfortably, optically, alongside the proportions of the n.
 
-A particular nod to the typewriter genre can be seen in the lowercase ‘m’ which is much narrower than a proportionally adjusted ‘m’ would usually be. (Usually the m arches are marginally narrower than those of the ’n’ to optically cheat the relationship between the m and the n so that the m does not become sprawling, but sits comfortably, optically, alongside the proportions of the n. 
+![A nod to the typewriter](../images/m.png)
+<figcaption>A nod to the typewriter in a disproportionately narrow 'm'</figcaption>
 
 I wanted the lowercase to feel squat like the uppercase, and as an experiment, I wanted to see how far could I push the width and squatness of a lowercase like this. So, I gave it short extenders and pushed the widths as far as I could so that its body would feel exaggerated and larger than life. 
 
 There are some distinctive features in the lowercase, that get carried through to the other styles and weights later developed, which were established in this stage of the project. The lowercase ‘k’ ‘x’ ‘z’ ’t’ and the terminals of the ‘a’ ‘d’ and ‘u’ letterforms were all developed with more and less expressive versions. I kept the expressive k e and z as the defaults, but relegated the other options to either alternate status or removed them completely in the long run. 
+
+![A nod to the typewriter](../images/m.png)
+<figcaption>A nod to the typewriter in a disproportionately narrow 'm'</figcaption>
 
 These quirkier shapes were intended to continue the playful quality of the uppercase R from the logotype, and also further a relationship between round and straight that I established with the bdpq. Here, there is a tension between the curve and the rigidity of the serif and uprights. I wanted to keep this in the z, for example, so the slow curve in the spine meets tension points where the horizontals curve into the spine and taper substantially to create a point of connection.
  
