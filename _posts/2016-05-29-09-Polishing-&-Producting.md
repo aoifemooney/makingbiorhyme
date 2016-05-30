@@ -17,7 +17,7 @@ Hinting is perhaps the murkier, less transparent end of the type design process,
 ### Conner's 'R' Reference
 
 <figure>
-	<img src=Illustrations_Conners R_01 copy 2.png)>
+	<img src="images/Conners_R_01.png">
 	<figcaption>Conners Animated gif seq</figcaption>
 </figure>
 
