@@ -28,14 +28,12 @@ These limited sets provide a solid starting point, and allow a ‘quick-and-dirt
 
 Pure modularity will not afford much in the way of idiosyncrasy and differentiation for the eye, and so it is necessary to fine-tune these combinations to work as harmonious forms in their own right as well as in respect of the other letterforms. 
 
-Fine-tuning can affect the weight of the connections, for example in the lowercase a, the bowl here is smaller than that in the p, and simply scaling the bowl of the p will result in a much too narrow bowl, with too light a weight, and very thin connections. It is important to ensure that the entire typeface looks like it was made of the same material, or tool, and this is usually achieved through optical trickery. Tobias Frere-Jones’ blog has some great explanations of Type Mechanics along these lines.
- 
-These fine-tuning aspects also run in tandem with the micro-aspects of the letterforms, things like the shapes of the terminals, serifs, and swashes. It is also a good time to develop the shapes and scale of the punctuation, which again will vary depending on the context and scale of the typeface brief. Typefaces for smaller setting will usually need larger punctuation, counter-intuitively, than display typefaces, simply because they have to work harder to be seen at this size. Punctuation can again be broken into categories or shape groups, and it is useful to think of the basic set in terms of points, slashes, dashes, and enclosures to start, and once the alphabet and this basic set are up and running the currency symbols and mathematical symbols can be developed alongside the numerals and fractions. One reason for this is that the numerals and currency symbols both need to work alongside the entirety of the upper- and lower-cases, and the mathematical characters are dependent on the numerals for their cohesion, one falls in line behind the other in this method, taking their cues from the previous set. Typefaces are systems of shapes and behaviors, and the process of type design is a similarly interrelated process full of dependencies and variables. 
+Fine-tuning can affect the weight of the connections, for example in the lowercase a, the bowl here is smaller than that in the p, and simply scaling the bowl of the p will result in a much too narrow bowl, with too light a weight, and very thin connections. It is important to ensure that the entire typeface looks like it was made of the same material, or tool, and this is usually achieved through optical trickery. Tobias Frere-Jones’ blog has some great explanations of Type Mechanics along these lines. These fine-tuning aspects also run in tandem with the micro-aspects of the letterforms, things like the shapes of the terminals, serifs, and swashes. 
 
-### Conner's 'R' Reference
+It is also a good time to develop the shapes and scale of the punctuation, which again will vary depending on the context and scale of the typeface brief. Typefaces for smaller setting will usually need larger punctuation, counter-intuitively, than display typefaces, simply because they have to work harder to be seen at this size. 
 
-<figure>
-	<img src=Illustrations_Conners R_01 copy 2.png)>
-	<figcaption>Conners Animated gif seq</figcaption>
-</figure>
+Punctuation can again be broken into categories or shape groups, and it is useful to think of the basic set in terms of points, slashes, dashes, and enclosures to start, and once the alphabet and this basic set are up and running the currency symbols and mathematical symbols can be developed alongside the numerals and fractions. One reason for this is that the numerals and currency symbols both need to work alongside the entirety of the upper- and lower-cases, and the mathematical characters are dependent on the numerals for their cohesion, one falls in line behind the other in this method, taking their cues from the previous set. Typefaces are systems of shapes and behaviors, and the *process* of type design is a similarly interrelated process full of dependencies and variables. 
+
+
+
 
