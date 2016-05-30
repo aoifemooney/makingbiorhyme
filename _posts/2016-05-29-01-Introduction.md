@@ -4,6 +4,8 @@ title: "Introduction"
 description: "The relationship between hand and eye in the design of letterforms"
 category: articles
 tags: [sources, reference, research, starting out]
+image: 
+ feature: Q_A.png
 ---
 
 Biorhyme started life as a logotype for a musical duo called Mercury Mercury. The idea for the logotype started with an ‘R’ I found in a Conner’s type foundry specimen book and fell in love with. I had it in my back pocket and was waiting to find a use for it. 
