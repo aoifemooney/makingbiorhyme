@@ -18,10 +18,10 @@ Typefaces are systems of shapes and behaviors of shapes—a sort of form languag
 <figcaption>MercuryMercury horizontal logotype formation</figcaption>
 
 !['Mercury' isolated](../images/Illustrations_Mercury Mercury Logotype copy 27.png)
-<figcaption>'Mercury' isolated</figcaption>
+<figcaption>'Mercury' contextual alt isolated</figcaption>
 
-!['Mercury' isolated](../images/Illustrations_Mercury Mercury Logotype copy 27.png)
-<figcaption>MercuryMercury horizontal logotype formation</figcaption>
+!['Mercury' set in BioRhyme with swash form](../images/Illustrations_Mercury Mercury Logotype copy 28.png)
+<figcaption>'Mercury' set in BioRhyme with swash form</figcaption>
 
 **Scale, typographic range & context**
 Starting from an uppercase: What information do we have, what do we need to move forward?
