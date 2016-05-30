@@ -14,7 +14,10 @@ Biorhyme started life as a logotype for a musical duo called Mercury Mercury. Th
 <figcaption>Conner's Type Foundry Specimen scan>
 
 ![Conners R](../images/Conners_R_02.png)
+<figcaption>Conner's Type Foundry Specimen scan>
+
 ![Conners R](../images/Conners_R_03.png)
+<figcaption>Conner's Type Foundry Specimen scan>
 
 When I started to work on the logo for Mercury Mercury, it seemed to fit the needs of the brief. The logo was intended to show an organic and evocative approach to music combined with a systematic and methodical and primarily digital workflow. There are many ways of approaching this kind of brief, and indeed most typefaces consist of a balance of these very concepts, with a requirement for modularity and mechanical consistency to be harmonized with the requirement for expression and identity. 
 
