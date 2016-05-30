@@ -29,6 +29,7 @@ We do not yet have a typology of the formal characteristics of typefaces, and wh
 In any typeface, there are two levels of form at work: the micro and the macro. The micro has to do with things like the shape of the serifs, terminals and hooks, and the macro has to do with the roundness of the bowls, arches, counters and the large-scale proportional features like width, weight and rhythm. It is in the combination of shape elements that a personality is born, and more often it is the relationship between the sharp geometric forms and the curvilinear elements which defines the personality, and not one to the exclusion of the other, or one generalizing principle applied at both levels. For this reason it can be useful to choose historical or genre models to work with, for specific personality traits, and models for specific contexts or purposes, and carefully pull together a set of decisions that build to make a cumulative communicative effect. 
 
 ![Varied Influences](../images/Clarendon.png)
+<figcaption>Looking to precedents can guide decisions within a genre and help to define a shape language</figcaption>
 
 Leslie Atzmon’s writings on the rhetorical content of typefaces seems worth pointing to [here](http://www.eyemagazine.com/blog/post/visual-rhetoric). Since all typefaces rely on convention, and our conventions are built on the work of predecessors, historical models will always be a useful point of reference, and designs for specific sizes particularly so if you are making a revival typeface. 
 
