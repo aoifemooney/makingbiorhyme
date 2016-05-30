@@ -58,6 +58,7 @@ I will admit straight off the bat, I am not the most methodical of workers, or a
 
 ![Overview_Process](../images/Tasks_White.png)
 <figcaption>Simplified and aspirational typical type design workflow!</figcaption>
+
  
 With this in mind, my objective with this site is to be as open about my confusion and indecision as I am about the logical and methodical steps I have taken. I will endeavor to always include links to relevant literature I might have consulted, or have referenced in my typographic education that might be useful to the novice designer. If there is anything that is unclear, or you would like to pick a bone with me about, please feel free to get in touch. I will be happy to correct any errors, provide more information, or connect readers with better resources.
  
