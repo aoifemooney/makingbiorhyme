@@ -26,7 +26,9 @@ That being said, I decided it was time to dust off my little pet project, since 
 
 I left it there for a while, until l had an idea to see what a lowercase would look like for this typeface. 
 
-![Uppercase Feature](../images/Uppercase_Fea.png)
+![Uppercase Features](../images/Uppercase_Fea.png)
+
+![Lowercase Features](../images/Lower_Fea.png)
 
 Once I had started that, got to thinking about how this single style could be built upon to create a more useful family. The idea for this, came from an ongoing preoccupation with expression in typography. I wanted to build out this very expanded, very light weight into a family that would include a regular width, regular weight version, allowing the user to be playful and dramatic in one, and purposeful and to the point in the other. While I was in the middle of this process, the opportunity to create a documentation of the process of making a typeface arose, and I decided BioRhyme would be a good fit for this purpose, covering a lot of the main factors and considerations involved in making a typeface. Type designs are regularly born out of a logotype, and even more regularly families are built based on a client-led project resulting in some weights that then lend themselves to expansion into a fuller typographic range. Couple this with the need for this type family to work on screen, and the fact that I wanted to use interpolation as a design tool, and the type seemed to fit the brief of being an educational example.
  
