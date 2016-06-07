@@ -7,7 +7,7 @@ a,
 Q,
 R,
 W,
-"Qaegksz\012"
+"Qauegnoksz\012"
 );
 classes = (
 {
@@ -367,6 +367,7 @@ alignmentZones = (
 );
 ascender = 1056;
 capHeight = 686;
+customValue = 100;
 customParameters = (
 {
 name = hheaAscender;
@@ -93421,10 +93422,20 @@ weightClass = Bold;
 widthClass = Expanded;
 },
 {
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+R,
+k,
+t,
+a
+);
+}
+);
 interpolationCustom = 100;
 interpolationWeight = 800;
-interpolationWidth = 200;
-name = Regular;
+name = "BioRhyme Expanded ExtraBold";
 weightClass = ExtraBold;
 widthClass = Expanded;
 }
@@ -100680,6 +100691,9 @@ nd = 31;
 oH = 31;
 oV = 33;
 tH = 31;
+};
+"816E4B99-7363-45E2-A2DF-0C5A75075B59" = {
+nV = 173;
 };
 "B29C398E-974A-40D0-A0A0-00935056D4B4" = {
 HH = 31;
