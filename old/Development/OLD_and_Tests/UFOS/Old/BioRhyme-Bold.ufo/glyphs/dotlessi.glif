@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="285"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="357" type="line"/>
+      <point x="96" y="357" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="90" type="line"/>
+      <point x="25" y="90" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="267" type="line"/>
+      <point x="209" y="357" type="line"/>
+      <point x="25" y="357" type="line"/>
+      <point x="25" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="158" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="142" y="357" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
+</glyph>

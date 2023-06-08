@@ -1,0 +1,36 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+# automatic
+@Uppercase = [ A A.alt Aacute Acircumflex uni1EA8 Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H Hbar I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q Q.alt R R.alt S uni1E9E T U Uacute Ucircumflex Udieresis Ugrave V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z uni0411 uni0414 uni0416 uni0424 uni042A ];
+
+feature ss01 {
+sub R by R.alt;
+sub Q by Q.alt;
+} ss01;
+
+feature ss02 {
+#alternate exit strokes
+sub a by a.alt;
+sub d by d.alt;
+sub u by u.alt;
+} ss02;
+
+feature ss03 {
+#stylistic alternates
+sub f by f.alt;
+sub t by t.alt;
+sub a by a.alt2;
+sub g by g.alt;
+sub k by k.alt;
+sub z by z.alt;
+sub x by x.alt;
+} ss03;
+
+feature ss04 {
+#numeric alternates
+sub two by two.alt;
+sub seven by seven.alt;
+} ss04;
+

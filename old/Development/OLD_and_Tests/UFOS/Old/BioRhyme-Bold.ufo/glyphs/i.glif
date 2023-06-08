@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="285"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="357" type="line"/>
+      <point x="96" y="357" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="90" type="line"/>
+      <point x="25" y="90" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="267" type="line"/>
+      <point x="209" y="357" type="line"/>
+      <point x="25" y="357" type="line"/>
+      <point x="25" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="412"/>
+      <point x="222" y="437"/>
+      <point x="222" y="470" type="curve"/>
+      <point x="222" y="505"/>
+      <point x="191" y="530"/>
+      <point x="147" y="530" type="curve"/>
+      <point x="106" y="530"/>
+      <point x="73" y="505"/>
+      <point x="73" y="470" type="curve"/>
+      <point x="73" y="437"/>
+      <point x="106" y="412"/>
+      <point x="147" y="412" type="curve"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="135" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="145" y="357" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
+    </dict>
+  </lib>
+</glyph>

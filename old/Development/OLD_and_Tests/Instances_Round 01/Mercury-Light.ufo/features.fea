@@ -1,0 +1,28 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z A.alt G.alt Q.alt R.alt ];
+
+feature ss01 {
+sub R by R.alt;
+sub Q by Q.alt;
+sub G by G.alt;
+sub A by A.alt;
+sub ampersand by ampersand.alt;
+} ss01;
+
+feature ss02 {
+sub ampersand by ampersand.alt;
+sub a by a.alt;
+sub f by f.alt;
+sub t by t.alt;
+sub e by e.alt;
+} ss02;
+
+feature ss03 {
+sub ampersand by ampersand_alt1;
+} ss03;
+

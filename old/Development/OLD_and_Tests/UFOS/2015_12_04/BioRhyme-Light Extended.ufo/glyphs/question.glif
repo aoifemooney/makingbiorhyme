@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="473"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="217" y="-10"/>
+      <point x="233" y="4"/>
+      <point x="233" y="22" type="curve"/>
+      <point x="233" y="41"/>
+      <point x="217" y="54"/>
+      <point x="184" y="54" type="curve"/>
+      <point x="153" y="54"/>
+      <point x="135" y="41"/>
+      <point x="135" y="22" type="curve"/>
+      <point x="135" y="4"/>
+      <point x="153" y="-10"/>
+      <point x="184" y="-10" type="curve"/>
+    </contour>
+    <contour>
+      <point x="57" y="471" type="line"/>
+      <point x="107" y="492"/>
+      <point x="157" y="506"/>
+      <point x="226" y="506" type="curve" smooth="yes"/>
+      <point x="314" y="506"/>
+      <point x="384" y="468"/>
+      <point x="384" y="409" type="curve" smooth="yes"/>
+      <point x="384" y="357"/>
+      <point x="332" y="330"/>
+      <point x="273" y="309" type="curve" smooth="yes"/>
+      <point x="201" y="282"/>
+      <point x="124" y="264"/>
+      <point x="124" y="216" type="curve" smooth="yes"/>
+      <point x="124" y="188"/>
+      <point x="139" y="162"/>
+      <point x="162" y="129" type="curve"/>
+      <point x="174" y="134" type="line"/>
+      <point x="160" y="162"/>
+      <point x="147" y="182"/>
+      <point x="147" y="210" type="curve" smooth="yes"/>
+      <point x="147" y="248"/>
+      <point x="212" y="264"/>
+      <point x="280" y="288" type="curve" smooth="yes"/>
+      <point x="345" y="311"/>
+      <point x="409" y="342"/>
+      <point x="409" y="408" type="curve" smooth="yes"/>
+      <point x="409" y="488"/>
+      <point x="321" y="529"/>
+      <point x="226" y="529" type="curve" smooth="yes"/>
+      <point x="156" y="529"/>
+      <point x="104" y="515"/>
+      <point x="50" y="494" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>195</integer>
+                  <key>y</key>
+                  <integer>272</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>199</integer>
+                  <key>y</key>
+                  <integer>148</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>215</integer>
+                  <key>y</key>
+                  <integer>148</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>219</integer>
+                  <key>y</key>
+                  <integer>272</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>question</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>473</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
